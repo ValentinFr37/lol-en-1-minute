@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant au corps à corps qui gagne les échanges longs : plus le combat dure, plus il frappe fort, et son ultime achève les champions affaiblis.",
+  "forces": [
+    "Extrêmement fort en début de partie et en combat prolongé au corps à corps.",
+    "Se soigne en touchant avec le bord de sa hache (Q).",
+    "Son ultime peut se relancer s'il tue, ce qui lui permet d'enchaîner plusieurs éliminations."
+  ],
+  "faiblesses": [
+    "Peu de mobilité : il dépend de son E pour atteindre sa cible.",
+    "Facile à tenir à distance (kiter) pour les champions à distance et ceux qui ralentissent.",
+    "Vulnérable aux attaques en groupe concentrées sur lui quand son E est utilisé."
+  ],
+  "sorts": {
+    "P": "Chaque coup fait saigner la cible ; à 5 cumuls, Darius devient bien plus puissant.",
+    "Q": "Tournoie avec sa hache : le bord fait mal et le soigne, le centre fait peu de dégâts.",
+    "W": "Renforce sa prochaine attaque, qui ralentit fortement la cible.",
+    "E": "Attire vers lui les ennemis situés devant lui. C'est son outil d'engagement.",
+    "R": "Exécution en dégâts bruts, plus forte selon le nombre de saignements sur la cible."
+  },
+  "contrer": [
+    "Ne reste pas à portée de son E : c'est lui qui déclenche tous ses combats.",
+    "Quand il lance son Q, colle-toi à lui ou recule loin : le bord de la hache fait le plus mal.",
+    "Évite les combats longs : échange vite, puis repars avant qu'il cumule ses saignements."
+  ],
+  "aSurveiller": "Son E (attraction). Tant qu'il est disponible, garde tes distances ; une fois utilisé, c'est le moment d'attaquer ou de fuir.",
+  "momentFort": "Très fort dès les premiers niveaux, puis encore plus dangereux à partir du niveau 6 avec son ultime.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}
