@@ -258,7 +258,6 @@ a {
 
 .tile-icon {
   width: 100%;
-  max-width: 88px;
   aspect-ratio: 1;
   border-radius: var(--radius-md);
   background: var(--surface);
