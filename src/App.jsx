@@ -1,5 +1,6 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import Link from './components/Link.jsx'
+import Backdrop from './components/Backdrop.jsx'
 import ErrorState from './components/ErrorState.jsx'
 import HomePage from './pages/HomePage.jsx'
 import ChampionPage from './pages/ChampionPage.jsx'
@@ -13,9 +14,12 @@ export default function App() {
   // La recherche est conservée ici pour la retrouver en revenant à l'accueil.
   const [query, setQuery] = useState('')
   const [role, setRole] = useState(null)
+  // Un champion tiré au sort pour l'illustration de l'accueil, le temps de la visite.
+  const [seed] = useState(() => Math.random())
 
-  const champions = list.data?.champions ?? []
+  const champions = useMemo(() => list.data?.champions ?? [], [list.data])
   const champion = route.name === 'champion' ? champions.find((c) => c.id === route.id) : null
+  const featured = champions.length ? champions[Math.floor(seed * champions.length)] : null
 
   let page
   if (list.status === 'error') {
@@ -38,6 +42,7 @@ export default function App() {
     page = (
       <HomePage
         champions={champions}
+        featured={featured}
         loading={list.status === 'loading'}
         query={query}
         onQueryChange={setQuery}
@@ -47,11 +52,17 @@ export default function App() {
     )
   }
 
+  const backdropId = route.name === 'champion' ? champion?.id : featured?.id
+
   return (
-    <div className="app">
+    <div className="app" data-page={route.name}>
+      <Backdrop championId={backdropId} />
+
       <header className="site-header">
         <Link to="/" className="brand" aria-label="LoL en 1 minute, accueil">
-          <span className="brand-mark" aria-hidden="true">1</span>
+          <span className="brand-mark" aria-hidden="true">
+            1
+          </span>
           <span>LoL en 1 minute</span>
         </Link>
       </header>

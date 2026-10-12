@@ -51,6 +51,14 @@ src/
   components/          composants partagés
 ```
 
+## Charte visuelle
+
+Base gris neutre, avec l'illustration officielle du champion fondue dans le haut de la page. Les couleurs vives sont réservées à ce qui doit se repérer vite ; toutes sont des variables en haut de `src/styles.css` :
+
+- **une couleur par touche de sort** (`--key-p` … `--key-r`), identique partout. Dans une fiche, une touche citée seule (« son E », « (Q) ») est automatiquement affichée avec sa couleur ;
+- **une couleur par rôle** (`--role-assassin`, `--role-mage`…) ;
+- **rouge** (`--threat`) pour ce qu'il faut craindre, **vert** (`--counter`) pour comment gagner, **or** (`--gold`) pour les actions.
+
 ## Ajouter une fiche
 
 Crée `src/content/champions/<id>.json`, où `<id>` est l'identifiant Riot du champion en minuscules : `darius`, `missfortune`, `kogmaw`, ou `monkeyking` pour Wukong. Vite charge automatiquement tous les fichiers de ce dossier.

@@ -2,14 +2,18 @@ import { useEffect } from 'react'
 import Link from '../components/Link.jsx'
 import GameImage from '../components/GameImage.jsx'
 import ErrorState from '../components/ErrorState.jsx'
+import RoleTag from '../components/RoleTag.jsx'
+import Difficulty from '../components/Difficulty.jsx'
+import SpellKey, { KeyText } from '../components/SpellKey.jsx'
 import { getFiche } from '../content/index.js'
 import { useAsync } from '../hooks/useAsync.js'
-import { getChampionDetail, imageUrl } from '../lib/ddragon.js'
+import { getChampionDetail } from '../lib/ddragon.js'
 import { navigate } from '../lib/router.js'
 
 export default function ChampionPage({ champion }) {
   const fiche = getFiche(champion.id)
   const detail = useAsync(() => getChampionDetail(champion.id), [champion.id])
+  const spells = detail.status === 'ready' ? [detail.data.passive, ...detail.data.spells] : null
 
   useEffect(() => {
     document.title = `${champion.name} en 1 minute`
@@ -22,21 +26,38 @@ export default function ChampionPage({ champion }) {
   }, [champion])
 
   return (
-    <article className="champion" style={{ '--art': `url(${imageUrl.loading(champion.id)})` }}>
+    <article className="champion">
       <Link to="/" className="back">
-        Changer de champion
+        <span aria-hidden="true">‹</span> Changer de champion
       </Link>
 
       <header className="champion-header">
-        <GameImage src={champion.icon} label={champion.name} className="champion-icon" width="72" height="72" />
-        <div>
+        <GameImage src={champion.icon} label={champion.name} className="champion-icon" width="88" height="88" />
+        <div className="champion-heading">
           <h1 className="champion-name">{champion.name}</h1>
           <p className="champion-title">{champion.title}</p>
-          <p className="champion-meta">
-            {champion.roles.join(', ')}. Difficulté : {champion.difficulty.toLowerCase()}.
-          </p>
         </div>
       </header>
+
+      <div className="champion-tags">
+        {champion.roles.map((role) => (
+          <RoleTag key={role} role={role} />
+        ))}
+        <Difficulty label={champion.difficulty} />
+      </div>
+
+      {spells && (
+        <ol className="spell-strip" aria-label="Sorts">
+          {spells.map((spell) => (
+            <li key={spell.key}>
+              <a href={`#sort-${spell.key}`} className="spell-strip-item" title={spell.name}>
+                <GameImage src={spell.icon} label={spell.name} className="spell-strip-icon" width="48" height="48" />
+                <SpellKey spellKey={spell.key} className="key-corner" />
+              </a>
+            </li>
+          ))}
+        </ol>
+      )}
 
       {fiche ? (
         <Fiche fiche={fiche} />
@@ -47,20 +68,9 @@ export default function ChampionPage({ champion }) {
         </p>
       )}
 
-      <section className="block" aria-labelledby="sorts">
-        <h2 id="sorts" className="block-title">
-          Ses sorts
-        </h2>
-        {detail.status === 'loading' && <p className="status">Chargement des sorts…</p>}
-        {detail.status === 'error' && (
-          <ErrorState message="Impossible de charger les sorts de ce champion." onRetry={detail.retry} />
-        )}
-        {detail.status === 'ready' && <Spells detail={detail.data} fiche={fiche} />}
-      </section>
-
       {!fiche && detail.status === 'ready' && detail.data.enemyTips.length > 0 && (
-        <section className="block block-counter" aria-labelledby="conseils">
-          <h2 id="conseils" className="block-title">
+        <section className="panel panel-counter" aria-labelledby="conseils">
+          <h2 id="conseils" className="panel-title">
             Conseils de Riot pour l&apos;affronter
           </h2>
           <ul className="points">
@@ -71,77 +81,96 @@ export default function ChampionPage({ champion }) {
         </section>
       )}
 
-      {fiche?.patch && <p className="fiche-meta">Fiche rédigée au patch {fiche.patch}.</p>}
+      <section className="panel" aria-labelledby="sorts">
+        <h2 id="sorts" className="panel-title">
+          Ses sorts
+        </h2>
+        {detail.status === 'loading' && <p className="status">Chargement des sorts…</p>}
+        {detail.status === 'error' && (
+          <ErrorState message="Impossible de charger les sorts de ce champion." onRetry={detail.retry} />
+        )}
+        {spells && <Spells spells={spells} fiche={fiche} />}
+      </section>
+
+      {fiche?.patch && <p className="fiche-meta">Fiche vérifiée au patch {fiche.patch}.</p>}
     </article>
+  )
+}
+
+function Points({ items }) {
+  return (
+    <ul className="points">
+      {items.map((point) => (
+        <li key={point}>
+          <KeyText>{point}</KeyText>
+        </li>
+      ))}
+    </ul>
   )
 }
 
 function Fiche({ fiche }) {
   return (
     <>
-      <p className="plan">{fiche.plan}</p>
+      <p className="plan">
+        <KeyText>{fiche.plan}</KeyText>
+      </p>
 
       <section className="watch" aria-labelledby="surveiller">
         <h2 id="surveiller" className="watch-title">
           À surveiller
         </h2>
-        <p>{fiche.aSurveiller}</p>
+        <p>
+          <KeyText>{fiche.aSurveiller}</KeyText>
+        </p>
       </section>
 
-      <section className="block block-counter" aria-labelledby="battre">
-        <h2 id="battre" className="block-title">
+      <section className="panel panel-counter" aria-labelledby="battre">
+        <h2 id="battre" className="panel-title">
           Comment le battre
         </h2>
-        <ul className="points">
-          {fiche.contrer.map((point) => (
-            <li key={point}>{point}</li>
-          ))}
-        </ul>
+        <Points items={fiche.contrer} />
       </section>
 
       <div className="split">
-        <section className="block block-threat" aria-labelledby="forces">
-          <h2 id="forces" className="block-title">
+        <section className="panel panel-threat" aria-labelledby="forces">
+          <h2 id="forces" className="panel-title">
             Ses forces
           </h2>
-          <ul className="points">
-            {fiche.forces.map((point) => (
-              <li key={point}>{point}</li>
-            ))}
-          </ul>
+          <Points items={fiche.forces} />
         </section>
-        <section className="block block-counter" aria-labelledby="faiblesses">
-          <h2 id="faiblesses" className="block-title">
+        <section className="panel panel-counter" aria-labelledby="faiblesses">
+          <h2 id="faiblesses" className="panel-title">
             Ses faiblesses
           </h2>
-          <ul className="points">
-            {fiche.faiblesses.map((point) => (
-              <li key={point}>{point}</li>
-            ))}
-          </ul>
+          <Points items={fiche.faiblesses} />
         </section>
       </div>
 
       <p className="spike">
-        <strong>Quand il devient fort :</strong> {fiche.momentFort}
+        <strong>Quand il devient fort :</strong> <KeyText>{fiche.momentFort}</KeyText>
       </p>
     </>
   )
 }
 
-function Spells({ detail, fiche }) {
-  const spells = [detail.passive, ...detail.spells]
+function Spells({ spells, fiche }) {
   return (
     <ul className="spells">
       {spells.map((spell) => (
-        <li key={spell.key} className="spell">
-          <span className="spell-key" aria-label={spell.key === 'P' ? 'Passif' : `Touche ${spell.key}`}>
-            {spell.key}
+        <li key={spell.key} id={`sort-${spell.key}`} className="spell" data-key={spell.key.toLowerCase()}>
+          <span className="spell-visual">
+            <GameImage src={spell.icon} label={spell.name} className="spell-icon" width="52" height="52" loading="lazy" />
+            <SpellKey spellKey={spell.key} className="key-corner" />
           </span>
-          <GameImage src={spell.icon} label={spell.name} className="spell-icon" width="44" height="44" loading="lazy" />
           <div className="spell-body">
-            <h3 className="spell-name">{spell.name}</h3>
-            <p className="spell-summary">{fiche?.sorts?.[spell.key] ?? spell.summary}</p>
+            <h3 className="spell-name">
+              {spell.name}
+              {spell.cooldown && <span className="spell-cooldown">Récupération {spell.cooldown}</span>}
+            </h3>
+            <p className="spell-summary">
+              <KeyText>{fiche?.sorts?.[spell.key] ?? spell.summary}</KeyText>
+            </p>
             <details className="spell-details">
               <summary>Description complète</summary>
               <p>{spell.description}</p>

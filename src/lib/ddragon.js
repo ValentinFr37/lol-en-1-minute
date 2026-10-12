@@ -7,7 +7,7 @@ const env = import.meta.env ?? {}
 export const DDRAGON_BASE = env.VITE_DDRAGON_BASE || 'https://ddragon.leagueoflegends.com'
 export const LOCALE = env.VITE_DDRAGON_LOCALE || 'fr_FR'
 
-const ROLE_LABELS = {
+export const ROLE_LABELS = {
   Assassin: 'Assassin',
   Fighter: 'Combattant',
   Mage: 'Mage',
@@ -19,7 +19,9 @@ export const ROLES = Object.values(ROLE_LABELS)
 
 export const SPELL_KEYS = ['Q', 'W', 'E', 'R']
 
+// Riot note la difficulté de 1 à 10 ; 0 signifie « non renseignée ».
 export function difficultyLabel(value = 0) {
+  if (!value) return null
   if (value <= 3) return 'Facile'
   if (value <= 6) return 'Moyen'
   return 'Difficile'
@@ -30,6 +32,7 @@ export const imageUrl = {
   spell: (version, file) => `${DDRAGON_BASE}/cdn/${version}/img/spell/${file}`,
   passive: (version, file) => `${DDRAGON_BASE}/cdn/${version}/img/passive/${file}`,
   loading: (id) => `${DDRAGON_BASE}/cdn/img/champion/loading/${id}_0.jpg`,
+  splash: (id) => `${DDRAGON_BASE}/cdn/img/champion/splash/${id}_0.jpg`,
 }
 
 // --- Transformation des données brutes (fonctions pures, testées) ---
@@ -63,11 +66,20 @@ export function mapChampionDetail(raw, version) {
       name: spell.name,
       summary: firstSentence(spell.description),
       description: stripTags(spell.description),
-      cooldown: spell.cooldownBurn,
+      cooldown: formatCooldown(spell.cooldownBurn),
       icon: imageUrl.spell(version, spell.image.full),
     })),
     enemyTips: (c.enemytips ?? []).map(stripTags).filter(Boolean),
   }
+}
+
+// "26/23.5/21/18.5/16" -> "26 à 16 s" ; "5" -> "5 s"
+export function formatCooldown(burn) {
+  if (!burn || burn === '0') return null
+  const values = burn.split('/')
+  const first = values[0]
+  const last = values[values.length - 1]
+  return first === last ? `${first} s` : `${first} à ${last} s`
 }
 
 // --- Récupération réseau avec cache de session ---

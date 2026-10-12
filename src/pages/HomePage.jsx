@@ -4,9 +4,9 @@ import GameImage from '../components/GameImage.jsx'
 import { hasFiche } from '../content/index.js'
 import { ROLES } from '../lib/ddragon.js'
 import { championPath, navigate } from '../lib/router.js'
-import { searchChampions } from '../lib/search.js'
+import { normalize, searchChampions } from '../lib/search.js'
 
-export default function HomePage({ champions, loading, query, onQueryChange, role, onRoleChange }) {
+export default function HomePage({ champions, featured, loading, query, onQueryChange, role, onRoleChange }) {
   const inputRef = useRef(null)
 
   const results = useMemo(() => {
@@ -33,36 +33,52 @@ export default function HomePage({ champions, loading, query, onQueryChange, rol
 
   return (
     <div className="home">
-      <h1 className="home-title">Contre qui tu joues ?</h1>
-      <p className="home-lead">
-        Tape le nom d&apos;un champion pendant l&apos;écran de chargement : ses forces, ses faiblesses et
-        comment le battre, en moins d&apos;une minute.
-      </p>
-
-      <form className="search" role="search" onSubmit={handleSubmit}>
-        <label htmlFor="search-input" className="visually-hidden">
-          Rechercher un champion
-        </label>
-        <input
-          id="search-input"
-          ref={inputRef}
-          className="search-input"
-          type="search"
-          inputMode="search"
-          autoComplete="off"
-          autoCorrect="off"
-          spellCheck="false"
-          autoFocus
-          placeholder="Darius, MF, Kog…"
-          value={query}
-          onChange={(event) => onQueryChange(event.target.value)}
-        />
-        {query && results[0] && (
-          <p className="search-hint">
-            Entrée pour ouvrir <strong>{results[0].name}</strong>
+      <section className="hero">
+        <h1 className="hero-title">Contre qui tu joues&nbsp;?</h1>
+        <p className="hero-lead">
+          Ses forces, ses faiblesses et comment le battre, le temps de l&apos;écran de chargement.
+        </p>
+        {featured && (
+          <p className="credit">
+            En fond : <Link to={championPath(featured.id)}>{featured.name}</Link>
           </p>
         )}
+      </section>
+
+      <form className="search" role="search" onSubmit={handleSubmit}>
+        <div className="search-field">
+          <svg className="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" />
+            <path d="m20 20-4-4" />
+          </svg>
+          <label htmlFor="search-input" className="visually-hidden">
+            Rechercher un champion
+          </label>
+          <input
+            id="search-input"
+            ref={inputRef}
+            className="search-input"
+            type="search"
+            inputMode="search"
+            autoComplete="off"
+            autoCorrect="off"
+            spellCheck="false"
+            autoFocus
+            placeholder="Darius, MF, Kog…"
+            value={query}
+            onChange={(event) => onQueryChange(event.target.value)}
+          />
+        </div>
       </form>
+      <p className="search-hint" aria-live="polite">
+        {query && results[0] ? (
+          <>
+            Entrée pour ouvrir <strong>{results[0].name}</strong>
+          </>
+        ) : (
+          'Nom, surnom ou même avec une faute de frappe.'
+        )}
+      </p>
 
       <div className="roles" role="group" aria-label="Filtrer par rôle">
         <button type="button" className="chip" aria-pressed={role === null} onClick={() => onRoleChange(null)}>
@@ -73,6 +89,7 @@ export default function HomePage({ champions, loading, query, onQueryChange, rol
             key={r}
             type="button"
             className="chip"
+            data-role={normalize(r)}
             aria-pressed={role === r}
             onClick={() => onRoleChange(role === r ? null : r)}
           >
@@ -91,8 +108,15 @@ export default function HomePage({ champions, loading, query, onQueryChange, rol
         <ul className="grid" aria-label={`${results.length} champions`}>
           {results.map((champion) => (
             <li key={champion.id}>
-              <Link to={championPath(champion.id)} className="tile">
-                <GameImage src={champion.icon} label={champion.name} className="tile-icon" loading="lazy" width="120" height="120" />
+              <Link to={championPath(champion.id)} className="tile" data-fiche={hasFiche(champion.id)}>
+                <GameImage
+                  src={champion.icon}
+                  label={champion.name}
+                  className="tile-icon"
+                  loading="lazy"
+                  width="120"
+                  height="120"
+                />
                 <span className="tile-name">{champion.name}</span>
                 {hasFiche(champion.id) && <span className="tile-badge">Fiche</span>}
               </Link>

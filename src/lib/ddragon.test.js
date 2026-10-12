@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { difficultyLabel, mapChampionDetail, mapChampionList } from './ddragon.js'
-import { firstSentence, stripTags } from './text.js'
+import { difficultyLabel, formatCooldown, mapChampionDetail, mapChampionList } from './ddragon.js'
+import { firstSentence, splitSpellKeys, stripTags } from './text.js'
 import { rawChampionList, rawDariusDetail } from '../test/fixtures.js'
 
 describe('text', () => {
@@ -13,6 +13,20 @@ describe('text', () => {
   it('garde la première phrase et tronque si besoin', () => {
     expect(firstSentence('Première phrase. Deuxième.')).toBe('Première phrase.')
     expect(firstSentence('un deux trois quatre cinq', 12)).toBe('un deux…')
+  })
+
+  it('repère les touches de sort citées seules', () => {
+    expect(splitSpellKeys('Ne reste pas à portée de son E : attention (Q).')).toEqual([
+      'Ne reste pas à portée de son ',
+      { key: 'E' },
+      ' : attention (',
+      { key: 'Q' },
+      ').',
+    ])
+  })
+
+  it("ignore les lettres qui font partie d'un mot", () => {
+    expect(splitSpellKeys("Et Évite l'E-sport, QWER")).toEqual(["Et Évite l'E-sport, QWER"])
   })
 })
 
@@ -50,5 +64,17 @@ describe('mapChampionDetail', () => {
 describe('difficultyLabel', () => {
   it('regroupe les notes de 1 à 10', () => {
     expect([1, 5, 9].map(difficultyLabel)).toEqual(['Facile', 'Moyen', 'Difficile'])
+  })
+
+  it("n'invente pas de difficulté quand Riot ne la renseigne pas", () => {
+    expect(difficultyLabel(0)).toBe(null)
+  })
+})
+
+describe('formatCooldown', () => {
+  it('résume les délais de récupération', () => {
+    expect(formatCooldown('26/23.5/21/18.5/16')).toBe('26 à 16 s')
+    expect(formatCooldown('5')).toBe('5 s')
+    expect(formatCooldown('0')).toBe(null)
   })
 })

@@ -21,3 +21,14 @@ export function firstSentence(text = '', max = 160) {
   const cut = sentence.slice(0, max)
   return cut.slice(0, cut.lastIndexOf(' ')).replace(/[,;:]$/, '') + '…'
 }
+
+// Découpe un texte rédigé en repérant les touches de sort citées seules
+// (« son E », « (Q) ») : ["Ne reste pas à portée de son ", { key: "E" }, "."]
+const KEY_PATTERN = /(?<![\p{L}\d'’-])([QWER])(?![\p{L}\d'’-])/u
+
+export function splitSpellKeys(text = '') {
+  return text
+    .split(new RegExp(KEY_PATTERN.source, 'gu'))
+    .map((part, index) => (index % 2 === 1 ? { key: part } : part))
+    .filter((part) => part !== '')
+}
