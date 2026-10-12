@@ -436,6 +436,15 @@ a {
   font-size: 1.5rem;
 }
 
+.not-found {
+  padding-top: clamp(48px, 14vh, 140px);
+  text-align: center;
+}
+
+.not-found .hero-lead {
+  margin-bottom: 24px;
+}
+
 /* ---------- Touches de sort ---------- */
 
 .key {

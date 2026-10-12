@@ -9,19 +9,20 @@ import { getFiche } from '../content/index.js'
 import { useAsync } from '../hooks/useAsync.js'
 import { getChampionDetail } from '../lib/ddragon.js'
 import { navigate } from '../lib/router.js'
+import { SITE_NAME, championTitle } from '../lib/seo.js'
 import { splitSpellKeys } from '../lib/text.js'
 
-export default function ChampionPage({ champion }) {
+export default function ChampionPage({ champion, initialDetail }) {
   const fiche = getFiche(champion.id)
-  const detail = useAsync(() => getChampionDetail(champion.id), [champion.id])
+  const detail = useAsync(() => getChampionDetail(champion.id), [champion.id], initialDetail)
   const spells = detail.status === 'ready' ? [detail.data.passive, ...detail.data.spells] : null
 
   useEffect(() => {
-    document.title = `${champion.name} en 1 minute`
+    document.title = championTitle(champion)
     const onKey = (event) => event.key === 'Escape' && navigate('/')
     window.addEventListener('keydown', onKey)
     return () => {
-      document.title = 'LoL en 1 minute'
+      document.title = SITE_NAME
       window.removeEventListener('keydown', onKey)
     }
   }, [champion])

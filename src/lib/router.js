@@ -20,13 +20,23 @@ export function navigate(path) {
 }
 
 export function matchRoute(pathname) {
+  if (pathname === '/' || pathname === '') return { name: 'home' }
   const champion = pathname.match(/^\/champion\/([A-Za-z0-9]+)\/?$/)
   if (champion) return { name: 'champion', id: champion[1] }
-  return { name: 'home' }
+  return { name: 'notfound' }
 }
 
+// Pendant le pré-rendu (Node), il n'y a pas de window : l'URL est fournie par le script.
+let serverPathname = '/'
+export function setServerPathname(pathname) {
+  serverPathname = pathname
+}
+
+const getPathname = () => window.location.pathname
+const getServerPathname = () => (typeof window === 'undefined' ? serverPathname : window.location.pathname)
+
 export function useRoute() {
-  const pathname = useSyncExternalStore(subscribe, () => window.location.pathname)
+  const pathname = useSyncExternalStore(subscribe, getPathname, getServerPathname)
   return matchRoute(pathname)
 }
 

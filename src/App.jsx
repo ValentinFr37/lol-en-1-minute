@@ -1,25 +1,37 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Link from './components/Link.jsx'
 import Backdrop from './components/Backdrop.jsx'
 import ErrorState from './components/ErrorState.jsx'
 import HomePage from './pages/HomePage.jsx'
 import ChampionPage from './pages/ChampionPage.jsx'
+import NotFoundPage from './pages/NotFoundPage.jsx'
 import { useAsync } from './hooks/useAsync.js'
 import { getChampionList } from './lib/ddragon.js'
 import { useRoute } from './lib/router.js'
 
-export default function App() {
+// `initialData` : données intégrées à la page par le pré-rendu
+// ({ version, champions, detail }). Absent en développement.
+export default function App({ initialData = null }) {
   const route = useRoute()
-  const list = useAsync(getChampionList, [])
+  const list = useAsync(
+    getChampionList,
+    [],
+    initialData ? { version: initialData.version, champions: initialData.champions } : undefined,
+  )
   // La recherche est conservée ici pour la retrouver en revenant à l'accueil.
   const [query, setQuery] = useState('')
   const [role, setRole] = useState(null)
-  // Un champion tiré au sort pour l'illustration de l'accueil, le temps de la visite.
-  const [seed] = useState(() => Math.random())
+
+  // Champion tiré au sort pour l'illustration de l'accueil. Le tirage se fait après
+  // l'affichage pour que la page pré-rendue et la page dans le navigateur soient identiques.
+  const [seed, setSeed] = useState(null)
+  useEffect(() => setSeed(Math.random()), [])
 
   const champions = useMemo(() => list.data?.champions ?? [], [list.data])
   const champion = route.name === 'champion' ? champions.find((c) => c.id === route.id) : null
-  const featured = champions.length ? champions[Math.floor(seed * champions.length)] : null
+  const featured = champions.length && seed !== null ? champions[Math.floor(seed * champions.length)] : null
+  // Une adresse de champion inconnu est une page introuvable, comme sur le serveur.
+  const pageName = route.name === 'champion' && list.status === 'ready' && !champion ? 'notfound' : route.name
 
   let page
   if (list.status === 'error') {
@@ -29,33 +41,30 @@ export default function App() {
         onRetry={list.retry}
       />
     )
-  } else if (route.name === 'champion') {
-    page =
-      list.status === 'loading' ? (
-        <p className="status">Chargement…</p>
-      ) : champion ? (
-        <ChampionPage key={champion.id} champion={champion} />
-      ) : (
-        <ErrorState message={`Aucun champion ne correspond à « ${route.id} ».`} />
-      )
-  } else {
+  } else if (list.status === 'loading') {
+    page = <p className="status">Chargement…</p>
+  } else if (route.name === 'champion' && champion) {
+    const initialDetail = initialData?.detail?.id === champion.id ? initialData.detail : undefined
+    page = <ChampionPage key={champion.id} champion={champion} initialDetail={initialDetail} />
+  } else if (route.name === 'home') {
     page = (
       <HomePage
         champions={champions}
         featured={featured}
-        loading={list.status === 'loading'}
         query={query}
         onQueryChange={setQuery}
         role={role}
         onRoleChange={setRole}
       />
     )
+  } else {
+    page = <NotFoundPage />
   }
 
-  const backdropId = route.name === 'champion' ? champion?.id : featured?.id
+  const backdropId = route.name === 'champion' ? champion?.id : route.name === 'home' ? featured?.id : null
 
   return (
-    <div className="app" data-page={route.name}>
+    <div className="app" data-page={pageName}>
       <Backdrop championId={backdropId} />
 
       <header className="site-header">

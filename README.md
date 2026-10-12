@@ -16,6 +16,7 @@ Le site est pensé pour les débutants : tu tapes le nom du champion adverse sur
 - **Données officielles toujours à jour** : champions, sorts et images viennent de [Data Dragon](https://developer.riotgames.com/docs/lol#data-dragon) (Riot Games), en français, au dernier patch.
 - **Fiches rédigées à la main** : le contenu « comment le battre » est écrit par un joueur. S'il n'existe pas encore de fiche pour un champion, le site affiche un résumé automatique de ses sorts.
 - **Mobile d'abord**, sans backend ni base de données pour le MVP : le site est un front statique très rapide.
+- **Référencement** : chaque page (accueil + une par champion) est pré-rendue en HTML au build, avec son titre, sa description, ses balises de partage (Open Graph, Twitter) et des données structurées (schema.org). Le build génère aussi `sitemap.xml`, `robots.txt` et une vraie page 404.
 
 ## Stack
 
@@ -35,8 +36,21 @@ npm install
 npm run dev     # http://localhost:5173
 npm test        # tests unitaires
 npm run lint
-npm run build   # version de production dans dist/
+npm run build   # version de production dans dist/ (avec pré-rendu, voir plus bas)
+npm run preview # sert dist/ en local
 ```
+
+## Comment fonctionne le build
+
+`npm run build` enchaîne trois étapes :
+
+1. `vite build` : construit l'application pour le navigateur ;
+2. `vite build --ssr src/entry-server.jsx` : construit la même application pour Node ;
+3. `node scripts/prerender.js` : récupère les données Riot du dernier patch, génère avec React le HTML de l'accueil et de chaque champion (`dist/champion/Darius.html`…), puis écrit `sitemap.xml`, `robots.txt` et `404.html`.
+
+Chaque page contient ses données : dans le navigateur, React reprend la main sur le HTML existant (hydratation) sans rien retélécharger. `vercel.json` (`cleanUrls`) sert `champion/Darius.html` à l'adresse `/champion/Darius`.
+
+Le build a besoin d'accéder à Data Dragon. S'il échoue (serveurs de Riot indisponibles), Vercel garde la version précédente en ligne. L'adresse du site utilisée dans les balises se règle avec la variable `VITE_SITE_URL` (par défaut `https://lol-en-1-minute.vercel.app`).
 
 ## Organisation
 
@@ -47,6 +61,9 @@ src/
   lib/ddragon.js       accès à Data Dragon, cache, mise en forme des données
   lib/search.js        recherche tolérante (normalisation, surnoms, fautes de frappe)
   lib/router.js        mini-routeur
+  lib/seo.js           titre, description, balises de partage et données structurées
+  entry-server.jsx     point d'entrée du pré-rendu
+scripts/prerender.js   génère les pages HTML, le sitemap et robots.txt
   pages/               accueil et fiche champion
   components/          composants partagés
 ```

@@ -6,7 +6,7 @@
   "description": "Comprendre et contrer n'importe quel champion de League of Legends en moins d'une minute.",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && vite build --ssr src/entry-server.jsx --outDir dist-ssr && node scripts/prerender.js",
     "preview": "vite preview",
     "lint": "eslint .",
     "test": "vitest run",

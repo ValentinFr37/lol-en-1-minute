@@ -1,11 +1,21 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 
 // Charge une ressource asynchrone et expose { status, data, error, retry }.
-export function useAsync(load, deps) {
-  const [state, setState] = useState({ status: 'loading', data: null, error: null })
+// `initial` : donnée déjà connue (pré-rendu), affichée tout de suite sans requête.
+export function useAsync(load, deps, initial) {
+  const [state, setState] = useState(() =>
+    initial === undefined
+      ? { status: 'loading', data: null, error: null }
+      : { status: 'ready', data: initial, error: null },
+  )
   const [attempt, setAttempt] = useState(0)
+  const skipFirstLoad = useRef(initial !== undefined)
 
   useEffect(() => {
+    if (skipFirstLoad.current) {
+      skipFirstLoad.current = false
+      return
+    }
     let cancelled = false
     setState((s) => ({ ...s, status: 'loading', error: null }))
     load()

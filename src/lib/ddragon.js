@@ -122,6 +122,13 @@ export function getLatestVersion() {
   return versionPromise
 }
 
+// Données déjà intégrées à la page par le pré-rendu : pas besoin de les retélécharger.
+export function primeCache({ version, champions, detail }) {
+  versionPromise = Promise.resolve(version)
+  memory.set(`champions:${version}:${LOCALE}`, champions)
+  if (detail) memory.set(`champion:${detail.id}:${version}:${LOCALE}`, detail)
+}
+
 export async function getChampionList() {
   const version = await getLatestVersion()
   const key = `champions:${version}:${LOCALE}`

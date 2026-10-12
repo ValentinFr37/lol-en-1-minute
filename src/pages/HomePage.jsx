@@ -5,14 +5,19 @@ import { hasFiche } from '../content/index.js'
 import { ROLES } from '../lib/ddragon.js'
 import { championPath, navigate } from '../lib/router.js'
 import { normalize, searchChampions } from '../lib/search.js'
+import { pageMeta } from '../lib/seo.js'
 
-export default function HomePage({ champions, featured, loading, query, onQueryChange, role, onRoleChange }) {
+export default function HomePage({ champions, featured, query, onQueryChange, role, onRoleChange }) {
   const inputRef = useRef(null)
 
   const results = useMemo(() => {
     const found = searchChampions(champions, query)
     return role ? found.filter((c) => c.roles.includes(role)) : found
   }, [champions, query, role])
+
+  useEffect(() => {
+    document.title = pageMeta({ route: { name: 'home' } }).title
+  }, [])
 
   // "/" place le curseur dans la recherche depuis n'importe où sur la page.
   useEffect(() => {
@@ -36,7 +41,8 @@ export default function HomePage({ champions, featured, loading, query, onQueryC
       <section className="hero">
         <h1 className="hero-title">Contre qui tu joues&nbsp;?</h1>
         <p className="hero-lead">
-          Ses forces, ses faiblesses et comment le battre, le temps de l&apos;écran de chargement.
+          Les forces, les faiblesses et comment battre chaque champion de League of Legends, le temps de
+          l&apos;écran de chargement.
         </p>
         {featured && (
           <p className="credit">
@@ -95,9 +101,7 @@ export default function HomePage({ champions, featured, loading, query, onQueryC
         ))}
       </div>
 
-      {loading ? (
-        <p className="status">Chargement des champions…</p>
-      ) : results.length === 0 ? (
+      {results.length === 0 ? (
         <p className="status">
           Aucun champion ne correspond à « {query} ». Vérifie l&apos;orthographe ou essaie un surnom.
         </p>
