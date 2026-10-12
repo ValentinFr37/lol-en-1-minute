@@ -9,6 +9,7 @@ import { getFiche } from '../content/index.js'
 import { useAsync } from '../hooks/useAsync.js'
 import { getChampionDetail } from '../lib/ddragon.js'
 import { navigate } from '../lib/router.js'
+import { splitSpellKeys } from '../lib/text.js'
 
 export default function ChampionPage({ champion }) {
   const fiche = getFiche(champion.id)
@@ -46,70 +47,107 @@ export default function ChampionPage({ champion }) {
         <Difficulty label={champion.difficulty} />
       </div>
 
-      {spells && (
-        <ol className="spell-strip" aria-label="Sorts">
-          {spells.map((spell) => (
-            <li key={spell.key}>
-              <a href={`#sort-${spell.key}`} className="spell-strip-item" title={spell.name}>
-                <GameImage src={spell.icon} label={spell.name} className="spell-strip-icon" width="48" height="48" />
-                <SpellKey spellKey={spell.key} className="key-corner" />
-              </a>
-            </li>
-          ))}
-        </ol>
-      )}
+      {spells && <SpellStrip spells={spells} />}
 
-      {fiche ? (
-        <Fiche fiche={fiche} />
-      ) : (
-        <p className="notice">
-          Pas encore de fiche rédigée pour {champion.name}. En attendant, voici ses sorts résumés à partir des
-          données officielles de Riot.
-        </p>
-      )}
+      <div className="fiche-layout">
+        <div className="fiche-main">
+          {fiche ? (
+            <Fiche fiche={fiche} spells={spells} />
+          ) : (
+            <>
+              <p className="notice">
+                Pas encore de fiche rédigée pour {champion.name}. En attendant, voici ses sorts résumés à partir
+                des données officielles de Riot.
+              </p>
+              {detail.status === 'ready' && detail.data.enemyTips.length > 0 && (
+                <section className="section section-counter" aria-labelledby="conseils">
+                  <h2 id="conseils" className="section-title">
+                    Conseils de Riot pour l&apos;affronter
+                  </h2>
+                  <TipList items={detail.data.enemyTips} />
+                </section>
+              )}
+            </>
+          )}
+          {fiche?.patch && <p className="fiche-meta">Fiche vérifiée au patch {fiche.patch}.</p>}
+        </div>
 
-      {!fiche && detail.status === 'ready' && detail.data.enemyTips.length > 0 && (
-        <section className="panel panel-counter" aria-labelledby="conseils">
-          <h2 id="conseils" className="panel-title">
-            Conseils de Riot pour l&apos;affronter
+        <aside className="fiche-aside" aria-labelledby="sorts">
+          <h2 id="sorts" className="section-title">
+            Ses sorts
           </h2>
-          <ul className="points">
-            {detail.data.enemyTips.map((tip) => (
-              <li key={tip}>{tip}</li>
-            ))}
-          </ul>
-        </section>
-      )}
-
-      <section className="panel" aria-labelledby="sorts">
-        <h2 id="sorts" className="panel-title">
-          Ses sorts
-        </h2>
-        {detail.status === 'loading' && <p className="status">Chargement des sorts…</p>}
-        {detail.status === 'error' && (
-          <ErrorState message="Impossible de charger les sorts de ce champion." onRetry={detail.retry} />
-        )}
-        {spells && <Spells spells={spells} fiche={fiche} />}
-      </section>
-
-      {fiche?.patch && <p className="fiche-meta">Fiche vérifiée au patch {fiche.patch}.</p>}
+          {detail.status === 'loading' && <p className="status">Chargement des sorts…</p>}
+          {detail.status === 'error' && (
+            <ErrorState message="Impossible de charger les sorts de ce champion." onRetry={detail.retry} />
+          )}
+          {spells && <Spells spells={spells} fiche={fiche} />}
+        </aside>
+      </div>
     </article>
   )
 }
 
-function Points({ items }) {
+function SpellStrip({ spells }) {
   return (
-    <ul className="points">
-      {items.map((point) => (
-        <li key={point}>
-          <KeyText>{point}</KeyText>
+    <ol className="spell-strip" aria-label="Aperçu des sorts">
+      {spells.map((spell) => (
+        <li key={spell.key}>
+          <a href={`#sort-${spell.key}`} className="spell-strip-item" title={spell.name}>
+            <GameImage src={spell.icon} label={spell.name} className="spell-strip-icon" width="48" height="48" />
+            <SpellKey spellKey={spell.key} className="key-corner" />
+          </a>
+        </li>
+      ))}
+    </ol>
+  )
+}
+
+const CHECK = (
+  <svg className="tip-icon" viewBox="0 0 20 20" aria-hidden="true">
+    <path d="m5 10.5 3.2 3.2L15 6.5" />
+  </svg>
+)
+
+function TipList({ items }) {
+  return (
+    <ul className="tips">
+      {items.map((item) => (
+        <li key={item} className="tip">
+          {CHECK}
+          <span>
+            <KeyText>{item}</KeyText>
+          </span>
         </li>
       ))}
     </ul>
   )
 }
 
-function Fiche({ fiche }) {
+function TraitList({ items, sign }) {
+  return (
+    <ul className="traits">
+      {items.map((item) => (
+        <li key={item} className="trait">
+          <span className="trait-sign" aria-hidden="true">
+            {sign}
+          </span>
+          <span>
+            <KeyText>{item}</KeyText>
+          </span>
+        </li>
+      ))}
+    </ul>
+  )
+}
+
+// Le sort à surveiller : champ "menace" de la fiche, sinon la première touche citée.
+function threatSpell(fiche, spells) {
+  const key = fiche.menace ?? splitSpellKeys(fiche.aSurveiller).find((part) => typeof part !== 'string')?.key
+  return key && spells ? spells.find((spell) => spell.key === key) : null
+}
+
+function Fiche({ fiche, spells }) {
+  const threat = threatSpell(fiche, spells)
   return (
     <>
       <p className="plan">
@@ -117,38 +155,53 @@ function Fiche({ fiche }) {
       </p>
 
       <section className="watch" aria-labelledby="surveiller">
-        <h2 id="surveiller" className="watch-title">
-          À surveiller
-        </h2>
-        <p>
-          <KeyText>{fiche.aSurveiller}</KeyText>
-        </p>
+        {threat && (
+          <a href={`#sort-${threat.key}`} className="watch-visual" title={threat.name}>
+            <GameImage src={threat.icon} label={threat.name} className="watch-icon" width="56" height="56" />
+            <SpellKey spellKey={threat.key} className="key-corner" />
+          </a>
+        )}
+        <div className="watch-body">
+          <h2 id="surveiller" className="watch-title">
+            À surveiller
+          </h2>
+          {threat && (
+            <p className="watch-spell">
+              {threat.name}
+              {threat.cooldown && <span className="watch-cooldown">Récupération {threat.cooldown}</span>}
+            </p>
+          )}
+          <p className="watch-text">
+            <KeyText>{fiche.aSurveiller}</KeyText>
+          </p>
+        </div>
       </section>
 
-      <section className="panel panel-counter" aria-labelledby="battre">
-        <h2 id="battre" className="panel-title">
+      <section className="section section-counter" aria-labelledby="battre">
+        <h2 id="battre" className="section-title">
           Comment le battre
         </h2>
-        <Points items={fiche.contrer} />
+        <TipList items={fiche.contrer} />
       </section>
 
-      <div className="split">
-        <section className="panel panel-threat" aria-labelledby="forces">
-          <h2 id="forces" className="panel-title">
+      <div className="traits-grid">
+        <section className="section section-threat" aria-labelledby="forces">
+          <h2 id="forces" className="section-title">
             Ses forces
           </h2>
-          <Points items={fiche.forces} />
+          <TraitList items={fiche.forces} sign="+" />
         </section>
-        <section className="panel panel-counter" aria-labelledby="faiblesses">
-          <h2 id="faiblesses" className="panel-title">
+        <section className="section section-counter" aria-labelledby="faiblesses">
+          <h2 id="faiblesses" className="section-title">
             Ses faiblesses
           </h2>
-          <Points items={fiche.faiblesses} />
+          <TraitList items={fiche.faiblesses} sign="−" />
         </section>
       </div>
 
       <p className="spike">
-        <strong>Quand il devient fort :</strong> <KeyText>{fiche.momentFort}</KeyText>
+        <span className="spike-label">Quand il devient fort</span>
+        <KeyText>{fiche.momentFort}</KeyText>
       </p>
     </>
   )
@@ -158,16 +211,14 @@ function Spells({ spells, fiche }) {
   return (
     <ul className="spells">
       {spells.map((spell) => (
-        <li key={spell.key} id={`sort-${spell.key}`} className="spell" data-key={spell.key.toLowerCase()}>
+        <li key={spell.key} id={`sort-${spell.key}`} className="spell">
           <span className="spell-visual">
-            <GameImage src={spell.icon} label={spell.name} className="spell-icon" width="52" height="52" loading="lazy" />
+            <GameImage src={spell.icon} label={spell.name} className="spell-icon" width="48" height="48" loading="lazy" />
             <SpellKey spellKey={spell.key} className="key-corner" />
           </span>
           <div className="spell-body">
-            <h3 className="spell-name">
-              {spell.name}
-              {spell.cooldown && <span className="spell-cooldown">Récupération {spell.cooldown}</span>}
-            </h3>
+            <h3 className="spell-name">{spell.name}</h3>
+            {spell.cooldown && <p className="spell-cooldown">Récupération {spell.cooldown}</p>}
             <p className="spell-summary">
               <KeyText>{fiche?.sorts?.[spell.key] ?? spell.summary}</KeyText>
             </p>

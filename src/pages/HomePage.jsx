@@ -71,15 +71,12 @@ export default function HomePage({ champions, featured, loading, query, onQueryC
         </div>
       </form>
       <p className="search-hint" aria-live="polite">
-        {query && results[0] ? (
+        {query && results[0] && (
           <>
             Entrée pour ouvrir <strong>{results[0].name}</strong>
           </>
-        ) : (
-          'Nom, surnom ou même avec une faute de frappe.'
         )}
       </p>
-
       <div className="roles" role="group" aria-label="Filtrer par rôle">
         <button type="button" className="chip" aria-pressed={role === null} onClick={() => onRoleChange(null)}>
           Tous

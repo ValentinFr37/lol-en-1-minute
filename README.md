@@ -69,6 +69,7 @@ Inspire-toi de `darius.json` :
 | ------------- | ---------------------------------------------------------- |
 | `plan`        | Son plan de jeu en une phrase                              |
 | `aSurveiller` | La menace numéro 1 et comment réagir                       |
+| `menace`      | Optionnel : la touche du sort à surveiller (`"E"`). Sinon, la première touche citée dans `aSurveiller` est utilisée |
 | `contrer`     | 3 conseils concrets pour le battre                         |
 | `forces`      | 3 forces                                                   |
 | `faiblesses`  | 3 faiblesses                                               |
