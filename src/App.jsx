@@ -8,6 +8,7 @@ import NotFoundPage from './pages/NotFoundPage.jsx'
 import { useAsync } from './hooks/useAsync.js'
 import { getChampionList } from './lib/ddragon.js'
 import { useRoute } from './lib/router.js'
+import { KOFI_URL } from './config.js'
 
 // `initialData` : données intégrées à la page par le pré-rendu
 // ({ version, champions, detail }). Absent en développement.
@@ -79,6 +80,19 @@ export default function App({ initialData = null }) {
       <main className="site-main">{page}</main>
 
       <footer className="site-footer">
+        {KOFI_URL && (
+          <p className="support">
+            Le site t&apos;a aidé ?{' '}
+            <a href={KOFI_URL} className="support-link" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 8h12v5a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5V8Z" />
+                <path d="M16 9h1.5a2.5 2.5 0 0 1 0 5H16" />
+                <path d="M8 3.5c0 1 1 1 1 2M12 3.5c0 1 1 1 1 2" />
+              </svg>
+              Offre-moi un café sur Ko-fi
+            </a>
+          </p>
+        )}
         <p>
           LoL en 1 minute n&apos;est pas approuvé par Riot Games et ne reflète pas les opinions de Riot Games
           ni de quiconque officiellement impliqué dans la production ou la gestion de League of Legends.

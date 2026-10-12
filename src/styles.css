@@ -148,6 +148,43 @@ a {
   margin: 0 0 8px;
 }
 
+.support {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  margin: 0 0 20px;
+  color: var(--muted);
+  font-size: 0.9375rem;
+}
+
+.support-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 14px;
+  border: 1px solid rgb(245 184 61 / 0.45);
+  border-radius: 999px;
+  color: var(--gold);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.support-link:hover {
+  background: rgb(245 184 61 / 0.12);
+  border-color: var(--gold);
+}
+
+.support-link svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .status {
   color: var(--muted);
 }
