@@ -119,7 +119,7 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
                   height="120"
                 />
                 <span className="tile-name">{champion.name}</span>
-                {hasFiche(champion.id) && <span className="tile-badge">Fiche</span>}
+                {hasFiche(champion.id) && <span className="tile-badge">À jour</span>}
               </Link>
             </li>
           ))}
