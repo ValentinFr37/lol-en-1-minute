@@ -3,6 +3,7 @@
 
 import { imageUrl } from './ddragon.js'
 import { championPath } from './router.js'
+import { pronoms } from './genre.js'
 
 const env = import.meta.env ?? {}
 export const SITE_URL = (env.VITE_SITE_URL || 'https://lol-en-1-minute.vercel.app').replace(/\/$/, '')
@@ -24,8 +25,8 @@ export function truncate(text, max = 155) {
 // Les touches de sort s'écrivent seules dans les fiches (« son E ») : on les rend explicites.
 const describeKeys = (text) => text.replace(/(?<![\p{L}\d'’-])([QWER])(?![\p{L}\d'’-])/gu, '($1)').replace(/\(\((\w)\)\)/g, '($1)')
 
-export function championTitle(champion) {
-  return `${champion.name} : comment le contrer en 1 minute | ${SITE_NAME}`
+export function championTitle(champion, fiche = null) {
+  return `${champion.name} : comment ${pronoms(fiche).cod} contrer en 1 minute | ${SITE_NAME}`
 }
 
 export function pageMeta({ route, champion = null, fiche = null }) {
@@ -84,7 +85,7 @@ export function pageMeta({ route, champion = null, fiche = null }) {
     }
 
     return {
-      title: championTitle(champion),
+      title: championTitle(champion, fiche),
       description,
       canonical: url,
       type: fiche ? 'article' : 'website',

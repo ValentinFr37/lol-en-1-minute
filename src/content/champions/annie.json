@@ -1,5 +1,6 @@
 {
   "plan": "Une petite mage qui fait exploser une cible en une seconde et étourdit toute une zone avec son ours Tibbers.",
+  "genre": "f",
   "aSurveiller": "Son étourdissement passif (Pyromanie). Tous les 4 sorts, le suivant étourdit : quand une aura brille autour d'elle, reste hors de sa portée.",
   "menace": "P",
   "contrer": [
@@ -25,6 +26,6 @@
     "R": "Invoque Tibbers, qui blesse la zone et brûle les ennemis proches."
   },
   "momentFort": "Très dangereuse dès le niveau 6 avec Tibbers.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

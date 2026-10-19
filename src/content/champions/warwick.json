@@ -24,6 +24,6 @@
     "R": "Bondit et bloque le premier champion touché."
   },
   "momentFort": "Très fort en début de partie dans la jungle, puis dès le niveau 6 avec son R.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

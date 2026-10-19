@@ -24,6 +24,6 @@
     "R": "Repousse les ennemis proches et bloque les dégâts venant de loin."
   },
   "momentFort": "Très dangereux dès les premiers niveaux, surtout jusqu'au milieu de partie.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

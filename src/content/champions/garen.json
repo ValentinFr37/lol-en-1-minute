@@ -24,6 +24,6 @@
     "R": "Exécution : plus de dégâts selon les PV manquants de la cible."
   },
   "momentFort": "Solide dès le début de partie, et redoutable à partir du niveau 6 grâce à son exécution.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

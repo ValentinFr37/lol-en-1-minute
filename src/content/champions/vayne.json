@@ -1,5 +1,6 @@
 {
   "plan": "Une tireuse chasseuse de tanks dont les attaques blessent selon la vie max de sa cible, et qui devient invisible.",
+  "genre": "f",
   "aSurveiller": "Son E (Condamnation). Si elle te repousse contre un mur, tu es étourdi : ne te bats pas collé aux murs.",
   "contrer": [
     "Engage-la tôt : elle est très faible en début de partie.",
@@ -24,6 +25,6 @@
     "R": "Plus de dégâts, et invisible pendant ses roulades."
   },
   "momentFort": "Faible au début, redoutable en fin de partie avec ses objets.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

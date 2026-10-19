@@ -1,0 +1,29 @@
+{
+  "plan": "Un ours de foudre qui fonce sur sa cible, l'étourdit et plonge sous les tourelles en les désactivant.",
+  "aSurveiller": "Son R (Tempête incarnée). Il saute sur toi et désactive les tourelles proches : ta tourelle ne te protégera pas.",
+  "contrer": [
+    "Ne compte pas sur ta tourelle quand il a son R : il peut la désactiver.",
+    "Son Q t'étourdit au premier coup : recule quand il fonce sur toi.",
+    "Évite les longs duels : il se soigne avec son W."
+  ],
+  "forces": [
+    "Très fort en début de partie.",
+    "Désactive les tourelles avec son R.",
+    "Étourdit et se soigne en combat."
+  ],
+  "faiblesses": [
+    "Peu de moyens de se rapprocher.",
+    "Facile à tenir à distance.",
+    "Faible en fin de partie s'il ne prend pas d'avance."
+  ],
+  "sorts": {
+    "P": "Ses attaques sont de plus en plus rapides et blessent autour de lui.",
+    "Q": "Gagne de la vitesse, et sa prochaine attaque étourdit.",
+    "W": "Morsure ; la seconde sur la même cible le soigne.",
+    "E": "Foudre qui ralentit et lui donne un bouclier.",
+    "R": "Saute, gagne de la vie et désactive les tourelles proches."
+  },
+  "momentFort": "Très fort dès le début, et dangereux dès le niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

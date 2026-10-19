@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin poisson insaisissable qui esquive tes sorts en sautant sur sa lance.",
+  "aSurveiller": "Son R (Pêche au gros). Un poisson s'accroche à toi puis un requin surgit : quand il est accroché, éloigne-toi de tes alliés.",
+  "contrer": [
+    "Attends qu'il ait utilisé son E avant de lancer tes sorts : il les esquive en sautant.",
+    "Quand le poisson de son R est accroché à toi, éloigne-toi de tes alliés pour ne pas les entraîner.",
+    "Harcèle-le en début de partie : il est faible avant le niveau 6."
+  ],
+  "forces": [
+    "Très difficile à toucher grâce à son E.",
+    "Énormes dégâts sur une cible avec son R.",
+    "Prend moins de dégâts de chaque attaque."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Vulnérable une fois son E utilisé.",
+    "Fragile face aux contrôles."
+  ],
+  "sorts": {
+    "P": "Traverse les unités et réduit les dégâts reçus.",
+    "Q": "Fonce à travers sa cible.",
+    "W": "Ses attaques font saigner ; la prochaine fait plus mal.",
+    "E": "Saute sur sa lance, intouchable, puis retombe ou ressaute.",
+    "R": "Poisson qui s'accroche, puis requin qui projette en l'air."
+  },
+  "momentFort": "Dangereux dès le niveau 6, et très fort en milieu de partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

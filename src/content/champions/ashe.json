@@ -1,5 +1,6 @@
 {
   "plan": "Une tireuse qui ralentit à chaque attaque et peut étourdir de très loin avec sa flèche de glace.",
+  "genre": "f",
   "aSurveiller": "Son R (Flèche de cristal enchantée). Elle traverse la carte et étourdit plus longtemps si elle vient de loin : méfie-toi quand tu es isolé.",
   "contrer": [
     "Engage-la au corps à corps : elle n'a aucune fuite.",
@@ -24,6 +25,6 @@
     "R": "Flèche qui traverse la carte et étourdit."
   },
   "momentFort": "Utile dès le début, et dangereuse en milieu de partie avec ses objets de vitesse d'attaque.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

@@ -1,5 +1,6 @@
 {
   "plan": "Une tireuse fragile au début qui devient incontrôlable après une première élimination en combat.",
+  "genre": "f",
   "aSurveiller": "Son passif (Enthousiasme !). Après chaque élimination, elle court et tire beaucoup plus vite : ne lui laisse pas la première élimination d'un combat.",
   "menace": "P",
   "contrer": [
@@ -25,6 +26,6 @@
     "R": "Roquette qui traverse la carte, plus forte sur les cibles blessées."
   },
   "momentFort": "Faible au début, très forte en fin de partie avec ses objets.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

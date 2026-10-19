@@ -1,0 +1,30 @@
+{
+  "plan": "Une jungler vampire incontrôlable : elle fonce sur l'ennemi le plus proche et se soigne en le mordant.",
+  "genre": "f",
+  "aSurveiller": "Son W (Folie sanguinaire). Elle perd le contrôle et poursuit la cible la plus proche en frappant très vite : recule ou mets un allié plus tank entre vous.",
+  "contrer": [
+    "Pendant sa frénésie (W), elle attaque l'ennemi le plus proche : laisse un tank se placer devant toi.",
+    "Achète un objet anti-soins : elle se soigne énormément en combat.",
+    "Ralentis-la ou fuis : pendant sa frénésie, elle ne choisit plus sa cible et se met en danger."
+  ],
+  "forces": [
+    "Énormes soins et dégâts en duel.",
+    "Son R traverse la carte pour engager.",
+    "Plus forte quand elle a peu de vie."
+  ],
+  "faiblesses": [
+    "Peu de contrôle sur sa cible pendant sa frénésie.",
+    "Ne régénère presque pas de vie hors combat.",
+    "Vulnérable aux objets anti-soins et aux ralentissements."
+  ],
+  "sorts": {
+    "P": "Ses coups font saigner et la soignent ; plus forte quand elle a peu de vie.",
+    "Q": "Bondit sur une cible, l'étourdit et réduit son armure.",
+    "W": "Frénésie : attaque très vite l'ennemi le plus proche ; la relancer la soigne.",
+    "E": "Cri chargé qui blesse et ralentit ; elle encaisse moins pendant la charge.",
+    "R": "Lance sa pierre à travers la carte et vole jusqu'au premier champion touché."
+  },
+  "momentFort": "Très forte en début de partie dans la jungle, et dangereuse dès le niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

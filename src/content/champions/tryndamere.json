@@ -1,0 +1,29 @@
+{
+  "plan": "Un barbare qui frappe de plus en plus fort et ne peut pas mourir pendant quelques secondes avec son ultime.",
+  "aSurveiller": "Son R (Rage inépuisable). Pendant 5 secondes, il ne peut pas mourir : recule et attends la fin pour le tuer.",
+  "contrer": [
+    "Quand il lance son R, recule : il ne peut pas mourir, mais il redevient mortel juste après.",
+    "Achète un objet anti-soins : il se soigne avec son Q à la fin de son R.",
+    "Ralentis-le : il n'a qu'un seul déplacement (E) pour te rejoindre."
+  ],
+  "forces": [
+    "Ne peut pas mourir pendant son R.",
+    "Énormes dégâts avec ses coups critiques.",
+    "Détruit les tourelles très vite."
+  ],
+  "faiblesses": [
+    "Aucun contrôle.",
+    "Facile à ralentir et à tenir à distance.",
+    "Une seule mobilité : son E."
+  ],
+  "sorts": {
+    "P": "Gagne de la fureur en attaquant : plus de coups critiques.",
+    "Q": "Plus de dégâts quand il est blessé ; se soigne avec sa fureur.",
+    "W": "Réduit les dégâts des ennemis proches ; ralentit ceux de dos.",
+    "E": "Fonce et blesse sur son passage.",
+    "R": "Ne peut pas mourir pendant 5 secondes."
+  },
+  "momentFort": "Fort dès le niveau 6, et très dangereux en fin de partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

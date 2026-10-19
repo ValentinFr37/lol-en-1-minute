@@ -1,0 +1,30 @@
+{
+  "plan": "Une combattante très faible au début qui devient l'une des plus fortes du jeu en fin de partie.",
+  "genre": "f",
+  "aSurveiller": "Son R (Jugement divin). Elle rend un allié invulnérable quelques secondes : ne gaspille pas tes sorts sur la cible protégée.",
+  "contrer": [
+    "Attaque-la en début de partie : elle est très faible avant le niveau 6.",
+    "Cherchez à finir la partie vite : en fin de partie, elle devient redoutable.",
+    "Attends la fin de son R avant de frapper la cible protégée."
+  ],
+  "forces": [
+    "Énorme puissance en fin de partie.",
+    "Son R rend un allié invulnérable.",
+    "Attaques à distance qui touchent en zone plus tard."
+  ],
+  "faiblesses": [
+    "Très faible en début de partie.",
+    "Peu de moyens de s'échapper.",
+    "Facile à punir avant le niveau 6."
+  ],
+  "sorts": {
+    "P": "Devient plus forte à chaque niveau : portée, vitesse et dégâts de zone.",
+    "Q": "Épée qui traverse, ralentit et réduit les résistances.",
+    "W": "Se soigne et soigne un allié, avec un bonus de vitesse.",
+    "E": "Ses attaques font plus de dégâts magiques.",
+    "R": "Rend un allié invulnérable et fait pleuvoir des épées autour de lui."
+  },
+  "momentFort": "Faible au début, de plus en plus forte : elle devient redoutable au niveau 11 puis au niveau 16.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

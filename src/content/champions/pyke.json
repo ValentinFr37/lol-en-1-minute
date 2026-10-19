@@ -1,0 +1,29 @@
+{
+  "plan": "Un support assassin qui attire avec son harpon et exécute les ennemis bas en vie.",
+  "aSurveiller": "Son R (Exécution abyssale). Il exécute tout ennemi en dessous d'un certain seuil de vie : bas en vie, reste loin de lui.",
+  "contrer": [
+    "Reste derrière tes sbires : son harpon (Q) attire le premier ennemi touché.",
+    "Quand tu es bas en vie, recule : son R t'exécute dès que ta vie passe sous un certain seuil.",
+    "Ne le poursuis pas dans le brouillard : il se soigne quand il n'est pas vu."
+  ],
+  "forces": [
+    "Exécute plusieurs ennemis avec son R.",
+    "Très mobile avec son W et son E.",
+    "Se soigne quand il disparaît de la vue."
+  ],
+  "faiblesses": [
+    "Ne gagne pas de vie avec ses objets : fragile.",
+    "Dépend de son harpon pour engager.",
+    "Faible s'il prend du retard."
+  ],
+  "sorts": {
+    "P": "Se soigne quand il n'est pas vu ; sa vie bonus devient des dégâts.",
+    "Q": "Harpon qui attire un ennemi ou le transperce.",
+    "W": "Devient camouflé et gagne beaucoup de vitesse.",
+    "E": "Fonce ; un fantôme revient et étourdit ceux qu'il traverse.",
+    "R": "Exécute les ennemis bas en vie ; relançable s'il tue."
+  },
+  "momentFort": "Dangereux dès le niveau 2, et redoutable en combat dès le niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

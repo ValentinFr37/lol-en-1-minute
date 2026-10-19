@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage qui enflamme tout ce qu'il touche et fait fondre les équipes regroupées.",
+  "aSurveiller": "Son Q (Brûlure). Si tu es en flammes, cette boule de feu t'étourdit : quand tu brûles, reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : son Q s'arrête sur le premier ennemi touché.",
+    "Écartez-vous en combat : son R rebondit entre les ennemis proches.",
+    "Engage-le de près : il est fragile et n'a pas de fuite."
+  ],
+  "forces": [
+    "Énormes dégâts de zone.",
+    "Étourdit si la cible est en flammes.",
+    "Son R est terrible contre les équipes regroupées."
+  ],
+  "faiblesses": [
+    "Aucun sort de fuite.",
+    "Sorts lents à toucher.",
+    "Très fragile."
+  ],
+  "sorts": {
+    "P": "Ses sorts enflamment et brûlent la cible.",
+    "Q": "Boule de feu qui étourdit une cible en flammes.",
+    "W": "Colonne de flammes au sol après un court délai.",
+    "E": "Explosion qui se propage aux ennemis proches.",
+    "R": "Boule de feu qui rebondit jusqu'à 5 fois entre les ennemis."
+  },
+  "momentFort": "Dangereux dès le niveau 6, et très fort en combat d'équipe.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

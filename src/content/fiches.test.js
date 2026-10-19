@@ -46,6 +46,10 @@ describe('fiches', () => {
         expect(tooLong).toEqual([])
       })
 
+      it('a un genre valide (facultatif)', () => {
+        expect(fiche.genre === undefined || ['f', 'm'].includes(fiche.genre)).toBe(true)
+      })
+
       it('permet de savoir quel sort surveiller', () => {
         const key = fiche.menace ?? splitSpellKeys(fiche.aSurveiller).find((part) => typeof part !== 'string')?.key
         expect(SPELLS.includes(key)).toBe(true)

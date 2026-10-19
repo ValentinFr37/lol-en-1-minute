@@ -1,0 +1,29 @@
+{
+  "plan": "Un clown jungler qui devient invisible, pose des boîtes piégées et frappe dans le dos.",
+  "aSurveiller": "Son Q (Tromperie). Il devient invisible et réapparaît dans ton dos pour un coup critique : place une balise de contrôle là où il passe.",
+  "contrer": [
+    "Achète une balise de contrôle ou la lentille de l'Oracle : elles révèlent ses boîtes et l'aident à le voir.",
+    "Ne poursuis pas un Shaco sans vision : son R crée un clone et ses boîtes te font fuir.",
+    "Reste près de tes alliés : il attaque les cibles isolées."
+  ],
+  "forces": [
+    "Invisible et imprévisible.",
+    "Ses boîtes (W) effraient les ennemis.",
+    "Énormes dégâts dans le dos."
+  ],
+  "faiblesses": [
+    "Fragile si on l'attrape.",
+    "Faible contre la vision (balises, lentille).",
+    "Moins efficace contre les équipes groupées."
+  ],
+  "sorts": {
+    "P": "Plus de dégâts quand il frappe dans le dos.",
+    "Q": "Devient invisible et se téléporte ; attaque suivante renforcée.",
+    "W": "Pose une boîte cachée qui effraie et attaque.",
+    "E": "Poison qui ralentit ; il peut lancer une dague.",
+    "R": "Crée un clone qui explose en laissant des boîtes."
+  },
+  "momentFort": "Dangereux dès le niveau 2 en jungle, et à tout moment s'il te trouve seul.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

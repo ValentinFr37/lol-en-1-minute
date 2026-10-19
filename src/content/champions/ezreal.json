@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur qui harcèle de loin avec ses projectiles et esquive tout grâce à sa téléportation.",
+  "aSurveiller": "Son E (Transfert arcanique). Il se téléporte pour esquiver ou finir une cible : attends qu'il l'ait utilisé avant de l'engager.",
+  "contrer": [
+    "Reste derrière tes sbires : son Q s'arrête sur le premier ennemi touché.",
+    "Engage-le juste après sa téléportation (E) : elle met longtemps à revenir.",
+    "Les champions qui se rapprochent vite le gênent : il fait peu de dégâts au corps à corps."
+  ],
+  "forces": [
+    "Très difficile à attraper grâce à sa téléportation.",
+    "Harcèle de loin sans prendre de risques.",
+    "Son R traverse toute la carte."
+  ],
+  "faiblesses": [
+    "Dégâts faibles s'il rate ses projectiles.",
+    "Peu de dégâts en combat rapproché.",
+    "Vulnérable une fois sa téléportation utilisée."
+  ],
+  "sorts": {
+    "P": "Gagne de la vitesse d'attaque en touchant avec ses sorts.",
+    "Q": "Projectile qui réduit ses délais de récupération s'il touche.",
+    "W": "Orbe qui explose quand il frappe la cible marquée.",
+    "E": "Se téléporte et tire sur l'ennemi le plus proche.",
+    "R": "Énorme rayon qui traverse toute la carte."
+  },
+  "momentFort": "Constant toute la partie, plus dangereux en milieu de partie avec ses premiers objets.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

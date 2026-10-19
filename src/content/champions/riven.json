@@ -1,0 +1,30 @@
+{
+  "plan": "Une combattante très mobile qui enchaîne ses sorts et ses attaques pour gagner les échanges.",
+  "genre": "f",
+  "aSurveiller": "Son Q (Ailes brisées). Elle le lance trois fois et le 3e coup te projette en l'air : recule dès le deuxième coup.",
+  "contrer": [
+    "Recule après son deuxième Q : le troisième te projette en l'air.",
+    "Son W étourdit autour d'elle : ne reste pas collé à elle.",
+    "Échange quand ses sorts sont en récupération : sans eux, elle n'a plus rien."
+  ],
+  "forces": [
+    "Très mobile grâce à son Q et son E.",
+    "Énormes dégâts en échange court.",
+    "Son R lui donne un coup à distance pour achever."
+  ],
+  "faiblesses": [
+    "Faible quand ses sorts sont en récupération.",
+    "Fragile face aux contrôles.",
+    "Difficile à jouer, punissable en cas d'erreur."
+  ],
+  "sorts": {
+    "P": "Ses sorts chargent sa lame : ses attaques suivantes font plus mal.",
+    "Q": "Trois coups enchaînés ; le 3e projette en l'air.",
+    "W": "Étourdit les ennemis autour d'elle.",
+    "E": "Avance et obtient un bouclier.",
+    "R": "Plus de dégâts et de portée, et un coup à distance pour achever."
+  },
+  "momentFort": "Forte dès le début, dangereuse dès le niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

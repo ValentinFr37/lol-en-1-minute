@@ -1,0 +1,29 @@
+{
+  "plan": "Un support qui attrape un ennemi avec sa chaîne et peut ramener un allié en danger avec sa lanterne.",
+  "aSurveiller": "Son Q (Peine capitale). Sa chaîne t'attire vers lui et il peut foncer sur toi : reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : sa chaîne (Q) s'arrête sur le premier touché.",
+    "Après un Q raté, il est vulnérable plusieurs secondes : c'est le moment d'attaquer.",
+    "Quand il pose sa lanterne (W), méfie-toi : un allié peut surgir à ses côtés."
+  ],
+  "forces": [
+    "Engage un combat avec sa chaîne.",
+    "Sauve un allié avec sa lanterne.",
+    "Beaucoup de contrôles : attirer, repousser, ralentir."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Inutile si sa chaîne est en récupération.",
+    "Les sbires bloquent sa chaîne."
+  ],
+  "sorts": {
+    "P": "Ramasse les âmes des ennemis morts pour devenir plus fort.",
+    "Q": "Chaîne qui attire l'ennemi ; il peut ensuite foncer sur lui.",
+    "W": "Lanterne qui protège et ramène un allié vers lui.",
+    "E": "Coup de chaîne qui repousse et ralentit.",
+    "R": "Cage dont les murs ralentissent et blessent."
+  },
+  "momentFort": "Dangereux dès le niveau 2, à tout moment de la partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

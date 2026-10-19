@@ -1,0 +1,30 @@
+{
+  "plan": "Une support tank qui fonce sur sa cible, l'étourdit et lance des combats dès qu'elle le peut.",
+  "genre": "f",
+  "aSurveiller": "Son E (Lame du zénith). Elle fonce sur le dernier champion touché et l'immobilise, puis enchaîne avec son Q qui étourdit.",
+  "contrer": [
+    "Reste derrière tes sbires et décale-toi quand elle lance son E.",
+    "Après son E et son Q, elle n'a plus de contrôle : c'est le moment de répondre.",
+    "Écartez-vous en combat d'équipe : son R étourdit au centre de la zone."
+  ],
+  "forces": [
+    "Beaucoup d'étourdissements à la suite.",
+    "Très résistante avec son W.",
+    "Son R peut lancer un combat à distance."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Facile à éviter si on reste derrière les sbires.",
+    "Faible si on l'engage pendant que ses sorts sont en récupération."
+  ],
+  "sorts": {
+    "P": "Ses sorts marquent les ennemis ; ses alliés font plus de dégâts dessus.",
+    "Q": "Sa prochaine attaque étourdit.",
+    "W": "Plus de résistances, puis blesse autour d'elle.",
+    "E": "Lame qui traverse ; elle fonce sur le dernier champion touché.",
+    "R": "Rayon solaire : étourdit au centre, ralentit sur les bords."
+  },
+  "momentFort": "Dangereuse dès le niveau 2, et très forte en combat d'équipe à partir du niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

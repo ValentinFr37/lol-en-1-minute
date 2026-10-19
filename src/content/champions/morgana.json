@@ -1,5 +1,6 @@
 {
   "plan": "Une mage support qui immobilise longtemps avec sa sphère et protège ses alliés contre les contrôles.",
+  "genre": "f",
   "aSurveiller": "Son Q (Entrave sombre). Une sphère lente qui t'immobilise plusieurs secondes : reste derrière tes sbires et décale-toi quand elle la lance.",
   "contrer": [
     "Reste derrière tes sbires : sa sphère (Q) s'arrête sur le premier touché.",
@@ -24,6 +25,6 @@
     "R": "Enchaîne les ennemis proches : étourdis s'ils restent à portée."
   },
   "momentFort": "Gênante dès le début avec son Q, et plus dangereuse en combat d'équipe à partir du niveau 6.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

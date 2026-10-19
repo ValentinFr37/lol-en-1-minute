@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin qui se téléporte de dague en dague et enchaîne les éliminations dans les combats.",
+  "genre": "f",
+  "aSurveiller": "Son R (Lotus mortel). Elle tournoie et lance des couteaux sur les ennemis proches : interromps-la avec un étourdissement ou éloigne-toi.",
+  "contrer": [
+    "Garde un étourdissement pour son R : il l'interrompt immédiatement.",
+    "Ne reste pas près de ses dagues au sol : elle se téléporte dessus pour frapper.",
+    "Concentrez vos contrôles sur elle dès qu'elle arrive : sans élimination, ses sorts mettent longtemps à revenir."
+  ],
+  "forces": [
+    "Très mobile grâce à son E.",
+    "Ses délais se réinitialisent quand elle élimine.",
+    "Énormes dégâts de zone avec son R."
+  ],
+  "faiblesses": [
+    "Très fragile face aux contrôles.",
+    "Son R peut être interrompu.",
+    "Faible si elle prend du retard."
+  ],
+  "sorts": {
+    "P": "Ses délais sont réduits quand un champion blessé meurt.",
+    "Q": "Lance une dague qui rebondit puis tombe au sol.",
+    "W": "Gagne de la vitesse et lance une dague en l'air.",
+    "E": "Se téléporte près d'une cible ou d'une dague.",
+    "R": "Tournoie et lance des couteaux sur les trois champions les plus proches."
+  },
+  "momentFort": "Dangereuse dès le niveau 6, et très forte en milieu de partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

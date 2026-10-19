@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse à très longue portée qui domine la ligne et pose des pièges pour piéger ses adversaires.",
+  "genre": "f",
+  "aSurveiller": "Ses pièges (W). Ils t'immobilisent et lui offrent un tir renforcé : ne marche pas dessus, surtout près d'elle et dans les buissons.",
+  "contrer": [
+    "Évite ses pièges (W) : ils sont visibles, contourne-les.",
+    "Engage-la quand son filet (E) est utilisé : c'est son seul moyen de reculer.",
+    "Ne reste pas à moitié de vie à portée de son R : un allié peut se mettre devant pour bloquer la balle."
+  ],
+  "forces": [
+    "La plus longue portée d'attaque des tireurs.",
+    "Ses pièges contrôlent la zone et la protègent.",
+    "Achève de très loin avec son R."
+  ],
+  "faiblesses": [
+    "Faible si on l'engage au corps à corps.",
+    "Une seule fuite : son filet (E).",
+    "Moins efficace contre les champions très mobiles."
+  ],
+  "sorts": {
+    "P": "Toutes les quelques attaques, tir dans la tête qui fait plus mal.",
+    "Q": "Tir perforant en ligne après une courte charge.",
+    "W": "Pose un piège qui immobilise et révèle.",
+    "E": "Filet qui ralentit et la projette en arrière.",
+    "R": "Tir à très longue portée sur une cible ; un allié peut s'interposer."
+  },
+  "momentFort": "Très forte en ligne dès le début, puis en milieu de partie avec ses objets de coups critiques.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

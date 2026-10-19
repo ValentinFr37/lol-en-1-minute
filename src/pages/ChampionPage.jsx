@@ -11,6 +11,7 @@ import { getChampionDetail } from '../lib/ddragon.js'
 import { navigate } from '../lib/router.js'
 import { SITE_NAME, championTitle } from '../lib/seo.js'
 import { splitSpellKeys } from '../lib/text.js'
+import { pronoms } from '../lib/genre.js'
 
 export default function ChampionPage({ champion, initialDetail }) {
   const fiche = getFiche(champion.id)
@@ -18,14 +19,14 @@ export default function ChampionPage({ champion, initialDetail }) {
   const spells = detail.status === 'ready' ? [detail.data.passive, ...detail.data.spells] : null
 
   useEffect(() => {
-    document.title = championTitle(champion)
+    document.title = championTitle(champion, fiche)
     const onKey = (event) => event.key === 'Escape' && navigate('/')
     window.addEventListener('keydown', onKey)
     return () => {
       document.title = SITE_NAME
       window.removeEventListener('keydown', onKey)
     }
-  }, [champion])
+  }, [champion, fiche])
 
   return (
     <article className="champion">
@@ -149,6 +150,7 @@ function threatSpell(fiche, spells) {
 
 function Fiche({ fiche, spells }) {
   const threat = threatSpell(fiche, spells)
+  const p = pronoms(fiche)
   return (
     <>
       <p className="plan">
@@ -180,7 +182,7 @@ function Fiche({ fiche, spells }) {
 
       <section className="section section-counter" aria-labelledby="battre">
         <h2 id="battre" className="section-title">
-          Comment le battre
+          Comment {p.cod} battre
         </h2>
         <TipList items={fiche.contrer} />
       </section>
@@ -201,7 +203,9 @@ function Fiche({ fiche, spells }) {
       </div>
 
       <p className="spike">
-        <span className="spike-label">Quand il devient fort</span>
+        <span className="spike-label">
+          Quand {p.sujet} devient {p.fort}
+        </span>
         <KeyText>{fiche.momentFort}</KeyText>
       </p>
     </>

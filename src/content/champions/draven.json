@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur flamboyant qui fait d'énormes dégâts avec ses haches tant qu'il réussit à les rattraper.",
+  "aSurveiller": "Son Q (Hache tournoyante). Chaque hache rattrapée garde ses dégâts au maximum : gêne-le là où ses haches retombent.",
+  "contrer": [
+    "Place-toi là où ses haches (Q) retombent pour l'obliger à choisir entre les rattraper et rester en sécurité.",
+    "Évite les échanges en début de partie : il fait énormément de dégâts tôt.",
+    "Engage-le avec plusieurs alliés : il a peu de moyens de s'échapper."
+  ],
+  "forces": [
+    "Dégâts énormes en début de partie.",
+    "Gagne beaucoup d'or quand il élimine.",
+    "Ralentit et repousse avec son E."
+  ],
+  "faiblesses": [
+    "Dépend de sa capacité à rattraper ses haches.",
+    "Peu mobile en dehors de sa vitesse (W).",
+    "Perd beaucoup d'or quand il meurt."
+  ],
+  "sorts": {
+    "P": "Gagne de l'or bonus en rattrapant ses haches et en éliminant.",
+    "Q": "Hache renforcée qui rebondit ; il doit la rattraper.",
+    "W": "Gagne de la vitesse de déplacement et d'attaque.",
+    "E": "Lance ses haches qui repoussent sur le côté et ralentissent.",
+    "R": "Deux haches qui traversent la carte puis reviennent."
+  },
+  "momentFort": "Très dangereux dès le début de partie : son plus gros avantage est en ligne.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

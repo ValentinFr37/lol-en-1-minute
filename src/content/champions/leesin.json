@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler moine très mobile qui surgit sur une cible et la renvoie d'un coup de pied au milieu de son équipe.",
+  "aSurveiller": "Son R (Rage du dragon). Il peut te renvoyer d'un coup de pied vers son équipe : ne reste pas isolé devant tes alliés.",
+  "contrer": [
+    "Reste derrière tes sbires : son Q s'arrête sur le premier ennemi touché.",
+    "Garde un sort de fuite pour après son R : une fois renvoyé, il faut s'échapper vite.",
+    "Il est surtout fort en début de partie : profite de la fin de partie où il perd en impact."
+  ],
+  "forces": [
+    "Très mobile grâce à son Q et son W.",
+    "Son R peut renvoyer une cible au milieu de son équipe.",
+    "Très fort en début de partie."
+  ],
+  "faiblesses": [
+    "Perd en puissance en fin de partie.",
+    "Dépend de son Q pour rejoindre sa cible.",
+    "Peu de dégâts s'il prend du retard."
+  ],
+  "sorts": {
+    "P": "Après un sort, ses 2 prochaines attaques sont plus rapides.",
+    "Q": "Onde qui marque le premier ennemi ; il peut ensuite foncer dessus.",
+    "W": "Fonce vers un allié avec un bouclier pour les deux.",
+    "E": "Frappe le sol et révèle, puis ralentit les ennemis touchés.",
+    "R": "Coup de pied qui repousse la cible et projette ceux qu'elle percute."
+  },
+  "momentFort": "Très fort dès le début de partie, surtout entre le niveau 3 et le niveau 6.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

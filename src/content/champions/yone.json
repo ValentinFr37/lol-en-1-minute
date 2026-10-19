@@ -1,0 +1,29 @@
+{
+  "plan": "Un épéiste qui se dédouble : son esprit sort de son corps pour attaquer puis revient en répétant les dégâts.",
+  "aSurveiller": "Son R (Destin scellé). Il se téléporte derrière le dernier champion d'une ligne et attire tous les ennemis touchés : ne restez pas alignés.",
+  "contrer": [
+    "Ne vous alignez pas devant lui : son R attire tous ceux sur la ligne.",
+    "Quand son esprit (E) sort, recule : à la fin, il reviendra à son corps et répétera les dégâts.",
+    "Utilise tes contrôles après son Q chargé : il ne peut plus s'échapper."
+  ],
+  "forces": [
+    "Très mobile avec son Q chargé et son E.",
+    "Son R lance un combat sur plusieurs ennemis.",
+    "Fort en duel avec ses coups critiques."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Son E le ramène à son point de départ.",
+    "Peu de dégâts s'il prend du retard."
+  ],
+  "sorts": {
+    "P": "Une attaque sur deux fait des dégâts magiques ; plus de coups critiques.",
+    "Q": "Coup en ligne ; au 3e, il fonce et projette en l'air.",
+    "W": "Coup en cône qui lui donne un bouclier.",
+    "E": "Son esprit sort du corps, puis revient en répétant une partie des dégâts.",
+    "R": "Se téléporte derrière une ligne d'ennemis et les attire."
+  },
+  "momentFort": "Fort dès le début, redoutable en milieu de partie avec ses objets de coups critiques.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une duelliste qui frappe les points faibles de ses ennemis pour les éliminer en duel.",
+  "genre": "f",
+  "aSurveiller": "Son W (Riposte). Elle pare tous tes dégâts et contrôles un instant : si tu l'étourdis pendant, c'est toi qui seras étourdi.",
+  "contrer": [
+    "N'utilise pas tes contrôles juste après son W : sa parade les renverrait contre toi.",
+    "Ne laisse pas tes points faibles exposés : déplace-toi pour qu'elle les touche moins.",
+    "Combats-la avec tes alliés : elle est très forte en duel, mais moins en équipe."
+  ],
+  "forces": [
+    "Très forte en duel.",
+    "Se soigne en touchant les points faibles.",
+    "Pare les contrôles avec son W."
+  ],
+  "faiblesses": [
+    "Moins efficace en combat d'équipe.",
+    "Dépend de sa parade.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Révèle un point faible ; le frapper la soigne et l'accélère.",
+    "Q": "Se fend dans une direction et frappe.",
+    "W": "Pare tous les dégâts, puis frappe ; étourdit si elle pare un contrôle.",
+    "E": "Deux attaques rapides : ralentit puis coup critique.",
+    "R": "Révèle 4 points faibles ; les toucher crée une zone de soin."
+  },
+  "momentFort": "Forte dès le début, et redoutable en fin de partie en duel.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

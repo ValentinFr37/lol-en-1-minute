@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant au lampadaire qui saute sur sa cible et esquive toutes les attaques avec sa contre-attaque.",
+  "aSurveiller": "Son E (Contre-attaque). Il esquive toutes les attaques pendant un instant puis étourdit autour de lui : n'attaque pas pendant, recule.",
+  "contrer": [
+    "N'attaque pas pendant son E : il esquive toutes tes attaques de base, puis t'étourdit.",
+    "Les sorts le touchent même pendant son E : utilise-les plutôt que tes attaques de base.",
+    "Cherchez à finir la partie vite : il devient très fort en fin de partie."
+  ],
+  "forces": [
+    "Esquive toutes les attaques avec son E.",
+    "Très fort en duel et en fin de partie.",
+    "Saute sur une cible ou un allié avec son Q."
+  ],
+  "faiblesses": [
+    "Dépend de son E pour gagner les échanges.",
+    "Facile à tenir à distance avec des sorts.",
+    "Faible en tout début de partie."
+  ],
+  "sorts": {
+    "P": "Ses attaques successives sont de plus en plus rapides.",
+    "Q": "Saute sur une unité et la frappe si c'est un ennemi.",
+    "W": "Sa prochaine attaque fait plus mal.",
+    "E": "Esquive les attaques, puis étourdit autour de lui.",
+    "R": "Dégâts en plus toutes les 3 attaques ; résistances à l'activation."
+  },
+  "momentFort": "Solide au début, de plus en plus fort en milieu et fin de partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

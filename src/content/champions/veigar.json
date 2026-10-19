@@ -1,0 +1,29 @@
+{
+  "plan": "Un petit mage qui gagne de la puissance pour toujours au fil de la partie et peut exécuter n'importe qui.",
+  "aSurveiller": "Son E (Profanation). Une cage qui étourdit si tu traverses ses murs : reste au milieu ou sors avant qu'elle apparaisse.",
+  "contrer": [
+    "Ne traverse jamais les murs de sa cage (E) : tu serais étourdi.",
+    "Harcèle-le en début de partie pour l'empêcher de cumuler de la puissance.",
+    "Méfie-toi de son R quand tu es bas en vie : il fait plus de dégâts sur les cibles blessées."
+  ],
+  "forces": [
+    "Puissance qui augmente sans limite.",
+    "Son R exécute les cibles blessées.",
+    "Sa cage contrôle une zone entière."
+  ],
+  "faiblesses": [
+    "Très lent et peu mobile.",
+    "Faible en début de partie.",
+    "Ses sorts sont faciles à esquiver."
+  ],
+  "sorts": {
+    "P": "Gagne de la puissance pour toujours en touchant des champions.",
+    "Q": "Boule qui touche deux ennemis ; il gagne de la puissance s'il tue.",
+    "W": "Matière noire qui tombe après un délai.",
+    "E": "Cage qui étourdit ceux qui traversent ses murs.",
+    "R": "Exécution : plus forte sur les cibles blessées."
+  },
+  "momentFort": "Faible au début, de plus en plus fort au fil de la partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

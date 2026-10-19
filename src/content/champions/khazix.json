@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin insecte qui chasse les cibles isolées et devient invisible pour les achever.",
+  "aSurveiller": "Son Q (Goût de la peur). Il fait beaucoup plus de dégâts quand tu es seul : reste près d'un allié ou d'un sbire.",
+  "contrer": [
+    "Ne te retrouve jamais seul : ses sorts font beaucoup plus mal sur une cible isolée.",
+    "Joue près de tes alliés dans la jungle : il chasse les joueurs isolés.",
+    "Une fois son saut (E) utilisé, il a du mal à s'échapper : punis-le."
+  ],
+  "forces": [
+    "Énormes dégâts sur les cibles isolées.",
+    "Devient invisible avec son R.",
+    "Ses sorts évoluent au cours de la partie."
+  ],
+  "faiblesses": [
+    "Faible contre une équipe groupée.",
+    "Fragile s'il se fait attraper.",
+    "Dépend de son saut pour engager et fuir."
+  ],
+  "sorts": {
+    "P": "Repère les cibles isolées ; attaque renforcée s'il n'est pas vu.",
+    "Q": "Coup qui fait beaucoup plus mal sur une cible isolée.",
+    "W": "Lance des piques qui blessent et le soignent.",
+    "E": "Bondit sur une zone et blesse autour de lui.",
+    "R": "Devient invisible et fait évoluer un de ses sorts."
+  },
+  "momentFort": "Dangereux dès le niveau 6, et très fort en milieu de partie.",
+  "patch": "16.20",
+  "auteur": "ValentinFr37"
+}

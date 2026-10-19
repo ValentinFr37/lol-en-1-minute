@@ -1,5 +1,6 @@
 {
   "plan": "Une tireuse qui harcèle en début de partie et dont l'ultime peut détruire toute une équipe regroupée.",
+  "genre": "f",
   "aSurveiller": "Son R (Barrage de plomb). Si tu te retrouves dans le cône de balles, sors-en par le côté immédiatement : y rester, c'est mourir.",
   "contrer": [
     "Ne restez pas groupés devant elle en combat : écartez-vous pour limiter son R.",
@@ -24,6 +25,6 @@
     "R": "Rafale de balles dans un cône ; elle reste immobile pendant le tir."
   },
   "momentFort": "Dangereuse dès le niveau 6 avec son R, et encore plus en combat d'équipe en milieu de partie.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }

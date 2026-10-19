@@ -24,6 +24,6 @@
     "R": "Détruit les boucliers et réduit les ennemis proches au silence."
   },
   "momentFort": "Dangereux dès le niveau 2 en ligne (grappin puis poing), et à tout moment de la partie.",
-  "patch": null,
+  "patch": "16.20",
   "auteur": "ValentinFr37"
 }
