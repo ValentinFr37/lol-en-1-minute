@@ -1,0 +1,29 @@
+{
+  "plan": "Une momie tank qui s'élance sur sa cible avec sa bandelette et étourdit toute une équipe avec son ultime.",
+  "aSurveiller": "Son Q (Jet de bandelette). Il s'agrippe au premier ennemi touché, le rejoint et l'étourdit : reste derrière tes sbires pour qu'ils bloquent la bandelette.",
+  "contrer": [
+    "Écartez-vous en combat d'équipe : son R étourdit tout le monde autour de lui.",
+    "Reste derrière tes sbires : sa bandelette (Q) s'arrête sur le premier ennemi touché.",
+    "Privilégie les dégâts magiques : son E réduit surtout les dégâts physiques."
+  ],
+  "forces": [
+    "Son R peut étourdir toute une équipe.",
+    "Deux bandelettes pour engager ou rattraper.",
+    "Très résistant et simple à jouer."
+  ],
+  "faiblesses": [
+    "Peu de dégâts sans ses sorts.",
+    "Prévisible : tout dépend de sa bandelette.",
+    "Faible si on l'empêche d'arriver au contact."
+  ],
+  "sorts": {
+    "P": "Ses attaques maudissent : la cible prend des dégâts bruts en plus des dégâts magiques.",
+    "Q": "Bandelette qui le tire vers l'ennemi touché et l'étourdit.",
+    "W": "Aura qui blesse les ennemis proches en continu.",
+    "E": "Réduit les dégâts physiques subis et blesse autour de lui.",
+    "R": "Étourdit et blesse tous les ennemis autour de lui."
+  },
+  "momentFort": "Dès le niveau 6 avec son R, surtout dans les combats d'équipe.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

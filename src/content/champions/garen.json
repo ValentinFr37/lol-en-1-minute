@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant très résistant et simple : il fonce, tourne sur lui-même et achève les ennemis affaiblis avec son ultime.",
+  "aSurveiller": "Son R (Justice de Demacia). Il fait plus de dégâts plus il te manque de PV : sous la moitié de ta vie, ne reste pas à sa portée.",
+  "contrer": [
+    "Touche-le régulièrement : son passif ne le soigne que s'il n'a pas pris de dégâts depuis quelques secondes.",
+    "Recule quand il tourne (E) : il fait très mal au corps à corps mais ne peut pas te suivre de loin.",
+    "Les champions à distance le dominent : harcèle-le, il n'a qu'un sprint (Q) pour te rejoindre."
+  ],
+  "forces": [
+    "Très résistant et se soigne seul hors combat.",
+    "Son ultime achève les ennemis affaiblis.",
+    "Très simple à jouer, il fait rarement de grosses erreurs."
+  ],
+  "faiblesses": [
+    "Aucun sort à distance.",
+    "Facile à harceler de loin.",
+    "Facile à ralentir et à fuir une fois son Q utilisé."
+  ],
+  "sorts": {
+    "P": "Se régénère vite s'il n'a pas pris de dégâts récemment.",
+    "Q": "Accélère, retire les ralentissements, puis frappe et réduit au silence.",
+    "W": "Bouclier et résistance aux contrôles pendant un instant.",
+    "E": "Tourne sur lui-même et blesse les ennemis autour de lui.",
+    "R": "Exécution : plus de dégâts selon les PV manquants de la cible."
+  },
+  "momentFort": "Solide dès le début de partie, et redoutable à partir du niveau 6 grâce à son exécution.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

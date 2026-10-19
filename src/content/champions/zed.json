@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin qui se sert de ses ombres pour surgir et éliminer une cible en quelques secondes.",
+  "aSurveiller": "Son R (Marque de la mort). Il surgit sur toi, puis la marque explose 3 secondes plus tard et répète une partie des dégâts : survis à ces 3 secondes.",
+  "contrer": [
+    "Quand il lance son R, utilise ta protection (sablier, bouclier, sort de fuite) juste avant l'explosion de la marque.",
+    "Reste près de tes alliés et de tes tourelles : il cherche les cibles isolées.",
+    "Une fois son ombre (W) utilisée, il ne peut plus s'échapper : c'est le moment de le punir."
+  ],
+  "forces": [
+    "Énormes dégâts sur une seule cible.",
+    "Très mobile grâce à ses ombres.",
+    "Intouchable au moment où il lance son R."
+  ],
+  "faiblesses": [
+    "Fragile s'il se fait attraper.",
+    "Moins efficace contre les tanks et les équipes groupées.",
+    "Sans son W disponible, il n'a plus de fuite."
+  ],
+  "sorts": {
+    "P": "Fait plus de dégâts aux cibles basses en vie.",
+    "Q": "Lui et ses ombres lancent des shurikens.",
+    "W": "Envoie une ombre ; il peut échanger sa place avec elle.",
+    "E": "Coup tournant ; les ennemis touchés par une ombre sont ralentis.",
+    "R": "Fonce sur toi en étant intouchable ; la marque explose 3 secondes plus tard."
+  },
+  "momentFort": "Dangereux dès le niveau 6, et surtout en milieu de partie avec ses objets.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

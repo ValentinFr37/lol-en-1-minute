@@ -1,0 +1,29 @@
+{
+  "plan": "Une tireuse qui ralentit à chaque attaque et peut étourdir de très loin avec sa flèche de glace.",
+  "aSurveiller": "Son R (Flèche de cristal enchantée). Elle traverse la carte et étourdit plus longtemps si elle vient de loin : méfie-toi quand tu es isolé.",
+  "contrer": [
+    "Engage-la au corps à corps : elle n'a aucune fuite.",
+    "Ne reste pas en ligne droite dans les couloirs étroits : sa flèche (R) part tout droit.",
+    "Ne la poursuis pas trop loin : chacune de ses attaques te ralentit."
+  ],
+  "forces": [
+    "Ralentit à chaque attaque de base.",
+    "Son R lance des combats de très loin.",
+    "Donne de la vision n'importe où avec son faucon (E)."
+  ],
+  "faiblesses": [
+    "Aucun sort de fuite.",
+    "Peu mobile.",
+    "Vulnérable si un assassin l'atteint."
+  ],
+  "sorts": {
+    "P": "Ses attaques ralentissent la cible.",
+    "Q": "Augmente sa vitesse d'attaque et tire plusieurs flèches à la fois.",
+    "W": "Tir en éventail qui ralentit.",
+    "E": "Envoie son faucon révéler une zone.",
+    "R": "Flèche qui traverse la carte et étourdit."
+  },
+  "momentFort": "Utile dès le début, et dangereuse en milieu de partie avec ses objets de vitesse d'attaque.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

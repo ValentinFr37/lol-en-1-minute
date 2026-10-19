@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant qui encaisse les coups puis les renvoie d'un énorme coup de poing.",
+  "aSurveiller": "Son W (Coup cathartique). Plus il a pris de dégâts, plus ce coup est fort, et son centre inflige des dégâts bruts : ne reste pas au milieu.",
+  "contrer": [
+    "Arrête de le frapper quand sa jauge est pleine : il va te renvoyer ces dégâts avec son W.",
+    "Ne l'entourez pas : son E étourdit les ennemis s'il y en a de chaque côté de lui.",
+    "Écartez-vous en combat : son R écrase un champion et blesse tous ceux autour de l'impact."
+  ],
+  "forces": [
+    "Très fort en début de partie et en duel.",
+    "Encaisse puis renvoie les dégâts avec son W.",
+    "Son R peut lancer un combat."
+  ],
+  "faiblesses": [
+    "Peu de moyens de se rapprocher.",
+    "Facile à tenir à distance.",
+    "Son gros coup (W) se voit venir."
+  ],
+  "sorts": {
+    "P": "Alterne ses coups de poing et se régénère selon sa vie manquante.",
+    "Q": "Ses 2 prochaines attaques font plus mal et il court vers les ennemis.",
+    "W": "Bouclier et énorme coup de poing, plus fort s'il a pris des dégâts.",
+    "E": "Attire les ennemis de chaque côté et les étourdit.",
+    "R": "Saisit un champion et l'écrase au sol."
+  },
+  "momentFort": "Fort dès les premiers niveaux, et très dangereux dès le niveau 6.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant en armure qui t'enferme seul avec lui dans une autre dimension pour te battre en duel.",
+  "aSurveiller": "Son R (Royaume des morts). Il t'emmène là où tes alliés ne peuvent plus t'aider et te vole une partie de tes statistiques : garde ta vie haute.",
+  "contrer": [
+    "Esquive son Q : il fait beaucoup plus de dégâts quand il ne touche qu'une seule cible.",
+    "Achète un objet anti-soins : son W le soigne.",
+    "Si son R t'emmène, utilise tous tes sorts de fuite et de protection, et éloigne-toi de lui."
+  ],
+  "forces": [
+    "Très fort en duel grâce à son R.",
+    "Bouclier et soin avec son W.",
+    "Résistant et difficile à tuer."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Sorts lents et faciles à esquiver.",
+    "Vulnérable aux champions qui le tiennent à distance."
+  ],
+  "sorts": {
+    "P": "Après 3 attaques ou sorts, il gagne une aura de dégâts et de la vitesse.",
+    "Q": "Coup de massue, plus fort sur une cible isolée.",
+    "W": "Bouclier qu'il peut transformer en soin.",
+    "E": "Attire tous les ennemis d'une zone.",
+    "R": "T'enferme seul avec lui et vole une partie de tes statistiques."
+  },
+  "momentFort": "Solide dès le début, et très dangereux dès le niveau 6 avec son R.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

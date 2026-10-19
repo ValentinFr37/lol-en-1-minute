@@ -1,0 +1,29 @@
+{
+  "plan": "Une mage support qui immobilise longtemps avec sa sphère et protège ses alliés contre les contrôles.",
+  "aSurveiller": "Son Q (Entrave sombre). Une sphère lente qui t'immobilise plusieurs secondes : reste derrière tes sbires et décale-toi quand elle la lance.",
+  "contrer": [
+    "Reste derrière tes sbires : sa sphère (Q) s'arrête sur le premier touché.",
+    "Son bouclier (E) bloque les dégâts magiques et les contrôles : attends qu'il soit utilisé avant d'engager.",
+    "Quand elle lance son R, éloigne-toi d'elle : les chaînes t'étourdissent si tu restes trop près."
+  ],
+  "forces": [
+    "Immobilisation très longue avec son Q.",
+    "Protège un allié contre les contrôles avec son E.",
+    "Son R étourdit plusieurs ennemis proches."
+  ],
+  "faiblesses": [
+    "Sa sphère est lente et se voit venir.",
+    "Peu mobile.",
+    "Fragile si on l'engage."
+  ],
+  "sorts": {
+    "P": "Se soigne en blessant les ennemis.",
+    "Q": "Sphère qui immobilise longtemps le premier ennemi touché.",
+    "W": "Zone au sol qui blesse, plus fort sur les cibles basses en vie.",
+    "E": "Bouclier qui bloque les dégâts magiques et les contrôles.",
+    "R": "Enchaîne les ennemis proches : étourdis s'ils restent à portée."
+  },
+  "momentFort": "Gênante dès le début avec son Q, et plus dangereuse en combat d'équipe à partir du niveau 6.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

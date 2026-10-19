@@ -1,0 +1,29 @@
+{
+  "plan": "Une tireuse qui harcèle en début de partie et dont l'ultime peut détruire toute une équipe regroupée.",
+  "aSurveiller": "Son R (Barrage de plomb). Si tu te retrouves dans le cône de balles, sors-en par le côté immédiatement : y rester, c'est mourir.",
+  "contrer": [
+    "Ne restez pas groupés devant elle en combat : écartez-vous pour limiter son R.",
+    "Interromps son R avec un étourdissement ou une projection : elle doit rester immobile pour le lancer.",
+    "Ne te place pas derrière un sbire presque mort : son Q rebondit sur la cible juste derrière."
+  ],
+  "forces": [
+    "Dégâts énormes avec son R dans les combats d'équipe.",
+    "Harcèle bien en début de partie grâce à son Q.",
+    "Simple à jouer, on la croise très souvent."
+  ],
+  "faiblesses": [
+    "Aucun saut ni téléportation pour s'échapper.",
+    "Doit rester immobile pendant son R, ce qui la rend vulnérable.",
+    "Facile à punir si on l'engage en premier."
+  ],
+  "sorts": {
+    "P": "Fait plus de dégâts quand elle attaque une nouvelle cible.",
+    "Q": "Tir qui touche la cible puis rebondit sur l'ennemi juste derrière.",
+    "W": "Gagne de la vitesse de déplacement, et de la vitesse d'attaque à l'activation.",
+    "E": "Pluie de balles qui blesse et ralentit dans une zone.",
+    "R": "Rafale de balles dans un cône ; elle reste immobile pendant le tir."
+  },
+  "momentFort": "Dangereuse dès le niveau 6 avec son R, et encore plus en combat d'équipe en milieu de partie.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

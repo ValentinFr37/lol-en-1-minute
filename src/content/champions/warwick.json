@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler loup qui traque les ennemis blessés et se soigne énormément pendant les combats.",
+  "aSurveiller": "Son R (Contrainte infinie). Il bondit de loin et te bloque sur place un instant : garde un sort de fuite ou un allié pour t'aider.",
+  "contrer": [
+    "Sous la moitié de ta vie, rentre à la base : il te repère et devient plus rapide contre toi (W).",
+    "Achète un objet anti-soins : il se soigne énormément en combat.",
+    "Ne prolonge pas un duel quand il est bas en vie : son passif le soigne encore plus."
+  ],
+  "forces": [
+    "Se soigne énormément en combat.",
+    "Repère et chasse les ennemis blessés.",
+    "Son R bloque une cible de loin."
+  ],
+  "faiblesses": [
+    "Faible face aux objets anti-soins.",
+    "Peu de moyens de s'échapper.",
+    "Son bond (R) se voit venir quand il vient de loin."
+  ],
+  "sorts": {
+    "P": "Ses attaques le soignent quand il est bas en vie.",
+    "Q": "Morsure qui blesse selon ta vie max et le soigne.",
+    "W": "Repère les ennemis blessés et gagne de la vitesse contre eux.",
+    "E": "Réduit les dégâts subis, puis fait fuir les ennemis proches.",
+    "R": "Bondit et bloque le premier champion touché."
+  },
+  "momentFort": "Très fort en début de partie dans la jungle, puis dès le niveau 6 avec son R.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

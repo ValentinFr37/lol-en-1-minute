@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant qui devient de plus en plus fort au fil de la partie en achevant des sbires avec son Q.",
+  "aSurveiller": "Son Q (Buveuse d'âmes). Chaque sbire achevé avec lui donne des dégâts en plus pour toujours : plus la partie dure, plus il frappe fort.",
+  "contrer": [
+    "Harcèle-le en début de partie pour l'empêcher d'achever des sbires avec son Q.",
+    "Cherchez à finir la partie vite : il devient très fort en fin de partie.",
+    "Méfie-toi de son W : il te ralentit fortement et t'empêche de fuir."
+  ],
+  "forces": [
+    "Dégâts qui augmentent sans limite.",
+    "Très résistant pendant son R.",
+    "Son W ralentit énormément."
+  ],
+  "faiblesses": [
+    "Très faible en début de partie.",
+    "Peu mobile.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Se soigne en frappant.",
+    "Q": "Coup qui gagne des dégâts pour toujours s'il achève sa cible.",
+    "W": "Ralentit fortement un ennemi et réduit sa vitesse d'attaque.",
+    "E": "Zone qui blesse et réduit l'armure.",
+    "R": "Devient géant : plus de vie, de résistances et de dégâts."
+  },
+  "momentFort": "Faible au début, de plus en plus fort en milieu et fin de partie.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

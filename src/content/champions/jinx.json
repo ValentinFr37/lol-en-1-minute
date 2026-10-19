@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse fragile au début qui devient incontrôlable après une première élimination en combat.",
+  "aSurveiller": "Son passif (Enthousiasme !). Après chaque élimination, elle court et tire beaucoup plus vite : ne lui laisse pas la première élimination d'un combat.",
+  "menace": "P",
+  "contrer": [
+    "Engage-la au corps à corps : elle n'a aucune fuite.",
+    "Évite ses pièges au sol (E) : ils t'immobilisent.",
+    "Concentrez-vous sur elle en premier : une fois lancée, elle est très difficile à arrêter."
+  ],
+  "forces": [
+    "Dégâts énormes en fin de partie.",
+    "S'emballe après chaque élimination.",
+    "Son R traverse la carte pour achever une cible blessée."
+  ],
+  "faiblesses": [
+    "Très peu mobile.",
+    "Fragile en début de partie.",
+    "Vulnérable aux assassins et aux engagements."
+  ],
+  "sorts": {
+    "P": "Énorme vitesse après une élimination ou une tourelle détruite.",
+    "Q": "Change d'arme : minigun rapide ou roquettes qui touchent une zone.",
+    "W": "Rayon qui blesse, ralentit et révèle.",
+    "E": "Pièges au sol qui immobilisent.",
+    "R": "Roquette qui traverse la carte, plus forte sur les cibles blessées."
+  },
+  "momentFort": "Faible au début, très forte en fin de partie avec ses objets.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

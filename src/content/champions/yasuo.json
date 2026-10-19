@@ -1,0 +1,29 @@
+{
+  "plan": "Un épéiste très mobile qui projette les ennemis en l'air avec une tornade puis bondit sur eux avec son ultime.",
+  "aSurveiller": "Son Q chargé (la tornade). Après deux coups réussis avec son Q, le troisième lance une tornade qui te projette en l'air et lui ouvre son R.",
+  "contrer": [
+    "Quand sa tornade est prête, reste hors de sa ligne de tir : sans projection, pas de R.",
+    "Attends qu'il ait utilisé son mur de vent (W) pour lancer tes projectiles.",
+    "Attaque-le quand son bouclier passif est tombé : il ne se recharge qu'en marchant."
+  ],
+  "forces": [
+    "Très mobile en traversant les sbires avec son E.",
+    "Bloque tous les projectiles avec son mur de vent (W).",
+    "Son R peut toucher plusieurs ennemis projetés en l'air."
+  ],
+  "faiblesses": [
+    "Fragile quand il se fait toucher par des contrôles.",
+    "Difficile à jouer sans sbires ou ennemis à traverser.",
+    "Son R ne fonctionne que sur un ennemi projeté en l'air."
+  ],
+  "sorts": {
+    "P": "Coups critiques augmentés et bouclier qui se charge quand il se déplace.",
+    "Q": "Coup d'estoc en ligne ; le 3e lance une tornade qui projette en l'air.",
+    "W": "Mur qui bloque tous les projectiles ennemis.",
+    "E": "Traverse un ennemi ; réutilisable sur des cibles différentes.",
+    "R": "Bondit sur un ennemi projeté en l'air et le maintient en l'air."
+  },
+  "momentFort": "Fort en duel dès le début, redoutable en milieu de partie avec ses objets de coups critiques.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

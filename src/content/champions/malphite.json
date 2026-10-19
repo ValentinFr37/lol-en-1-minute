@@ -1,0 +1,29 @@
+{
+  "plan": "Un tank de roche qui charge au milieu de ton équipe avec son ultime pour lancer le combat.",
+  "aSurveiller": "Son R (Force indomptable). Il fonce de loin et projette en l'air tous ceux qui sont regroupés : ne restez pas collés les uns aux autres.",
+  "contrer": [
+    "Restez écartés en combat d'équipe pour que son R ne touche qu'une seule personne.",
+    "Les dégâts magiques le blessent bien plus que les physiques : il est surtout résistant à l'armure.",
+    "Prends l'avantage avant le niveau 6 : sans son R, il est peu dangereux."
+  ],
+  "forces": [
+    "Son R peut lancer un combat sur plusieurs ennemis à la fois.",
+    "Très résistant aux dégâts physiques.",
+    "Son bouclier passif l'aide à tenir en ligne."
+  ],
+  "faiblesses": [
+    "Peu de dégâts s'il joue tank.",
+    "Vulnérable aux dégâts magiques.",
+    "Presque inoffensif s'il rate son R."
+  ],
+  "sorts": {
+    "P": "Bouclier qui se recharge s'il n'est pas touché pendant quelques secondes.",
+    "Q": "Lance un éclat qui blesse et vole de la vitesse de déplacement.",
+    "W": "Ses attaques créent des ondes de choc devant lui.",
+    "E": "Frappe le sol : dégâts selon son armure et vitesse d'attaque réduite.",
+    "R": "Charge à grande vitesse et projette tout le monde en l'air."
+  },
+  "momentFort": "Peu dangereux avant le niveau 6. Ensuite, son R peut décider chaque combat d'équipe.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler agressif qui fonce sur sa cible, la projette en l'air et gagne les duels en début de partie.",
+  "aSurveiller": "Son E (Charge audacieuse). C'est ce saut qui lui permet de t'atteindre ; ensuite, la 3e attaque de son Q te projette en l'air.",
+  "contrer": [
+    "Garde un sort de fuite pour après sa charge (E) : il n'a pas d'autre moyen de te rattraper.",
+    "Évite les duels en début de partie : il est très fort tôt, appelle tes alliés.",
+    "Après son R, il ignore un moment les dégâts venant de loin : inutile de lui tirer dessus à distance, recule et attends."
+  ],
+  "forces": [
+    "Très fort en début de partie et en duel.",
+    "Sa charge (E) lui permet d'engager de loin.",
+    "Se soigne régulièrement grâce à son passif."
+  ],
+  "faiblesses": [
+    "Une seule vraie compétence pour se rapprocher : son E.",
+    "Perd en puissance si la partie dure longtemps.",
+    "Facile à ralentir et à tenir à distance une fois sa charge utilisée."
+  ],
+  "sorts": {
+    "P": "Toutes les 3 attaques, il fait des dégâts en plus et se soigne.",
+    "Q": "Ses 3 prochaines attaques font plus mal ; la 3e projette en l'air.",
+    "W": "Coup de lance qui ralentit et marque les ennemis touchés.",
+    "E": "Charge sur un ennemi et le ralentit ; portée plus longue sur une cible marquée.",
+    "R": "Repousse les ennemis proches et bloque les dégâts venant de loin."
+  },
+  "momentFort": "Très dangereux dès les premiers niveaux, surtout jusqu'au milieu de partie.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

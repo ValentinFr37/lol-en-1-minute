@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant de jungle qui saute d'ennemi en ennemi : s'il arrive dans un combat avec ses objets, il peut éliminer toute une équipe.",
+  "aSurveiller": "Son R (Highlander). Il court très vite, ignore les ralentissements et chaque élimination prolonge l'effet : ne l'affronte pas seul à ce moment-là.",
+  "contrer": [
+    "Garde tes étourdissements et projections pour après son Q : pendant ce saut, il est intouchable.",
+    "Restez groupés : seul, il te bat ; face à plusieurs contrôles, il tombe très vite.",
+    "Quand il médite (W), il ne bouge plus et encaisse moins : interromps-le avec un étourdissement plutôt que de gaspiller tes dégâts."
+  ],
+  "forces": [
+    "Très fort en fin de partie quand il a ses objets.",
+    "Son Q le rend intouchable et esquive beaucoup de sorts.",
+    "Son R, prolongé à chaque élimination, lui permet de nettoyer un combat."
+  ],
+  "faiblesses": [
+    "Aucun contrôle : il ne peut pas t'empêcher d'utiliser tes sorts.",
+    "Très fragile face aux étourdissements et aux projections.",
+    "Faible en tout début de partie, il a besoin de temps pour monter en puissance."
+  ],
+  "sorts": {
+    "P": "Toutes les quelques attaques, il frappe deux fois.",
+    "Q": "Saute d'ennemi en ennemi en étant intouchable pendant le saut.",
+    "W": "Médite : se soigne et réduit les dégâts subis, mais reste immobile.",
+    "E": "Ses attaques infligent des dégâts bruts en plus.",
+    "R": "Gagne beaucoup de vitesse et ignore les ralentissements ; prolongé à chaque élimination."
+  },
+  "momentFort": "Dès ses premiers objets, et surtout en fin de partie. Le niveau 6 avec son R le rend aussi bien plus dangereux.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

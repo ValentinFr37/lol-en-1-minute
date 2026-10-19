@@ -1,0 +1,29 @@
+{
+  "plan": "Une tireuse chasseuse de tanks dont les attaques blessent selon la vie max de sa cible, et qui devient invisible.",
+  "aSurveiller": "Son E (Condamnation). Si elle te repousse contre un mur, tu es étourdi : ne te bats pas collé aux murs.",
+  "contrer": [
+    "Engage-la tôt : elle est très faible en début de partie.",
+    "Reste loin des murs quand tu l'affrontes : son E t'y plaque et t'étourdit.",
+    "Ne la laisse pas taper longtemps : toutes les 3 attaques (W), elle retire un pourcentage de ta vie max."
+  ],
+  "forces": [
+    "Dégâts bruts qui détruisent même les tanks.",
+    "Devient invisible pendant sa roulade sous R.",
+    "Très forte en fin de partie."
+  ],
+  "faiblesses": [
+    "Très faible en début de partie.",
+    "Courte portée pour une tireuse.",
+    "Fragile si on l'attrape."
+  ],
+  "sorts": {
+    "P": "Plus rapide quand elle marche vers les ennemis.",
+    "Q": "Roulade ; sa prochaine attaque fait plus mal.",
+    "W": "Toutes les 3 attaques, dégâts bruts selon la vie max de la cible.",
+    "E": "Repousse la cible ; étourdie si elle touche un mur.",
+    "R": "Plus de dégâts, et invisible pendant ses roulades."
+  },
+  "momentFort": "Faible au début, redoutable en fin de partie avec ses objets.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

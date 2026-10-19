@@ -1,0 +1,29 @@
+{
+  "plan": "Une mage qui immobilise avec sa sphère de lumière et achève de très loin avec son rayon laser.",
+  "aSurveiller": "Son Q (Entrave de lumière). Il t'immobilise, puis elle enchaîne avec son R : esquive la sphère et son combo ne fonctionne plus.",
+  "contrer": [
+    "Garde au moins deux sbires entre elle et toi : sa sphère (Q) s'arrête après deux cibles.",
+    "Engage-la de près : elle est fragile et n'a pas de sort de fuite.",
+    "Après un Q raté, elle est vulnérable plusieurs secondes : c'est le moment d'attaquer."
+  ],
+  "forces": [
+    "Dégâts à très longue portée avec son R.",
+    "Son Q immobilise jusqu'à deux cibles.",
+    "Protège ses alliés avec son W."
+  ],
+  "faiblesses": [
+    "Aucun sort de fuite.",
+    "Sorts lents et faciles à esquiver.",
+    "Très fragile au corps à corps."
+  ],
+  "sorts": {
+    "P": "Ses sorts marquent la cible ; sa prochaine attaque fait plus mal.",
+    "Q": "Sphère qui immobilise jusqu'à deux ennemis.",
+    "W": "Baguette qui protège les alliés avec un bouclier.",
+    "E": "Zone qui ralentit, puis explose.",
+    "R": "Rayon laser à très longue portée."
+  },
+  "momentFort": "Dangereuse dès le niveau 6 avec son R, surtout en milieu de partie.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}

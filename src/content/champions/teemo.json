@@ -1,0 +1,29 @@
+{
+  "plan": "Un petit tireur agaçant qui empoisonne, aveugle et cache des champignons invisibles partout sur la carte.",
+  "aSurveiller": "Ses champignons (R). Invisibles, ils explosent quand tu marches dessus : utilise la lentille d'oracle ou une balise de contrôle pour les voir.",
+  "contrer": [
+    "Sa fléchette (Q) t'aveugle : tes attaques de base ratent, utilise plutôt tes sorts pendant ce temps.",
+    "Engage-le franchement : il est très fragile et n'a pas de vraie fuite.",
+    "Évite les herbes hautes sans vision : c'est là qu'il se cache et pose ses champignons."
+  ],
+  "forces": [
+    "Harcèle beaucoup grâce au poison de ses attaques (E).",
+    "Ses champignons contrôlent la carte et ralentissent.",
+    "Devient invisible en restant immobile."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Aucune fuite à part sa vitesse (W).",
+    "Faible quand on l'engage au corps à corps."
+  ],
+  "sorts": {
+    "P": "Devient invisible s'il reste immobile un instant.",
+    "Q": "Fléchette qui aveugle : la cible rate ses attaques de base.",
+    "W": "Gagne de la vitesse de déplacement.",
+    "E": "Ses attaques empoisonnent la cible.",
+    "R": "Pose des champignons invisibles qui ralentissent et empoisonnent."
+  },
+  "momentFort": "Agaçant dès le début en ligne, puis surtout à partir du niveau 6 avec ses champignons.",
+  "patch": null,
+  "auteur": "ValentinFr37"
+}
