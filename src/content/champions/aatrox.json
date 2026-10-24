@@ -23,7 +23,7 @@
     "E": "Courte ruée ; il se soigne en blessant des champions.",
     "R": "Forme démoniaque : plus de dégâts, de vitesse et de soins."
   },
-  "momentFort": "Fort dès le début, très dangereux dès le niveau 6.",
+  "momentFort": "Faible au début. Il monte en puissance avec son Q : gros pic au niveau 5 (Q niveau 3), puis au niveau 9 (Q au maximum).",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }
