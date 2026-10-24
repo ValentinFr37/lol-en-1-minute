@@ -2,7 +2,7 @@
   "plan": "Un tireur mobile qui se balance autour des murs et ressuscite ses alliés en tuant leur meurtrier.",
   "aSurveiller": "Son E (Envolée héroïque). Il se balance autour d'un mur en te tirant dessus : énormément de dégâts, et il s'en sert aussi pour engager ou pour fuir.",
   "contrer": [
-    "Mets un sbire ou un allié entre lui et toi pendant son R : les balles touchent la première cible.",
+    "Pendant son R, cache-toi derrière un allié, un sbire, un monstre de la jungle ou une tour : les balles touchent la première cible.",
     "Ne tue pas un allié et reste ensuite près de lui : s'il te tue, l'allié revient à la vie.",
     "Ralentis-le avant qu'il s'accroche à un mur (E)."
   ],
