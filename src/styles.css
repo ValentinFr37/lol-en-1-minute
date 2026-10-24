@@ -431,10 +431,15 @@ a {
   border: 2px solid var(--line);
   border-radius: var(--radius-md);
   background: var(--raise);
+  transition:
+    transform 0.15s ease-out,
+    border-color 0.15s ease-out;
 }
 
-.tile:hover .tile-icon {
+.tile:hover .tile-icon,
+.tile:focus-visible .tile-icon {
   border-color: var(--gold);
+  transform: scale(1.06);
 }
 
 .tile-name {
@@ -1011,7 +1016,13 @@ a {
     scroll-behavior: auto;
   }
 
-  .backdrop-image {
+  .backdrop-image,
+  .tile-icon {
     transition: none;
+  }
+
+  .tile:hover .tile-icon,
+  .tile:focus-visible .tile-icon {
+    transform: none;
   }
 }
