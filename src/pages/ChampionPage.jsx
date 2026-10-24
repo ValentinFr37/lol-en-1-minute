@@ -206,7 +206,9 @@ function Fiche({ fiche, spells }) {
         <span className="spike-label">
           Quand {p.sujet} devient {p.fort}
         </span>
-        <KeyText>{fiche.momentFort}</KeyText>
+        <span>
+          <KeyText>{fiche.momentFort}</KeyText>
+        </span>
       </p>
     </>
   )
