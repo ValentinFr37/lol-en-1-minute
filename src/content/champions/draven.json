@@ -23,7 +23,7 @@
     "E": "Lance ses haches qui repoussent sur le côté et ralentissent.",
     "R": "Deux haches qui traversent la carte puis reviennent."
   },
-  "momentFort": "Très dangereux dès le début de partie, surtout au niveau 6 où il peut tout tenter. Son plus gros avantage est en ligne.",
+  "momentFort": "Très dangereux dès le début de partie, surtout au niveau 6 où il peut tout tenter. Son plus gros avantage est en début de partie, dans sa voie.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

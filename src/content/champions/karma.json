@@ -8,7 +8,7 @@
     "Engage-la quand son R est utilisé : ses sorts sont moins forts."
   ],
   "forces": [
-    "Harcèle beaucoup en ligne.",
+    "Harcèle beaucoup dans sa voie.",
     "Boucliers et vitesse pour ses alliés.",
     "Son R renforce un sort à chaque fois."
   ],
@@ -24,7 +24,7 @@
     "E": "Bouclier et vitesse pour un allié.",
     "R": "Renforce son prochain sort."
   },
-  "momentFort": "Forte en début de partie en ligne.",
+  "momentFort": "Forte en début de partie, dans sa voie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

@@ -1,7 +1,7 @@
 {
   "plan": "Une mage manipulatrice qui surgit, explose sa cible et revient à son point de départ.",
   "genre": "f",
-  "aSurveiller": "Son W (Distorsion). Elle surgit sur toi puis revient à son point de départ : reste près de tes alliés quand elle est absente de sa ligne.",
+  "aSurveiller": "Son W (Distorsion). Elle surgit sur toi puis revient à son point de départ : reste près de tes alliés quand elle est absente de sa voie.",
   "contrer": [
     "Reste près de tes alliés : elle cherche les cibles isolées.",
     "Sa chaîne (E) t'immobilise si tu restes près d'elle : éloigne-toi.",

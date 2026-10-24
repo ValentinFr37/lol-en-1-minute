@@ -2,7 +2,7 @@
   "plan": "Un support robot qui attrape un ennemi avec son grappin et le ramène au milieu de son équipe.",
   "aSurveiller": "Son Q (Grappin propulsé). Il attrape le premier ennemi touché et le tire vers lui : garde toujours un sbire entre lui et toi.",
   "contrer": [
-    "Reste derrière la ligne de sbires : le grappin (Q) s'arrête sur le premier touché.",
+    "Reste derrière tes sbires : le grappin (Q) s'arrête sur le premier touché.",
     "Son grappin met longtemps à revenir : après un raté, c'est le moment d'attaquer.",
     "Garde un bouclier ou un sort de fuite : s'il t'attrape, son E te projette en l'air juste après."
   ],
@@ -23,7 +23,7 @@
     "E": "Sa prochaine attaque projette la cible en l'air.",
     "R": "Détruit les boucliers et réduit les ennemis proches au silence."
   },
-  "momentFort": "Dangereux dès le niveau 2 en ligne (grappin puis poing), et à tout moment de la partie.",
+  "momentFort": "Dangereux dès le niveau 2 dans sa voie (grappin puis poing), et à tout moment de la partie.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

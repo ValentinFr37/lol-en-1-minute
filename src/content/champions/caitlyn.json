@@ -1,5 +1,5 @@
 {
-  "plan": "Une tireuse à très longue portée qui domine la ligne et pose des pièges pour piéger ses adversaires.",
+  "plan": "Une tireuse à très longue portée qui domine sa voie et pose des pièges pour piéger ses adversaires.",
   "genre": "f",
   "aSurveiller": "Ses pièges (W). Ils t'immobilisent et lui offrent un tir renforcé : ne marche pas dessus, surtout près d'elle et dans les buissons.",
   "contrer": [
@@ -24,7 +24,7 @@
     "E": "Filet qui ralentit et la projette en arrière.",
     "R": "Tir à très longue portée sur une cible ; un allié peut s'interposer."
   },
-  "momentFort": "Très forte en ligne dès le début, puis en milieu de partie avec ses objets de coups critiques.",
+  "momentFort": "Très forte dans sa voie dès le début, puis en milieu de partie avec ses objets de coups critiques.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }
