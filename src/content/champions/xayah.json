@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse qui sème des plumes au sol puis les rappelle pour immobiliser ses ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son E (Appel des lames). Elle rappelle ses plumes, qui immobilisent après 3 touches : ne reste pas entre elle et ses plumes.",
+  "contrer": [
+    "Ne reste pas entre elle et ses plumes au sol : son E les rappelle.",
+    "Son R la rend impossible à cibler : garde tes sorts pour après.",
+    "Engage-la : elle a peu de fuites."
+  ],
+  "forces": [
+    "Immobilise avec son E.",
+    "Impossible à cibler avec son R.",
+    "Gros dégâts."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Dépend de ses plumes.",
+    "Fragile."
+  ],
+  "sorts": {
+    "P": "Après un sort, ses attaques transpercent et laissent des plumes.",
+    "Q": "Deux dagues qui laissent des plumes.",
+    "W": "Vitesse d'attaque bonus.",
+    "E": "Rappelle les plumes et immobilise.",
+    "R": "Bondit, intouchable, et lance des dagues."
+  },
+  "momentFort": "Forte en milieu et fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

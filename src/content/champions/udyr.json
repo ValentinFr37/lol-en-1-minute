@@ -1,0 +1,29 @@
+{
+  "plan": "Un moine qui change de posture pour frapper, se protéger, courir ou geler ses ennemis.",
+  "aSurveiller": "Son E (Piétinement flamboyant). Il devient rapide et étourdit sa première cible : garde tes distances avant le contact.",
+  "contrer": [
+    "Garde tes distances : son E lui fait gagner de la vitesse pour te rejoindre.",
+    "Ralentis-le : sans contact, il ne fait rien.",
+    "Fais durer la partie : il est surtout fort en début de partie."
+  ],
+  "forces": [
+    "Très fort en duel.",
+    "Rapide pour la jungle.",
+    "Étourdit avec son E."
+  ],
+  "faiblesses": [
+    "Pas de sort à distance.",
+    "Facile à tenir à distance.",
+    "Moins fort en fin de partie."
+  ],
+  "sorts": {
+    "P": "Change de posture avec ses sorts.",
+    "Q": "Attaques renforcées.",
+    "W": "Bouclier et soin.",
+    "E": "Vitesse et coup qui étourdit.",
+    "R": "Tempête qui ralentit autour de lui."
+  },
+  "momentFort": "Fort en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

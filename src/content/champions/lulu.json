@@ -1,0 +1,30 @@
+{
+  "plan": "Une support fée qui transforme ses ennemis en animaux et rend ses alliés géants.",
+  "genre": "f",
+  "aSurveiller": "Son W (Fantaisie). Elle te transforme en animal : tu ne peux plus attaquer ni lancer de sorts pendant un instant.",
+  "contrer": [
+    "Garde ton gros sort pour après son W : transformé, tu ne peux rien faire.",
+    "Concentre-toi sur elle : elle rend ses alliés très forts.",
+    "Après son R, son allié a beaucoup plus de vie : change de cible."
+  ],
+  "forces": [
+    "Transforme un ennemi en animal.",
+    "Son R sauve un allié.",
+    "Excellents boucliers."
+  ],
+  "faiblesses": [
+    "Fragile si on l'engage.",
+    "Peu de dégâts.",
+    "Dépend de ses alliés."
+  ],
+  "sorts": {
+    "P": "Pix tire avec elle et ses alliés.",
+    "Q": "Projectile qui ralentit fortement.",
+    "W": "Transforme un ennemi ou accélère un allié.",
+    "E": "Bouclier pour un allié ou dégâts sur un ennemi.",
+    "R": "Rend un allié géant et projette en l'air."
+  },
+  "momentFort": "Utile dès le début, très forte en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage qui pose des sphères sombres et les projette sur ses ennemis pour une explosion énorme.",
+  "genre": "f",
+  "aSurveiller": "Son R (Déchaînement de puissance). Toutes ses sphères frappent un champion : plus il y en a, plus ça fait mal.",
+  "contrer": [
+    "Éloigne-toi des sphères : son E les repousse et étourdit.",
+    "Bas en vie, reste hors de portée : son R peut t'éliminer d'un coup.",
+    "Engage-la : elle est fragile et peu mobile."
+  ],
+  "forces": [
+    "Énormes dégâts sur une cible.",
+    "Étourdit avec son E.",
+    "Harcèle de loin."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Fragile.",
+    "Doit poser ses sphères avant."
+  ],
+  "sorts": {
+    "P": "Se renforce en récoltant des éclats.",
+    "Q": "Pose une sphère qui blesse.",
+    "W": "Saisit et lance une sphère ou un sbire.",
+    "E": "Repousse et étourdit avec les sphères.",
+    "R": "Bombarde avec toutes ses sphères."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

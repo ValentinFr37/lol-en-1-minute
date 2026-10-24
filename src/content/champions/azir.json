@@ -1,0 +1,29 @@
+{
+  "plan": "Un empereur mage qui attaque à distance avec ses soldats de sable et repousse toute une équipe avec son ultime.",
+  "aSurveiller": "Son R (Partition impériale). Un mur de soldats te repousse, souvent vers son équipe : reste derrière tes alliés.",
+  "contrer": [
+    "Reste loin de ses soldats : ce sont eux qui font les dégâts.",
+    "Engage-le quand son E est utilisé : il n'a plus de fuite.",
+    "Ne te place pas devant lui en combat : son R repousse vers son équipe."
+  ],
+  "forces": [
+    "Dégâts constants à distance.",
+    "Son R peut retourner un combat.",
+    "Très mobile avec ses soldats."
+  ],
+  "faiblesses": [
+    "Très difficile à jouer.",
+    "Faible en début de partie.",
+    "Vulnérable si on l'atteint."
+  ],
+  "sorts": {
+    "P": "Peut faire apparaître une tourelle sur une ruine.",
+    "Q": "Envoie ses soldats vers une zone.",
+    "W": "Invoque un soldat qui attaque à sa place.",
+    "E": "Fonce vers un soldat avec un bouclier.",
+    "R": "Mur de soldats qui repousse les ennemis."
+  },
+  "momentFort": "Faible au début, très fort en milieu et fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

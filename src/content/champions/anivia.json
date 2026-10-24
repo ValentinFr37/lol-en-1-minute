@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage phénix qui bloque les passages avec ses murs de glace et renaît de son œuf.",
+  "genre": "f",
+  "aSurveiller": "Son Q (Lance de glace). Elle t'étourdit quand elle explose, puis son E fait double dégâts : esquive la sphère.",
+  "contrer": [
+    "Esquive sa sphère (Q) : sans étourdissement, son combo fait beaucoup moins mal.",
+    "Prévois une fuite : son mur (W) peut te bloquer le passage.",
+    "Quand elle est dans son œuf, frappe-le vite et à plusieurs pour qu'elle ne renaisse pas."
+  ],
+  "forces": [
+    "Renaît de son œuf une fois.",
+    "Son mur bloque les passages.",
+    "Énormes dégâts de zone avec son R."
+  ],
+  "faiblesses": [
+    "Très lente et peu mobile.",
+    "Faible en tout début de partie.",
+    "Son œuf est fragile si on le frappe vite."
+  ],
+  "sorts": {
+    "P": "Se transforme en œuf au lieu de mourir.",
+    "Q": "Sphère qui ralentit puis étourdit en explosant.",
+    "W": "Mur de glace infranchissable.",
+    "E": "Double dégâts sur une cible gelée.",
+    "R": "Tempête de glace qui ralentit et grandit."
+  },
+  "momentFort": "Faible au début, très dangereuse en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un poisson-chat géant qui avale ses ennemis ou ses alliés pour les emporter ou les protéger.",
+  "aSurveiller": "Son R (Dévoration). Il avale un champion pour l'emmener : s'il t'a déjà frappé 3 fois, il peut t'avaler.",
+  "contrer": [
+    "Évite de recevoir 3 coups de sa part : il peut ensuite t'avaler (R).",
+    "Son E le protège : attends qu'il l'ait utilisé pour l'attaquer.",
+    "Les dégâts en pourcentage de vie sont efficaces contre lui."
+  ],
+  "forces": [
+    "Très résistant.",
+    "Peut sauver un allié en l'avalant.",
+    "Fort en duel en début de partie."
+  ],
+  "faiblesses": [
+    "Lent.",
+    "Courte portée.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Ses PV augmentent ses dégâts ; cumule des marques.",
+    "Q": "Coup de langue qui ralentit.",
+    "W": "Plonge et réapparaît en projetant en l'air.",
+    "E": "Stocke les dégâts et les convertit en bouclier.",
+    "R": "Avale un champion ennemi ou allié."
+  },
+  "momentFort": "Fort en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

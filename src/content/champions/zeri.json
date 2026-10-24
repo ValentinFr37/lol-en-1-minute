@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse électrique très rapide qui court sur les murs et tire à travers les ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son R (Éruption électrique). Elle devient beaucoup plus rapide et fait plus mal : recule quand elle l'active.",
+  "contrer": [
+    "Recule pendant son R : elle devient très rapide et dangereuse.",
+    "Engage-la tôt : elle est faible en début de partie.",
+    "Esquive son W : il traverse les murs."
+  ],
+  "forces": [
+    "Très mobile.",
+    "Bouclier régulier.",
+    "Son R la rend dangereuse."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Fragile.",
+    "Peu de contrôles."
+  ],
+  "sorts": {
+    "P": "Bouclier et attaques électriques.",
+    "Q": "Rafale de balles.",
+    "W": "Laser qui ralentit.",
+    "E": "Ruée qui passe par-dessus les murs.",
+    "R": "Nova électrique et vitesse."
+  },
+  "momentFort": "Forte en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

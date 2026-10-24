@@ -1,0 +1,29 @@
+{
+  "plan": "Un yordle colérique sur son lézard qui charge et tire son ennemi avec un piège à ours.",
+  "aSurveiller": "Son Q (Piège à ours en laisse). Il s'accroche à toi puis te tire vers lui : éloigne-toi vite pour casser la laisse.",
+  "contrer": [
+    "Éloigne-toi vite quand son piège (Q) s'accroche : sinon il te tire vers lui.",
+    "Quand il perd son lézard, attaque-le : il est très faible à pied.",
+    "Écartez-vous de sa charge (R) : elle traverse la carte vers vous."
+  ],
+  "forces": [
+    "Très fort en duel.",
+    "Deux barres de vie avec son lézard.",
+    "Son R engage de très loin."
+  ],
+  "faiblesses": [
+    "Faible à pied.",
+    "Difficile à jouer.",
+    "Prévisible."
+  ],
+  "sorts": {
+    "P": "Monte un lézard qui prend les dégâts à sa place.",
+    "Q": "Piège qui s'accroche puis tire la cible.",
+    "W": "4 attaques très rapides.",
+    "E": "Fonce et peut foncer à nouveau.",
+    "R": "Charge sur une longue distance."
+  },
+  "momentFort": "Fort dès le début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

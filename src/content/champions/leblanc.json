@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage manipulatrice qui surgit, explose sa cible et revient à son point de départ.",
+  "genre": "f",
+  "aSurveiller": "Son W (Distorsion). Elle surgit sur toi puis revient à son point de départ : reste près de tes alliés quand elle est absente de sa ligne.",
+  "contrer": [
+    "Reste près de tes alliés : elle cherche les cibles isolées.",
+    "Sa chaîne (E) t'immobilise si tu restes près d'elle : éloigne-toi.",
+    "Quand elle est blessée, un clone apparaît : frappe la vraie LeBlanc."
+  ],
+  "forces": [
+    "Énormes dégâts d'un coup.",
+    "Revient à son point de départ.",
+    "Crée un clone pour tromper."
+  ],
+  "faiblesses": [
+    "Fragile si on l'attrape.",
+    "Faible contre les tanks.",
+    "Difficile à jouer."
+  ],
+  "sorts": {
+    "P": "Devient invisible et crée un clone sous 40% de vie.",
+    "Q": "Sceau qui explose si elle touche à nouveau.",
+    "W": "Ruée qu'elle peut annuler.",
+    "E": "Chaîne qui immobilise.",
+    "R": "Copie un de ses sorts."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

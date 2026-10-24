@@ -1,0 +1,29 @@
+{
+  "plan": "Un ninja tank qui se téléporte auprès de ses alliés n'importe où sur la carte pour les protéger.",
+  "aSurveiller": "Son E (Rush des ombres). Il fonce et te provoque : tu attaques Shen pendant un instant sans pouvoir fuir.",
+  "contrer": [
+    "Esquive sa ruée (E) : elle te provoque.",
+    "Surveille son R : il peut rejoindre un allié n'importe où.",
+    "Ses attaques sont bloquées près de sa lame (W) : éloigne-toi d'elle."
+  ],
+  "forces": [
+    "Rejoint ses alliés n'importe où.",
+    "Provoque avec son E.",
+    "Bloque les attaques avec son W."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Dépend de l'énergie.",
+    "Son R prend du temps."
+  ],
+  "sorts": {
+    "P": "Bouclier après chaque sort.",
+    "Q": "Rappelle sa lame qui blesse selon la vie max.",
+    "W": "Bloque les attaques autour de sa lame.",
+    "E": "Fonce et provoque.",
+    "R": "Se téléporte vers un allié avec un bouclier."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

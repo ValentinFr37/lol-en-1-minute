@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin du Néant faible au début qui se téléporte partout en fin de partie.",
+  "aSurveiller": "Son R (Fissure). Il se téléporte sur toi et chaque utilisation fait plus de dégâts : en fin de partie, il peut l'enchaîner.",
+  "contrer": [
+    "Attaque-le en début de partie : il est très faible avant le niveau 6.",
+    "Les dégâts physiques sont efficaces : il résiste à la magie.",
+    "Cherchez à finir la partie vite : il devient très fort en fin de partie."
+  ],
+  "forces": [
+    "Se téléporte avec son R.",
+    "Résiste aux dégâts magiques.",
+    "Très fort en fin de partie."
+  ],
+  "faiblesses": [
+    "Très faible en début de partie.",
+    "Vulnérable aux dégâts physiques.",
+    "Fragile si on l'attrape."
+  ],
+  "sorts": {
+    "P": "Réduit les dégâts magiques et traverse les unités.",
+    "Q": "Orbe qui interrompt et donne un bouclier.",
+    "W": "Ses attaques font des dégâts magiques en plus.",
+    "E": "Onde qui ralentit en cône.",
+    "R": "Se téléporte ; de plus en plus fort s'il l'enchaîne."
+  },
+  "momentFort": "Faible au début, redoutable en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un épouvantail jungler qui surgit d'un buisson et terrifie toute une équipe avec ses corbeaux.",
+  "aSurveiller": "Son R (Rafale de corbeaux). Il se téléporte au milieu de vous et blesse tout autour de lui : écartez-vous et frappez-le.",
+  "contrer": [
+    "Écartez-vous quand il arrive : son R blesse tout le monde autour de lui.",
+    "Ses épouvantails ressemblent à lui : méfie-toi d'un Fiddlesticks immobile dans un buisson.",
+    "Interromps son W avec un contrôle : il doit le canaliser."
+  ],
+  "forces": [
+    "Son R lance des combats de loin.",
+    "Peur et silence pour contrôler.",
+    "Se soigne avec son W."
+  ],
+  "faiblesses": [
+    "Fragile si on l'interrompt.",
+    "Doit rester immobile pour canaliser.",
+    "Peu mobile sans son R."
+  ],
+  "sorts": {
+    "P": "Pose des épouvantails à la place des balises.",
+    "Q": "Terrorise une cible.",
+    "W": "Draine la vie des ennemis proches.",
+    "E": "Coup de faux qui ralentit et réduit au silence.",
+    "R": "Se téléporte et déchaîne des corbeaux autour de lui."
+  },
+  "momentFort": "Dangereux dès le niveau 6 avec son R.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

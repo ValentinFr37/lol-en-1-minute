@@ -1,0 +1,30 @@
+{
+  "plan": "Une support chimiste qui rend ses ennemis fous et peut sauver un allié de la mort.",
+  "genre": "f",
+  "aSurveiller": "Son R (Prise de contrôle hostile). Les ennemis touchés deviennent fous et attaquent leurs alliés : écartez-vous de son nuage.",
+  "contrer": [
+    "Écartez-vous de son nuage (R) : sinon vous vous attaquez entre vous.",
+    "Achève vite l'allié qu'elle protège avec son W : il peut survivre s'il élimine.",
+    "Son Q te lance : éloigne-toi de tes alliés quand tu es pris."
+  ],
+  "forces": [
+    "Son R retourne un combat.",
+    "Sauve un allié avec son W.",
+    "Immobilise et lance une cible."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu de dégâts.",
+    "Son R est lent."
+  ],
+  "sorts": {
+    "P": "Ses attaques marquent ; ses alliés font plus mal.",
+    "Q": "Immobilise puis lance un ennemi.",
+    "W": "Retarde la mort d'un allié.",
+    "E": "Projectiles : bouclier allié, ralentit les ennemis.",
+    "R": "Les ennemis touchés attaquent leurs alliés."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

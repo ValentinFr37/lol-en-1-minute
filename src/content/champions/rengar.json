@@ -1,0 +1,29 @@
+{
+  "plan": "Un chasseur qui bondit depuis les buissons et devient invisible pour fondre sur sa proie.",
+  "aSurveiller": "Son R (Chasseur-né). Il devient invisible et bondit sur toi : un œil apparaît au-dessus de ta tête quand il te cible.",
+  "contrer": [
+    "Quand un œil apparaît au-dessus de toi, regroupe-toi avec tes alliés.",
+    "Ne reste pas près des buissons : il bondit depuis eux.",
+    "Achète une balise de contrôle : elle révèle son R."
+  ],
+  "forces": [
+    "Énormes dégâts sur une cible.",
+    "Bondit depuis les buissons.",
+    "Invisible avec son R."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Dépend des buissons.",
+    "Faible si on l'attend groupé."
+  ],
+  "sorts": {
+    "P": "Bondit depuis les buissons ; cumule de la férocité.",
+    "Q": "Attaque renforcée.",
+    "W": "Rugissement qui le soigne.",
+    "E": "Bolas qui ralentissent ou immobilisent.",
+    "R": "Devient invisible et traque un champion."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

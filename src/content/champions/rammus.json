@@ -1,0 +1,29 @@
+{
+  "plan": "Un tatou blindé qui roule sur ses ennemis et renvoie les dégâts à ceux qui le frappent.",
+  "aSurveiller": "Son W (Boule défensive). Il renvoie les dégâts des attaques de base : n'attaque pas un Rammus en boule.",
+  "contrer": [
+    "N'attaque pas quand il est en boule (W) : il renvoie les dégâts.",
+    "Les dégâts magiques sont efficaces : son armure est énorme.",
+    "Ralentis-le pendant qu'il roule (Q)."
+  ],
+  "forces": [
+    "Énorme armure.",
+    "Renvoie les dégâts.",
+    "Provoque une cible."
+  ],
+  "faiblesses": [
+    "Vulnérable aux dégâts magiques.",
+    "Peu de dégâts.",
+    "Dépend de sa vitesse."
+  ],
+  "sorts": {
+    "P": "Ses dégâts augmentent avec ses résistances.",
+    "Q": "Roule et projette en arrière.",
+    "W": "Grande armure et renvoi des dégâts.",
+    "E": "Provoque une cible.",
+    "R": "Bondit et retombe en zone."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

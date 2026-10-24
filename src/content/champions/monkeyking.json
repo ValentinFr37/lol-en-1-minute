@@ -1,0 +1,29 @@
+{
+  "plan": "Un singe guerrier qui crée des clones et projette les ennemis en l'air en tournant sur lui-même.",
+  "aSurveiller": "Son R (Cyclone). Il tourne et projette en l'air tous ceux qu'il touche, deux fois : écartez-vous.",
+  "contrer": [
+    "Écartez-vous de lui : son R projette en l'air tous ceux autour.",
+    "Quand il devient invisible (W), un clone reste : frappe le vrai.",
+    "Ralentis-le : il dépend de son E pour engager."
+  ],
+  "forces": [
+    "Projette en l'air plusieurs ennemis.",
+    "Clone pour tromper.",
+    "Fort en début de partie."
+  ],
+  "faiblesses": [
+    "Peu de fuites.",
+    "Vulnérable aux contrôles.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Plus d'armure et de soin en combat.",
+    "Q": "Attaque renforcée qui réduit l'armure.",
+    "W": "Devient invisible et laisse un clone.",
+    "E": "Fonce sur une cible.",
+    "R": "Tourne et projette en l'air, deux fois."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

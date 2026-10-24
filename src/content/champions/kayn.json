@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler qui traverse les murs et se cache dans le corps de sa victime.",
+  "aSurveiller": "Son R (Intrusion obscure). Il se cache dans ton corps puis ressort en faisant de gros dégâts : tes alliés ne peuvent pas l'atteindre pendant ce temps.",
+  "contrer": [
+    "Méfie-toi des murs : il les traverse avec son E.",
+    "Achète un objet anti-soins : en forme rouge, il se soigne.",
+    "Ne prolonge pas un combat seul : il a besoin de te blesser pour son R."
+  ],
+  "forces": [
+    "Traverse les murs.",
+    "Intouchable pendant son R.",
+    "Deux formes : assassin ou combattant."
+  ],
+  "faiblesses": [
+    "Faible avant sa transformation.",
+    "Dépend de sa forme.",
+    "Vulnérable aux contrôles."
+  ],
+  "sorts": {
+    "P": "Se transforme en assassin ou en combattant.",
+    "Q": "Se rue puis frappe.",
+    "W": "Coup en ligne qui ralentit.",
+    "E": "Traverse les murs.",
+    "R": "Se cache dans le corps d'un ennemi."
+  },
+  "momentFort": "Dangereux dès sa transformation en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

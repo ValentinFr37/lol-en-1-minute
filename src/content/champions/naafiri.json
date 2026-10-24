@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin à la tête d'une meute de chiens qui bondissent sur sa cible.",
+  "genre": "f",
+  "aSurveiller": "Son R (Hallali). Elle et sa meute fondent sur un champion : quand tu es bas en vie, reste près de tes alliés.",
+  "contrer": [
+    "Reste près de tes alliés : ses chiens font très mal sur une cible isolée.",
+    "Tue ses chiens avec des sorts de zone : sa meute fait ses dégâts.",
+    "Utilise tes contrôles après son E : elle n'a plus de fuite."
+  ],
+  "forces": [
+    "Grosse meute qui fait des dégâts.",
+    "Très mobile.",
+    "Achève les cibles isolées."
+  ],
+  "faiblesses": [
+    "Vulnérable aux sorts de zone.",
+    "Fragile si on l'attrape.",
+    "Dépend de sa meute."
+  ],
+  "sorts": {
+    "P": "Sa meute attaque ses cibles.",
+    "Q": "Dagues qui font saigner.",
+    "W": "Devient intouchable et renforce sa meute.",
+    "E": "Ruée qui soigne la meute.",
+    "R": "Elle et sa meute fondent sur un champion."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

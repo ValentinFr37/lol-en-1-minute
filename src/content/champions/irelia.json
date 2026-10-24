@@ -1,0 +1,30 @@
+{
+  "plan": "Une combattante qui saute de cible en cible avec ses lames et devient très forte une fois chargée.",
+  "genre": "f",
+  "aSurveiller": "Son E (Duo parfait). Si tu es pris entre ses deux lames, tu es étourdi et marqué : elle peut alors enchaîner ses ruées sur toi.",
+  "contrer": [
+    "Sors du chemin entre ses deux lames (E) : sinon tu es étourdi.",
+    "Ne la laisse pas atteindre 4 cumuls de son passif : elle devient bien plus forte.",
+    "Pousse ta ligne : sans sbires bas en vie, elle ne peut pas rebondir avec son Q."
+  ],
+  "forces": [
+    "Très mobile en rebondissant sur les sbires.",
+    "Étourdit avec son E.",
+    "Forte en duel avec ses cumuls."
+  ],
+  "faiblesses": [
+    "Faible sans sbires autour.",
+    "Difficile à jouer.",
+    "Vulnérable aux contrôles."
+  ],
+  "sorts": {
+    "P": "Gagne de la vitesse d'attaque en touchant avec ses sorts.",
+    "Q": "Ruée qui se réinitialise si la cible est marquée ou meurt.",
+    "W": "Charge une attaque en réduisant les dégâts subis.",
+    "E": "Deux lames : ceux pris entre elles sont étourdis.",
+    "R": "Mur de lames qui blesse et ralentit."
+  },
+  "momentFort": "Forte en début de partie, très dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

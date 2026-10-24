@@ -1,0 +1,30 @@
+{
+  "plan": "Une support tireuse à très longue portée qui devient de plus en plus forte en ramassant des âmes.",
+  "genre": "f",
+  "aSurveiller": "Son W (Dernière étreinte). Elle s'accroche à toi puis t'immobilise : éloigne-toi des alliés touchés.",
+  "contrer": [
+    "Reste derrière tes sbires : son W s'accroche au premier touché.",
+    "Engage-la : elle est très fragile.",
+    "Son R traverse la carte : bas en vie, mets-toi à couvert."
+  ],
+  "forces": [
+    "Très longue portée.",
+    "Se renforce au fil de la partie.",
+    "Son R aide de loin."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Peu mobile.",
+    "Lente à attaquer."
+  ],
+  "sorts": {
+    "P": "Ramasse des âmes pour devenir plus forte.",
+    "Q": "Rayon qui soigne ses alliés et blesse.",
+    "W": "Brume qui immobilise.",
+    "E": "Camouflage pour elle et ses alliés.",
+    "R": "Rayon qui traverse la carte."
+  },
+  "momentFort": "Forte en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

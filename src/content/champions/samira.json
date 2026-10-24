@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse audacieuse qui fonce dans les combats et tire tout autour d'elle quand son style est au maximum.",
+  "genre": "f",
+  "aSurveiller": "Son R (Gâchette infernale). Elle tire tout autour d'elle quand son style est au rang S : utilise un contrôle pour l'arrêter.",
+  "contrer": [
+    "Garde un contrôle pour son R : il l'arrête net.",
+    "Ne lance pas tes projectiles pendant son W : elle les détruit.",
+    "Engage-la tôt : elle n'a pas de vraie fuite."
+  ],
+  "forces": [
+    "Énormes dégâts de zone avec son R.",
+    "Bloque les projectiles avec son W.",
+    "Très mobile."
+  ],
+  "faiblesses": [
+    "Vulnérable aux contrôles.",
+    "Doit enchaîner pour son R.",
+    "Courte portée."
+  ],
+  "sorts": {
+    "P": "Enchaîne pour monter son style.",
+    "Q": "Tir ou coup d'épée.",
+    "W": "Détruit les projectiles.",
+    "E": "Fonce à travers un ennemi.",
+    "R": "Tire tout autour d'elle."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

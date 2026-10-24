@@ -1,0 +1,29 @@
+{
+  "plan": "Un support charmeur qui bondit au milieu des ennemis et les charme en dansant.",
+  "aSurveiller": "Son W (Entrée triomphale). Il bondit et projette en l'air tous ceux autour : ne restez pas groupés.",
+  "contrer": [
+    "Écartez-vous quand il bondit : son W projette en l'air ceux autour.",
+    "Son R charme en passant : éloigne-toi de son chemin.",
+    "Engage-le quand son E est utilisé : c'est sa fuite."
+  ],
+  "forces": [
+    "Très mobile.",
+    "Charme plusieurs ennemis.",
+    "Protège ses alliés."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu de dégâts.",
+    "Dépend de ses alliés."
+  ],
+  "sorts": {
+    "P": "Bouclier régulier.",
+    "Q": "Plume qui soigne ensuite ses alliés.",
+    "W": "Bondit et projette en l'air.",
+    "E": "Vole vers un allié avec un bouclier.",
+    "R": "Charme les ennemis qu'il touche."
+  },
+  "momentFort": "Utile dès le niveau 2.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

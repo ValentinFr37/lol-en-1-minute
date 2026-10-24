@@ -1,0 +1,29 @@
+{
+  "plan": "Un artificier qui bombarde les ennemis de loin et détruit les tours en un rien de temps.",
+  "aSurveiller": "Son R (Méga bombe infernale). Il la lance de très loin : un cercle apparaît au sol, sors-en tout de suite.",
+  "contrer": [
+    "Sors du cercle au sol : son R arrive de très loin.",
+    "Évite ses mines (E) : elles ralentissent.",
+    "Engage-le : il est fragile."
+  ],
+  "forces": [
+    "Bombarde de très loin.",
+    "Détruit vite les tours.",
+    "Son R frappe très loin."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Ses sorts se voient venir.",
+    "Peu de défenses."
+  ],
+  "sorts": {
+    "P": "Attaque régulièrement renforcée.",
+    "Q": "Bombe rebondissante.",
+    "W": "Charge qui repousse et détruit les tours.",
+    "E": "Mines qui ralentissent.",
+    "R": "Bombe géante de très loin."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

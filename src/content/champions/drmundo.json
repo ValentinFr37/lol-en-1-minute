@@ -1,0 +1,29 @@
+{
+  "plan": "Un médecin fou presque impossible à tuer qui se soigne énormément avec son ultime.",
+  "aSurveiller": "Son R (Dosage maximal). Il se soigne d'un coup et devient très rapide : garde tes anti-soins et tes dégâts pour après.",
+  "contrer": [
+    "Achète un objet anti-soins : il se soigne énormément.",
+    "Les dégâts en pourcentage de vie le font fondre : privilégie-les.",
+    "Ne gaspille pas un contrôle : il résiste au premier, en laissant une fiole qu'il peut ramasser."
+  ],
+  "forces": [
+    "Très résistant et se soigne beaucoup.",
+    "Résiste au premier contrôle.",
+    "Harcèle avec ses scies."
+  ],
+  "faiblesses": [
+    "Vulnérable aux objets anti-soins.",
+    "Peu de contrôles.",
+    "Facile à tenir à distance avant son R."
+  ],
+  "sorts": {
+    "P": "Résiste au premier contrôle et laisse une fiole.",
+    "Q": "Scie qui ralentit et blesse.",
+    "W": "Dégâts autour de lui ; il se soigne ensuite.",
+    "E": "Coup violent qui repousse.",
+    "R": "Se soigne énormément et gagne de la vitesse."
+  },
+  "momentFort": "Solide toute la partie, très résistant en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

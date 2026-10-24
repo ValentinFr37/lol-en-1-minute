@@ -1,0 +1,29 @@
+{
+  "plan": "Un inventeur qui pose des tourelles et contrôle sa ligne de loin.",
+  "aSurveiller": "Son E (Grenade électro-tempête). Elle étourdit au centre et ralentit autour : esquive-la avant d'attaquer ses tourelles.",
+  "contrer": [
+    "Détruis ses tourelles une par une avant de l'attaquer.",
+    "Engage-le loin de ses tourelles : seul, il est fragile.",
+    "Esquive sa grenade (E) : au centre, elle t'étourdit."
+  ],
+  "forces": [
+    "Contrôle très bien une zone.",
+    "Gros dégâts en ligne.",
+    "Son R améliore chaque sort."
+  ],
+  "faiblesses": [
+    "Fragile hors de ses tourelles.",
+    "Peu mobile.",
+    "Faible contre les engagements."
+  ],
+  "sorts": {
+    "P": "Plus rapide près de ses tourelles.",
+    "Q": "Pose une tourelle.",
+    "W": "Roquettes à longue portée.",
+    "E": "Grenade qui étourdit au centre.",
+    "R": "Améliore son prochain sort."
+  },
+  "momentFort": "Fort en ligne dès le début.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

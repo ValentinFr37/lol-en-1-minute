@@ -1,0 +1,30 @@
+{
+  "plan": "Un tireur aux cinq armes différentes, très fort en combat d'équipe mais vulnérable sans protection.",
+  "aSurveiller": "Son R (Veille au clair de lune). Il explose sur le premier champion touché puis tire sur tous les ennemis proches : écartez-vous.",
+  "menace": "R",
+  "contrer": [
+    "Engage-le tôt : il est fragile et n'a pas de fuite.",
+    "Écartez-vous en combat d'équipe : son R touche tous les ennemis autour de la cible.",
+    "Surveille son arme : avec le fusil vert, il a une longue portée, avec la violette, il immobilise."
+  ],
+  "forces": [
+    "Très gros dégâts en combat d'équipe.",
+    "Cinq armes pour s'adapter.",
+    "Son R touche plusieurs ennemis."
+  ],
+  "faiblesses": [
+    "Aucune fuite.",
+    "Très difficile à jouer.",
+    "Vulnérable face aux engagements."
+  ],
+  "sorts": {
+    "P": "Manie cinq armes, deux à la fois.",
+    "Q": "Compétence propre à son arme principale.",
+    "W": "Échange son arme principale et secondaire.",
+    "E": "Pas de sort : indique la prochaine arme.",
+    "R": "Rayon de lune qui explose et tire sur les ennemis proches."
+  },
+  "momentFort": "Fort en milieu et fin de partie avec ses objets.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

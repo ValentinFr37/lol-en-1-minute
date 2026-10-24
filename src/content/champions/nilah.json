@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse au corps à corps qui esquive toutes les attaques et attire les ennemis avec son ultime.",
+  "genre": "f",
+  "aSurveiller": "Son W (Voile de liesse). Elle esquive toutes les attaques de base : utilise tes sorts plutôt que tes attaques pendant ce temps.",
+  "contrer": [
+    "Pendant son W, utilise tes sorts : elle esquive les attaques de base.",
+    "Éloigne-toi quand elle lance son R : elle attire tous ceux autour d'elle.",
+    "Engage-la tôt : elle a besoin d'objets pour être forte."
+  ],
+  "forces": [
+    "Esquive les attaques avec son W.",
+    "Son R attire plusieurs ennemis.",
+    "Partage les soins de ses alliés."
+  ],
+  "faiblesses": [
+    "Courte portée.",
+    "Vulnérable aux sorts.",
+    "Faible en début de partie."
+  ],
+  "sorts": {
+    "P": "Gagne plus d'expérience et renforce les soins alliés.",
+    "Q": "Coup de fouet en ligne.",
+    "W": "Esquive toutes les attaques un instant.",
+    "E": "Ruée vers une cible.",
+    "R": "Tournoie et attire les ennemis autour d'elle."
+  },
+  "momentFort": "Forte en milieu et fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

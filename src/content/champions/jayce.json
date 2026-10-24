@@ -1,0 +1,29 @@
+{
+  "plan": "Un inventeur qui alterne marteau et canon pour harceler de loin puis frapper fort de près.",
+  "aSurveiller": "Son Q en canon à travers son portail (E). Le projectile accéléré fait énormément de dégâts : esquive-le sur le côté.",
+  "contrer": [
+    "Esquive son Q accéléré : c'est sa plus grosse source de dégâts.",
+    "Engage-le de près : il a peu de fuites.",
+    "Évite la ligne en début de partie : il est très fort tôt."
+  ],
+  "forces": [
+    "Harcèle très fort de loin.",
+    "Deux formes pour s'adapter.",
+    "Repousse avec son marteau."
+  ],
+  "faiblesses": [
+    "Fragile s'il est attrapé.",
+    "Moins fort en fin de partie.",
+    "Difficile à jouer."
+  ],
+  "sorts": {
+    "P": "Gagne de la vitesse en changeant d'arme.",
+    "Q": "Marteau : bondit ; canon : orbe explosif.",
+    "W": "Marteau : champ électrique ; canon : tirs rapides.",
+    "E": "Marteau : repousse ; canon : portail qui accélère.",
+    "R": "Change d'arme entre marteau et canon."
+  },
+  "momentFort": "Très fort dès le début et en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

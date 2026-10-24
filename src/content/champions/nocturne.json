@@ -1,0 +1,29 @@
+{
+  "plan": "Un cauchemar jungler qui coupe la vision de l'équipe ennemie et fond sur sa cible.",
+  "aSurveiller": "Son R (Paranoïa). Il réduit votre vision puis vole jusqu'à un champion : quand l'écran s'assombrit, regroupez-vous.",
+  "contrer": [
+    "Quand l'écran s'assombrit, regroupez-vous : il va surgir sur une cible isolée.",
+    "Éloigne-toi de lui pour casser sa terreur (E) avant la fin.",
+    "Son W bloque un sort : n'utilise pas ton gros sort en premier."
+  ],
+  "forces": [
+    "Son R engage de très loin.",
+    "Terrifie avec son E.",
+    "Bloque un sort avec son W."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Dépend de son R.",
+    "Faible si la cible est entourée."
+  ],
+  "sorts": {
+    "P": "Toutes les quelques secondes, attaque en zone qui le soigne.",
+    "Q": "Lame qui laisse une traînée et l'accélère.",
+    "W": "Bloque un sort et gagne de la vitesse d'attaque.",
+    "E": "Lien qui terrifie si on reste près.",
+    "R": "Réduit la vision ennemie et vole vers un champion."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

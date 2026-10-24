@@ -1,0 +1,30 @@
+{
+  "plan": "Une générale noxienne qui enchaîne de petites ruées entre ses sorts et cloue sa cible au sol avec son ultime.",
+  "genre": "f",
+  "aSurveiller": "Son R (Exécution publique). Elle se téléporte sur l'ennemi le plus éloigné d'une ligne et l'étourdit : ne reste pas en bout de ligne.",
+  "contrer": [
+    "Ne reste pas au bout d'une ligne d'alliés : son R vise le plus éloigné.",
+    "Évite les longs échanges : chaque sort lui donne une ruée et une attaque renforcée.",
+    "Utilise tes contrôles après ses ruées : elle n'a plus d'échappatoire."
+  ],
+  "forces": [
+    "Très mobile grâce à ses petites ruées.",
+    "Son R bloque et étourdit une cible.",
+    "Bouclier et dégâts de zone avec son W."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Difficile à jouer.",
+    "Dépend de l'énergie de ses sorts."
+  ],
+  "sorts": {
+    "P": "Après chaque sort, une courte ruée et une attaque renforcée.",
+    "Q": "Coup en demi-cercle ; le suivant devient une frappe en ligne.",
+    "W": "Bouclier, puis frappe le sol autour d'elle.",
+    "E": "Tourne ses lames et ralentit les ennemis proches.",
+    "R": "Se téléporte sur l'ennemi le plus éloigné et l'étourdit."
+  },
+  "momentFort": "Forte dès le début, très dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

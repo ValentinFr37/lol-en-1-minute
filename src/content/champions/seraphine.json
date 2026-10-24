@@ -1,0 +1,30 @@
+{
+  "plan": "Une chanteuse mage qui protège ses alliés et charme toute une équipe avec son ultime.",
+  "genre": "f",
+  "aSurveiller": "Son R (Bis). Une onde qui charme et s'allonge à chaque champion touché : écartez-vous de la ligne.",
+  "contrer": [
+    "Écartez-vous de la ligne de son R : il s'allonge à chaque champion touché.",
+    "Engage-la : elle est fragile.",
+    "Son E immobilise si tu es déjà ralenti : évite-le."
+  ],
+  "forces": [
+    "Son R charme plusieurs ennemis.",
+    "Protège et soigne ses alliés.",
+    "Lance deux fois un sort régulièrement."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile.",
+    "Ses sorts demandent de toucher."
+  ],
+  "sorts": {
+    "P": "Tous les 3 sorts, le suivant est lancé deux fois.",
+    "Q": "Note aiguë qui blesse en zone.",
+    "W": "Bouclier et soin pour ses alliés.",
+    "E": "Ralentit ou immobilise sur une ligne.",
+    "R": "Charme sur une ligne qui s'allonge."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

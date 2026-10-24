@@ -1,0 +1,29 @@
+{
+  "plan": "Un colosse mort-vivant qui charge à travers la carte et revient brièvement à la vie après sa mort.",
+  "aSurveiller": "Son Q (Fracas meurtrier). Chargé longtemps, il projette en l'air : sors de la zone avant qu'il frappe.",
+  "contrer": [
+    "Sors de la zone de son Q avant qu'il frappe.",
+    "Après sa mort, éloigne-toi : il revient brièvement à la vie.",
+    "Écarte-toi de sa charge (R) : elle traverse la carte."
+  ],
+  "forces": [
+    "Très résistant.",
+    "Engage de loin avec son R.",
+    "Revient brièvement après sa mort."
+  ],
+  "faiblesses": [
+    "Lent.",
+    "Ses sorts se voient venir.",
+    "Peu de dégâts sur une cible."
+  ],
+  "sorts": {
+    "P": "Revient brièvement à la vie après sa mort.",
+    "Q": "Coup chargé qui projette en l'air.",
+    "W": "Bouclier qui explose.",
+    "E": "Onde qui ralentit et réduit l'armure.",
+    "R": "Charge qui traverse la carte."
+  },
+  "momentFort": "Fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

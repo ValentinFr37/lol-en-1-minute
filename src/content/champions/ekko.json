@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin du temps qui revient quelques secondes en arrière pour se soigner et esquiver.",
+  "aSurveiller": "Son R (Chronofracture). Il revient à sa position d'il y a 4 secondes en se soignant : surveille son ombre, il réapparaîtra là.",
+  "contrer": [
+    "Surveille son ombre : avec son R, il revient à cet endroit et y fait des dégâts.",
+    "Sors de la zone de son W : elle t'étourdit si elle explose avec lui dedans.",
+    "Engage-le quand son R est utilisé : il n'a plus de fuite."
+  ],
+  "forces": [
+    "Revient en arrière avec son R.",
+    "Étourdit avec son W.",
+    "Gros dégâts sur une cible."
+  ],
+  "faiblesses": [
+    "Fragile s'il rate ses sorts.",
+    "Son W met longtemps à arriver.",
+    "Peu de fuites après son R."
+  ],
+  "sorts": {
+    "P": "Au 3e coup, dégâts en plus et vitesse.",
+    "Q": "Grenade qui ralentit et revient.",
+    "W": "Zone qui étourdit après un délai.",
+    "E": "Courte ruée et attaque à distance.",
+    "R": "Revient 4 secondes en arrière en se soignant."
+  },
+  "momentFort": "Dangereux dès le niveau 6, fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

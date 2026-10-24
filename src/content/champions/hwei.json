@@ -1,0 +1,29 @@
+{
+  "plan": "Un peintre mage qui choisit parmi 9 sorts pour blesser, protéger ou contrôler à très longue portée.",
+  "aSurveiller": "Son E (Tourments). Il peut te faire fuir, t'attirer ou t'immobiliser à distance : esquive ses projectiles.",
+  "contrer": [
+    "Engage-le de près : il est fragile et a peu de fuites.",
+    "Esquive ses sorts de contrôle (E) : ils sont lents.",
+    "Sors vite de son R : la zone grandit puis explose."
+  ],
+  "forces": [
+    "Très longue portée.",
+    "Neuf sorts pour s'adapter.",
+    "Gros dégâts de zone."
+  ],
+  "faiblesses": [
+    "Fragile si on l'atteint.",
+    "Difficile à jouer.",
+    "Ses sorts demandent du temps à lancer."
+  ],
+  "sorts": {
+    "P": "Deux sorts sur une même cible déclenchent une explosion.",
+    "Q": "Sorts de dégâts : feu, éclair ou lave.",
+    "W": "Sorts utiles : vitesse, bouclier, soin.",
+    "E": "Sorts de contrôle : peur, attraction ou immobilisation.",
+    "R": "Peinture qui ralentit, grandit puis explose."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

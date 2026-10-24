@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin qui utilise le décor (eau, herbes, rochers) pour étourdir toute une équipe.",
+  "genre": "f",
+  "aSurveiller": "Son R (Tour de force suprême). Une onde qui explose sur les murs, l'eau et les herbes et étourdit autour : éloigne-toi des murs face à elle.",
+  "contrer": [
+    "Éloigne-toi des murs et des rivières : son R explose sur le décor.",
+    "Reste groupé : elle cherche les cibles isolées.",
+    "Utilise tes contrôles après son E : elle n'a plus de fuite."
+  ],
+  "forces": [
+    "Son R étourdit plusieurs ennemis.",
+    "Très mobile.",
+    "Énormes dégâts."
+  ],
+  "faiblesses": [
+    "Difficile à jouer.",
+    "Fragile face aux contrôles.",
+    "Dépend du décor."
+  ],
+  "sorts": {
+    "P": "Premier coup sur un ennemi : dégâts en plus.",
+    "Q": "Frappe avec un effet selon l'élément.",
+    "W": "Se rue et choisit un élément.",
+    "E": "Se rue sur un ennemi.",
+    "R": "Onde qui explose sur le décor et étourdit."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

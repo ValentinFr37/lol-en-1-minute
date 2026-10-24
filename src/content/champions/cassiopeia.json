@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage serpent qui empoisonne et mord sans arrêt, et pétrifie ceux qui la regardent.",
+  "genre": "f",
+  "aSurveiller": "Son R (Regard de la Méduse). Si tu lui fais face, tu es étourdi, sinon seulement ralenti : tourne-lui le dos.",
+  "contrer": [
+    "Tourne-lui le dos quand elle lance son R : de dos, tu es seulement ralenti.",
+    "Engage-la de près : elle n'a aucun sort de fuite.",
+    "Dans ses nuages (W), tu ne peux plus utiliser tes sorts de déplacement."
+  ],
+  "forces": [
+    "Énormes dégâts continus.",
+    "Son R étourdit plusieurs ennemis.",
+    "Bloque les ruées avec son W."
+  ],
+  "faiblesses": [
+    "Aucun sort de fuite.",
+    "Ne peut pas acheter de bottes.",
+    "Fragile si on l'engage."
+  ],
+  "sorts": {
+    "P": "Plus rapide grâce à sa nature de serpent.",
+    "Q": "Poison en zone qui l'accélère.",
+    "W": "Nuages qui empêchent les ruées.",
+    "E": "Morsure plus forte sur les cibles empoisonnées.",
+    "R": "Étourdit ceux qui lui font face."
+  },
+  "momentFort": "Dangereuse dès le niveau 6, très forte en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

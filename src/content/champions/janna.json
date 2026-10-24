@@ -1,0 +1,30 @@
+{
+  "plan": "Une support qui protège ses alliés avec ses boucliers et repousse tout le monde avec ses tornades.",
+  "genre": "f",
+  "aSurveiller": "Son R (Mousson). Elle repousse tous les ennemis autour d'elle puis soigne ses alliés : ne t'engage pas sur elle à ce moment-là.",
+  "contrer": [
+    "N'engage pas quand elle a son R : il repousse tout le monde.",
+    "Sa tornade (Q) grossit avant de partir : écarte-toi de sa trajectoire.",
+    "Attaque-la elle en premier : elle est fragile."
+  ],
+  "forces": [
+    "Excellents boucliers.",
+    "Son R annule les engagements.",
+    "Repousse et projette en l'air."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Peu de dégâts.",
+    "Son R se canalise et peut être interrompu."
+  ],
+  "sorts": {
+    "P": "Ses alliés vont plus vite vers elle.",
+    "Q": "Tornade qui projette en l'air.",
+    "W": "Ralentit et blesse une cible.",
+    "E": "Bouclier sur un allié ou une tourelle.",
+    "R": "Repousse les ennemis puis soigne ses alliés."
+  },
+  "momentFort": "Utile dès le début, très forte en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

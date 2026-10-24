@@ -1,0 +1,29 @@
+{
+  "plan": "Un mutant blindé qui projette ses ennemis par-dessus lui et exécute ceux qui sont trop faibles.",
+  "aSurveiller": "Son R (Règne de la terreur). Sous 25 % de vie, il t'attire et t'exécute : soigne-toi ou reste à l'écart.",
+  "contrer": [
+    "Bas en vie, reste loin de lui : son R peut t'exécuter.",
+    "Esquive sa ruée (E) : il te projette derrière lui.",
+    "Ne te bats pas autour de lui : ses jambes crachent du feu."
+  ],
+  "forces": [
+    "Exécute avec son R.",
+    "Résistant.",
+    "Gros dégâts au contact."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Facile à tenir à distance.",
+    "Son E se voit venir."
+  ],
+  "sorts": {
+    "P": "Ses jambes crachent des flammes.",
+    "Q": "Torpille qui ralentit.",
+    "W": "Tire en continu autour de lui.",
+    "E": "Fonce et projette par-dessus lui.",
+    "R": "Trépan qui exécute sous 25 % de vie."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

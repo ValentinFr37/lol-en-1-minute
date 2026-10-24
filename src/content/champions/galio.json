@@ -1,0 +1,29 @@
+{
+  "plan": "Un colosse tank qui provoque les ennemis et vole au secours de ses alliés partout sur la carte.",
+  "aSurveiller": "Son W (Bouclier de Durand). Il te provoque et te force à marcher vers lui : ne reste pas collé à lui.",
+  "contrer": [
+    "Éloigne-toi quand il canalise son W : la provocation touche autour de lui.",
+    "Les dégâts physiques le blessent plus : il résiste surtout à la magie.",
+    "Surveille son R : il peut atterrir à côté d'un allié n'importe où."
+  ],
+  "forces": [
+    "Très résistant aux dégâts magiques.",
+    "Provoque plusieurs ennemis.",
+    "Son R aide un allié à distance."
+  ],
+  "faiblesses": [
+    "Moins résistant aux dégâts physiques.",
+    "Lent quand il canalise.",
+    "Peu de dégâts s'il joue tank."
+  ],
+  "sorts": {
+    "P": "Régulièrement, une attaque qui blesse en zone.",
+    "Q": "Tornade qui blesse sur la durée.",
+    "W": "Réduit les dégâts magiques, puis provoque.",
+    "E": "Recule et charge en projetant en l'air.",
+    "R": "Vole jusqu'à un allié et projette en l'air à l'arrivée."
+  },
+  "momentFort": "Dangereux dès le niveau 6 avec son R.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

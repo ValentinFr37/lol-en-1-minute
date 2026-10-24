@@ -1,0 +1,29 @@
+{
+  "plan": "Un général démoniaque qui attire ses ennemis et draine leur vie pour devenir presque increvable en combat.",
+  "aSurveiller": "Son E (Capture). La vague revient vers lui et immobilise : écarte-toi de son retour, puis il t'attire vers lui.",
+  "contrer": [
+    "Esquive son E à l'aller comme au retour : il immobilise.",
+    "Recule pendant son R : il se soigne tant qu'il est près de vous.",
+    "Achète un objet anti-soins : il draine beaucoup de vie."
+  ],
+  "forces": [
+    "Très résistant en combat.",
+    "Draine la vie avec son R.",
+    "Immobilise avec son E."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Facile à tenir à distance.",
+    "Son E se voit venir."
+  ],
+  "sorts": {
+    "P": "Ses corbeaux récoltent des âmes qui le soignent.",
+    "Q": "Rafale de projectiles en cône.",
+    "W": "Œil à distance qui ralentit et révèle.",
+    "E": "Vague qui revient et immobilise.",
+    "R": "Se transforme et draine la vie autour de lui."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

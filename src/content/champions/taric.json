@@ -1,0 +1,29 @@
+{
+  "plan": "Un support protecteur qui étourdit les ennemis et rend son équipe invincible quelques secondes.",
+  "aSurveiller": "Son R (Lumière cosmique). Après un court délai, ses alliés proches deviennent invulnérables : recule et attends la fin.",
+  "contrer": [
+    "Quand il lance son R, recule : ses alliés deviennent invulnérables.",
+    "Esquive son E : le rayon étourdit après un délai.",
+    "Attaque-le en premier : il est lent et dépend de ses alliés."
+  ],
+  "forces": [
+    "Rend son équipe invulnérable.",
+    "Étourdit avec son E.",
+    "Résistant."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Lent.",
+    "Son E se voit venir."
+  ],
+  "sorts": {
+    "P": "Après un sort, ses attaques suivantes sont renforcées.",
+    "Q": "Soigne ses alliés proches.",
+    "W": "Lien avec un allié qui copie ses sorts.",
+    "E": "Rayon qui étourdit après un délai.",
+    "R": "Rend les alliés proches invulnérables."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

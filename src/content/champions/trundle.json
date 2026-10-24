@@ -1,0 +1,29 @@
+{
+  "plan": "Un troll qui vole la force de ses ennemis et bloque leur fuite avec un pilier de glace.",
+  "aSurveiller": "Son R (Soumission). Il vole ta vie et tes résistances : face à lui après ça, tu deviens beaucoup plus fragile.",
+  "contrer": [
+    "Contourne son pilier (E) : il bloque le passage et ralentit.",
+    "Ne te bats pas sur sa zone de glace (W) : il y devient plus fort.",
+    "Recule après son R : il t'a volé tes résistances."
+  ],
+  "forces": [
+    "Très fort contre les tanks.",
+    "Bloque avec son pilier.",
+    "Prend vite les tours."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Facile à tenir à distance.",
+    "Peu de dégâts de zone."
+  ],
+  "sorts": {
+    "P": "Se soigne quand un ennemi meurt près de lui.",
+    "Q": "Morsure qui ralentit et vole des dégâts.",
+    "W": "Zone de glace qui le renforce.",
+    "E": "Pilier qui bloque et ralentit.",
+    "R": "Vole vie et résistances d'un ennemi."
+  },
+  "momentFort": "Fort en début et milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

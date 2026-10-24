@@ -1,0 +1,29 @@
+{
+  "plan": "Un tank support qui s'accroche à sa cible avec son ancre et l'immobilise encore et encore.",
+  "aSurveiller": "Son Q (Abordage). Son ancre te tire vers lui : reste derrière tes sbires, elle s'arrête sur le premier touché.",
+  "contrer": [
+    "Reste derrière tes sbires : son ancre (Q) s'arrête sur le premier touché.",
+    "Son R te poursuit : essaie de mettre un allié entre vous.",
+    "Sa première attaque t'immobilise : garde tes distances."
+  ],
+  "forces": [
+    "Beaucoup d'immobilisations.",
+    "Très résistant.",
+    "Son R poursuit une cible."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Dépend de son ancre.",
+    "Peu mobile."
+  ],
+  "sorts": {
+    "P": "Sa première attaque immobilise.",
+    "Q": "Ancre qui tire les deux l'un vers l'autre.",
+    "W": "Bouclier et dégâts en plus.",
+    "E": "Vagues qui ralentissent.",
+    "R": "Onde qui poursuit et projette en l'air."
+  },
+  "momentFort": "Dangereux dès le niveau 2.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

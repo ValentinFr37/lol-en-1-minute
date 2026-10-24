@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage enchaîné qui vole l'ultime de ses ennemis et le retourne contre eux.",
+  "aSurveiller": "Son R (Détournement). Il vole ton ultime : s'il est puissant, attends-toi à le voir revenir contre ton équipe.",
+  "contrer": [
+    "Surveille quel ultime il vole (R) : il peut l'utiliser contre vous.",
+    "Il se soigne avec son W : achète un objet anti-soins.",
+    "Esquive sa chaîne (E) : elle l'amène sur toi et te projette."
+  ],
+  "forces": [
+    "Vole les ultimes ennemis.",
+    "Se soigne beaucoup.",
+    "Très mobile avec son E."
+  ],
+  "faiblesses": [
+    "Fragile s'il est contrôlé.",
+    "Doit être au contact.",
+    "Dépend de l'ultime qu'il vole."
+  ],
+  "sorts": {
+    "P": "Après un sort, ses attaques touchent en zone.",
+    "Q": "Chaînes croisées qui ralentissent.",
+    "W": "Se jette sur un ennemi et se soigne.",
+    "E": "Ruée, puis chaîne qui le tire et projette en l'air.",
+    "R": "Vole l'ultime d'un ennemi."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

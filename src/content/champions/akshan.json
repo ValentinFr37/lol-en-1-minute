@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur mobile qui se balance autour des murs et ressuscite ses alliés en tuant leur meurtrier.",
+  "aSurveiller": "Son R (Bien mérité !). Il charge une rafale de balles qui fait plus de dégâts si tu es blessé : bloque la ligne avec un allié ou un sbire.",
+  "contrer": [
+    "Mets un sbire ou un allié entre lui et toi pendant son R : les balles touchent la première cible.",
+    "Ne tue pas un allié et reste ensuite près de lui : s'il te tue, l'allié revient à la vie.",
+    "Ralentis-le avant qu'il s'accroche à un mur (E)."
+  ],
+  "forces": [
+    "Très mobile grâce à son grappin (E).",
+    "Ressuscite ses alliés en tuant leur meurtrier.",
+    "Achève les cibles blessées avec son R."
+  ],
+  "faiblesses": [
+    "Courte portée pour un tireur.",
+    "Fragile s'il se fait attraper.",
+    "Moins fort en fin de partie."
+  ],
+  "sorts": {
+    "P": "Tous les 3 coups, dégâts en plus et bouclier.",
+    "Q": "Boomerang qui blesse à l'aller et au retour.",
+    "W": "Marque les meurtriers de ses alliés ; il devient camouflé.",
+    "E": "Se balance autour d'un mur en tirant.",
+    "R": "Rafale de balles plus forte sur une cible blessée."
+  },
+  "momentFort": "Fort en milieu de partie, dangereux pour achever dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

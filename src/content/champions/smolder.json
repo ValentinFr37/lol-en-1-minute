@@ -1,0 +1,29 @@
+{
+  "plan": "Un dragonnet tireur qui gagne de la puissance à chaque cumul et brûle tout en fin de partie.",
+  "aSurveiller": "Son Q (Boule de feu draconique). Il devient plus puissant au fil des cumuls : à 225, il exécute les cibles blessées.",
+  "contrer": [
+    "Engage-le tôt : il a besoin de cumuls pour être fort.",
+    "Ralentis-le avant son E : c'est sa seule fuite.",
+    "Évite son R : sa mère le soigne s'il se place dessous."
+  ],
+  "forces": [
+    "Puissance qui augmente sans limite.",
+    "Fuit avec son E.",
+    "Son R traverse la carte."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Peu mobile.",
+    "Dépend de ses cumuls."
+  ],
+  "sorts": {
+    "P": "Gagne des cumuls qui renforcent ses sorts.",
+    "Q": "Boule de feu qui évolue avec les cumuls.",
+    "W": "Éternuement qui explose.",
+    "E": "S'envole au-dessus des murs.",
+    "R": "Sa mère crache du feu sur une ligne."
+  },
+  "momentFort": "Faible au début, très fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

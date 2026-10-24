@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse qui bloque un sort avec son bouclier et accélère toute son équipe.",
+  "genre": "f",
+  "aSurveiller": "Son E (Bouclier magique). Il bloque un sort : lance d'abord un petit sort, puis ton gros sort.",
+  "contrer": [
+    "Lance un petit sort pour lui faire utiliser son bouclier (E), puis ton gros sort.",
+    "Engage-la : elle a peu de fuites.",
+    "Son R accélère toute son équipe : recule quand elle l'active."
+  ],
+  "forces": [
+    "Bloque un sort.",
+    "Son R accélère toute l'équipe.",
+    "Dégâts de zone qui rebondissent."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Fragile.",
+    "Dépend de son bouclier."
+  ],
+  "sorts": {
+    "P": "Plus rapide en attaquant.",
+    "Q": "Lame boomerang.",
+    "W": "Attaques qui rebondissent.",
+    "E": "Bloque un sort.",
+    "R": "Accélère toute l'équipe."
+  },
+  "momentFort": "Forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

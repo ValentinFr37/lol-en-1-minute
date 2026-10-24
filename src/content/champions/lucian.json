@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur très agressif qui tire deux fois après chaque sort et domine le début de partie.",
+  "aSurveiller": "Son E (Poursuite inlassable). Sa ruée revient très vite : il peut t'atteindre ou fuir plusieurs fois.",
+  "contrer": [
+    "Évite les échanges en début de partie : il est très fort tôt.",
+    "Ses dégâts chutent en fin de partie : fais durer la partie.",
+    "Ne reste pas dans la ligne de son R : écarte-toi sur le côté."
+  ],
+  "forces": [
+    "Très fort en début de partie.",
+    "Très mobile avec son E.",
+    "Double tir après chaque sort."
+  ],
+  "faiblesses": [
+    "Courte portée pour un tireur.",
+    "Moins fort en fin de partie.",
+    "Dépend de ses sorts."
+  ],
+  "sorts": {
+    "P": "Après chaque sort, sa prochaine attaque tire deux fois.",
+    "Q": "Rayon qui transperce.",
+    "W": "Explosion en étoile qui révèle.",
+    "E": "Courte ruée qui revient vite.",
+    "R": "Rafale de balles en ligne."
+  },
+  "momentFort": "Très fort en début et milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

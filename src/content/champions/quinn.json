@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse accompagnée d'un aigle qui aveugle sa cible et repousse ceux qui l'attaquent.",
+  "genre": "f",
+  "aSurveiller": "Son E (Salto). Elle te repousse et te ralentit dès que tu t'approches : prévois plusieurs moyens de la rejoindre.",
+  "contrer": [
+    "Prévois deux moyens de la rejoindre : son E repousse le premier.",
+    "Son Q t'aveugle : tes attaques ratent, utilise tes sorts.",
+    "Quand elle vole (R), elle est fragile au contact."
+  ],
+  "forces": [
+    "Très mobile avec son R.",
+    "Repousse avec son E.",
+    "Gros dégâts en duel."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Courte portée.",
+    "Faible si on la rattrape."
+  ],
+  "sorts": {
+    "P": "Valor marque les ennemis ; attaque suivante renforcée.",
+    "Q": "Valor aveugle une cible.",
+    "W": "Vitesse et vision.",
+    "E": "Salto qui repousse et ralentit.",
+    "R": "S'envole avec Valor à grande vitesse."
+  },
+  "momentFort": "Forte en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

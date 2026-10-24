@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin qui disparaît dans sa fumée et enchaîne les ruées pour achever ses cibles.",
+  "genre": "f",
+  "aSurveiller": "Son W (Linceul nébuleux). Dans sa fumée, elle est invisible : utilise une balise de contrôle ou un sort de zone pour la toucher.",
+  "contrer": [
+    "Garde une balise de contrôle pour sa fumée (W) : elle révèle Akali.",
+    "Les tourelles la voient dans sa fumée : bats-toi près d'elles.",
+    "Après son E et son R, elle ne peut plus s'échapper : utilise tes contrôles."
+  ],
+  "forces": [
+    "Invisible dans sa fumée.",
+    "Très mobile avec son E et son R.",
+    "Énormes dégâts sur une cible."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Dépend de l'énergie : elle s'épuise vite.",
+    "Faible si elle prend du retard."
+  ],
+  "sorts": {
+    "P": "Toucher un champion crée un cercle ; en sortir renforce son attaque.",
+    "Q": "Lance des kunais en éventail qui ralentissent au bout.",
+    "W": "Fumée qui la rend invisible.",
+    "E": "Salto arrière et shuriken ; elle peut foncer sur la cible touchée.",
+    "R": "Deux ruées : la seconde achève selon la vie manquante."
+  },
+  "momentFort": "Dangereuse dès le niveau 6, très forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

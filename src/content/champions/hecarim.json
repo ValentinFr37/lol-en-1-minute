@@ -1,0 +1,29 @@
+{
+  "plan": "Un cavalier spectral qui fonce à toute vitesse sur sa cible et la repousse vers son équipe.",
+  "aSurveiller": "Son E (Charge dévastatrice). Il prend de la vitesse et sa prochaine attaque te repousse : garde un sort de fuite quand il charge.",
+  "contrer": [
+    "Ralentis-le : plus il va vite, plus il fait de dégâts.",
+    "Garde un sort pour sa charge (E) : elle te repousse vers son équipe.",
+    "Écartez-vous quand il lance son R : il effraie tous les ennemis proches."
+  ],
+  "forces": [
+    "Très rapide.",
+    "Repousse et effraie.",
+    "Se soigne avec son W."
+  ],
+  "faiblesses": [
+    "Vulnérable aux ralentissements.",
+    "Peu d'échappatoire après son E.",
+    "Moins fort contre les équipes groupées."
+  ],
+  "sorts": {
+    "P": "Plus de dégâts avec sa vitesse bonus.",
+    "Q": "Tranche autour de lui.",
+    "W": "Résistances et soin en blessant.",
+    "E": "Gagne de la vitesse ; la prochaine attaque repousse.",
+    "R": "Charge avec ses cavaliers et effraie les ennemis."
+  },
+  "momentFort": "Dangereux dès le niveau 6, très fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

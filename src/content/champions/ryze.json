@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage runique qui enchaîne ses sorts très vite et peut téléporter son équipe.",
+  "aSurveiller": "Son W (Prison runique). Il te ralentit ou t'immobilise si tu es marqué : esquive son E qui marque.",
+  "contrer": [
+    "Engage-le quand ses sorts sont en récupération.",
+    "Évite son E : la marque permet à son W de t'immobiliser.",
+    "Surveille son R : il peut téléporter son équipe."
+  ],
+  "forces": [
+    "Gros dégâts continus.",
+    "Téléporte son équipe.",
+    "Immobilise avec son W."
+  ],
+  "faiblesses": [
+    "Difficile à jouer.",
+    "Faible en début de partie.",
+    "Peu mobile."
+  ],
+  "sorts": {
+    "P": "Plus de dégâts grâce à son mana.",
+    "Q": "Projectile qui se recharge avec ses autres sorts.",
+    "W": "Ralentit ou immobilise une cible marquée.",
+    "E": "Orbe qui marque.",
+    "R": "Portail qui téléporte les alliés."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin invisible qui surgit dans le dos des joueurs isolés et les charme.",
+  "genre": "f",
+  "aSurveiller": "Son W (Séduction). Il te maudit puis te charme si elle te touche : achète une balise de contrôle pour la voir venir.",
+  "contrer": [
+    "Achète une balise de contrôle : elle révèle Evelynn camouflée.",
+    "Joue près de tes alliés dès qu'elle atteint le niveau 6.",
+    "Quand elle lance son R, elle se téléporte en arrière : ne la poursuis pas sans vision."
+  ],
+  "forces": [
+    "Invisible dès le niveau 6.",
+    "Énormes dégâts sur une cible.",
+    "Son R achève et la met à l'abri."
+  ],
+  "faiblesses": [
+    "Faible avant le niveau 6.",
+    "Vulnérable aux balises de contrôle.",
+    "Fragile si on l'attrape."
+  ],
+  "sorts": {
+    "P": "Camouflée hors combat dès le niveau 6 ; se soigne.",
+    "Q": "Piques qui blessent la première cible.",
+    "W": "Maudit puis charme sa cible.",
+    "E": "Coup de fouet ; elle gagne de la vitesse.",
+    "R": "Ravage une zone et recule ; plus fort sur les cibles blessées."
+  },
+  "momentFort": "Faible avant le niveau 6, très dangereuse ensuite.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

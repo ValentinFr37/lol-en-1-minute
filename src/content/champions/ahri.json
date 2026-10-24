@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage renarde très mobile qui charme sa cible pour l'éliminer d'un combo.",
+  "genre": "f",
+  "aSurveiller": "Son E (Charme). Il te fait marcher vers elle sans pouvoir agir : reste derrière tes sbires, il s'arrête sur le premier touché.",
+  "contrer": [
+    "Reste derrière tes sbires : son charme (E) s'arrête sur le premier ennemi touché.",
+    "Engage-la quand son R est utilisé : ses 3 ruées sont sa seule vraie fuite.",
+    "Esquive le retour de son orbe (Q) : il fait des dégâts bruts."
+  ],
+  "forces": [
+    "Très mobile avec ses 3 ruées (R).",
+    "Son charme lance des combats.",
+    "Harcèle bien avec son orbe."
+  ],
+  "faiblesses": [
+    "Fragile si son charme rate.",
+    "Dépend de son R pour fuir.",
+    "Ses sorts sont visibles et esquivables."
+  ],
+  "sorts": {
+    "P": "Se soigne après avoir tué des sbires ou des champions.",
+    "Q": "Orbe qui part et revient ; le retour fait des dégâts bruts.",
+    "W": "Trois lucioles attaquent les ennemis proches.",
+    "E": "Baiser qui charme le premier ennemi touché.",
+    "R": "Trois ruées qui tirent sur les ennemis proches."
+  },
+  "momentFort": "Dangereuse dès le niveau 6 avec son R.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

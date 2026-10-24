@@ -1,0 +1,29 @@
+{
+  "plan": "Un rat tireur qui se rend invisible pour surprendre ses ennemis et tire à travers toute une équipe.",
+  "aSurveiller": "Son Q (Embuscade). Il devient invisible et surgit : achète une balise de contrôle pour le révéler.",
+  "contrer": [
+    "Achète une balise de contrôle : elle révèle son Q.",
+    "Engage-le : il est très fragile.",
+    "Écartez-vous en ligne : son R traverse toute l'équipe."
+  ],
+  "forces": [
+    "Invisible avec son Q.",
+    "Son R touche plusieurs ennemis.",
+    "Poison qui affaiblit."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Peu mobile.",
+    "Faible en début de partie."
+  ],
+  "sorts": {
+    "P": "Ses attaques empoisonnent.",
+    "Q": "Devient invisible et plus rapide.",
+    "W": "Fiole qui ralentit.",
+    "E": "Fait exploser le poison.",
+    "R": "Tirs à longue portée qui transpercent."
+  },
+  "momentFort": "Fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler arbre pacifique qui protège ses alliés et immobilise les ennemis avec ses racines.",
+  "aSurveiller": "Son Q (Enracinement). Il t'immobilise et ses alliés peuvent bondir sur toi : reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : son Q s'arrête sur le premier touché.",
+    "Tue Marguerite (R) en priorité si elle frappe tes alliés : elle les projette en l'air.",
+    "Il ne fait presque pas de dégâts : concentre-toi sur ses alliés."
+  ],
+  "forces": [
+    "Protège bien ses alliés avec son E.",
+    "Son Q permet à ses alliés de bondir.",
+    "Marguerite projette en l'air."
+  ],
+  "faiblesses": [
+    "Très peu de dégâts.",
+    "Fragile s'il est seul.",
+    "Dépend de ses alliés."
+  ],
+  "sorts": {
+    "P": "Nettoie les camps de la jungle sans les combattre.",
+    "Q": "Racine qui immobilise ; les alliés peuvent bondir dessus.",
+    "W": "Fait pousser des buissons.",
+    "E": "Bouclier qui explose et ralentit.",
+    "R": "Invoque Marguerite, qui projette en l'air."
+  },
+  "momentFort": "Utile toute la partie, surtout en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

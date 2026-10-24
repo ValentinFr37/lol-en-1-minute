@@ -1,0 +1,29 @@
+{
+  "plan": "Un exorciste qui marque ses cibles avec des clous et peut achever les ennemis affaiblis avec son ultime.",
+  "aSurveiller": "Son R (Purgatoire). Il lance un artefact qui peut exécuter les ennemis touchés : quand tu es bas en vie, éloigne-toi.",
+  "contrer": [
+    "Bas en vie, recule : son R peut t'exécuter.",
+    "Esquive ses clous (Q) : ils te marquent pour ses attaques.",
+    "Pendant son W, il se blesse lui-même : attends qu'il ait perdu de la vie pour l'engager."
+  ],
+  "forces": [
+    "Achève les cibles blessées.",
+    "Très mobile avec son E.",
+    "Vitesse d'attaque avec son W."
+  ],
+  "faiblesses": [
+    "Se blesse avec son W.",
+    "Fragile si on l'attrape.",
+    "Dépend de ses marques."
+  ],
+  "sorts": {
+    "P": "Ses attaques font plus mal sur les cibles blessées.",
+    "Q": "Clous qui marquent les ennemis.",
+    "W": "Vitesse en échange de vie, soin ensuite.",
+    "E": "Se téléporte puis fonce sur sa cible.",
+    "R": "Artefact qui peut exécuter les ennemis."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

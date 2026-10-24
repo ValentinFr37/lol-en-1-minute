@@ -1,0 +1,29 @@
+{
+  "plan": "Un arbre tank qui fonce sur sa cible et immobilise toute une équipe avec son mur de ronces.",
+  "aSurveiller": "Son W (Croissance torturée). Il fonce sur toi en étant intouchable et t'immobilise : garde ta fuite pour après.",
+  "contrer": [
+    "Ses arbrisseaux (E) explosent quand tu marches dessus : évite les buissons.",
+    "Garde un sort de fuite pour après son W.",
+    "Écartez-vous de son R : il immobilise tous ceux touchés."
+  ],
+  "forces": [
+    "Très résistant.",
+    "Beaucoup d'immobilisations.",
+    "Son R contrôle une zone."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Peu mobile seul.",
+    "Faible si on l'ignore."
+  ],
+  "sorts": {
+    "P": "Ses attaques le soignent régulièrement.",
+    "Q": "Onde qui repousse et ralentit.",
+    "W": "Fonce sur une cible et l'immobilise.",
+    "E": "Arbrisseau qui explose.",
+    "R": "Mur de ronces qui avance et immobilise."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

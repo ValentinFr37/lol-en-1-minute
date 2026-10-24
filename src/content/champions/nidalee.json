@@ -1,0 +1,30 @@
+{
+  "plan": "Une chasseresse qui harcèle avec ses javelots puis se transforme en couguar pour bondir sur sa proie.",
+  "genre": "f",
+  "aSurveiller": "Son Q (Javelot). Il fait d'autant plus mal qu'il vient de loin : reste derrière tes sbires, il s'arrête sur le premier touché.",
+  "contrer": [
+    "Reste derrière tes sbires : son javelot (Q) s'arrête sur le premier touché.",
+    "Si un javelot te touche, recule : elle peut bondir plus loin sur toi en couguar.",
+    "Évite ses pièges (W) dans les buissons : ils te révèlent."
+  ],
+  "forces": [
+    "Javelots qui font très mal de loin.",
+    "Très mobile en couguar.",
+    "Se soigne et soigne ses alliés."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Difficile à jouer.",
+    "Moins forte en fin de partie."
+  ],
+  "sorts": {
+    "P": "Plus rapide dans les buissons ; marque les cibles chassées.",
+    "Q": "Javelot plus fort de loin ; coup puissant en couguar.",
+    "W": "Piège qui révèle ; bond en couguar.",
+    "E": "Soigne un allié ; coup en zone en couguar.",
+    "R": "Se transforme en couguar."
+  },
+  "momentFort": "Très forte en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un prophète du Néant qui bloque sa cible avec son ultime pendant que ses créatures la dévorent.",
+  "aSurveiller": "Son R (Poigne du Néant). Il te bloque sur place plusieurs secondes : un allié peut l'interrompre avec un contrôle.",
+  "contrer": [
+    "Brise son bouclier passif avant d'engager : il bloque les contrôles.",
+    "Interromps son R avec un contrôle : il doit le canaliser.",
+    "Achète un objet qui annule les contrôles : son R peut alors être évité."
+  ],
+  "forces": [
+    "Bloque une cible avec son R.",
+    "Bouclier qui bloque un contrôle.",
+    "Très bon pour tenir sa ligne."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Son R s'interrompt.",
+    "Faible si son bouclier est brisé."
+  ],
+  "sorts": {
+    "P": "Bouclier qui bloque dégâts et contrôles.",
+    "Q": "Portails qui réduisent au silence.",
+    "W": "Invoque des créatures du Néant.",
+    "E": "Malédiction qui se propage.",
+    "R": "Bloque une cible sur place."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

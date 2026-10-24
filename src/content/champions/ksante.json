@@ -1,0 +1,29 @@
+{
+  "plan": "Un tank qui peut repousser sa cible à travers un mur puis abandonner sa défense pour la frapper très fort.",
+  "aSurveiller": "Son R (Grand jeu). Il te repousse à travers un mur et te poursuit en abandonnant sa défense : il devient fragile, profites-en.",
+  "contrer": [
+    "Pendant son R, il est moins résistant : concentre tes dégâts sur lui.",
+    "Ne reste pas près des murs : son R peut t'isoler de ton équipe.",
+    "Évite son 3e Q : il t'attire vers lui."
+  ],
+  "forces": [
+    "Très résistant.",
+    "Peut isoler une cible avec son R.",
+    "Beaucoup de contrôles."
+  ],
+  "faiblesses": [
+    "Fragile pendant son R.",
+    "Difficile à jouer.",
+    "Moins de dégâts en forme normale."
+  ],
+  "sorts": {
+    "P": "Ses sorts marquent ; attaque suivante plus forte.",
+    "Q": "Frappe en ligne ; au 3e, attire les ennemis.",
+    "W": "Charge, puis repousse et étourdit.",
+    "E": "Se rue avec un bouclier.",
+    "R": "Repousse à travers un mur et devient offensif."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage du temps qui étourdit avec ses bombes et ramène un allié à la vie avec son ultime.",
+  "aSurveiller": "Son R (Retour temporel). Un allié qui meurt revient à la vie : ne t'engage pas trop loin pour l'achever.",
+  "contrer": [
+    "Attends que son R soit utilisé avant d'éliminer sa cible.",
+    "Écarte-toi d'un allié qui porte sa bombe (Q) : deux bombes étourdissent.",
+    "Engage-le : il est fragile."
+  ],
+  "forces": [
+    "Ramène un allié à la vie.",
+    "Étourdit avec deux bombes.",
+    "Ralentit ou accélère."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu de dégâts sans ses bombes.",
+    "Dépend de ses alliés."
+  ],
+  "sorts": {
+    "P": "Donne de l'expérience à ses alliés.",
+    "Q": "Bombe qui étourdit si une autre la rejoint.",
+    "W": "Réduit la récupération de ses sorts.",
+    "E": "Ralentit un ennemi ou accélère un allié.",
+    "R": "Ramène un allié à la vie."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

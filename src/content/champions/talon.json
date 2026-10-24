@@ -1,0 +1,29 @@
+{
+  "plan": "Un assassin qui saute par-dessus les murs et élimine les cibles isolées en quelques secondes.",
+  "aSurveiller": "Son R (Assaut ténébreux). Il devient invisible et ses lames reviennent vers lui : regroupe-toi dès qu'il disparaît.",
+  "contrer": [
+    "Reste groupé : il cherche les cibles isolées.",
+    "Surveille les murs : son E le fait sauter par-dessus.",
+    "Achète un objet d'armure : il fait des dégâts physiques."
+  ],
+  "forces": [
+    "Énormes dégâts sur une cible.",
+    "Saute par-dessus les murs.",
+    "Devient invisible avec son R."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu de contrôles.",
+    "Faible si on reste groupé."
+  ],
+  "sorts": {
+    "P": "Après 3 cumuls, sa cible saigne fortement.",
+    "Q": "Poignarde une cible.",
+    "W": "Lames qui reviennent et ralentissent.",
+    "E": "Saute par-dessus n'importe quel mur.",
+    "R": "Lames autour de lui et invisibilité."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

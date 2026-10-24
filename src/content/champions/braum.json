@@ -1,0 +1,30 @@
+{
+  "plan": "Un support protecteur qui bloque les projectiles avec son bouclier et étourdit à coups de poing.",
+  "aSurveiller": "Son passif (Coups étourdissants). Au 4e coup de ses alliés et de lui, tu es étourdi : éloigne-toi dès que la marque apparaît.",
+  "menace": "P",
+  "contrer": [
+    "Quand la marque de son passif apparaît sur toi, recule avant le 4e coup.",
+    "Ne tire pas dans son bouclier (E) : il bloque les projectiles.",
+    "Attaque par le côté : son bouclier ne protège que dans une direction."
+  ],
+  "forces": [
+    "Protège ses alliés avec son bouclier.",
+    "Étourdit avec son passif.",
+    "Son R projette en l'air sur une ligne."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Son bouclier ne bloque qu'une direction.",
+    "Peu mobile seul."
+  ],
+  "sorts": {
+    "P": "Au 4e coup, la cible est étourdie.",
+    "Q": "Éclat de glace qui ralentit.",
+    "W": "Bondit vers un allié et le protège.",
+    "E": "Bouclier qui bloque les projectiles.",
+    "R": "Fissure qui projette en l'air et ralentit."
+  },
+  "momentFort": "Dangereux dès le niveau 2, utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

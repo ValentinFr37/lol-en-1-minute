@@ -1,0 +1,30 @@
+{
+  "plan": "Une demi-dragonne qui se transforme en dragon pour brûler et repousser ses ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son R (Vol du dragon). Elle se transforme et repousse les ennemis sur son passage : écarte-toi de sa trajectoire.",
+  "contrer": [
+    "Écarte-toi de son R : elle te repousse vers son équipe.",
+    "Évite son E en forme de dragon : il laisse une zone qui brûle.",
+    "Ralentis-la : elle dépend de sa vitesse."
+  ],
+  "forces": [
+    "Puissante en forme de dragon.",
+    "Repousse avec son R.",
+    "Très bonne pour prendre les dragons."
+  ],
+  "faiblesses": [
+    "Peu de contrôles.",
+    "Facile à tenir à distance.",
+    "Dépend de sa forme."
+  ],
+  "sorts": {
+    "P": "Gagne de la résistance en éliminant.",
+    "Q": "Attaque renforcée qui touche autour.",
+    "W": "Bouclier, vitesse, puis explosion.",
+    "E": "Boule de feu qui ralentit.",
+    "R": "Se transforme en dragon et repousse."
+  },
+  "momentFort": "Forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

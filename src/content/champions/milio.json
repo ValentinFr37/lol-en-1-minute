@@ -1,0 +1,29 @@
+{
+  "plan": "Un support enchanteur qui soigne, protège et retire les contrôles de ses alliés.",
+  "aSurveiller": "Son R (Flammes vitales). Il soigne ses alliés et retire tous leurs contrôles : lance tes contrôles après son R.",
+  "contrer": [
+    "Lance tes contrôles après son R : il les retire.",
+    "Engage-le : il est très fragile.",
+    "Sa boule de feu (Q) te repousse : évite-la."
+  ],
+  "forces": [
+    "Retire les contrôles.",
+    "Soigne et protège.",
+    "Augmente la portée de ses alliés."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Peu de dégâts.",
+    "Dépend de ses alliés."
+  ],
+  "sorts": {
+    "P": "Ses sorts renforcent les attaques de ses alliés.",
+    "Q": "Boule de feu qui repousse et ralentit.",
+    "W": "Zone de soin et de portée.",
+    "E": "Bouclier et vitesse.",
+    "R": "Soigne et retire les contrôles."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une petite tireuse qui saute sur ses ennemis et fait exploser sa charge sur sa cible.",
+  "genre": "f",
+  "aSurveiller": "Son E (Charge explosive). La bombe explose sur toi après quelques attaques : recule quand elle grossit sur toi.",
+  "contrer": [
+    "Recule quand sa bombe (E) est sur toi : elle explose bientôt.",
+    "Contrôle-la après son W : c'est sa seule fuite.",
+    "Engage-la tôt : sa portée augmente avec les niveaux."
+  ],
+  "forces": [
+    "Très forte en fin de partie.",
+    "Saute avec son W.",
+    "Pousse vite les tours."
+  ],
+  "faiblesses": [
+    "Fragile en début de partie.",
+    "Dépend de son W pour fuir.",
+    "Peu de contrôles."
+  ],
+  "sorts": {
+    "P": "Sa portée augmente avec les niveaux.",
+    "Q": "Grosse vitesse d'attaque.",
+    "W": "Saut qui ralentit à l'arrivée.",
+    "E": "Bombe qui explose après quelques attaques.",
+    "R": "Boulet qui repousse un ennemi."
+  },
+  "momentFort": "Forte en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un guerrier divin qui étourdit sa cible et tombe du ciel avec son ultime.",
+  "aSurveiller": "Son W (Assaut martial). Il bondit sur toi et t'étourdit, puis enchaîne : garde tes distances en début de partie.",
+  "contrer": [
+    "Ne te bats pas contre lui en début de partie : il est très fort tôt.",
+    "Son bouclier (E) bloque les attaques de face : attaque-le par derrière.",
+    "Quand une zone rouge apparaît au sol, éloigne-toi : il va y atterrir."
+  ],
+  "forces": [
+    "Très fort en début de partie.",
+    "Étourdit avec son W.",
+    "Son R engage de très loin."
+  ],
+  "faiblesses": [
+    "Moins fort en fin de partie.",
+    "Son R se voit venir.",
+    "Peu de fuites."
+  ],
+  "sorts": {
+    "P": "Après quelques sorts ou attaques, son prochain sort est renforcé.",
+    "Q": "Coup ou lancer de lance.",
+    "W": "Bondit et étourdit.",
+    "E": "Bouclier qui bloque les attaques de face.",
+    "R": "Saute et atterrit tel un météore."
+  },
+  "momentFort": "Très fort en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un guerrier Darkin qui frappe fort, devient plus coriace en combat et peut revenir de la mort.",
+  "aSurveiller": "Son R (Libération inexorable). Il s'élève puis plonge sur toi : écarte-toi de la zone d'atterrissage.",
+  "contrer": [
+    "Écarte-toi de la zone d'atterrissage de son R.",
+    "Achète un objet anti-soins : il se soigne en combat.",
+    "Garde un contrôle pour l'arrêter."
+  ],
+  "forces": [
+    "Très fort en duel.",
+    "Se renforce en combat.",
+    "Engage avec son R."
+  ],
+  "faiblesses": [
+    "Doit être au contact.",
+    "Vulnérable aux contrôles.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Se renforce en touchant les champions.",
+    "Q": "Attaque qui frappe deux fois.",
+    "W": "Coup d'estoc qui revient.",
+    "E": "Ruée et taillade autour de lui.",
+    "R": "Plonge sur une zone."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

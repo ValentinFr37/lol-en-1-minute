@@ -1,0 +1,29 @@
+{
+  "plan": "Un blob gélatineux qui se catapulte de très loin pour projeter en l'air toute une équipe.",
+  "aSurveiller": "Son E (Fronde). Il charge son élan et saute de très loin : quand il s'étire, écartez-vous de la zone d'arrivée.",
+  "contrer": [
+    "Quand il s'étire pour sauter (E), écartez-vous de la zone d'arrivée.",
+    "Écrase ses petits morceaux : ils le soignent.",
+    "Interromps son E avec un contrôle pendant qu'il se charge."
+  ],
+  "forces": [
+    "Engage de très loin.",
+    "Très résistant.",
+    "Revient à la vie avec son passif."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Son E s'interrompt.",
+    "Dépend de ses morceaux."
+  ],
+  "sorts": {
+    "P": "Perd des morceaux qui le soignent ; peut se reformer.",
+    "Q": "Attrape et projette deux ennemis.",
+    "W": "Explosion selon la vie max.",
+    "E": "Saut chargé de très loin.",
+    "R": "Rebondit et projette en l'air."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

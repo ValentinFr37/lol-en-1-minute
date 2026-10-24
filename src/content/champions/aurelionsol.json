@@ -1,0 +1,29 @@
+{
+  "plan": "Un dragon mage qui gagne de la puissance au fil de la partie et peut s'envoler au-dessus des murs.",
+  "aSurveiller": "Son R (Étoile finale). Il fait tomber une étoile qui étourdit : ne restez pas groupés dans la zone marquée.",
+  "contrer": [
+    "Harcèle-le en début de partie : il a besoin de temps pour devenir fort.",
+    "Coupe son souffle (Q) avec un contrôle : il doit le canaliser.",
+    "Sors vite de son trou noir (E) : il t'attire vers le centre."
+  ],
+  "forces": [
+    "Puissance qui augmente au fil de la partie.",
+    "Vole au-dessus des murs.",
+    "Gros dégâts de zone."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Doit canaliser son souffle.",
+    "Peu résistant."
+  ],
+  "sorts": {
+    "P": "Gagne de la poussière d'étoile qui améliore ses sorts.",
+    "Q": "Souffle continu qui blesse le premier touché.",
+    "W": "Vole au-dessus du terrain.",
+    "E": "Trou noir qui attire vers le centre.",
+    "R": "Étoile qui tombe et étourdit."
+  },
+  "momentFort": "Faible au début, de plus en plus fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

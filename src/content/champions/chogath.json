@@ -1,0 +1,29 @@
+{
+  "plan": "Un monstre du Néant qui grossit à chaque fois qu'il dévore un ennemi avec son ultime.",
+  "aSurveiller": "Son R (Festin). Il dévore une cible en dégâts bruts : quand tu es bas en vie, reste loin de lui.",
+  "contrer": [
+    "Bas en vie, éloigne-toi : son R t'achève en dégâts bruts.",
+    "Esquive son Q : la zone se voit avant de te projeter en l'air.",
+    "Son W te réduit au silence : ne lance pas tes sorts à sa portée."
+  ],
+  "forces": [
+    "Grossit et gagne de la vie à chaque Festin.",
+    "Son R exécute en dégâts bruts.",
+    "Projette en l'air et réduit au silence."
+  ],
+  "faiblesses": [
+    "Lent et peu mobile.",
+    "Son Q met du temps à tomber.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Se soigne en éliminant des unités.",
+    "Q": "Le sol se rompt et projette en l'air.",
+    "W": "Cri qui réduit au silence.",
+    "E": "Ses attaques lancent des piques qui ralentissent.",
+    "R": "Dévore en dégâts bruts ; il grossit s'il tue."
+  },
+  "momentFort": "Dangereux dès le niveau 6, de plus en plus résistant au fil de la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

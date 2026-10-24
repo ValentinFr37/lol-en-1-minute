@@ -1,0 +1,29 @@
+{
+  "plan": "Un support voyageur qui ouvre des portails dans les murs et fige tout dans le temps avec son ultime.",
+  "aSurveiller": "Son Q (Lien cosmique). Il t'étourdit si tu es près d'un mur ou d'un autre ennemi : éloigne-toi des murs face à lui.",
+  "contrer": [
+    "Ne reste pas près d'un mur ou d'un allié : son Q étourdit les deux cibles alignées.",
+    "Méfie-toi de ses portails (E) : il peut surgir de derrière un mur.",
+    "Pendant son R, les cibles sont intouchables : ne gaspille pas tes sorts dessus."
+  ],
+  "forces": [
+    "Très mobile avec ses portails.",
+    "Son R fige tout le monde dans une zone.",
+    "Soigne ses alliés avec ses sanctuaires."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Difficile à jouer.",
+    "Souvent loin de sa ligne."
+  ],
+  "sorts": {
+    "P": "Ramasse des carillons ; ses Meeps renforcent ses attaques.",
+    "Q": "Projectile qui étourdit contre un mur ou un ennemi.",
+    "W": "Sanctuaire qui soigne.",
+    "E": "Portail à travers un mur.",
+    "R": "Fige toutes les unités dans une zone."
+  },
+  "momentFort": "Utile toute la partie, de plus en plus fort avec ses carillons.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

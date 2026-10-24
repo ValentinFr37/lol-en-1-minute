@@ -1,0 +1,29 @@
+{
+  "plan": "Un combattant démon qui frappe en trois temps avec son épée et se soigne énormément en combat.",
+  "aSurveiller": "Son Q (Épée des Darkin). Il frappe trois fois en zone et le bout de l'épée projette en l'air : sors des zones marquées au sol.",
+  "contrer": [
+    "Esquive le bout de son épée (Q) : c'est là qu'il fait le plus mal et te projette en l'air.",
+    "Achète un objet anti-soins : il se soigne beaucoup, surtout pendant son R.",
+    "Sors vite de ses chaînes (W) avant qu'elles te ramènent vers lui."
+  ],
+  "forces": [
+    "Énormes soins en combat.",
+    "Gros dégâts de zone avec son Q.",
+    "Son R le rend encore plus fort et le ranime presque."
+  ],
+  "faiblesses": [
+    "Ses coups sont lents et visibles.",
+    "Vulnérable aux objets anti-soins.",
+    "Peu de mobilité en dehors de son E."
+  ],
+  "sorts": {
+    "P": "Régulièrement, une attaque renforcée qui le soigne.",
+    "Q": "Trois coups d'épée ; le bout projette en l'air.",
+    "W": "Chaîne qui ramène la cible si elle ne sort pas de la zone.",
+    "E": "Courte ruée ; il se soigne en blessant des champions.",
+    "R": "Forme démoniaque : plus de dégâts, de vitesse et de soins."
+  },
+  "momentFort": "Fort dès le début, très dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

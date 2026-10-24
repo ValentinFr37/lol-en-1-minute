@@ -1,0 +1,30 @@
+{
+  "plan": "Une jungler araignée qui change de forme et immobilise avec son cocon avant de te dévorer.",
+  "genre": "f",
+  "aSurveiller": "Son E (Cocon). Il t'étourdit puis elle fonce sur toi en forme d'araignée : reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : son cocon (E) s'arrête sur le premier touché.",
+    "Après son cocon raté, c'est le moment de l'engager.",
+    "Méfie-toi de son E en araignée : elle s'envole et redescend sur toi."
+  ],
+  "forces": [
+    "Très forte en début de partie.",
+    "Étourdit avec son cocon.",
+    "Esquive les tirs de tourelle avec son E araignée."
+  ],
+  "faiblesses": [
+    "Moins forte en fin de partie.",
+    "Dépend de son cocon.",
+    "Fragile si on l'attrape."
+  ],
+  "sorts": {
+    "P": "Ses sorts créent des araignées qui l'accompagnent.",
+    "Q": "Venin qui blesse selon la vie de la cible.",
+    "W": "Araignée explosive ou frénésie de vitesse d'attaque.",
+    "E": "Cocon qui étourdit ; en araignée, elle s'élève puis redescend.",
+    "R": "Change de forme : humaine ou araignée."
+  },
+  "momentFort": "Très forte en début de partie dans la jungle.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

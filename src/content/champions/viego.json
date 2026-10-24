@@ -1,0 +1,29 @@
+{
+  "plan": "Un roi déchu qui prend possession des corps de ses ennemis morts pour utiliser leurs sorts.",
+  "aSurveiller": "Son R (Cœur brisé). Il fond sur un champion et l'exécute : bas en vie, éloigne-toi de lui.",
+  "contrer": [
+    "Bas en vie, éloigne-toi : son R fait plus mal sur les cibles blessées.",
+    "Quand il prend le corps d'un allié tombé, attends-toi aux sorts de cet allié.",
+    "Garde un contrôle : il dépend des enchaînements."
+  ],
+  "forces": [
+    "Se réinitialise avec les éliminations.",
+    "Gros dégâts.",
+    "Utilise les sorts de ses victimes."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Faible s'il ne tue personne.",
+    "Difficile à jouer."
+  ],
+  "sorts": {
+    "P": "Prend possession des ennemis morts.",
+    "Q": "Lame qui inflige des % de vie.",
+    "W": "Charge qui étourdit.",
+    "E": "Brume qui l'invisibilise.",
+    "R": "Fond sur un champion et l'exécute."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

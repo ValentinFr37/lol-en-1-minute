@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage espiègle qui endort ses ennemis puis les frappe de très loin avec sa bulle et sa comète.",
+  "genre": "f",
+  "aSurveiller": "Son E (Bulle soporifique). Elle t'endort, puis son Q te touche deux fois plus fort : reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : sa bulle (E) s'arrête sur eux.",
+    "Si tu es somnolent, prends un nettoyage ou fuis : tu vas t'endormir.",
+    "Engage-la : elle est fragile."
+  ],
+  "forces": [
+    "Énormes dégâts de loin.",
+    "Endort avec son E.",
+    "Ramasse des sorts au sol."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile.",
+    "Ses sorts se voient venir."
+  ],
+  "sorts": {
+    "P": "Après un sort, son attaque est renforcée.",
+    "Q": "Projectile qui fait plus mal de loin.",
+    "W": "Ramasse les sorts d'invocateur.",
+    "E": "Bulle qui endort.",
+    "R": "Se téléporte puis revient."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

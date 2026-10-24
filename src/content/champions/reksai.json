@@ -1,0 +1,30 @@
+{
+  "plan": "Une créature du Néant qui creuse des tunnels et jaillit du sol pour projeter ses ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son W (Jaillissement). Elle sort du sol et te projette en l'air : méfie-toi quand elle est enfouie près de toi.",
+  "contrer": [
+    "Méfie-toi quand elle est sous terre : elle peut jaillir sous toi.",
+    "Ses tunnels lui permettent de revenir vite : surveille-les.",
+    "Son R l'amène sur une cible blessée : reste en vie haute."
+  ],
+  "forces": [
+    "Très forte en début de partie.",
+    "Mobile grâce à ses tunnels.",
+    "Projette en l'air."
+  ],
+  "faiblesses": [
+    "Moins forte en fin de partie.",
+    "Vulnérable aux contrôles.",
+    "Peu de défenses."
+  ],
+  "sorts": {
+    "P": "Génère de la fureur qui la soigne une fois enfouie.",
+    "Q": "Attaques en zone ; sous terre, sondeur.",
+    "W": "S'enfouit ; jaillit et projette en l'air.",
+    "E": "Morsure ; sous terre, creuse un tunnel.",
+    "R": "Se rue sur une cible marquée."
+  },
+  "momentFort": "Très forte en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

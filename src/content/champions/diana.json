@@ -1,0 +1,30 @@
+{
+  "plan": "Une assassin lunaire qui fonce sur sa cible et attire toute une équipe autour d'elle.",
+  "genre": "f",
+  "aSurveiller": "Son R (Attraction lunaire). Elle attire tous les ennemis proches puis explose : écartez-vous quand elle fonce sur vous.",
+  "contrer": [
+    "Écartez-vous en combat : son R attire tous les ennemis proches.",
+    "Évite son Q : s'il te marque, elle peut foncer deux fois sur toi.",
+    "Utilise tes contrôles après son E : elle n'a plus de fuite."
+  ],
+  "forces": [
+    "Gros dégâts de zone.",
+    "Son R attire plusieurs ennemis.",
+    "Bouclier avec son W."
+  ],
+  "faiblesses": [
+    "Peu de fuites.",
+    "Dépend de son Q pour foncer deux fois.",
+    "Fragile face aux contrôles."
+  ],
+  "sorts": {
+    "P": "Tous les 3 coups, dégâts autour d'elle.",
+    "Q": "Vague en arc qui marque les ennemis.",
+    "W": "Trois sphères autour d'elle et un bouclier.",
+    "E": "Fonce sur un ennemi ; sans délai s'il est marqué.",
+    "R": "Attire et ralentit les ennemis proches."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

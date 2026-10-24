@@ -1,0 +1,29 @@
+{
+  "plan": "Un yordle électrique qui étourdit au 3e coup de ses sorts et fond sur une équipe avec son ultime.",
+  "aSurveiller": "Son R (Maelström). Il blesse et étourdit tous les ennemis autour de lui : écartez-vous quand il fonce sur vous.",
+  "contrer": [
+    "Écartez-vous quand il lance son R : il étourdit tous ceux autour de lui.",
+    "Surveille ses marques : au 3e coup, tu es étourdi.",
+    "Ralentis-le : son E est sa seule fuite."
+  ],
+  "forces": [
+    "Étourdit au 3e coup.",
+    "Son R contrôle une équipe entière.",
+    "Harcèle bien de loin."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Une seule fuite : son E.",
+    "Faible si on l'engage."
+  ],
+  "sorts": {
+    "P": "Au 3e coup de ses sorts, étourdit.",
+    "Q": "Shuriken qui marque.",
+    "W": "Ses attaques marquent ; à l'activation, électrocute.",
+    "E": "Boule d'électricité rapide.",
+    "R": "Tempête qui blesse et étourdit autour de lui."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une support sirène qui étourdit avec sa bulle et projette toute une équipe avec sa vague.",
+  "genre": "f",
+  "aSurveiller": "Son Q (Prison aqueuse). Une bulle qui t'étourdit : elle met du temps à tomber, déplace-toi dès qu'elle la lance.",
+  "contrer": [
+    "Déplace-toi dès qu'elle lance sa bulle (Q) : elle met du temps à tomber.",
+    "Écartez-vous de sa vague (R) : elle traverse toute une ligne.",
+    "Engage-la : elle n'a pas de fuite."
+  ],
+  "forces": [
+    "Étourdit avec sa bulle.",
+    "Soigne avec son W.",
+    "Son R projette plusieurs ennemis."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Sa bulle est lente.",
+    "Aucune fuite."
+  ],
+  "sorts": {
+    "P": "Ses sorts accélèrent ses alliés.",
+    "Q": "Bulle qui étourdit.",
+    "W": "Eau qui rebondit : soigne et blesse.",
+    "E": "Renforce un allié qui ralentit en frappant.",
+    "R": "Grande vague qui projette en l'air."
+  },
+  "momentFort": "Utile dès le début, forte en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

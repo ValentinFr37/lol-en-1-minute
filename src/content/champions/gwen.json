@@ -1,0 +1,30 @@
+{
+  "plan": "Une couturière qui tranche de près et se protège des attaques à distance dans sa brume.",
+  "genre": "f",
+  "aSurveiller": "Son W (Brume sacrée). Elle ne peut être touchée que de l'intérieur : entre dans la brume ou attends qu'elle disparaisse.",
+  "contrer": [
+    "Entre dans sa brume (W) pour la toucher, ou recule et attends.",
+    "Ne reste pas au centre de ses ciseaux (Q) : il fait des dégâts bruts.",
+    "Achète un objet anti-soins : elle se soigne en attaquant."
+  ],
+  "forces": [
+    "Très forte contre les tanks.",
+    "Intouchable de loin dans sa brume.",
+    "Se soigne en attaquant."
+  ],
+  "faiblesses": [
+    "Courte portée.",
+    "Faible en tout début de partie.",
+    "Dépend de sa brume pour se protéger."
+  ],
+  "sorts": {
+    "P": "Dégâts selon la vie de la cible ; se soigne.",
+    "Q": "Coups de ciseaux ; le centre fait des dégâts bruts.",
+    "W": "Brume : intouchable de l'extérieur.",
+    "E": "Courte ruée ; ses attaques sont renforcées.",
+    "R": "Aiguilles lancées jusqu'à trois fois qui ralentissent."
+  },
+  "momentFort": "Forte en milieu de partie, très dangereuse en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

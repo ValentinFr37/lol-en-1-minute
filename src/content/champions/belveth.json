@@ -1,0 +1,30 @@
+{
+  "plan": "Une impératrice du Néant qui attaque de plus en plus vite et enchaîne les ruées dans toutes les directions.",
+  "genre": "f",
+  "aSurveiller": "Son E (Maelström impérial). Elle reste sur place et frappe la cible la plus faible en se soignant : éloigne-toi ou interromps-la.",
+  "contrer": [
+    "Éloigne-toi quand elle lance son E : elle reste immobile et vise la cible la plus blessée.",
+    "Achète un objet anti-soins : son E la soigne beaucoup.",
+    "Ne la laisse pas prendre le Héraut ou le Baron : son R devient bien plus fort."
+  ],
+  "forces": [
+    "Vitesse d'attaque énorme.",
+    "Très mobile avec son Q.",
+    "Se soigne et réduit les dégâts avec son E."
+  ],
+  "faiblesses": [
+    "Fragile face aux contrôles.",
+    "Vulnérable aux objets anti-soins.",
+    "Faible en tout début de partie."
+  ],
+  "sorts": {
+    "P": "Gagne de la vitesse d'attaque pour toujours en éliminant.",
+    "Q": "Ruée dans quatre directions différentes.",
+    "W": "Coup de queue qui projette en l'air.",
+    "E": "Tempête de coups sur place ; elle se soigne.",
+    "R": "Forme véritable : plus de vie et de portée."
+  },
+  "momentFort": "Forte en milieu de partie, très dangereuse en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

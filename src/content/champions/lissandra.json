@@ -1,0 +1,30 @@
+{
+  "plan": "Une sorcière de glace qui immobilise plusieurs ennemis et peut se protéger en se gelant.",
+  "genre": "f",
+  "aSurveiller": "Son R (Tombeau polaire). Sur toi, il t'étourdit ; sur elle, elle devient intouchable : garde tes dégâts pour après.",
+  "contrer": [
+    "Quand elle se gèle avec son R, attends la fin : elle est intouchable.",
+    "Ne reste pas collé à elle : son W immobilise autour d'elle.",
+    "Surveille sa griffe (E) : elle peut s'y téléporter."
+  ],
+  "forces": [
+    "Beaucoup d'immobilisations.",
+    "Peut se protéger avec son R.",
+    "Engage avec sa griffe."
+  ],
+  "faiblesses": [
+    "Courte portée.",
+    "Faible en fin de partie.",
+    "Dépend de son E pour fuir."
+  ],
+  "sorts": {
+    "P": "Les champions morts près d'elle deviennent des serviteurs de glace.",
+    "Q": "Lance de glace qui ralentit.",
+    "W": "Immobilise autour d'elle.",
+    "E": "Griffe vers laquelle elle se téléporte.",
+    "R": "Étourdit une cible ou la rend intouchable."
+  },
+  "momentFort": "Forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une petite gardienne qui repousse ses ennemis contre les murs et les envoie au loin avec son marteau.",
+  "genre": "f",
+  "aSurveiller": "Son E (Charge héroïque). Elle te repousse et t'étourdit si tu touches un mur : ne te bats pas près des murs.",
+  "contrer": [
+    "Éloigne-toi des murs : son E t'y étourdit.",
+    "Ne fonce pas sur elle avec un saut : son W bloque les ruées autour d'elle.",
+    "Interromps son R chargé : sinon il t'envoie très loin."
+  ],
+  "forces": [
+    "Bloque les ruées avec son W.",
+    "Étourdit contre les murs.",
+    "Son R éjecte un ennemi du combat."
+  ],
+  "faiblesses": [
+    "Dépend des murs.",
+    "Peu de dégâts en fin de partie.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Lance son écu ; le ramasser donne un bouclier.",
+    "Q": "Coup de marteau qui ralentit puis explose.",
+    "W": "Bloque les ruées autour d'elle.",
+    "E": "Charge qui repousse et étourdit contre un mur.",
+    "R": "Coup qui envoie les ennemis très loin."
+  },
+  "momentFort": "Forte en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

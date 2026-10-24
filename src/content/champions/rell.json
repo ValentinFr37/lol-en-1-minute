@@ -1,0 +1,30 @@
+{
+  "plan": "Une support en armure qui saute sur ses ennemis et les attire tous autour d'elle.",
+  "genre": "f",
+  "aSurveiller": "Son W (Descendre en piqué). Elle saute et projette en l'air, puis son R attire tout le monde : écartez-vous.",
+  "contrer": [
+    "Écartez-vous en combat : son R attire tous ceux autour d'elle.",
+    "Son Q brise les boucliers : évite de compter dessus face à elle.",
+    "Ralentis-la : elle a besoin de vitesse pour engager."
+  ],
+  "forces": [
+    "Très résistante.",
+    "Attire plusieurs ennemis.",
+    "Vole de la résistance."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Peu mobile à pied.",
+    "Dépend de son engagement."
+  ],
+  "sorts": {
+    "P": "Vole de l'armure et de la résistance magique.",
+    "Q": "Coup en ligne qui étourdit et brise les boucliers.",
+    "W": "Saute et projette en l'air.",
+    "E": "Vitesse pour elle et un allié.",
+    "R": "Attire les ennemis autour d'elle."
+  },
+  "momentFort": "Utile dès le niveau 2.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

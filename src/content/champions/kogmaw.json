@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur du Néant à très longue portée qui fait fondre les tanks et explose à sa mort.",
+  "aSurveiller": "Son W (Barrage bio-arcanique). Il gagne énormément de portée et de dégâts : engage-le plutôt que de rester à sa portée.",
+  "contrer": [
+    "Engage-le : il n'a aucune fuite.",
+    "Éloigne-toi de son corps quand il meurt : il explose après 4 secondes.",
+    "Ne reste pas à portée de son W : il fait fondre même les tanks."
+  ],
+  "forces": [
+    "Très longue portée avec son W.",
+    "Fait fondre les tanks.",
+    "Son R harcèle de loin."
+  ],
+  "faiblesses": [
+    "Aucune fuite.",
+    "Très fragile.",
+    "Faible en début de partie."
+  ],
+  "sorts": {
+    "P": "Explose quatre secondes après sa mort.",
+    "Q": "Projectile qui réduit les résistances.",
+    "W": "Plus de portée et de dégâts.",
+    "E": "Limon qui ralentit.",
+    "R": "Artillerie à longue portée."
+  },
+  "momentFort": "Faible au début, très fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

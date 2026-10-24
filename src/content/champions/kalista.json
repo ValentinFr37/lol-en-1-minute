@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse qui saute après chaque attaque et plante des lances qu'elle arrache d'un coup.",
+  "genre": "f",
+  "aSurveiller": "Son E (Extirpation). Chaque attaque plante une lance ; elle les arrache toutes d'un coup pour de gros dégâts : ne la laisse pas taper longtemps.",
+  "contrer": [
+    "Ne la laisse pas taper longtemps : chaque lance plantée rend son E plus fort.",
+    "Ralentis-la : elle saute en attaquant, ralentie elle ne peut plus fuir.",
+    "Son R lance son allié sur toi : recule quand il disparaît près d'elle."
+  ],
+  "forces": [
+    "Très mobile en attaquant.",
+    "Gros dégâts avec son E.",
+    "Son R peut sauver son support."
+  ],
+  "faiblesses": [
+    "Faible en fin de partie.",
+    "Difficile à jouer.",
+    "Vulnérable aux ralentissements."
+  ],
+  "sorts": {
+    "P": "Saute à chaque attaque.",
+    "Q": "Lance qui traverse les ennemis tués.",
+    "W": "Envoie une sentinelle ; dégâts en plus avec son allié.",
+    "E": "Arrache les lances plantées et ralentit.",
+    "R": "Ramène son allié et le lance sur les ennemis."
+  },
+  "momentFort": "Très forte en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

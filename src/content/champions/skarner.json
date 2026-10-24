@@ -1,0 +1,29 @@
+{
+  "plan": "Un scorpion de cristal qui charge, écrase sa cible contre un mur et la traîne vers son équipe.",
+  "aSurveiller": "Son R (Empalement). Il te neutralise et te traîne : bas en vie, reste derrière tes alliés.",
+  "contrer": [
+    "Éloigne-toi des murs : son E t'écrase contre un mur.",
+    "Reste derrière tes alliés : son R te traîne vers son équipe.",
+    "Évite de cumuler ses effets : ils explosent selon ta vie max."
+  ],
+  "forces": [
+    "Beaucoup de contrôles.",
+    "Traîne une cible.",
+    "Résistant."
+  ],
+  "faiblesses": [
+    "Peu de dégâts sur une cible.",
+    "Dépend de ses engagements.",
+    "Lent hors de sa charge."
+  ],
+  "sorts": {
+    "P": "Cumule des effets qui explosent.",
+    "Q": "Rocher qui renforce ses attaques.",
+    "W": "Bouclier et séisme qui ralentit.",
+    "E": "Charge qui écrase contre un mur.",
+    "R": "Neutralise et traîne les ennemis."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

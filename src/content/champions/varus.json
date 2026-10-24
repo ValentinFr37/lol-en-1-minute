@@ -1,0 +1,29 @@
+{
+  "plan": "Un archer qui tire de très loin et immobilise toute une équipe avec sa chaîne corruptrice.",
+  "aSurveiller": "Son R (Chaîne corruptrice). Il immobilise le premier champion touché, puis se propage aux alliés proches : écartez-vous.",
+  "contrer": [
+    "Écartez-vous : son R se propage aux alliés proches.",
+    "Esquive son Q chargé : il fait très mal de loin.",
+    "Engage-le : il a peu de fuites."
+  ],
+  "forces": [
+    "Très longue portée.",
+    "Immobilise plusieurs ennemis.",
+    "Réduit les soins avec son E."
+  ],
+  "faiblesses": [
+    "Peu mobile.",
+    "Fragile.",
+    "Ses sorts se voient venir."
+  ],
+  "sorts": {
+    "P": "Plus de vitesse d'attaque après une élimination.",
+    "Q": "Tir chargé à longue portée.",
+    "W": "Ses attaques cumulent des marques.",
+    "E": "Pluie de flèches qui ralentit.",
+    "R": "Chaîne qui immobilise et se propage."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

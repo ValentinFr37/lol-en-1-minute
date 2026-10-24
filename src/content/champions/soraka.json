@@ -1,0 +1,30 @@
+{
+  "plan": "Une support soigneuse qui sacrifie sa vie pour soigner ses alliés et peut soigner toute l'équipe à distance.",
+  "genre": "f",
+  "aSurveiller": "Son E (Équinoxe). Une zone qui réduit au silence puis immobilise : sors-en avant qu'elle disparaisse.",
+  "contrer": [
+    "Attaque-la en premier : sans elle, son équipe ne se soigne plus.",
+    "Achète un objet anti-soins : ses soins sont énormes.",
+    "Sors de son E avant la fin : sinon tu es immobilisé."
+  ],
+  "forces": [
+    "Soins énormes.",
+    "Son R soigne toute l'équipe.",
+    "Réduit au silence."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Se blesse en soignant.",
+    "Peu mobile."
+  ],
+  "sorts": {
+    "P": "Plus rapide vers les alliés blessés.",
+    "Q": "Étoile qui ralentit et la soigne.",
+    "W": "Soigne un allié en sacrifiant sa vie.",
+    "E": "Réduit au silence puis immobilise.",
+    "R": "Soigne toute l'équipe."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un joueur de cartes qui étourdit avec sa carte dorée et se téléporte n'importe où sur la carte.",
+  "aSurveiller": "Son W (Bonne pioche). Sa carte dorée étourdit : quand une carte jaune brille au-dessus de lui, garde tes distances.",
+  "contrer": [
+    "Quand une carte jaune brille au-dessus de lui (W), recule.",
+    "Quand il lance son R, préviens ton équipe : il va surgir sur une ligne.",
+    "Engage-le : il est fragile et peu mobile."
+  ],
+  "forces": [
+    "Se téléporte sur la carte.",
+    "Étourdit avec sa carte dorée.",
+    "Aide toutes les lignes."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile.",
+    "Faible en duel."
+  ],
+  "sorts": {
+    "P": "Gagne de l'or en plus en éliminant.",
+    "Q": "Lance trois cartes.",
+    "W": "Carte dorée qui étourdit, rouge ou bleue.",
+    "E": "Dégâts bonus toutes les 4 attaques.",
+    "R": "Révèle les ennemis et se téléporte."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,30 @@
+{
+  "plan": "Une jungler cogneuse qui fonce sur sa cible et la projette en l'air sans qu'on puisse l'arrêter.",
+  "genre": "f",
+  "aSurveiller": "Son R (Mise en demeure). Elle fonce sur toi et te projette en l'air : rien ne l'arrête, regroupe-toi avec ton équipe.",
+  "contrer": [
+    "Reste près de tes alliés : son R est fait pour isoler une cible.",
+    "Esquive son Q chargé : il te repousse.",
+    "Garde un contrôle pour après son R."
+  ],
+  "forces": [
+    "Son R ne peut pas être arrêté.",
+    "Engage facilement.",
+    "Fait mal aux tanks."
+  ],
+  "faiblesses": [
+    "Peu de fuites.",
+    "Fragile si engagée.",
+    "Son Q se voit venir."
+  ],
+  "sorts": {
+    "P": "Bouclier qui se charge.",
+    "Q": "Coup chargé qui la propulse.",
+    "W": "Réduit l'armure de sa cible.",
+    "E": "Coup qui traverse sa cible.",
+    "R": "Fonce sur un ennemi et le projette en l'air."
+  },
+  "momentFort": "Forte en début et milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un brasseur bedonnant qui charge avec son ventre et repousse les ennemis avec son tonneau.",
+  "aSurveiller": "Son E (Coup de bidon). Il charge et te projette en l'air, puis son R peut te renvoyer vers son équipe.",
+  "contrer": [
+    "Reste derrière tes sbires : sa charge (E) s'arrête sur le premier touché.",
+    "Garde un sort de fuite pour son R : il peut te repousser vers ses alliés.",
+    "Son W réduit les dégâts qu'il subit : évite les longs échanges."
+  ],
+  "forces": [
+    "Beaucoup de contrôles.",
+    "Son R peut isoler une cible.",
+    "Se soigne en utilisant ses sorts."
+  ],
+  "faiblesses": [
+    "Son R est difficile à placer.",
+    "Peu de dégâts s'il joue tank.",
+    "Facile à tenir à distance si sa charge rate."
+  ],
+  "sorts": {
+    "P": "Se soigne en utilisant un sort.",
+    "Q": "Tonneau qui explose et ralentit.",
+    "W": "Boit pour réduire les dégâts subis.",
+    "E": "Charge qui projette en l'air.",
+    "R": "Tonneau explosif qui repousse."
+  },
+  "momentFort": "Fort dès le début, dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

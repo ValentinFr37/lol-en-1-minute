@@ -1,0 +1,29 @@
+{
+  "plan": "Un fossoyeur qui invoque des goules et une Vierge de la Brume pour faire tomber les tours.",
+  "aSurveiller": "Son W (Sombre cortège). Un mur qui t'enferme : détruis-le en l'attaquant ou garde une ruée pour en sortir.",
+  "contrer": [
+    "Attaque son mur (W) pour le briser : il t'enferme.",
+    "Tue ses goules : elles font beaucoup de dégâts ensemble.",
+    "Ne le laisse pas pousser seul : il détruit vite les tours."
+  ],
+  "forces": [
+    "Détruit vite les tours.",
+    "Invoque des alliés.",
+    "Enferme avec son W."
+  ],
+  "faiblesses": [
+    "Faible si ses goules meurent.",
+    "Peu mobile.",
+    "Moins fort en combat d'équipe."
+  ],
+  "sorts": {
+    "P": "Invoque des goules.",
+    "Q": "Attaque renforcée qui laisse une tombe.",
+    "W": "Mur qui enferme.",
+    "E": "Brume qui ralentit et marque.",
+    "R": "Invoque la Vierge de la Brume."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

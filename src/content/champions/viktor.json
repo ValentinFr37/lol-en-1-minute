@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage qui améliore ses sorts au fil de la partie et contrôle les combats avec son champ gravitationnel.",
+  "aSurveiller": "Son W (Champ gravitationnel). Rester dedans t'étourdit : sors-en immédiatement.",
+  "contrer": [
+    "Sors de son W tout de suite : il t'étourdit si tu restes dedans.",
+    "Évite son E : son rayon touche sur une longue ligne.",
+    "Engage-le : il est fragile et peu mobile."
+  ],
+  "forces": [
+    "Gros dégâts de zone.",
+    "Contrôle avec son W.",
+    "Se renforce au fil de la partie."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile.",
+    "Faible en début de partie."
+  ],
+  "sorts": {
+    "P": "Améliore ses sorts au fil de la partie.",
+    "Q": "Frappe qui lui donne un bouclier.",
+    "W": "Champ qui ralentit puis étourdit.",
+    "E": "Rayon sur une ligne.",
+    "R": "Tempête qui suit les ennemis."
+  },
+  "momentFort": "Fort en milieu et fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

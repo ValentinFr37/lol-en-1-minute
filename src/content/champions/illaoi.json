@@ -1,0 +1,30 @@
+{
+  "plan": "Une prêtresse qui fait surgir des tentacules des murs et devient terrifiante quand on se bat dans sa zone.",
+  "genre": "f",
+  "aSurveiller": "Son E (Épreuve de l'esprit). Elle arrache ton esprit : si tu restes près de lui, ses tentacules te frappent. Esquive-le derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : son E s'arrête sur le premier touché.",
+    "Si ton esprit est arraché, éloigne-toi de lui : sinon tu te fais attacher à elle.",
+    "Ne te bats pas près des murs pendant son R : ses tentacules apparaissent partout."
+  ],
+  "forces": [
+    "Énormes dégâts en zone près des murs.",
+    "Se soigne avec ses tentacules.",
+    "Très forte en combat contre plusieurs ennemis."
+  ],
+  "faiblesses": [
+    "Lente et peu mobile.",
+    "Dépend de son E pour gagner un échange.",
+    "Facile à tenir à distance."
+  ],
+  "sorts": {
+    "P": "Fait apparaître des tentacules qui la soignent.",
+    "Q": "Tentacule qui frappe en ligne.",
+    "W": "Bondit et fait frapper les tentacules proches.",
+    "E": "Arrache l'esprit d'un ennemi ; le frapper blesse le vrai corps.",
+    "R": "Frappe le sol et fait apparaître des tentacules pour chaque ennemi."
+  },
+  "momentFort": "Forte dès le début, très dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

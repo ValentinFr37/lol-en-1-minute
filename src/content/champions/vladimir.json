@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage du sang qui se soigne énormément et devient intouchable dans sa flaque de sang.",
+  "aSurveiller": "Son W (Bain de sang). Il devient impossible à cibler pendant 2 secondes : garde ton gros sort pour après.",
+  "contrer": [
+    "Garde ton gros sort pour après son W : il esquive tout pendant ce temps.",
+    "Achète un objet anti-soins : il se soigne énormément.",
+    "Engage-le tôt : il est faible en début de partie."
+  ],
+  "forces": [
+    "Se soigne énormément.",
+    "Impossible à cibler avec son W.",
+    "Gros dégâts de zone."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Peu de contrôles.",
+    "Vulnérable aux anti-soins."
+  ],
+  "sorts": {
+    "P": "La vie et la puissance se renforcent mutuellement.",
+    "Q": "Vole de la vie à une cible.",
+    "W": "Flaque de sang : impossible à cibler.",
+    "E": "Orbe chargé qui blesse autour.",
+    "R": "Peste qui fait exploser les dégâts."
+  },
+  "momentFort": "Fort en milieu et fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

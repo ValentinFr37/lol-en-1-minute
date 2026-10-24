@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage du Néant qui tire de très loin et désintègre ses ennemis avec un rayon géant.",
+  "aSurveiller": "Son R (Désintégrateur de formes de vie). Un long rayon qui suit le curseur : sors-en vite ou interromps-le.",
+  "contrer": [
+    "Interromps son R avec un contrôle : il doit le canaliser.",
+    "Esquive son Q : il se divise quand il touche quelque chose.",
+    "Engage-le : il est très fragile et peu mobile."
+  ],
+  "forces": [
+    "Très longue portée.",
+    "Dégâts bruts avec ses marques.",
+    "Son R fait énormément mal."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Aucune fuite.",
+    "Son R s'interrompt."
+  ],
+  "sorts": {
+    "P": "Après 3 sorts, dégâts bruts.",
+    "Q": "Projectile qui se divise.",
+    "W": "Faille qui explose deux fois.",
+    "E": "Explosion qui projette en l'air.",
+    "R": "Rayon canalisé qui suit le curseur."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

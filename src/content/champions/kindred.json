@@ -1,0 +1,29 @@
+{
+  "plan": "Un duo de chasseurs qui rend une zone invincible un instant et devient plus fort en chassant.",
+  "aSurveiller": "Son R (Repos d'Agneau). Personne ne peut mourir dans la zone pendant un instant : n'utilise pas tes gros sorts dedans.",
+  "contrer": [
+    "Attends la fin de son R : personne ne meurt dans la zone.",
+    "Engage-le quand son Q est utilisé : c'est sa seule ruée.",
+    "Protège tes camps de jungle : il gagne des cumuls en les chassant."
+  ],
+  "forces": [
+    "Son R empêche les morts.",
+    "Très mobile avec son Q.",
+    "Devient plus fort à chaque chasse."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Une seule vraie ruée.",
+    "Faible s'il ne chasse pas."
+  ],
+  "sorts": {
+    "P": "Gagne en puissance en chassant ses marques.",
+    "Q": "Cabriole et tire sur trois cibles.",
+    "W": "Loup attaque les ennemis proches.",
+    "E": "Ralentit ; la 3e attaque fait plus mal.",
+    "R": "Personne ne peut mourir dans la zone."
+  },
+  "momentFort": "Fort en milieu de partie, de plus en plus fort en chassant.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

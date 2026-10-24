@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse qui fond sur sa cible avec son ultime et fait exploser ses marques de plasma.",
+  "genre": "f",
+  "aSurveiller": "Son R (Instinct meurtrier). Elle se rue sur un champion marqué par son plasma : ne laisse pas tes alliés se faire marquer.",
+  "contrer": [
+    "Évite son W : il te marque et lui donne la portée de son R.",
+    "Reste groupé : sa volée (Q) est plus forte sur une cible isolée.",
+    "Engage-la après son R : c'est sa seule ruée."
+  ],
+  "forces": [
+    "Se rue sur sa cible avec son R.",
+    "Grosses explosions de plasma.",
+    "Devient invisible avec son E amélioré."
+  ],
+  "faiblesses": [
+    "Fragile face aux engagements.",
+    "Dépend de son R pour se repositionner.",
+    "Moins forte si elle prend du retard."
+  ],
+  "sorts": {
+    "P": "Ses attaques cumulent du plasma qui explose.",
+    "Q": "Volée de missiles, plus forte sur une cible isolée.",
+    "W": "Rayon à longue portée qui marque.",
+    "E": "Gagne de la vitesse ; invisible une fois amélioré.",
+    "R": "Se rue sur un champion marqué avec un bouclier."
+  },
+  "momentFort": "Forte en milieu de partie et en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

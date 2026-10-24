@@ -1,0 +1,29 @@
+{
+  "plan": "Une liche qui continue de lancer des sorts après sa mort et blesse toute l'équipe ennemie avec son ultime.",
+  "aSurveiller": "Son R (Requiem). Il blesse tous les champions ennemis, où qu'ils soient : quand tu es bas en vie, rentre à la base.",
+  "contrer": [
+    "Bas en vie, rentre à la base : son R touche partout sur la carte.",
+    "Après l'avoir tué, éloigne-toi : il continue de lancer ses sorts quelques secondes.",
+    "Interromps son R avec un contrôle : il doit le canaliser 3 secondes."
+  ],
+  "forces": [
+    "Son R touche toute l'équipe ennemie.",
+    "Continue de jouer après sa mort.",
+    "Gros dégâts de zone."
+  ],
+  "faiblesses": [
+    "Très lent et peu mobile.",
+    "Fragile si on l'atteint.",
+    "Son R s'interrompt."
+  ],
+  "sorts": {
+    "P": "Après sa mort, il peut encore lancer des sorts.",
+    "Q": "Explosion retardée, plus forte sur une cible seule.",
+    "W": "Mur qui ralentit et réduit la résistance magique.",
+    "E": "Aura qui blesse autour de lui.",
+    "R": "Blesse tous les champions ennemis après 3 secondes."
+  },
+  "momentFort": "Dangereux dès le niveau 6, très fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

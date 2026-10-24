@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage support qui renforce un de ses sorts avec son ultime pour harceler ou protéger.",
+  "genre": "f",
+  "aSurveiller": "Son W (Volonté concentrée). Elle se lie à toi et t'immobilise si tu ne casses pas le lien : éloigne-toi d'elle rapidement.",
+  "contrer": [
+    "Éloigne-toi quand elle se lie à toi (W) : sinon tu es immobilisé.",
+    "Reste derrière tes sbires : son Q explose au premier touché.",
+    "Engage-la quand son R est utilisé : ses sorts sont moins forts."
+  ],
+  "forces": [
+    "Harcèle beaucoup en ligne.",
+    "Boucliers et vitesse pour ses alliés.",
+    "Son R renforce un sort à chaque fois."
+  ],
+  "faiblesses": [
+    "Peu de dégâts en fin de partie.",
+    "Fragile si on l'engage.",
+    "Dépend de son R."
+  ],
+  "sorts": {
+    "P": "Ses sorts réduisent le délai de son R.",
+    "Q": "Boule d'énergie qui explose.",
+    "W": "Se lie à un ennemi et l'immobilise si le lien tient.",
+    "E": "Bouclier et vitesse pour un allié.",
+    "R": "Renforce son prochain sort."
+  },
+  "momentFort": "Forte en début de partie en ligne.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

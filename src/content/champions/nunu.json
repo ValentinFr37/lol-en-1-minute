@@ -1,0 +1,29 @@
+{
+  "plan": "Un garçon et son yéti qui roulent une boule de neige géante pour projeter leurs ennemis.",
+  "aSurveiller": "Son W (Boule de neige géante). Plus elle roule, plus elle fait mal et te projette en l'air : écarte-toi de sa trajectoire.",
+  "contrer": [
+    "Écarte-toi de sa boule de neige (W) : elle se voit venir.",
+    "Interromps son R avec un contrôle : il doit le canaliser.",
+    "Sors vite de son R : sinon tu subis une grosse explosion."
+  ],
+  "forces": [
+    "Engage de loin avec sa boule.",
+    "Son R fait de gros dégâts de zone.",
+    "Très résistant."
+  ],
+  "faiblesses": [
+    "Son R s'interrompt.",
+    "Sa boule se voit venir.",
+    "Peu de dégâts sans son R."
+  ],
+  "sorts": {
+    "P": "Renforce Willump et un allié proche.",
+    "Q": "Morsure qui le soigne.",
+    "W": "Boule de neige qui grossit et projette en l'air.",
+    "E": "Boules de neige qui ralentissent puis immobilisent.",
+    "R": "Blizzard qui ralentit puis explose."
+  },
+  "momentFort": "Fort dès le début dans la jungle.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

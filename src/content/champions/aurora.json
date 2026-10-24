@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage lapine qui saute d'un monde à l'autre pour devenir invisible et piéger ses ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son R (Entre les mondes). Elle crée une zone qui ralentit et dans laquelle elle se téléporte d'un bord à l'autre : sors-en vite.",
+  "contrer": [
+    "Sors de la zone de son R : à l'intérieur, tu es ralenti et elle se téléporte autour de toi.",
+    "Après son W, elle devient invisible : garde un sort de zone ou une balise.",
+    "Engage-la quand son E et son W sont utilisés : elle n'a plus de fuite."
+  ],
+  "forces": [
+    "Très mobile et insaisissable.",
+    "Se soigne grâce aux esprits.",
+    "Son R piège plusieurs ennemis."
+  ],
+  "faiblesses": [
+    "Fragile si on l'attrape.",
+    "Ses sorts demandent de toucher.",
+    "Faible si elle prend du retard."
+  ],
+  "sorts": {
+    "P": "Les esprits des ennemis blessés la suivent et la soignent.",
+    "Q": "Projectile qui maudit ; elle peut le rappeler.",
+    "W": "Bondit et devient invisible un instant.",
+    "E": "Boule qui ralentit, puis elle bondit en arrière.",
+    "R": "Zone qui ralentit et dans laquelle elle se téléporte."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

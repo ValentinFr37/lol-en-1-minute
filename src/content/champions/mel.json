@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage qui renvoie les projectiles et achève les ennemis marqués où qu'ils soient.",
+  "genre": "f",
+  "aSurveiller": "Son W (Réfutation). Sa barrière renvoie tous les projectiles : ne lance pas tes sorts à distance tant qu'elle est active.",
+  "contrer": [
+    "Ne lance pas tes projectiles pendant son W : ils te reviennent.",
+    "Ne prends pas trop de ses marques : son R frappe toutes les cibles marquées.",
+    "Engage-la quand son W est utilisé : elle met longtemps à le récupérer."
+  ],
+  "forces": [
+    "Renvoie les projectiles.",
+    "Son R frappe tous les ennemis marqués.",
+    "Gros dégâts à distance."
+  ],
+  "faiblesses": [
+    "Long délai sur son W.",
+    "Fragile.",
+    "Peu mobile."
+  ],
+  "sorts": {
+    "P": "Ses sorts renforcent ses attaques et marquent les ennemis.",
+    "Q": "Rafale qui explose sur une zone.",
+    "W": "Barrière qui renvoie les projectiles.",
+    "E": "Orbe qui immobilise au centre.",
+    "R": "Frappe tous les ennemis marqués."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

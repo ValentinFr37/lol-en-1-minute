@@ -1,0 +1,30 @@
+{
+  "plan": "Une chatte magique qui s'accroche à un allié pour le soigner sans pouvoir être ciblée.",
+  "genre": "f",
+  "aSurveiller": "Son W (Félin pour l'autre !). Accrochée à un allié, elle est impossible à cibler : attaque l'allié qui la porte.",
+  "contrer": [
+    "Attaque l'allié qui la porte : elle ne peut pas être ciblée.",
+    "Achète un objet anti-soins : elle soigne beaucoup.",
+    "Quand elle se détache, frappe-la : elle est très fragile."
+  ],
+  "forces": [
+    "Impossible à cibler sur un allié.",
+    "Soigne et renforce.",
+    "Son R immobilise."
+  ],
+  "faiblesses": [
+    "Très fragile seule.",
+    "Peu de dégâts.",
+    "Dépend de son allié."
+  ],
+  "sorts": {
+    "P": "Récupère du mana et donne un bouclier.",
+    "Q": "Projectile guidé qui ralentit.",
+    "W": "S'accroche à un allié.",
+    "E": "Bouclier et vitesse pour l'allié.",
+    "R": "Vagues qui immobilisent et soignent."
+  },
+  "momentFort": "Utile toute la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

@@ -1,0 +1,29 @@
+{
+  "plan": "Un hors-la-loi au fusil à pompe qui fait d'énormes dégâts de près et encaisse bien.",
+  "aSurveiller": "Son R (Dégâts collatéraux). Il tire un obus qui explose derrière la cible : ne reste pas derrière un allié touché.",
+  "contrer": [
+    "Garde tes distances : son fusil fait très mal au contact.",
+    "Ses balles s'arrêtent sur le premier touché : mets un sbire ou un monstre entre vous.",
+    "Engage-le quand il recharge : il doit s'arrêter après deux tirs."
+  ],
+  "forces": [
+    "Énormes dégâts de près.",
+    "Résistant avec son E.",
+    "Très fort en début de partie dans la jungle."
+  ],
+  "faiblesses": [
+    "Courte portée.",
+    "Doit recharger après deux tirs.",
+    "Faible si on le tient à distance."
+  ],
+  "sorts": {
+    "P": "Tire comme un fusil à pompe ; doit recharger.",
+    "Q": "Projectile qui explose après un délai.",
+    "W": "Fumée qui réduit la vision.",
+    "E": "Ruée qui donne de la résistance.",
+    "R": "Obus qui explose derrière la cible."
+  },
+  "momentFort": "Fort dès le début, dangereux en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

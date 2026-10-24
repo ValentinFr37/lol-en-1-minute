@@ -1,0 +1,29 @@
+{
+  "plan": "Un jungler prince qui fonce sur sa cible avec son drapeau et l'enferme dans une arène.",
+  "aSurveiller": "Son combo E puis Q. Il plante son drapeau puis le rejoint en te projetant en l'air : éloigne-toi quand le drapeau tombe près de toi.",
+  "contrer": [
+    "Éloigne-toi du drapeau (E) : il va s'y précipiter avec son Q.",
+    "Dans son arène (R), utilise un sort de déplacement pour sauter le mur.",
+    "Il est surtout fort en début de partie : évite les combats tôt."
+  ],
+  "forces": [
+    "Très fort en début de partie.",
+    "Son arène enferme une cible.",
+    "Son combo projette en l'air."
+  ],
+  "faiblesses": [
+    "Moins fort en fin de partie.",
+    "Dépend de son combo pour engager.",
+    "Son arène peut être sautée."
+  ],
+  "sorts": {
+    "P": "Première attaque sur une cible : dégâts en plus.",
+    "Q": "Coup de lance qui réduit l'armure.",
+    "W": "Bouclier et ralentit autour de lui.",
+    "E": "Plante son drapeau ; plus de vitesse d'attaque.",
+    "R": "Bondit et enferme la zone dans une arène."
+  },
+  "momentFort": "Très fort dès le début, dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

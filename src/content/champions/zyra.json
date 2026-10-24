@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage végétale qui fait pousser des plantes et immobilise ses ennemis avec ses racines.",
+  "genre": "f",
+  "aSurveiller": "Son E (Racines fixatrices). Elles t'immobilisent sur une ligne et ses plantes te frappent : esquive-les.",
+  "contrer": [
+    "Esquive ses racines (E) : elles immobilisent.",
+    "Tue ses plantes ou éloigne-toi : elles font beaucoup de dégâts.",
+    "Engage-la : elle est fragile."
+  ],
+  "forces": [
+    "Contrôle la zone avec ses plantes.",
+    "Immobilise avec son E.",
+    "Son R projette en l'air."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile.",
+    "Dépend de ses plantes."
+  ],
+  "sorts": {
+    "P": "Fait apparaître des graines autour d'elle.",
+    "Q": "Épines qui blessent.",
+    "W": "Plante une graine.",
+    "E": "Racines qui immobilisent.",
+    "R": "Ronces qui projettent en l'air."
+  },
+  "momentFort": "Forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

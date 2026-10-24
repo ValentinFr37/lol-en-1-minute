@@ -1,0 +1,30 @@
+{
+  "plan": "Un pirate qui fait exploser ses barils de poudre en chaîne et bombarde la carte entière.",
+  "aSurveiller": "Ses barils (E). Il les fait exploser en chaîne à distance : éloigne-toi des barils, même s'ils semblent loin de lui.",
+  "menace": "E",
+  "contrer": [
+    "Détruis ses barils (E) quand ils sont faibles : ça l'empêche de les utiliser.",
+    "Ne reste jamais près d'un baril : les explosions se propagent.",
+    "Engage-le tôt : il est fragile en début de partie."
+  ],
+  "forces": [
+    "Énormes dégâts de zone avec ses barils.",
+    "Son R touche n'importe où sur la carte.",
+    "Retire les contrôles avec son W."
+  ],
+  "faiblesses": [
+    "Faible en début de partie.",
+    "Difficile à jouer.",
+    "Peu mobile."
+  ],
+  "sorts": {
+    "P": "Ses attaques brûlent régulièrement.",
+    "Q": "Tir qui donne de l'or s'il tue.",
+    "W": "Retire les contrôles et se soigne.",
+    "E": "Baril qui explose quand il le touche.",
+    "R": "Bombarde une zone n'importe où sur la carte."
+  },
+  "momentFort": "Faible au début, très fort en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

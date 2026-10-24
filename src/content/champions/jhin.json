@@ -1,0 +1,29 @@
+{
+  "plan": "Un tireur artiste qui tire 4 balles puis recharge, avec un ultime qui traverse la moitié de la carte.",
+  "aSurveiller": "Son R (Rappel de rideau). Il tire 4 balles de très loin, la dernière fait un coup critique : sors de son cône de visée.",
+  "contrer": [
+    "Sors de son cône quand il lance son R : la 4e balle fait énormément mal.",
+    "Engage-le quand il recharge après sa 4e balle.",
+    "Son W immobilise si tu as été touché par lui ou ses alliés : recule après un coup."
+  ],
+  "forces": [
+    "La 4e balle fait un coup critique.",
+    "Immobilise de loin avec son W.",
+    "Son R achève de très loin."
+  ],
+  "faiblesses": [
+    "Doit recharger après 4 balles.",
+    "Peu mobile.",
+    "Vulnérable aux engagements."
+  ],
+  "sorts": {
+    "P": "4 balles ; la 4e fait un coup critique.",
+    "Q": "Grenade qui rebondit sur 4 cibles.",
+    "W": "Tir à très longue portée qui immobilise les cibles touchées.",
+    "E": "Pose des pièges invisibles.",
+    "R": "4 super balles à très longue portée."
+  },
+  "momentFort": "Fort dès le début, très dangereux en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

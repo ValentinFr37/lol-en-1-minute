@@ -1,0 +1,29 @@
+{
+  "plan": "Un minotaure support qui projette les ennemis en l'air et encaisse tout grâce à son ultime.",
+  "aSurveiller": "Son combo W puis Q. Il te pousse avec son coup de tête puis te projette en l'air : ne reste pas isolé devant tes alliés.",
+  "contrer": [
+    "Reste loin de lui au niveau 2 : son combo (W puis Q) peut te faire tuer.",
+    "Pendant son R, il ne prend presque pas de dégâts : concentre-toi sur une autre cible.",
+    "Garde une distance : il doit être au contact pour agir."
+  ],
+  "forces": [
+    "Beaucoup de contrôles : projeter, repousser, étourdir.",
+    "Très résistant avec son R.",
+    "Protège bien ses alliés."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Doit être au contact pour agir.",
+    "Ses sorts ont un long délai en début de partie."
+  ],
+  "sorts": {
+    "P": "Se soigne et soigne ses alliés en contrôlant les ennemis.",
+    "Q": "Frappe le sol et projette en l'air.",
+    "W": "Charge une cible et la repousse.",
+    "E": "Piétine ; après plusieurs coups, sa prochaine attaque étourdit.",
+    "R": "Retire les contrôles et réduit énormément les dégâts subis."
+  },
+  "momentFort": "Dangereux dès le niveau 2, à tout moment de la partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

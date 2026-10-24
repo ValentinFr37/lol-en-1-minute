@@ -1,0 +1,30 @@
+{
+  "plan": "Une tireuse spirituelle qui enchaîne ses attaques et transforme ses sorts avec son ultime.",
+  "genre": "f",
+  "aSurveiller": "Son R (Transe). Elle améliore tous ses sorts pendant un moment : recule plutôt que de combattre à ce moment-là.",
+  "contrer": [
+    "Recule pendant son R : ses sorts deviennent plus forts.",
+    "Engage-la tôt : elle a besoin d'objets.",
+    "Ralentis-la : son E lui donne de la vitesse."
+  ],
+  "forces": [
+    "Gros dégâts continus.",
+    "Son R renforce ses sorts.",
+    "Mobile avec son E."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Dépend de ses objets.",
+    "Peu de contrôles."
+  ],
+  "sorts": {
+    "P": "Ses coups critiques infligent des dégâts magiques.",
+    "Q": "Plus de vitesse d'attaque.",
+    "W": "Grain qui blesse et ralentit.",
+    "E": "Vitesse et passe à travers les unités.",
+    "R": "Transe qui améliore ses sorts."
+  },
+  "momentFort": "Forte en fin de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

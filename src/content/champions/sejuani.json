@@ -1,0 +1,30 @@
+{
+  "plan": "Une jungler sur son sanglier qui charge et gèle ses ennemis.",
+  "genre": "f",
+  "aSurveiller": "Son R (Prison de glace). Elle étourdit le premier champion touché et crée une tempête qui ralentit autour : écartez-vous.",
+  "contrer": [
+    "Reste derrière tes alliés : son R gèle le premier touché.",
+    "Écartez-vous : la tempête de son R ralentit autour.",
+    "Évite les échanges près d'elle : ses coups appliquent du givre."
+  ],
+  "forces": [
+    "Beaucoup de contrôles.",
+    "Très résistante.",
+    "Engage de loin."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Lente.",
+    "Dépend de son engagement."
+  ],
+  "sorts": {
+    "P": "Armure de glace hors combat.",
+    "Q": "Charge qui projette en l'air.",
+    "W": "Coups de masse qui ralentissent.",
+    "E": "Gèle et étourdit une cible chargée en givre.",
+    "R": "Bolas qui gèlent et créent une tempête."
+  },
+  "momentFort": "Forte en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

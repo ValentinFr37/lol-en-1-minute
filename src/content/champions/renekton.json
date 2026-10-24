@@ -1,0 +1,29 @@
+{
+  "plan": "Un crocodile qui domine sa ligne au début et étourdit avec ses coups renforcés par sa fureur.",
+  "aSurveiller": "Son W (Prédateur impitoyable). Il frappe deux fois et t'étourdit, trois fois s'il a de la fureur : garde tes distances.",
+  "contrer": [
+    "Évite les échanges en début de partie : il est très fort tôt.",
+    "Surveille sa fureur : pleine, ses sorts sont renforcés.",
+    "Fais durer la partie : il perd en puissance plus tard."
+  ],
+  "forces": [
+    "Très fort en début de partie.",
+    "Étourdit avec son W.",
+    "Très mobile avec son E."
+  ],
+  "faiblesses": [
+    "Moins fort en fin de partie.",
+    "Dépend de sa fureur.",
+    "Facile à tenir à distance après son E."
+  ],
+  "sorts": {
+    "P": "Génère de la fureur qui renforce ses sorts.",
+    "Q": "Coup circulaire qui le soigne.",
+    "W": "Frappe et étourdit.",
+    "E": "Deux ruées.",
+    "R": "Devient plus grand et blesse autour de lui."
+  },
+  "momentFort": "Très fort en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

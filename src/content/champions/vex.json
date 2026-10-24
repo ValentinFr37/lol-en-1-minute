@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage boudeuse qui terrifie ses ennemis et punit particulièrement ceux qui font des ruées.",
+  "genre": "f",
+  "aSurveiller": "Son R (Déferlement d'Ombre). Elle te marque, puis fonce sur toi : si tu meurs, elle peut le relancer aussitôt.",
+  "contrer": [
+    "Évite de faire des ruées près d'elle : elle te marque pour te terrifier.",
+    "Esquive son R : la marque lui permet de foncer sur toi.",
+    "Engage-la quand son W est utilisé : c'est son bouclier."
+  ],
+  "forces": [
+    "Terrifie avec ses sorts.",
+    "Punit les ruées.",
+    "Son R se relance après une élimination."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Peu mobile hors de son R.",
+    "Ses sorts se voient venir."
+  ],
+  "sorts": {
+    "P": "Régulièrement, son prochain sort terrifie.",
+    "Q": "Projectile qui accélère.",
+    "W": "Bouclier et dégâts autour d'elle.",
+    "E": "Zone qui ralentit et marque.",
+    "R": "Marque un champion puis fonce sur lui."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

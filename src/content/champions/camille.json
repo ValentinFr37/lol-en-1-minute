@@ -1,0 +1,30 @@
+{
+  "plan": "Une combattante qui s'accroche aux murs pour fondre sur sa cible et l'enfermer en duel.",
+  "genre": "f",
+  "aSurveiller": "Son R (Ultimatum Hextech). Elle t'enferme dans une zone avec elle : tes alliés peuvent t'aider, mais tu ne peux pas fuir.",
+  "contrer": [
+    "Éloigne-toi des murs : son E s'y accroche pour bondir sur toi.",
+    "Ne reste pas au bord de son W : le bout fait le plus mal.",
+    "Pendant son R, tu ne peux pas sortir de la zone : garde tes sorts défensifs et appelle tes alliés."
+  ],
+  "forces": [
+    "Très forte en duel.",
+    "Engage de loin grâce aux murs.",
+    "Dégâts bruts avec son Q."
+  ],
+  "faiblesses": [
+    "Dépend des murs pour engager.",
+    "Faible en tout début de partie.",
+    "Fragile si son E rate."
+  ],
+  "sorts": {
+    "P": "Bouclier en attaquant des champions.",
+    "Q": "Deux attaques renforcées ; la seconde fait des dégâts bruts.",
+    "W": "Balayage ; le bout ralentit et fait plus mal.",
+    "E": "S'accroche à un mur puis bondit.",
+    "R": "Enferme sa cible dans une zone."
+  },
+  "momentFort": "Forte en milieu de partie, dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

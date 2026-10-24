@@ -1,0 +1,29 @@
+{
+  "plan": "Un yordle dans un robot qui brûle tout avec son lance-flammes et pose un mur de feu.",
+  "aSurveiller": "Son R (Éradication). Un mur de flammes qui ralentit et brûle : sors-en immédiatement.",
+  "contrer": [
+    "Sors de son R : il brûle et ralentit.",
+    "Quand il surchauffe, il ne peut plus lancer de sorts : attaque à ce moment-là.",
+    "Reste hors de son lance-flammes (Q)."
+  ],
+  "forces": [
+    "Gros dégâts de zone.",
+    "Son R contrôle une zone.",
+    "Bouclier avec son W."
+  ],
+  "faiblesses": [
+    "Doit gérer sa chaleur.",
+    "Peu mobile.",
+    "Facile à punir en surchauffe."
+  ],
+  "sorts": {
+    "P": "Gère sa chaleur ; en surchauffe, il ne lance plus de sorts.",
+    "Q": "Lance-flammes devant lui.",
+    "W": "Bouclier et vitesse.",
+    "E": "Harpons qui ralentissent.",
+    "R": "Mur de flammes qui ralentit."
+  },
+  "momentFort": "Dangereux dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

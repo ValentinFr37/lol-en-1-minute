@@ -1,0 +1,29 @@
+{
+  "plan": "Un pilote qui harcèle avec ses missiles et récupère régulièrement un colis pour traverser la carte.",
+  "aSurveiller": "Son R (Barrage de projectiles). Il harcèle de loin avec des missiles : reste derrière tes sbires, ils s'arrêtent sur le premier touché.",
+  "contrer": [
+    "Reste derrière tes sbires : ses missiles (R) explosent sur le premier touché.",
+    "Engage-le quand son W est utilisé : c'est sa seule fuite.",
+    "Méfie-toi quand il a son colis : il peut traverser la carte et faire très mal."
+  ],
+  "forces": [
+    "Harcèle de loin avec ses missiles.",
+    "Son colis lui donne une grosse ruée.",
+    "Dégâts mixtes difficiles à contrer."
+  ],
+  "faiblesses": [
+    "Fragile si on l'atteint.",
+    "Une seule vraie fuite.",
+    "Faible en tout début de partie."
+  ],
+  "sorts": {
+    "P": "Une partie de ses dégâts devient des dégâts bruts.",
+    "Q": "Bombe qui révèle une zone.",
+    "W": "Vole sur une courte distance en lâchant du feu.",
+    "E": "Rafale qui réduit les résistances.",
+    "R": "Missiles à longue portée."
+  },
+  "momentFort": "Fort en milieu de partie avec ses premiers objets.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

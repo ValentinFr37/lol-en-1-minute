@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage caméléon qui se déguise en allié et saute au milieu de l'équipe ennemie.",
+  "genre": "f",
+  "aSurveiller": "Son R (Floraison renversante). Elle bondit et étourdit tous ceux autour d'elle : écartez-vous quand elle se prépare.",
+  "contrer": [
+    "Écartez-vous quand elle prépare son R : elle étourdit tous ceux autour.",
+    "Méfie-toi des faux champions : elle peut prendre l'apparence d'un allié.",
+    "Son E immobilise plus longtemps s'il traverse plusieurs ennemis."
+  ],
+  "forces": [
+    "Se déguise pour tromper.",
+    "Son R étourdit une équipe.",
+    "Immobilise avec son E."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Son R se voit venir.",
+    "Peu de fuites."
+  ],
+  "sorts": {
+    "P": "Prend l'apparence d'un allié.",
+    "Q": "Graine qui éclot plusieurs fois.",
+    "W": "Envoie un clone et devient invisible.",
+    "E": "Spirale qui immobilise.",
+    "R": "Bondit et étourdit autour d'elle."
+  },
+  "momentFort": "Dangereuse dès le niveau 6.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

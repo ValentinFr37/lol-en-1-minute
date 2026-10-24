@@ -1,0 +1,29 @@
+{
+  "plan": "Un mage d'artillerie qui frappe de très loin et bombarde ses ennemis à travers la carte.",
+  "aSurveiller": "Son E (Orbe d'électrocution). Il t'étourdit, puis il enchaîne avec ses autres sorts : reste derrière tes sbires.",
+  "contrer": [
+    "Reste derrière tes sbires : son E s'arrête sur le premier touché.",
+    "Pendant son R, il est immobile : fonce sur lui.",
+    "Engage-le : il est très fragile."
+  ],
+  "forces": [
+    "Portée énorme.",
+    "Étourdit avec son E.",
+    "Son R frappe très loin."
+  ],
+  "faiblesses": [
+    "Très fragile.",
+    "Aucune fuite.",
+    "Immobile pendant son R."
+  ],
+  "sorts": {
+    "P": "Ses attaques rendent du mana.",
+    "Q": "Rayon chargé à longue portée.",
+    "W": "Explosion qui ralentit.",
+    "E": "Orbe qui étourdit.",
+    "R": "Immobile, tire très loin plusieurs fois."
+  },
+  "momentFort": "Fort en milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

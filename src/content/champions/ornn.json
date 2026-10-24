@@ -1,0 +1,29 @@
+{
+  "plan": "Un dieu forgeron tank qui projette sa cible en l'air et améliore les objets de son équipe.",
+  "aSurveiller": "Son R (Appel du dieu de la forge). Un bélier de lave revient vers lui et projette en l'air : écarte-toi de sa trajectoire.",
+  "contrer": [
+    "Éloigne-toi des murs : son E y étourdit.",
+    "Écarte-toi de la trajectoire de son R : il le relance pour projeter en l'air.",
+    "Les dégâts en pourcentage de vie sont efficaces contre lui."
+  ],
+  "forces": [
+    "Très résistant.",
+    "Beaucoup de contrôles.",
+    "Améliore les objets de son équipe."
+  ],
+  "faiblesses": [
+    "Peu de dégâts.",
+    "Lent.",
+    "Dépend des murs pour certains combos."
+  ],
+  "sorts": {
+    "P": "Améliore ses résistances et peut forger des objets.",
+    "Q": "Fissure qui crée un pilier.",
+    "W": "Souffle de feu qui rend les ennemis fragiles.",
+    "E": "Ruée qui étourdit contre un mur.",
+    "R": "Élémentaire qui revient et projette en l'air."
+  },
+  "momentFort": "Utile toute la partie, très fort en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

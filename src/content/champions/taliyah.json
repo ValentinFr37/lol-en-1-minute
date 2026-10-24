@@ -1,0 +1,30 @@
+{
+  "plan": "Une mage tisseuse de pierres qui projette ses ennemis contre ses mines et traverse la carte sur un mur.",
+  "genre": "f",
+  "aSurveiller": "Son W (Poussée sismique). Il te projette, souvent dans ses mines (E) : ne fonce pas sur elle à travers son champ.",
+  "contrer": [
+    "Ne fais pas de ruée dans ses mines (E) : elles explosent.",
+    "Esquive son W : il te projette dans une direction.",
+    "Son R crée un mur qui peut vous séparer : regroupez-vous."
+  ],
+  "forces": [
+    "Rafale de pierres puissante.",
+    "Contrôle avec son W.",
+    "Son R traverse la carte."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Ses sorts se voient venir.",
+    "Moins forte si on la touche."
+  ],
+  "sorts": {
+    "P": "Plus rapide près des murs.",
+    "Q": "Rafale de pierres.",
+    "W": "Projette les ennemis.",
+    "E": "Champ de mines qui ralentit.",
+    "R": "Long mur sur lequel elle surfe."
+  },
+  "momentFort": "Forte en début et milieu de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

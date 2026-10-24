@@ -1,0 +1,29 @@
+{
+  "plan": "Un petit yordle qui se transforme en géant en combat et projette les ennemis contre les murs.",
+  "aSurveiller": "Son R (GNAR !). En forme géante, il te repousse et t'étourdit contre un mur : éloigne-toi des murs quand il est en colère.",
+  "contrer": [
+    "Surveille sa barre de rage : quand elle est pleine, il va se transformer.",
+    "Ne te bats pas près des murs contre Méga Gnar : son R t'y étourdit.",
+    "Harcèle-le sous sa petite forme : il est fragile."
+  ],
+  "forces": [
+    "Deux formes : harcèlement puis tank.",
+    "Son R contrôle plusieurs ennemis.",
+    "Très mobile sous sa petite forme."
+  ],
+  "faiblesses": [
+    "Difficile à gérer, sa transformation se voit venir.",
+    "Fragile sous sa petite forme.",
+    "Dépend des murs pour son R."
+  ],
+  "sorts": {
+    "P": "Se transforme en géant quand sa rage est pleine.",
+    "Q": "Boomerang qui ralentit ; rocher sous sa grande forme.",
+    "W": "Dégâts en plus ; étourdit sous sa grande forme.",
+    "E": "Bondit et rebondit sur les unités.",
+    "R": "Repousse et étourdit contre un mur."
+  },
+  "momentFort": "Fort en duel dès le début, très utile en combat d'équipe.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}

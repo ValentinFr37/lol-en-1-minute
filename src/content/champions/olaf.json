@@ -1,0 +1,29 @@
+{
+  "plan": "Un barbare insensible aux contrôles pendant son ultime, de plus en plus fort quand il est blessé.",
+  "aSurveiller": "Son R (Ragnarok). Il devient insensible à tous les contrôles : n'utilise pas tes étourdissements à ce moment-là, recule.",
+  "contrer": [
+    "Pendant son R, il ignore les contrôles : recule plutôt que d'essayer de l'arrêter.",
+    "Évite ses haches (Q) : elles ralentissent et réduisent ton armure.",
+    "Achète un objet anti-soins : il se soigne avec son vol de vie."
+  ],
+  "forces": [
+    "Insensible aux contrôles avec son R.",
+    "Très fort en début de partie.",
+    "Dégâts bruts avec son E."
+  ],
+  "faiblesses": [
+    "Facile à tenir à distance.",
+    "Peu mobile.",
+    "Moins fort en fin de partie."
+  ],
+  "sorts": {
+    "P": "Plus de vitesse d'attaque et de vol de vie quand il est blessé.",
+    "Q": "Hache lancée qui ralentit.",
+    "W": "Vitesse d'attaque et bouclier.",
+    "E": "Coup en dégâts bruts.",
+    "R": "Insensible aux contrôles."
+  },
+  "momentFort": "Très fort en début de partie.",
+  "patch": "16.21",
+  "auteur": "ValentinFr37"
+}
