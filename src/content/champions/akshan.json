@@ -9,7 +9,7 @@
   "forces": [
     "Très mobile grâce à son grappin (E).",
     "Ressuscite ses alliés en tuant leur meurtrier.",
-    "Achève les cibles blessées avec son R."
+    "Domine sa voie en début de partie."
   ],
   "faiblesses": [
     "Courte portée pour un tireur.",
@@ -23,7 +23,7 @@
     "E": "Se balance autour d'un mur en tirant.",
     "R": "Rafale de balles plus forte sur une cible blessée."
   },
-  "momentFort": "Fort en milieu de partie, dangereux pour achever dès le niveau 6.",
+  "momentFort": "Très fort dans sa voie dès le début : il harcèle et domine son adversaire. Dangereux pour achever dès le niveau 6.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }
