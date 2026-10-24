@@ -23,7 +23,7 @@
     "E": "Brume qui l'invisibilise.",
     "R": "Fond sur un champion et l'exécute."
   },
-  "momentFort": "Fort en milieu de partie.",
+  "momentFort": "Faible en début de partie. Il devient fort en milieu de partie, avec 1 ou 2 objets.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

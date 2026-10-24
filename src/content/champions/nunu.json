@@ -23,7 +23,7 @@
     "E": "Boules de neige qui ralentissent puis immobilisent.",
     "R": "Blizzard qui ralentit puis explose."
   },
-  "momentFort": "Fort dès le début dans la jungle.",
+  "momentFort": "Fort dès le début dans la jungle. Il atteint vite le niveau 6, un gros avantage pour les premiers combats.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

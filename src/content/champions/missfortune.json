@@ -24,7 +24,7 @@
     "E": "Pluie de balles qui blesse et ralentit dans une zone.",
     "R": "Rafale de balles dans un cône ; elle reste immobile pendant le tir."
   },
-  "momentFort": "Dangereuse dès le niveau 6 avec son R, et encore plus en combat d'équipe en milieu de partie.",
+  "momentFort": "Dangereuse dès le niveau 6 avec son R, surtout en combat d'équipe. Elle perd en efficacité en fin de partie.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

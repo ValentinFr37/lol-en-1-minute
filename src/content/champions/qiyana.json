@@ -24,7 +24,7 @@
     "E": "Se rue sur un ennemi.",
     "R": "Onde qui explose sur le décor et étourdit."
   },
-  "momentFort": "Dangereuse dès le niveau 6.",
+  "momentFort": "Fragile aux niveaux 1 et 2, dangereuse dès le niveau 3. Elle doit prendre l'avantage tôt : en fin de partie, elle a du mal face aux tanks.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

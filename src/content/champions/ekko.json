@@ -23,7 +23,7 @@
     "E": "Courte ruée et attaque à distance.",
     "R": "Revient 4 secondes en arrière en se soignant."
   },
-  "momentFort": "Dangereux dès le niveau 6, fort en milieu de partie.",
+  "momentFort": "Dangereux dès le niveau 6. Il monte en puissance avec son premier objet et devient très fort vers 2 objets.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

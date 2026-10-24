@@ -24,7 +24,7 @@
     "E": "Ruée qui passe par-dessus les murs.",
     "R": "Nova électrique et vitesse."
   },
-  "momentFort": "Forte en fin de partie.",
+  "momentFort": "Faible en début de partie, forte en fin de partie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

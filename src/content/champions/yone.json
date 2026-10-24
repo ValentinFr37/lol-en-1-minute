@@ -23,7 +23,7 @@
     "E": "Son esprit sort du corps, puis revient en répétant une partie des dégâts.",
     "R": "Se téléporte derrière une ligne d'ennemis et les attire."
   },
-  "momentFort": "Fort dès le début, redoutable en milieu de partie avec ses objets de coups critiques.",
+  "momentFort": "Il monte en puissance avec ses objets de coups critiques et devient redoutable en fin de partie.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

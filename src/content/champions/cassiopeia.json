@@ -24,7 +24,7 @@
     "E": "Morsure plus forte sur les cibles empoisonnées.",
     "R": "Étourdit ceux qui lui font face."
   },
-  "momentFort": "Dangereuse dès le niveau 6, très forte en fin de partie.",
+  "momentFort": "Fragile en début de partie. Elle devient ensuite très difficile à tuer et très forte en fin de partie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

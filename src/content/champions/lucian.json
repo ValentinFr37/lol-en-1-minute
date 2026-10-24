@@ -23,7 +23,7 @@
     "E": "Courte ruée qui revient vite.",
     "R": "Rafale de balles en ligne."
   },
-  "momentFort": "Très fort en début et milieu de partie.",
+  "momentFort": "Très fort en début de partie, puis de moins en moins efficace au fil de la partie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

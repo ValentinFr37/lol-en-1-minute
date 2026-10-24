@@ -24,7 +24,7 @@
     "E": "Avance et obtient un bouclier.",
     "R": "Plus de dégâts et de portée, et un coup à distance pour achever."
   },
-  "momentFort": "Forte dès le début, dangereuse dès le niveau 6.",
+  "momentFort": "Discrète avant le niveau 6. Elle brille en milieu de partie : avec 1 ou 2 objets, elle peut éliminer une cible d'un seul combo.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

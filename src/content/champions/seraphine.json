@@ -24,7 +24,7 @@
     "E": "Ralentit ou immobilise sur une ligne.",
     "R": "Charme sur une ligne qui s'allonge."
   },
-  "momentFort": "Dangereuse dès le niveau 6.",
+  "momentFort": "Dangereuse dès le niveau 6, et de plus en plus forte jusqu'en fin de partie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

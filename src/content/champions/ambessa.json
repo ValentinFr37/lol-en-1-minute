@@ -24,7 +24,7 @@
     "E": "Tourne ses lames et ralentit les ennemis proches.",
     "R": "Se téléporte sur l'ennemi le plus éloigné et l'étourdit."
   },
-  "momentFort": "Forte dès le début, très dangereuse dès le niveau 6.",
+  "momentFort": "Gênée par ses longs temps de recharge aux premiers niveaux, elle devient très dangereuse dès que son Q a quelques points, et reste forte longtemps.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

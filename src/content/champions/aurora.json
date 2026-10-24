@@ -24,7 +24,7 @@
     "E": "Boule qui ralentit, puis elle bondit en arrière.",
     "R": "Zone qui ralentit et dans laquelle elle se téléporte."
   },
-  "momentFort": "Dangereuse dès le niveau 6.",
+  "momentFort": "Forte en début de partie, et dangereuse dès le niveau 6.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }
