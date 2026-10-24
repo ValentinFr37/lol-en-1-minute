@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useRef } from 'react'
 import Link from '../components/Link.jsx'
 import GameImage from '../components/GameImage.jsx'
-import { hasFiche } from '../content/index.js'
 import { ROLES } from '../lib/ddragon.js'
 import { championPath, navigate } from '../lib/router.js'
 import { normalize, searchChampions } from '../lib/search.js'
@@ -109,7 +108,7 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
         <ul className="grid" aria-label={`${results.length} champions`}>
           {results.map((champion) => (
             <li key={champion.id}>
-              <Link to={championPath(champion.id)} className="tile" data-fiche={hasFiche(champion.id)}>
+              <Link to={championPath(champion.id)} className="tile">
                 <GameImage
                   src={champion.icon}
                   label={champion.name}
@@ -119,13 +118,6 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
                   height="120"
                 />
                 <span className="tile-name">{champion.name}</span>
-                {hasFiche(champion.id) && (
-                  <span className="tile-badge" role="img" aria-label="Fiche disponible" title="Fiche disponible">
-                    <svg viewBox="0 0 20 20" aria-hidden="true">
-                      <path d="m5.5 10.5 3 3 6-6.5" />
-                    </svg>
-                  </span>
-                )}
               </Link>
             </li>
           ))}
