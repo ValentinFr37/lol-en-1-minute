@@ -24,7 +24,7 @@
     "E": "Morsure ; sous terre, creuse un tunnel.",
     "R": "Se rue sur une cible marquée."
   },
-  "momentFort": "Très forte en début de partie.",
+  "momentFort": "Très forte en début de partie : elle gank depuis le sol dès le niveau 3. Elle doit prendre l'avance, car elle faiblit ensuite.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

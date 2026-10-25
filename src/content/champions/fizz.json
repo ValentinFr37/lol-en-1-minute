@@ -23,7 +23,10 @@
     "E": "Saute sur sa lance, intouchable, puis retombe ou ressaute.",
     "R": "Poisson qui s'accroche, puis requin qui projette en l'air."
   },
-  "momentFort": "Très faible aux niveaux 1 et 2. Dangereux dès le niveau 6, puis encore plus avec son Sablier de Zhonya.",
+  "momentFort": {
+    "voie": "Très faible aux niveaux 1 et 2. Dangereux dès le niveau 6, puis encore plus avec son Sablier de Zhonya.",
+    "jungle": "Très faible jusqu'au niveau 3, il cherche le niveau 6 pour ganker avec son R. Punis-le tôt."
+  },
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

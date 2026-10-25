@@ -23,7 +23,10 @@
     "Évite les combats longs : échange vite, puis repars avant qu'il cumule ses saignements."
   ],
   "aSurveiller": "Son E (Crampon). Tant qu'il est disponible, garde tes distances ; une fois utilisé, c'est le moment d'attaquer ou de fuir.",
-  "momentFort": "Très fort dès les premiers niveaux, puis encore plus dangereux à partir du niveau 6 avec son ultime.",
+  "momentFort": {
+    "voie": "Très fort dès les premiers niveaux, puis encore plus dangereux à partir du niveau 6 avec son ultime.",
+    "jungle": "Très fort en duel au début, il gank dès le niveau 3 en attirant avec son E. Ne te bats pas contre lui en combat long."
+  },
   "patch": null,
   "auteur": "ValentinFr37"
 }

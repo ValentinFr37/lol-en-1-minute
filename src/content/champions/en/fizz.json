@@ -23,5 +23,8 @@
     "E": "Hops onto his trident, untargetable, then lands or hops again.",
     "R": "Fish that latches on, then a shark that knocks up."
   },
-  "momentFort": "Very weak at levels 1 and 2. Dangerous from level 6, then even more with his Zhonya's Hourglass."
+  "momentFort": {
+    "voie": "Very weak at levels 1 and 2. Dangerous from level 6, then even more with his Zhonya's Hourglass.",
+    "jungle": "Very weak until level 3, he looks for level 6 to gank with his R. Punish him early."
+  }
 }

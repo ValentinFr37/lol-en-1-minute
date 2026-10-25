@@ -23,7 +23,7 @@
     "E": "Brume qui l'invisibilise.",
     "R": "Fond sur un champion et l'exécute."
   },
-  "momentFort": "Faible en début de partie. Il devient fort en milieu de partie, avec 1 ou 2 objets.",
+  "momentFort": "Manque de dégâts au début : il évite les duels et ne gank que les voies faciles. Bats-toi contre lui tôt, avant ses 1 ou 2 premiers objets.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

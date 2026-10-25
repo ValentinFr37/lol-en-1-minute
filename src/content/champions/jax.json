@@ -23,7 +23,10 @@
     "E": "Esquive les attaques, puis étourdit autour de lui.",
     "R": "Dégâts en plus toutes les 3 attaques ; résistances à l'activation."
   },
-  "momentFort": "Solide au début, de plus en plus fort en milieu et fin de partie.",
+  "momentFort": {
+    "voie": "Solide au début, de plus en plus fort en milieu et fin de partie.",
+    "jungle": "Gank facilement dès le niveau 3 et gagne la plupart des escarmouches. Il devient encore plus fort avec ses objets."
+  },
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

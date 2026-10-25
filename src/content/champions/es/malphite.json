@@ -23,5 +23,8 @@
     "E": "Golpea el suelo: daño según su armadura y menos velocidad de ataque.",
     "R": "Carga a gran velocidad y lanza a todos por los aires."
   },
-  "momentFort": "Poco peligroso antes del nivel 6. Después, su R puede decidir cada pelea de equipo."
+  "momentFort": {
+    "voie": "Poco peligroso antes del nivel 6. Después, su R puede decidir cada pelea de equipo.",
+    "jungle": "Casi no gankea antes del nivel 6. Farmea para conseguir su R, que después vuelve sus ganks muy peligrosos."
+  }
 }

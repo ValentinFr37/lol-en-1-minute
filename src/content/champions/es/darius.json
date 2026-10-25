@@ -23,5 +23,8 @@
     "E": "Atrae hacia él a los enemigos que tiene delante. Es su herramienta para entrar.",
     "R": "Ejecución con daño verdadero, más fuerte según los sangrados del objetivo."
   },
-  "momentFort": "Muy fuerte desde los primeros niveles y aún más peligroso desde el nivel 6 con su definitiva."
+  "momentFort": {
+    "voie": "Muy fuerte desde los primeros niveles y aún más peligroso desde el nivel 6 con su definitiva.",
+    "jungle": "Muy fuerte en duelo al principio, gankea desde el nivel 3 atrayendo con su E. No pelees contra él en combates largos."
+  }
 }

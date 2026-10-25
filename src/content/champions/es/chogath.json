@@ -23,5 +23,8 @@
     "E": "Sus ataques lanzan pinchos que ralentizan.",
     "R": "Devora con daño verdadero; crece si mata."
   },
-  "momentFort": "Peligroso desde el nivel 6, cada vez más resistente a lo largo de la partida."
+  "momentFort": {
+    "voie": "Peligroso desde el nivel 6, cada vez más resistente a lo largo de la partida.",
+    "jungle": "Débil al principio, farmea hasta el nivel 6. Luego su R le asegura los dragones y el Heraldo: invádelo pronto."
+  }
 }

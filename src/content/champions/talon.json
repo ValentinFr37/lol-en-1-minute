@@ -23,7 +23,10 @@
     "E": "Saute par-dessus n'importe quel mur.",
     "R": "Lames autour de lui et invisibilité."
   },
-  "momentFort": "Dangereux dès le niveau 6.",
+  "momentFort": {
+    "voie": "Dangereux dès le niveau 6.",
+    "jungle": "Très dangereux dès le niveau 3, il passe par-dessus les murs pour ganker. Il faiblit en fin de partie."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

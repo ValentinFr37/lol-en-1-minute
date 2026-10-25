@@ -23,7 +23,10 @@
     "E": "Charge qui projette en l'air.",
     "R": "Tonneau explosif qui repousse."
   },
-  "momentFort": "Fort dès le début, dangereux dès le niveau 6.",
+  "momentFort": {
+    "voie": "Fort dès le début, dangereux dès le niveau 6.",
+    "jungle": "Gank dès le niveau 3 avec sa charge (E). Au niveau 6, son tonneau peut renvoyer une cible vers son équipe."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

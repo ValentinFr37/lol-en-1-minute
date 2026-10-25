@@ -23,5 +23,8 @@
     "E": "Campo de minas que ralentiza.",
     "R": "Muro largo sobre el que surfea."
   },
-  "momentFort": "Fuerte al principio y a mitad de partida."
+  "momentFort": {
+    "voie": "Fuerte al principio y a mitad de partida.",
+    "jungle": "Gankea muy fuerte en cuanto tiene sus 3 habilidades. En el nivel 6, su muro le permite llegar rápido a cualquier línea."
+  }
 }

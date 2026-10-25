@@ -928,9 +928,21 @@ a {
   background: var(--raise);
 }
 
+.spike p {
+  margin: 0;
+}
+
 .spike-label {
   color: var(--gold);
   font-size: 0.875rem;
+  font-weight: 700;
+}
+
+.spike-role + .spike-role {
+  margin-top: 6px;
+}
+
+.spike-role-name {
   font-weight: 700;
 }
 

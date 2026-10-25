@@ -23,5 +23,8 @@
     "E": "Salta por encima de cualquier muro.",
     "R": "Hojas a su alrededor e invisibilidad."
   },
-  "momentFort": "Peligroso desde el nivel 6."
+  "momentFort": {
+    "voie": "Peligroso desde el nivel 6.",
+    "jungle": "Muy peligroso desde el nivel 3, salta por encima de los muros para gankear. Se debilita al final de la partida."
+  }
 }

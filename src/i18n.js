@@ -55,6 +55,7 @@ const STRINGS = {
     strengths: 'Ses forces',
     weaknesses: 'Ses faiblesses',
     whenStrong: (f) => `Quand ${f ? 'elle devient forte' : 'il devient fort'}`,
+    spikeRoles: { voie: 'En voie :', jungle: 'En jungle :' },
     fullDescription: 'Description complète',
     keyLabels: { P: 'Passif', Q: 'Sort Q', W: 'Sort W', E: 'Sort E', R: 'Ultime (R)' },
 
@@ -119,6 +120,7 @@ const STRINGS = {
     strengths: 'Strengths',
     weaknesses: 'Weaknesses',
     whenStrong: (f) => `When ${f ? 'she' : 'he'} gets strong`,
+    spikeRoles: { voie: 'In lane:', jungle: 'In the jungle:' },
     fullDescription: 'Full description',
     keyLabels: { P: 'Passive', Q: 'Q ability', W: 'W ability', E: 'E ability', R: 'Ultimate (R)' },
 
@@ -183,6 +185,7 @@ const STRINGS = {
     strengths: 'Sus fortalezas',
     weaknesses: 'Sus debilidades',
     whenStrong: () => 'Cuándo se vuelve fuerte',
+    spikeRoles: { voie: 'En línea:', jungle: 'En la jungla:' },
     fullDescription: 'Descripción completa',
     keyLabels: { P: 'Pasiva', Q: 'Habilidad Q', W: 'Habilidad W', E: 'Habilidad E', R: 'Definitiva (R)' },
 

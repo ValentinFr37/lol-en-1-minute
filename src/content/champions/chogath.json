@@ -23,7 +23,10 @@
     "E": "Ses attaques lancent des piques qui ralentissent.",
     "R": "Dévore en dégâts bruts ; il grossit s'il tue."
   },
-  "momentFort": "Dangereux dès le niveau 6, de plus en plus résistant au fil de la partie.",
+  "momentFort": {
+    "voie": "Dangereux dès le niveau 6, de plus en plus résistant au fil de la partie.",
+    "jungle": "Faible au début, il farme jusqu'au niveau 6. Son R lui assure ensuite les dragons et le Héraut : envahis-le tôt."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

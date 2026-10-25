@@ -23,5 +23,8 @@
     "E": "Se lanza hacia un enemigo; sin enfriamiento si está marcado.",
     "R": "Atrae y ralentiza a los enemigos cercanos."
   },
-  "momentFort": "Peligrosa desde el nivel 6."
+  "momentFort": {
+    "voie": "Peligrosa desde el nivel 6.",
+    "jungle": "Débil en duelo al principio, depende de sus rondas completas. Una invasión temprana arruina su plan; peligrosa en el nivel 6."
+  }
 }

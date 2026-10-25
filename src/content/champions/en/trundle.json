@@ -23,5 +23,8 @@
     "E": "Pillar that blocks and slows.",
     "R": "Steals an enemy's health and resistances."
   },
-  "momentFort": "Strong in the early and mid game."
+  "momentFort": {
+    "voie": "Strong in the early and mid game.",
+    "jungle": "Reaches level 3 fast and is strong in duels. He chains ganks and objectives without waiting for level 6."
+  }
 }

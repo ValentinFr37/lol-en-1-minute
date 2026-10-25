@@ -23,7 +23,10 @@
     "E": "Coup en dégâts bruts.",
     "R": "Insensible aux contrôles."
   },
-  "momentFort": "Très fort en début de partie.",
+  "momentFort": {
+    "voie": "Très fort en début de partie.",
+    "jungle": "Très fort en duel et en gank au début. Évite de te battre contre lui avant 15 minutes, il faiblit ensuite."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

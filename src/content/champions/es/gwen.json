@@ -23,5 +23,8 @@
     "E": "Desplazamiento corto; sus ataques se potencian.",
     "R": "Agujas lanzadas hasta tres veces que ralentizan."
   },
-  "momentFort": "Fuerte a mitad de partida, muy peligrosa al final."
+  "momentFort": {
+    "voie": "Fuerte a mitad de partida, muy peligrosa al final.",
+    "jungle": "Prudente al principio, evita los duelos y farmea. Se vuelve peligrosa con sus acumulaciones y sus objetos."
+  }
 }

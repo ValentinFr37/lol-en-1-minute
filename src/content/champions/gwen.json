@@ -24,7 +24,10 @@
     "E": "Courte ruée ; ses attaques sont renforcées.",
     "R": "Aiguilles lancées jusqu'à trois fois qui ralentissent."
   },
-  "momentFort": "Forte en milieu de partie, très dangereuse en fin de partie.",
+  "momentFort": {
+    "voie": "Forte en milieu de partie, très dangereuse en fin de partie.",
+    "jungle": "Prudente au début, elle évite les duels et farme. Elle devient dangereuse avec ses cumuls et ses objets."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

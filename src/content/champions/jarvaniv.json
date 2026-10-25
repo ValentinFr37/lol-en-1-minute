@@ -23,7 +23,7 @@
     "E": "Plante son drapeau ; plus de vitesse d'attaque.",
     "R": "Bondit et enferme la zone dans une arène."
   },
-  "momentFort": "Très fort dès le début, dangereux dès le niveau 6.",
+  "momentFort": "Dangereux dès le niveau 2 avec son combo drapeau puis Q : il gank très tôt. Il perd en puissance en fin de partie.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

@@ -23,5 +23,8 @@
     "E": "Dash that heals the pack.",
     "R": "She and her pack swoop onto a champion."
   },
-  "momentFort": "She has to farm first. Dangerous from level 6 with her R, and strong in the mid game."
+  "momentFort": {
+    "voie": "She has to farm first. Dangerous from level 6 with her R, and strong in the mid game.",
+    "jungle": "Ganks from level 3 or 4, but her real spike is level 6. She must get ahead to stay useful."
+  }
 }

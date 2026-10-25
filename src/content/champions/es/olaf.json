@@ -23,5 +23,8 @@
     "E": "Golpe con daño verdadero.",
     "R": "Inmune a los controles."
   },
-  "momentFort": "Muy fuerte al principio de la partida."
+  "momentFort": {
+    "voie": "Muy fuerte al principio de la partida.",
+    "jungle": "Muy fuerte en duelo y en gank al principio. Evita pelear contra él antes de los 15 minutos; después se debilita."
+  }
 }

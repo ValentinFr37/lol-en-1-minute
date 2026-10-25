@@ -23,5 +23,8 @@
     "E": "Heavy hit that knocks back.",
     "R": "Heals a huge amount and gains speed."
   },
-  "momentFort": "Solid all game, very tanky in the late game."
+  "momentFort": {
+    "voie": "Solid all game, very tanky in the late game.",
+    "jungle": "Very weak early, he farms until level 6. Grievous Wounds punish him: invade him early."
+  }
 }

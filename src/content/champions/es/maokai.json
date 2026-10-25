@@ -23,5 +23,8 @@
     "E": "Pimpollo que explota.",
     "R": "Muro de zarzas que avanza e inmoviliza."
   },
-  "momentFort": "Útil toda la partida."
+  "momentFort": {
+    "voie": "Útil toda la partida.",
+    "jungle": "Gankea con facilidad desde el nivel 3 gracias a su W, pero es muy vulnerable a las invasiones al principio."
+  }
 }

@@ -23,7 +23,10 @@
     "E": "Fonce et blesse sur son passage.",
     "R": "Ne peut pas mourir pendant 5 secondes."
   },
-  "momentFort": "Fort dès le niveau 6, et très dangereux en fin de partie.",
+  "momentFort": {
+    "voie": "Fort dès le niveau 6, et très dangereux en fin de partie.",
+    "jungle": "Lent à atteindre le niveau 3, il farme pour ses objets. Envahis-le tôt avant qu'il ne devienne dangereux."
+  },
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

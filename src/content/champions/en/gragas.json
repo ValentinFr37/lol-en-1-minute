@@ -23,5 +23,8 @@
     "E": "Charge that knocks up.",
     "R": "Explosive cask that knocks back."
   },
-  "momentFort": "Strong from the start, dangerous from level 6."
+  "momentFort": {
+    "voie": "Strong from the start, dangerous from level 6.",
+    "jungle": "Ganks from level 3 with his charge (E). At level 6, his cask can knock a target towards his team."
+  }
 }

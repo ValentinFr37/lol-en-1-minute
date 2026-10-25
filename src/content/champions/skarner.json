@@ -23,7 +23,7 @@
     "E": "Charge qui écrase contre un mur.",
     "R": "Neutralise et traîne les ennemis."
   },
-  "momentFort": "Dangereux dès le niveau 6.",
+  "momentFort": "Gank dès le niveau 3 en écrasant contre les murs avec son E. Au niveau 6, son R traîne une cible vers son équipe.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

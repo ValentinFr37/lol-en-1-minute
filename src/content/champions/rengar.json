@@ -23,7 +23,7 @@
     "E": "Bolas qui ralentissent ou immobilisent.",
     "R": "Devient invisible et traque un champion."
   },
-  "momentFort": "Dangereux dès le niveau 3, et encore plus au niveau 6 avec son R. S'il ne prend pas d'avance, il perd en efficacité en fin de partie.",
+  "momentFort": "Très dangereux dès le niveau 3 depuis les buissons, encore plus au niveau 6. S'il échoue au début, il a du mal à revenir.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

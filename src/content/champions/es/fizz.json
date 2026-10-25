@@ -23,5 +23,8 @@
     "E": "Salta sobre su tridente, intocable, y luego cae o vuelve a saltar.",
     "R": "Pez que se engancha y luego tiburón que lanza por los aires."
   },
-  "momentFort": "Muy débil en los niveles 1 y 2. Peligroso desde el nivel 6 y aún más con su Reloj de arena de Zhonya."
+  "momentFort": {
+    "voie": "Muy débil en los niveles 1 y 2. Peligroso desde el nivel 6 y aún más con su Reloj de arena de Zhonya.",
+    "jungle": "Muy débil hasta el nivel 3, busca el nivel 6 para gankear con su R. Castígalo pronto."
+  }
 }

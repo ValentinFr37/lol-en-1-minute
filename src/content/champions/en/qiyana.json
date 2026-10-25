@@ -23,5 +23,8 @@
     "E": "Dashes to an enemy.",
     "R": "Shockwave that explodes off the terrain and stuns."
   },
-  "momentFort": "Fragile at levels 1 and 2, dangerous from level 3. She must get ahead early: in the late game she struggles against tanks."
+  "momentFort": {
+    "voie": "Fragile at levels 1 and 2, dangerous from level 3. She must get ahead early: in the late game she struggles against tanks.",
+    "jungle": "Ganks once she has her 3 spells. Very strong early, she must get ahead before the game drags on."
+  }
 }

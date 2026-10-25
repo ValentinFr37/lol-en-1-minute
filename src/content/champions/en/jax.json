@@ -23,5 +23,8 @@
     "E": "Dodges attacks, then stuns around him.",
     "R": "Bonus damage every 3 attacks; resistances on activation."
   },
-  "momentFort": "Solid early, stronger and stronger in the mid and late game."
+  "momentFort": {
+    "voie": "Solid early, stronger and stronger in the mid and late game.",
+    "jungle": "Ganks easily from level 3 and wins most skirmishes. He gets even stronger with his items."
+  }
 }

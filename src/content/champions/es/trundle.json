@@ -23,5 +23,8 @@
     "E": "Pilar que bloquea y ralentiza.",
     "R": "Roba vida y resistencias a un enemigo."
   },
-  "momentFort": "Fuerte al principio y a mitad de partida."
+  "momentFort": {
+    "voie": "Fuerte al principio y a mitad de partida.",
+    "jungle": "Llega rápido al nivel 3 y es fuerte en duelo. Encadena ganks y objetivos sin esperar al nivel 6."
+  }
 }

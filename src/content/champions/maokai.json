@@ -23,7 +23,10 @@
     "E": "Arbrisseau qui explose.",
     "R": "Mur de ronces qui avance et immobilise."
   },
-  "momentFort": "Utile toute la partie.",
+  "momentFort": {
+    "voie": "Utile toute la partie.",
+    "jungle": "Gank facilement dès le niveau 3 grâce à son W, mais il est très vulnérable aux invasions au début."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

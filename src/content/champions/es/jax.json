@@ -23,5 +23,8 @@
     "E": "Esquiva los ataques y luego aturde a su alrededor.",
     "R": "Daño adicional cada 3 ataques; resistencias al activarla."
   },
-  "momentFort": "Sólido al principio, cada vez más fuerte a mitad y al final de la partida."
+  "momentFort": {
+    "voie": "Sólido al principio, cada vez más fuerte a mitad y al final de la partida.",
+    "jungle": "Gankea con facilidad desde el nivel 3 y gana la mayoría de escaramuzas. Se vuelve aún más fuerte con sus objetos."
+  }
 }

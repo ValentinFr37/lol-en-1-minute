@@ -23,5 +23,8 @@
     "E": "Dash, then a chain that pulls him in and knocks up.",
     "R": "Steals an enemy's ultimate."
   },
-  "momentFort": "Dangerous from level 6."
+  "momentFort": {
+    "voie": "Dangerous from level 6.",
+    "jungle": "Strong early, he ganks often from level 3. His R depends on the ultimate he can steal from the enemy team."
+  }
 }

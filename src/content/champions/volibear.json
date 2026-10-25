@@ -23,7 +23,7 @@
     "E": "Foudre qui ralentit et lui donne un bouclier.",
     "R": "Saute, gagne de la vie et désactive les tourelles proches."
   },
-  "momentFort": "Très fort dès le début, et dangereux dès le niveau 6.",
+  "momentFort": "Très fort en duel au début : dès le niveau 3, il gank sans relâche. Pose des balises pour le voir arriver.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

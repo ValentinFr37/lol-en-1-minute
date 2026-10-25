@@ -92,7 +92,7 @@ Inspire-toi de `darius.json` :
 | `forces`      | 3 forces                                                   |
 | `faiblesses`  | 3 faiblesses                                               |
 | `sorts`       | Un résumé d'une ligne pour `P`, `Q`, `W`, `E` et `R`       |
-| `momentFort`  | Ses fenêtres de puissance face à son adversaire direct (même voie ou jungle contre jungle) : niveaux clés, sort qui change tout quand il est disponible, bon schéma d'échange. Ex. Ahri : bon niveau 1 (auto, W, auto), dangereuse quand son charme (E) est prêt, puis au niveau 6 |
+| `momentFort`  | Ses fenêtres de puissance face à son adversaire direct (même voie ou jungle contre jungle) : niveaux clés, sort qui change tout quand il est disponible, bon schéma d'échange. Ex. Ahri : bon niveau 1 (auto, W, auto), dangereuse quand son charme (E) est prêt, puis au niveau 6. Pour un champion joué à deux rôles, deux textes : `{ "voie": "…", "jungle": "…" }`, affichés avec « En voie : » et « En jungle : » |
 | `patch`       | Le patch où la fiche a été vérifiée (ou `null`)            |
 
 Règle d'or : chaque phrase doit pouvoir se lire en quelques secondes.

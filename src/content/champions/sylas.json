@@ -23,7 +23,10 @@
     "E": "Ruée, puis chaîne qui le tire et projette en l'air.",
     "R": "Vole l'ultime d'un ennemi."
   },
-  "momentFort": "Dangereux dès le niveau 6.",
+  "momentFort": {
+    "voie": "Dangereux dès le niveau 6.",
+    "jungle": "Fort en début de partie, il gank souvent dès le niveau 3. Son R dépend de l'ultime qu'il peut voler en face."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

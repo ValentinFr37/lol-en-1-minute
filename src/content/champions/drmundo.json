@@ -23,7 +23,10 @@
     "E": "Coup violent qui repousse.",
     "R": "Se soigne énormément et gagne de la vitesse."
   },
-  "momentFort": "Solide toute la partie, très résistant en fin de partie.",
+  "momentFort": {
+    "voie": "Solide toute la partie, très résistant en fin de partie.",
+    "jungle": "Très faible au début, il farme jusqu'au niveau 6. Les anti-soins le punissent : envahis-le tôt."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

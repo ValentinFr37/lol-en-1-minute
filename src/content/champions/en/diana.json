@@ -23,5 +23,8 @@
     "E": "Dashes to an enemy; no cooldown if marked.",
     "R": "Pulls in and slows nearby enemies."
   },
-  "momentFort": "Dangerous from level 6."
+  "momentFort": {
+    "voie": "Dangerous from level 6.",
+    "jungle": "Weak in duels early, she relies on full clears. An early invade ruins her plan; dangerous at level 6."
+  }
 }

@@ -23,5 +23,8 @@
     "E": "Onda que ralentiza y reduce la armadura.",
     "R": "Carga que cruza el mapa."
   },
-  "momentFort": "Sólido desde el principio. Brilla sobre todo a mitad de partida: al final, muchos campeones lo superan."
+  "momentFort": {
+    "voie": "Sólido desde el principio. Brilla sobre todo a mitad de partida: al final, muchos campeones lo superan.",
+    "jungle": "Débil al principio y gankea mal antes del nivel 6. Llega rápido al nivel 3 y luego espera a su R para pesar."
+  }
 }

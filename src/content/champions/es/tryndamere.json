@@ -23,5 +23,8 @@
     "E": "Se lanza y daña a su paso.",
     "R": "No puede morir durante 5 segundos."
   },
-  "momentFort": "Fuerte desde el nivel 6 y muy peligroso al final de la partida."
+  "momentFort": {
+    "voie": "Fuerte desde el nivel 6 y muy peligroso al final de la partida.",
+    "jungle": "Tarda en llegar al nivel 3 y farmea para sus objetos. Invádelo pronto, antes de que se vuelva peligroso."
+  }
 }
