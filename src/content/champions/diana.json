@@ -26,7 +26,7 @@
   },
   "momentFort": {
     "voie": "Dangereuse dès le niveau 6.",
-    "jungle": "Faible en duel au début, elle dépend de ses tournées complètes. Une invasion précoce casse son plan ; dangereuse au niveau 6."
+    "jungle": "Faible en duel au début, elle a besoin de faire tous ses camps (full clear). Une invasion précoce casse son plan ; dangereuse au niveau 6."
   },
   "patch": "16.21",
   "auteur": "ValentinFr37"
