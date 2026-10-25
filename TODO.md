@@ -11,6 +11,7 @@ Liste des prochaines tâches pour LoL en 1 minute. Coche une case (`- [x]`) quan
   **Pour les junglers**, l'adversaire direct est le jungler d'en face : donner plutôt le rythme de la jungle. Exemples : « fort dès le niveau 3 pour se battre au Carapateur », « cherche à farmer pour atteindre le niveau 6 le plus vite possible », « vulnérable aux invasions en début de partie ».
   **Pour les champions joués à deux rôles** (ex. Qiyana en jungle et en voie du milieu), séparer les deux : « En jungle : … » et « En voie : … ».
   À prévoir côté code : deux conseils dépasseront souvent la limite de 170 caractères. Le plus propre serait d'autoriser deux entrées dans le champ (ex. `{ "jungle": "…", "voie": "…" }`), affichées sur deux lignes avec leur étiquette, en adaptant le test des fiches.
+  **Premier jet pour les 66 junglers** : [`brouillons/junglers-quand-il-devient-fort.md`](brouillons/junglers-quand-il-devient-fort.md) (à relire avant intégration).
   Méthode prévue : par lots de 10 à 20 champions, en commençant par les plus joués. Sources : guides onetricks.gg Grand Maître et plus, puis relecture par un joueur.
   Penser à reporter chaque correction dans les traductions anglaise et espagnole.
 - [ ] **Relire les fiches des champions les plus joués** (plan, conseils, forces et faiblesses), en priorité ceux que les débutants affrontent le plus.
