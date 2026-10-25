@@ -109,6 +109,10 @@ Quand tu corriges une fiche française, pense à reporter la correction dans ses
 
 Pour ajouter une langue : une entrée dans `LANGS` et ses textes dans `src/i18n.js`, son drapeau dans `src/components/LanguageSwitcher.jsx`, puis un dossier de fiches traduites.
 
+## À faire
+
+Les prochaines tâches sont listées dans [`TODO.md`](TODO.md).
+
 ## Mentions légales
 
 LoL en 1 minute n'est pas approuvé par Riot Games et ne reflète pas les opinions de Riot Games ni de quiconque officiellement impliqué dans la production ou la gestion de League of Legends. League of Legends et Riot Games sont des marques commerciales ou des marques déposées de Riot Games, Inc.
