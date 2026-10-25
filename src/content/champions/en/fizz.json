@@ -1,0 +1,27 @@
+{
+  "plan": "An elusive fish assassin who dodges your spells by hopping onto his trident.",
+  "aSurveiller": "His R (Chum the Waters). A fish latches onto you then a shark bursts out: when it's attached, move away from your allies.",
+  "contrer": [
+    "Wait until he has used his E before casting your spells: he dodges them by hopping.",
+    "When the fish from his R is attached to you, move away from your allies so you don't drag them in.",
+    "Poke him early: he is weak before level 6."
+  ],
+  "forces": [
+    "Very hard to hit thanks to his E.",
+    "Huge single-target damage with his R.",
+    "Takes less damage from every attack."
+  ],
+  "faiblesses": [
+    "Weak in the early game.",
+    "Vulnerable once his E is used.",
+    "Fragile against crowd control."
+  ],
+  "sorts": {
+    "P": "Passes through units and reduces damage taken.",
+    "Q": "Dashes through his target.",
+    "W": "His attacks cause bleeding; the next one hurts more.",
+    "E": "Hops onto his trident, untargetable, then lands or hops again.",
+    "R": "Fish that latches on, then a shark that knocks up."
+  },
+  "momentFort": "Very weak at levels 1 and 2. Dangerous from level 6, then even more with his Zhonya's Hourglass."
+}

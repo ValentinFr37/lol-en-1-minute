@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman with five different weapons, very strong in team fights but vulnerable without protection.",
+  "aSurveiller": "His R (Moonlight Vigil). It explodes on the first champion hit then shoots all nearby enemies: spread out.",
+  "contrer": [
+    "Engage him early: he is fragile and has no escape.",
+    "Spread out in team fights: his R hits every enemy around the target.",
+    "Watch his weapon: with the green rifle he has long range, with the purple one he roots."
+  ],
+  "forces": [
+    "Very high damage in team fights.",
+    "Five weapons to adapt.",
+    "His R hits several enemies."
+  ],
+  "faiblesses": [
+    "No escape.",
+    "Very hard to play.",
+    "Vulnerable to engages."
+  ],
+  "sorts": {
+    "P": "Wields five weapons, two at a time.",
+    "Q": "Ability specific to his main weapon.",
+    "W": "Swaps his main and off-hand weapons.",
+    "E": "No spell: shows the next weapon.",
+    "R": "Moonbeam that explodes and shoots nearby enemies."
+  },
+  "momentFort": "Strong in the mid and late game with his items."
+}

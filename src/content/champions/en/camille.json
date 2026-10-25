@@ -1,0 +1,27 @@
+{
+  "plan": "A fighter who hooks onto walls to swoop in on her target and lock it in a duel.",
+  "aSurveiller": "Her R (The Hextech Ultimatum). She locks you in a zone with her: your allies can help you, but you can't escape.",
+  "contrer": [
+    "Stay away from walls: her E hooks onto them to leap onto you.",
+    "Don't stand at the edge of her W: the outer edge hurts most.",
+    "During her R you can't leave the zone: keep your defensive spells and call your allies."
+  ],
+  "forces": [
+    "Very strong in duels.",
+    "Engages from far thanks to walls.",
+    "True damage with her Q."
+  ],
+  "faiblesses": [
+    "Relies on walls to engage.",
+    "Weak at the very start of the game.",
+    "Fragile if her E misses."
+  ],
+  "sorts": {
+    "P": "Shield when attacking champions.",
+    "Q": "Two empowered attacks; the second deals true damage.",
+    "W": "Sweep; the outer edge slows and hurts more.",
+    "E": "Hooks onto a wall then leaps.",
+    "R": "Locks her target in a zone."
+  },
+  "momentFort": "Strong in the mid game, dangerous from level 6."
+}

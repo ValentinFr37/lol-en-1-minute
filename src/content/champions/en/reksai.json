@@ -1,0 +1,27 @@
+{
+  "plan": "A Void creature who digs tunnels and bursts out of the ground to knock up her enemies.",
+  "aSurveiller": "Her W (Un-burrow). She bursts out of the ground and knocks you up: be careful when she's burrowed near you.",
+  "contrer": [
+    "Be careful when she's underground: she can burst out beneath you.",
+    "Her tunnels let her come back quickly: keep an eye on them.",
+    "Her R takes her to a wounded target: keep your health high."
+  ],
+  "forces": [
+    "Very strong in the early game.",
+    "Mobile thanks to her tunnels.",
+    "Knocks up."
+  ],
+  "faiblesses": [
+    "Weaker in the late game.",
+    "Vulnerable to crowd control.",
+    "Few defences."
+  ],
+  "sorts": {
+    "P": "Generates fury that heals her once burrowed.",
+    "Q": "Area attacks; underground, a sonar.",
+    "W": "Burrows; bursts out and knocks up.",
+    "E": "Bite; underground, digs a tunnel.",
+    "R": "Dashes to a marked target."
+  },
+  "momentFort": "Very strong in the early game."
+}

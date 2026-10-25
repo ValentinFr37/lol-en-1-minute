@@ -1,0 +1,27 @@
+{
+  "plan": "Un pintor mago que elige entre 9 habilidades para dañar, proteger o controlar a muy larga distancia.",
+  "aSurveiller": "Su E (Temática: Tormentos). Puede hacerte huir, atraerte o inmovilizarte a distancia: esquiva sus proyectiles.",
+  "contrer": [
+    "Atácalo de cerca: es frágil y tiene pocas huidas.",
+    "Esquiva sus habilidades de control (E): son lentas.",
+    "Sal rápido de su R: la zona crece y luego explota."
+  ],
+  "forces": [
+    "Alcance muy largo.",
+    "Nueve habilidades para adaptarse.",
+    "Mucho daño en área."
+  ],
+  "faiblesses": [
+    "Frágil si lo alcanzan.",
+    "Difícil de jugar.",
+    "Sus habilidades tardan en lanzarse."
+  ],
+  "sorts": {
+    "P": "Dos habilidades sobre el mismo objetivo provocan una explosión.",
+    "Q": "Habilidades de daño: fuego, rayo o lava.",
+    "W": "Habilidades útiles: velocidad, escudo, curación.",
+    "E": "Habilidades de control: miedo, atracción o inmovilización.",
+    "R": "Pintura que ralentiza, crece y luego explota."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

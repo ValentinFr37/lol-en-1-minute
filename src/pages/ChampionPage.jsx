@@ -8,30 +8,33 @@ import SpellKey, { KeyText } from '../components/SpellKey.jsx'
 import { getFiche } from '../content/index.js'
 import { useAsync } from '../hooks/useAsync.js'
 import { getChampionDetail } from '../lib/ddragon.js'
-import { navigate } from '../lib/router.js'
+import { homePath, navigate } from '../lib/router.js'
 import { SITE_NAME, championTitle } from '../lib/seo.js'
 import { splitSpellKeys } from '../lib/text.js'
-import { pronoms } from '../lib/genre.js'
+import { isFeminine } from '../lib/genre.js'
+import { useLang, useT } from '../lib/lang.js'
 
 export default function ChampionPage({ champion, initialDetail }) {
-  const fiche = getFiche(champion.id)
-  const detail = useAsync(() => getChampionDetail(champion.id), [champion.id], initialDetail)
-  const spells = detail.status === 'ready' ? [detail.data.passive, ...detail.data.spells] : null
+  const lang = useLang()
+  const text = useT()
+  const fiche = getFiche(champion.id, lang)
+  const detail = useAsync(() => getChampionDetail(champion.id, lang), [champion.id, lang], initialDetail)
+  const spells = detail.data ? [detail.data.passive, ...detail.data.spells] : null
 
   useEffect(() => {
-    document.title = championTitle(champion, fiche)
-    const onKey = (event) => event.key === 'Escape' && navigate('/')
+    document.title = championTitle(champion, fiche, lang)
+    const onKey = (event) => event.key === 'Escape' && navigate(homePath(lang))
     window.addEventListener('keydown', onKey)
     return () => {
       document.title = SITE_NAME
       window.removeEventListener('keydown', onKey)
     }
-  }, [champion, fiche])
+  }, [champion, fiche, lang])
 
   return (
     <article className="champion">
-      <Link to="/" className="back">
-        <span aria-hidden="true">‹</span> Changer de champion
+      <Link to={homePath(lang)} className="back">
+        <span aria-hidden="true">‹</span> {text.back}
       </Link>
 
       <header className="champion-header">
@@ -46,7 +49,7 @@ export default function ChampionPage({ champion, initialDetail }) {
         {champion.roles.map((role) => (
           <RoleTag key={role} role={role} />
         ))}
-        <Difficulty label={champion.difficulty} />
+        <Difficulty level={champion.difficulty} />
       </div>
 
       {spells && <SpellStrip spells={spells} />}
@@ -57,31 +60,26 @@ export default function ChampionPage({ champion, initialDetail }) {
             <Fiche fiche={fiche} spells={spells} />
           ) : (
             <>
-              <p className="notice">
-                Pas encore de fiche rédigée pour {champion.name}. En attendant, voici ses sorts résumés à partir
-                des données officielles de Riot.
-              </p>
-              {detail.status === 'ready' && detail.data.enemyTips.length > 0 && (
+              <p className="notice">{text.noFiche(champion.name)}</p>
+              {detail.data?.enemyTips.length > 0 && (
                 <section className="section section-counter" aria-labelledby="conseils">
                   <h2 id="conseils" className="section-title">
-                    Conseils de Riot pour l&apos;affronter
+                    {text.riotTips}
                   </h2>
                   <TipList items={detail.data.enemyTips} />
                 </section>
               )}
             </>
           )}
-          {fiche?.patch && <p className="fiche-meta">Fiche vérifiée au patch {fiche.patch}.</p>}
+          {fiche?.patch && <p className="fiche-meta">{text.ficheChecked(fiche.patch)}</p>}
         </div>
 
         <aside className="fiche-aside" aria-labelledby="sorts">
           <h2 id="sorts" className="section-title">
-            Ses sorts
+            {text.spells}
           </h2>
-          {detail.status === 'loading' && <p className="status">Chargement des sorts…</p>}
-          {detail.status === 'error' && (
-            <ErrorState message="Impossible de charger les sorts de ce champion." onRetry={detail.retry} />
-          )}
+          {detail.status === 'loading' && !detail.data && <p className="status">{text.spellsLoading}</p>}
+          {detail.status === 'error' && <ErrorState message={text.spellsError} onRetry={detail.retry} />}
           {spells && <Spells spells={spells} fiche={fiche} />}
         </aside>
       </div>
@@ -90,8 +88,9 @@ export default function ChampionPage({ champion, initialDetail }) {
 }
 
 function SpellStrip({ spells }) {
+  const text = useT()
   return (
-    <ol className="spell-strip" aria-label="Aperçu des sorts">
+    <ol className="spell-strip" aria-label={text.spellStrip}>
       {spells.map((spell) => (
         <li key={spell.key}>
           <a href={`#sort-${spell.key}`} className="spell-strip-item" title={spell.name}>
@@ -149,8 +148,9 @@ function threatSpell(fiche, spells) {
 }
 
 function Fiche({ fiche, spells }) {
+  const text = useT()
   const threat = threatSpell(fiche, spells)
-  const p = pronoms(fiche)
+  const feminine = isFeminine(fiche)
   return (
     <>
       <p className="plan">
@@ -166,12 +166,16 @@ function Fiche({ fiche, spells }) {
         )}
         <div className="watch-body">
           <h2 id="surveiller" className="watch-title">
-            À surveiller
+            {text.watch}
           </h2>
           {threat && (
             <p className="watch-spell">
               {threat.name}
-              {threat.cooldown && <span className="watch-cooldown">Récupération {threat.cooldown}</span>}
+              {threat.cooldown && (
+                <span className="watch-cooldown">
+                  {text.cooldown} {threat.cooldown}
+                </span>
+              )}
             </p>
           )}
           <p className="watch-text">
@@ -182,7 +186,7 @@ function Fiche({ fiche, spells }) {
 
       <section className="section section-counter" aria-labelledby="battre">
         <h2 id="battre" className="section-title">
-          Comment {p.cod} battre
+          {text.howToBeat(feminine)}
         </h2>
         <TipList items={fiche.contrer} />
       </section>
@@ -190,13 +194,13 @@ function Fiche({ fiche, spells }) {
       <div className="traits-grid">
         <section className="section section-threat" aria-labelledby="forces">
           <h2 id="forces" className="section-title">
-            Ses forces
+            {text.strengths}
           </h2>
           <TraitList items={fiche.forces} sign="+" />
         </section>
         <section className="section section-counter" aria-labelledby="faiblesses">
           <h2 id="faiblesses" className="section-title">
-            Ses faiblesses
+            {text.weaknesses}
           </h2>
           <TraitList items={fiche.faiblesses} sign="−" />
         </section>
@@ -204,7 +208,7 @@ function Fiche({ fiche, spells }) {
 
       <p className="spike">
         <span className="spike-label">
-          Quand {p.sujet} devient {p.fort}
+          {text.whenStrong(feminine)}
         </span>
         <span>
           <KeyText>{fiche.momentFort}</KeyText>
@@ -215,6 +219,7 @@ function Fiche({ fiche, spells }) {
 }
 
 function Spells({ spells, fiche }) {
+  const text = useT()
   return (
     <ul className="spells">
       {spells.map((spell) => (
@@ -225,12 +230,16 @@ function Spells({ spells, fiche }) {
           </span>
           <div className="spell-body">
             <h3 className="spell-name">{spell.name}</h3>
-            {spell.cooldown && <p className="spell-cooldown">Récupération {spell.cooldown}</p>}
+            {spell.cooldown && (
+              <p className="spell-cooldown">
+                {text.cooldown} {spell.cooldown}
+              </p>
+            )}
             <p className="spell-summary">
               <KeyText>{fiche?.sorts?.[spell.key] ?? spell.summary}</KeyText>
             </p>
             <details className="spell-details">
-              <summary>Description complète</summary>
+              <summary>{text.fullDescription}</summary>
               <p>{spell.description}</p>
             </details>
           </div>

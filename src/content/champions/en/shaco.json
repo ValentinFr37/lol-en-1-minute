@@ -1,0 +1,27 @@
+{
+  "plan": "A clown jungler who turns invisible, places trapped boxes and strikes from behind.",
+  "aSurveiller": "His Q (Deceive). He turns invisible and reappears behind you for a critical strike: place a control ward where he passes.",
+  "contrer": [
+    "Buy a control ward or the Oracle Lens: they reveal his boxes and help you spot him.",
+    "Don't chase a Shaco without vision: his R creates a clone and his boxes make you flee.",
+    "Stay near your allies: he attacks isolated targets."
+  ],
+  "forces": [
+    "Invisible and unpredictable.",
+    "His boxes (W) fear enemies.",
+    "Huge damage from behind."
+  ],
+  "faiblesses": [
+    "Fragile if caught.",
+    "Weak against vision (wards, lens).",
+    "Less effective against grouped teams."
+  ],
+  "sorts": {
+    "P": "More damage when he strikes from behind.",
+    "Q": "Turns invisible and teleports; next attack empowered.",
+    "W": "Places a hidden box that fears and attacks.",
+    "E": "Poison that slows; he can throw a dagger.",
+    "R": "Creates a clone that explodes, leaving boxes behind."
+  },
+  "momentFort": "Dangerous from level 2 in the jungle, and at any time if he finds you alone."
+}

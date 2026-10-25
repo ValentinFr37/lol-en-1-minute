@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin who vanishes in her smoke and chains dashes to finish off her targets.",
+  "aSurveiller": "Her W (Twilight Shroud). Inside her smoke she is invisible: use a control ward or an area spell to hit her.",
+  "contrer": [
+    "Keep a control ward for her smoke (W): it reveals Akali.",
+    "Turrets can see her in her smoke: fight near them.",
+    "After her E and her R, she can't escape anymore: use your crowd control."
+  ],
+  "forces": [
+    "Invisible in her smoke.",
+    "Very mobile with her E and her R.",
+    "Huge single-target damage."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Relies on energy: she runs out fast.",
+    "Weak if she falls behind."
+  ],
+  "sorts": {
+    "P": "Hitting a champion creates a ring; leaving it empowers her attack.",
+    "Q": "Throws kunai in a fan that slow at max range.",
+    "W": "Smoke that makes her invisible.",
+    "E": "Backflip and shuriken; she can dash to the target hit.",
+    "R": "Two dashes: the second executes based on missing health."
+  },
+  "momentFort": "Dangerous from level 6, very strong in the mid game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A half-dragon who turns into a dragon to burn and knock back her enemies.",
+  "aSurveiller": "Her R (Dragon's Descent). She transforms and knocks back enemies in her path: step out of her way.",
+  "contrer": [
+    "Step out of the way of her R: she knocks you towards her team.",
+    "Avoid her E in dragon form: it leaves a burning zone.",
+    "Slow her: she relies on her speed."
+  ],
+  "forces": [
+    "Powerful in dragon form.",
+    "Knocks back with her R.",
+    "Very good at taking dragons."
+  ],
+  "faiblesses": [
+    "Little crowd control.",
+    "Easy to kite.",
+    "Relies on her form."
+  ],
+  "sorts": {
+    "P": "Gains resistances by getting takedowns.",
+    "Q": "Empowered attack that hits around.",
+    "W": "Shield, speed, then explosion.",
+    "E": "Fireball that slows.",
+    "R": "Turns into a dragon and knocks back."
+  },
+  "momentFort": "Strong in the mid game."
+}

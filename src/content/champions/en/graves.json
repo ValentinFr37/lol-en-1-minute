@@ -1,0 +1,27 @@
+{
+  "plan": "A shotgun outlaw who deals huge damage up close and takes hits well.",
+  "aSurveiller": "His R (Collateral Damage). He fires a shell that explodes behind the target: don't stand behind an ally who gets hit.",
+  "contrer": [
+    "Keep your distance: his shotgun hurts a lot up close.",
+    "His pellets stop on the first one hit: put a minion or a monster between you.",
+    "Engage him while he reloads: he has to stop after two shots."
+  ],
+  "forces": [
+    "Huge damage up close.",
+    "Tanky with his E.",
+    "Very strong early in the jungle."
+  ],
+  "faiblesses": [
+    "Short range.",
+    "Has to reload after two shots.",
+    "Weak if kept at a distance."
+  ],
+  "sorts": {
+    "P": "Fires like a shotgun; has to reload.",
+    "Q": "Projectile that explodes after a delay.",
+    "W": "Smoke that reduces vision.",
+    "E": "Dash that grants resistances.",
+    "R": "Shell that explodes behind the target."
+  },
+  "momentFort": "Strong from the start, dangerous in the mid game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A clockwork mage who commands her ball from range and pulls in a whole team with her ultimate.",
+  "aSurveiller": "Her R (Command: Shockwave). Her ball pulls in every enemy around it: watch where the ball is, not Orianna.",
+  "contrer": [
+    "Stay away from her ball: it's what casts the spells.",
+    "Watch out for her E: she puts the ball on an ally who charges at you.",
+    "Engage her: she is fragile and immobile."
+  ],
+  "forces": [
+    "Her R pulls in several enemies.",
+    "Controls the area with her ball.",
+    "Protects her allies."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Hard to play."
+  ],
+  "sorts": {
+    "P": "Her attacks hurt more on the same target.",
+    "Q": "Sends her ball.",
+    "W": "Pulse that slows or speeds up.",
+    "E": "Shield on an ally with the ball.",
+    "R": "Shockwave that pulls in enemies."
+  },
+  "momentFort": "Strong in the mid game and in team fights."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un payaso de la jungla que se vuelve invisible, coloca cajas trampa y ataca por la espalda.",
+  "aSurveiller": "Su Q (Engañar). Se vuelve invisible y reaparece a tu espalda para un golpe crítico: coloca un guardián de control por donde pasa.",
+  "contrer": [
+    "Compra un guardián de control o la Lente del oráculo: revelan sus cajas y ayudan a verlo.",
+    "No persigas a un Shaco sin visión: su R crea un clon y sus cajas te hacen huir.",
+    "Quédate cerca de tus aliados: ataca a los objetivos aislados."
+  ],
+  "forces": [
+    "Invisible e impredecible.",
+    "Sus cajas (W) asustan a los enemigos.",
+    "Daño enorme por la espalda."
+  ],
+  "faiblesses": [
+    "Frágil si lo atrapan.",
+    "Débil contra la visión (guardianes, lente).",
+    "Menos eficaz contra equipos agrupados."
+  ],
+  "sorts": {
+    "P": "Más daño cuando golpea por la espalda.",
+    "Q": "Se vuelve invisible y se teletransporta; siguiente ataque potenciado.",
+    "W": "Coloca una caja oculta que asusta y ataca.",
+    "E": "Veneno que ralentiza; puede lanzar una daga.",
+    "R": "Crea un clon que explota dejando cajas."
+  },
+  "momentFort": "Peligroso desde el nivel 2 en la jungla, y en cualquier momento si te encuentra solo."
+}

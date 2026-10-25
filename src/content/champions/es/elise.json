@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla araña que cambia de forma e inmoviliza con su maraña antes de devorarte.",
+  "aSurveiller": "Su E (Maraña). Te aturde y luego se lanza sobre ti en forma de araña: quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su maraña (E) se detiene en el primero que toca.",
+    "Si falla su maraña, es el momento de atacarla.",
+    "Cuidado con su E en forma de araña: se eleva y cae sobre ti."
+  ],
+  "forces": [
+    "Muy fuerte al principio de la partida.",
+    "Aturde con su maraña.",
+    "Esquiva los disparos de torreta con su E de araña."
+  ],
+  "faiblesses": [
+    "Menos fuerte al final de la partida.",
+    "Depende de su maraña.",
+    "Frágil si la atrapan."
+  ],
+  "sorts": {
+    "P": "Sus habilidades crean arañas que la acompañan.",
+    "Q": "Veneno que daña según la vida del objetivo.",
+    "W": "Araña explosiva o frenesí de velocidad de ataque.",
+    "E": "Maraña que aturde; como araña, se eleva y cae.",
+    "R": "Cambia de forma: humana o araña."
+  },
+  "momentFort": "Muy fuerte al principio en la jungla."
+}

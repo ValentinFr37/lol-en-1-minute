@@ -1,0 +1,27 @@
+{
+  "plan": "A fighter who is very weak early but becomes one of the strongest in the game in the late game.",
+  "aSurveiller": "Her R (Divine Judgment). She makes an ally invulnerable for a few seconds: don't waste your spells on the protected target.",
+  "contrer": [
+    "Attack her early: she is very weak before level 6.",
+    "Try to end the game quickly: in the late game she becomes fearsome.",
+    "Wait for her R to end before hitting the protected target."
+  ],
+  "forces": [
+    "Huge power in the late game.",
+    "Her R makes an ally invulnerable.",
+    "Ranged attacks that hit an area later on."
+  ],
+  "faiblesses": [
+    "Very weak in the early game.",
+    "Few ways to escape.",
+    "Easy to punish before level 6."
+  ],
+  "sorts": {
+    "P": "Grows stronger every level: range, speed and area damage.",
+    "Q": "Sword that pierces, slows and shreds resistances.",
+    "W": "Heals herself and an ally, with a speed boost.",
+    "E": "Her attacks deal more magic damage.",
+    "R": "Makes an ally invulnerable and rains swords around them."
+  },
+  "momentFort": "Weak early, stronger and stronger: she becomes fearsome at level 11 and then at level 16."
+}

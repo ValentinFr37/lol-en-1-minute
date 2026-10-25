@@ -1,0 +1,27 @@
+{
+  "plan": "Un espadachín muy móvil que lanza por los aires a los enemigos con un tornado y luego salta sobre ellos con su definitiva.",
+  "aSurveiller": "Su Q cargada (el tornado). Tras dos golpes acertados con su Q, el tercero lanza un tornado que te lanza por los aires y le abre su R.",
+  "contrer": [
+    "Cuando su tornado esté listo, quédate fuera de su línea de tiro: sin lanzamiento, no hay R.",
+    "Espera a que haya usado su muro de viento (W) para lanzar tus proyectiles.",
+    "Atácalo cuando haya caído su escudo pasivo: solo se recarga al moverse."
+  ],
+  "forces": [
+    "Muy móvil atravesando súbditos con su E.",
+    "Bloquea todos los proyectiles con su muro de viento (W).",
+    "Su R puede alcanzar a varios enemigos lanzados por los aires."
+  ],
+  "faiblesses": [
+    "Frágil cuando lo alcanzan los controles.",
+    "Difícil de jugar sin súbditos o enemigos que atravesar.",
+    "Su R solo funciona sobre un enemigo lanzado por los aires."
+  ],
+  "sorts": {
+    "P": "Más golpes críticos y un escudo que se carga al moverse.",
+    "Q": "Estocada en línea; la 3.ª lanza un tornado que lanza por los aires.",
+    "W": "Muro que bloquea todos los proyectiles enemigos.",
+    "E": "Atraviesa a un enemigo; reutilizable sobre objetivos distintos.",
+    "R": "Salta sobre un enemigo lanzado por los aires y lo mantiene en el aire."
+  },
+  "momentFort": "Fuerte en duelo desde el principio, temible a mitad de partida con sus objetos de crítico."
+}

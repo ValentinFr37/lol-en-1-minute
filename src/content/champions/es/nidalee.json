@@ -1,0 +1,27 @@
+{
+  "plan": "Una cazadora que hostiga con sus jabalinas y luego se transforma en puma para saltar sobre su presa.",
+  "aSurveiller": "Su Q (Jabalina). Cuanto más lejos llega, más daño hace: quédate detrás de tus súbditos, se detiene en el primero que toca.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su jabalina (Q) se detiene en el primero que toca.",
+    "Si una jabalina te alcanza, retrocede: como puma puede saltar más lejos sobre ti.",
+    "Evita sus trampas (W) en los arbustos: te revelan."
+  ],
+  "forces": [
+    "Jabalinas que hacen mucho daño desde lejos.",
+    "Muy móvil como puma.",
+    "Se cura y cura a sus aliados."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Difícil de jugar.",
+    "Menos fuerte al final de la partida."
+  ],
+  "sorts": {
+    "P": "Más rápida en los arbustos; marca a los objetivos cazados.",
+    "Q": "Jabalina más fuerte de lejos; golpe potente como puma.",
+    "W": "Trampa que revela; salto como puma.",
+    "E": "Cura a un aliado; zarpazo en área como puma.",
+    "R": "Se transforma en puma."
+  },
+  "momentFort": "Una de las campeonas más fuertes al principio de la partida, y todavía fuerte a mitad."
+}

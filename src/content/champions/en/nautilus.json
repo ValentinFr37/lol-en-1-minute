@@ -1,0 +1,27 @@
+{
+  "plan": "A tank support who hooks onto his target with his anchor and roots it again and again.",
+  "aSurveiller": "His Q (Dredge Line). His anchor pulls you to him: stay behind your minions, it stops on the first one hit.",
+  "contrer": [
+    "Stay behind your minions: his anchor (Q) stops on the first one hit.",
+    "His R chases you: try to put an ally between you.",
+    "His first attack roots you: keep your distance."
+  ],
+  "forces": [
+    "Lots of roots.",
+    "Very tanky.",
+    "His R chases a target."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Relies on his anchor.",
+    "Immobile."
+  ],
+  "sorts": {
+    "P": "His first attack roots.",
+    "Q": "Anchor that pulls both towards each other.",
+    "W": "Shield and bonus damage.",
+    "E": "Waves that slow.",
+    "R": "Shockwave that chases and knocks up."
+  },
+  "momentFort": "Dangerous from level 2."
+}

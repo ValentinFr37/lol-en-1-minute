@@ -1,0 +1,27 @@
+{
+  "plan": "A spider jungler who shifts forms and locks you down with her cocoon before devouring you.",
+  "aSurveiller": "Her E (Cocoon). It stuns you then she pounces on you in spider form: stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: her cocoon (E) stops on the first one hit.",
+    "After a missed cocoon, it's time to engage her.",
+    "Watch out for her spider E: she rises into the air and drops on you."
+  ],
+  "forces": [
+    "Very strong early.",
+    "Stuns with her cocoon.",
+    "Dodges turret shots with her spider E."
+  ],
+  "faiblesses": [
+    "Weaker in the late game.",
+    "Relies on her cocoon.",
+    "Fragile if caught."
+  ],
+  "sorts": {
+    "P": "Her spells create spiderlings that follow her.",
+    "Q": "Venom that damages based on the target's health.",
+    "W": "Explosive spiderling or attack speed frenzy.",
+    "E": "Cocoon that stuns; as a spider she rises then drops.",
+    "R": "Shifts form: human or spider."
+  },
+  "momentFort": "Very strong early in the jungle."
+}

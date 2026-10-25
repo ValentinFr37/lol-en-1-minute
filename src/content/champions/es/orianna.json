@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga mecánica que controla su esfera a distancia y atrae a todo un equipo con su definitiva.",
+  "aSurveiller": "Su R (Orden: onda de choque). Su esfera atrae a todos los enemigos a su alrededor: vigila dónde está la esfera, no Orianna.",
+  "contrer": [
+    "Aléjate de su esfera: es la que lanza las habilidades.",
+    "Cuidado con su E: coloca la esfera sobre un aliado que se lanza contra vosotros.",
+    "Atácala: es frágil y poco móvil."
+  ],
+  "forces": [
+    "Su R atrae a varios enemigos.",
+    "Controla la zona con su esfera.",
+    "Protege a sus aliados."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Difícil de jugar."
+  ],
+  "sorts": {
+    "P": "Sus ataques hacen más daño al mismo objetivo.",
+    "Q": "Envía su esfera.",
+    "W": "Pulso que ralentiza o acelera.",
+    "E": "Escudo sobre un aliado con la esfera.",
+    "R": "Onda de choque que atrae a los enemigos."
+  },
+  "momentFort": "Fuerte a mitad de partida y en las peleas de equipo."
+}

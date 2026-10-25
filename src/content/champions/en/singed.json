@@ -1,0 +1,27 @@
+{
+  "plan": "A chemist who runs around leaving a poison trail and flings his enemies behind him.",
+  "aSurveiller": "His E (Fling). He flings you behind him, often into his glue that roots you: don't chase him.",
+  "contrer": [
+    "Never chase him: he runs leaving poison behind.",
+    "Avoid his glue (W): with his E, it roots you.",
+    "Ignore him while he pushes minions: he is hard to catch."
+  ],
+  "forces": [
+    "Very hard to catch.",
+    "Constant poison.",
+    "Flings behind him."
+  ],
+  "faiblesses": [
+    "Low single-target damage.",
+    "Has to be in melee range.",
+    "Easy to ignore."
+  ],
+  "sorts": {
+    "P": "Faster near champions.",
+    "Q": "Poison trail.",
+    "W": "Glue that slows and prevents dashes.",
+    "E": "Flings the target behind him.",
+    "R": "All his stats increase."
+  },
+  "momentFort": "Strong in the mid game."
+}

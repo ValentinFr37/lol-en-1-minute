@@ -1,0 +1,27 @@
+{
+  "plan": "Una momia tanque que se lanza sobre su objetivo con su venda y aturde a todo un equipo con su definitiva.",
+  "aSurveiller": "Su Q (Lanzamiento de vendas). Se agarra al primer enemigo alcanzado, llega hasta él y lo aturde: quédate detrás de tus súbditos para que bloqueen la venda.",
+  "contrer": [
+    "Separaos en las peleas de equipo: su R aturde a todos a su alrededor.",
+    "Quédate detrás de tus súbditos: su venda (Q) se detiene en el primer enemigo alcanzado.",
+    "Prioriza el daño mágico: su E reduce sobre todo el daño físico."
+  ],
+  "forces": [
+    "Su R puede aturdir a todo un equipo.",
+    "Dos vendas para entrar o alcanzar.",
+    "Muy resistente y fácil de jugar."
+  ],
+  "faiblesses": [
+    "Poco daño sin sus habilidades.",
+    "Predecible: todo depende de su venda.",
+    "Débil si no consigue llegar cuerpo a cuerpo."
+  ],
+  "sorts": {
+    "P": "Sus ataques maldicen: el objetivo recibe daño verdadero además del mágico.",
+    "Q": "Venda que lo lleva al enemigo alcanzado y lo aturde.",
+    "W": "Aura que daña sin parar a los enemigos cercanos.",
+    "E": "Reduce el daño físico recibido y daña a su alrededor.",
+    "R": "Aturde y daña a todos los enemigos a su alrededor."
+  },
+  "momentFort": "Desde el nivel 6 con su R, sobre todo en peleas de equipo."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un forajido con escopeta que hace un daño enorme de cerca y aguanta bien.",
+  "aSurveiller": "Su R (Daño colateral). Dispara un proyectil que explota detrás del objetivo: no te quedes detrás de un aliado alcanzado.",
+  "contrer": [
+    "Mantén la distancia: su escopeta hace mucho daño de cerca.",
+    "Sus balas se detienen en el primero que tocan: pon un súbdito o un monstruo entre vosotros.",
+    "Atácalo mientras recarga: tiene que pararse tras dos disparos."
+  ],
+  "forces": [
+    "Daño enorme de cerca.",
+    "Resistente con su E.",
+    "Muy fuerte al principio en la jungla."
+  ],
+  "faiblesses": [
+    "Poco alcance.",
+    "Tiene que recargar tras dos disparos.",
+    "Débil si lo mantienen a distancia."
+  ],
+  "sorts": {
+    "P": "Dispara como una escopeta; tiene que recargar.",
+    "Q": "Proyectil que explota tras un retraso.",
+    "W": "Humo que reduce la visión.",
+    "E": "Desplazamiento que da resistencias.",
+    "R": "Proyectil que explota detrás del objetivo."
+  },
+  "momentFort": "Fuerte desde el principio, peligroso a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora frágil al principio que se vuelve imparable tras su primera eliminación en un combate.",
+  "aSurveiller": "Su pasiva (¡A tope!). Tras cada eliminación corre y dispara mucho más rápido: no le dejes la primera eliminación de un combate.",
+  "contrer": [
+    "Atácala cuerpo a cuerpo: no tiene ninguna huida.",
+    "Evita sus trampas en el suelo (E): te inmovilizan.",
+    "Centraos en ella primero: una vez lanzada, es muy difícil de parar."
+  ],
+  "forces": [
+    "Daño enorme al final de la partida.",
+    "Se desata tras cada eliminación.",
+    "Su R cruza el mapa para rematar a un objetivo herido."
+  ],
+  "faiblesses": [
+    "Muy poco móvil.",
+    "Frágil al principio de la partida.",
+    "Vulnerable a los asesinos y a las entradas enemigas."
+  ],
+  "sorts": {
+    "P": "Velocidad enorme tras una eliminación o una torreta destruida.",
+    "Q": "Cambia de arma: minigun rápida o cohetes que alcanzan una zona.",
+    "W": "Rayo que daña, ralentiza y revela.",
+    "E": "Trampas en el suelo que inmovilizan.",
+    "R": "Cohete que cruza el mapa, más fuerte contra objetivos heridos."
+  },
+  "momentFort": "Débil al principio, muy fuerte al final de la partida con sus objetos."
+}

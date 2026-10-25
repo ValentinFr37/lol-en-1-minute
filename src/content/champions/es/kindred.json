@@ -1,0 +1,27 @@
+{
+  "plan": "Un dúo de cazadores que vuelve invencible una zona un instante y se hace más fuerte cazando.",
+  "aSurveiller": "Su R (Respiro de cordera). Nadie puede morir en la zona durante un instante: no uses tus grandes habilidades dentro.",
+  "contrer": [
+    "Espera a que termine su R: nadie muere en la zona.",
+    "Atácalos cuando hayan usado su Q: es su único desplazamiento.",
+    "Protege tus campamentos de la jungla: ganan acumulaciones cazándolos."
+  ],
+  "forces": [
+    "Su R impide las muertes.",
+    "Muy móviles con su Q.",
+    "Más fuertes con cada caza."
+  ],
+  "faiblesses": [
+    "Frágiles.",
+    "Un solo desplazamiento real.",
+    "Débiles si no cazan."
+  ],
+  "sorts": {
+    "P": "Ganan poder cazando sus marcas.",
+    "Q": "Voltereta y disparo a tres objetivos.",
+    "W": "Lobo que ataca a los enemigos cercanos.",
+    "E": "Ralentiza; el 3.er ataque hace más daño.",
+    "R": "Nadie puede morir en la zona."
+  },
+  "momentFort": "Débiles al principio. Muy fuertes con 2 o 3 objetos y sus primeras marcas, y temibles al final de la partida."
+}

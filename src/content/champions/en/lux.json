@@ -1,0 +1,27 @@
+{
+  "plan": "A mage who roots with her sphere of light and finishes off from very far with her laser beam.",
+  "aSurveiller": "Her Q (Light Binding). It roots you, then she follows up with her R: dodge the sphere and her combo no longer works.",
+  "contrer": [
+    "Keep at least two minions between her and you: her sphere (Q) stops after two targets.",
+    "Engage her up close: she is fragile and has no escape spell.",
+    "After a missed Q, she is vulnerable for several seconds: time to attack."
+  ],
+  "forces": [
+    "Very long-range damage with her R.",
+    "Her Q roots up to two targets.",
+    "Protects her allies with her W."
+  ],
+  "faiblesses": [
+    "No escape spell.",
+    "Slow spells that are easy to dodge.",
+    "Very fragile up close."
+  ],
+  "sorts": {
+    "P": "Her spells mark the target; her next attack hurts more.",
+    "Q": "Sphere that roots up to two enemies.",
+    "W": "Wand that shields allies.",
+    "E": "Zone that slows, then explodes.",
+    "R": "Very long-range laser beam."
+  },
+  "momentFort": "Dangerous from level 6 with her R, especially in the mid game."
+}

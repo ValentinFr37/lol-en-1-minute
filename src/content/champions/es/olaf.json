@@ -1,0 +1,27 @@
+{
+  "plan": "Un bárbaro inmune a los controles durante su definitiva, cada vez más fuerte cuando está herido.",
+  "aSurveiller": "Su R (Ragnarok). Se vuelve inmune a todos los controles: no uses tus aturdimientos en ese momento, retrocede.",
+  "contrer": [
+    "Durante su R ignora los controles: retrocede en lugar de intentar pararlo.",
+    "Esquiva sus hachas (Q): ralentizan y reducen tu armadura.",
+    "Compra un objeto de Heridas graves: se cura con su robo de vida."
+  ],
+  "forces": [
+    "Inmune a los controles con su R.",
+    "Muy fuerte al principio de la partida.",
+    "Daño verdadero con su E."
+  ],
+  "faiblesses": [
+    "Fácil de mantener a distancia.",
+    "Poco móvil.",
+    "Menos fuerte al final de la partida."
+  ],
+  "sorts": {
+    "P": "Más velocidad de ataque y robo de vida cuando está herido.",
+    "Q": "Hacha lanzada que ralentiza.",
+    "W": "Velocidad de ataque y escudo.",
+    "E": "Golpe con daño verdadero.",
+    "R": "Inmune a los controles."
+  },
+  "momentFort": "Muy fuerte al principio de la partida."
+}

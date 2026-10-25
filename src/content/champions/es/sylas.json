@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago encadenado que roba la definitiva de sus enemigos y la vuelve contra ellos.",
+  "aSurveiller": "Su R (Apropiación). Te roba la definitiva: si es poderosa, espera verla volver contra tu equipo.",
+  "contrer": [
+    "Vigila qué definitiva roba (R): puede usarla contra vosotros.",
+    "Se cura con su W: compra un objeto de Heridas graves.",
+    "Esquiva su cadena (E): lo lleva hasta ti y te lanza por los aires."
+  ],
+  "forces": [
+    "Roba las definitivas enemigas.",
+    "Se cura mucho.",
+    "Muy móvil con su E."
+  ],
+  "faiblesses": [
+    "Frágil si lo controlan.",
+    "Tiene que estar cuerpo a cuerpo.",
+    "Depende de la definitiva que roba."
+  ],
+  "sorts": {
+    "P": "Tras una habilidad, sus ataques alcanzan en área.",
+    "Q": "Cadenas cruzadas que ralentizan.",
+    "W": "Se lanza sobre un enemigo y se cura.",
+    "E": "Desplazamiento y luego una cadena que lo atrae y lanza por los aires.",
+    "R": "Roba la definitiva de un enemigo."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

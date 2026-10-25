@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador acorazado que te encierra a solas con él en otra dimensión para batirse en duelo.",
+  "aSurveiller": "Su R (Reino de la muerte). Te lleva donde tus aliados ya no pueden ayudarte y te roba parte de tus estadísticas: mantén la vida alta.",
+  "contrer": [
+    "Esquiva su Q: hace mucho más daño cuando solo alcanza a un objetivo.",
+    "Compra un objeto de Heridas graves: su W lo cura.",
+    "Si su R te atrapa, usa todas tus habilidades de huida y protección, y aléjate de él."
+  ],
+  "forces": [
+    "Muy fuerte en duelo gracias a su R.",
+    "Escudo y curación con su W.",
+    "Resistente y difícil de matar."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Habilidades lentas y fáciles de esquivar.",
+    "Vulnerable a los campeones que lo mantienen a distancia."
+  ],
+  "sorts": {
+    "P": "Tras 3 ataques o habilidades, gana un aura de daño y velocidad.",
+    "Q": "Mazazo, más fuerte contra un objetivo aislado.",
+    "W": "Escudo que puede convertir en curación.",
+    "E": "Atrae a todos los enemigos de una zona.",
+    "R": "Te encierra a solas con él y te roba parte de tus estadísticas."
+  },
+  "momentFort": "Sólido desde el principio y muy peligroso desde el nivel 6 con su R."
+}

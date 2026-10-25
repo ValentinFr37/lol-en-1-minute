@@ -1,0 +1,27 @@
+{
+  "plan": "A dragon mage who grows in power over the game and can fly over walls.",
+  "aSurveiller": "His R (Falling Star). He drops a star that stuns: don't stay grouped in the marked area.",
+  "contrer": [
+    "Poke him early: he needs time to become strong.",
+    "Interrupt his breath (Q) with crowd control: he has to channel it.",
+    "Get out of his black hole (E) fast: it pulls you to the centre."
+  ],
+  "forces": [
+    "Power that grows over the game.",
+    "Flies over walls.",
+    "Big area damage."
+  ],
+  "faiblesses": [
+    "Weak early.",
+    "Has to channel his breath.",
+    "Not very tanky."
+  ],
+  "sorts": {
+    "P": "Gains stardust that upgrades his spells.",
+    "Q": "Continuous breath that damages the first one hit.",
+    "W": "Flies over terrain.",
+    "E": "Black hole that pulls to the centre.",
+    "R": "Falling star that stuns."
+  },
+  "momentFort": "Weak early, stronger and stronger in the late game."
+}

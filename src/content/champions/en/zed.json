@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin who uses his shadows to appear and take down a target in seconds.",
+  "aSurveiller": "His R (Death Mark). He appears on you, then the mark explodes 3 seconds later and repeats part of the damage: survive those 3 seconds.",
+  "contrer": [
+    "When he casts his R, use your protection (hourglass, shield, escape spell) just before the mark explodes.",
+    "Stay near your allies and turrets: he looks for isolated targets.",
+    "Once his shadow (W) is used, he can't escape anymore: time to punish him."
+  ],
+  "forces": [
+    "Huge damage on a single target.",
+    "Very mobile thanks to his shadows.",
+    "Untargetable when he casts his R."
+  ],
+  "faiblesses": [
+    "Fragile if caught.",
+    "Less effective against tanks and grouped teams.",
+    "Without his W available, he has no escape."
+  ],
+  "sorts": {
+    "P": "Deals more damage to low-health targets.",
+    "Q": "He and his shadows throw shurikens.",
+    "W": "Sends a shadow; he can swap places with it.",
+    "E": "Spinning slash; enemies hit by a shadow are slowed.",
+    "R": "Dashes at you while untargetable; the mark explodes 3 seconds later."
+  },
+  "momentFort": "Dangerous from level 6, and especially in the mid game with his items."
+}

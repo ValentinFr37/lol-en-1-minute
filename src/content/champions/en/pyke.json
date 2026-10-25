@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin support who hooks with his harpoon and executes low-health enemies.",
+  "aSurveiller": "His R (Death From Below). He executes any enemy below a certain health threshold: when low on health, stay away from him.",
+  "contrer": [
+    "Stay behind your minions: his harpoon (Q) pulls the first enemy hit.",
+    "When you're low on health, back off: his R executes you once your health drops below a threshold.",
+    "Don't chase him into the fog: he heals when he isn't seen."
+  ],
+  "forces": [
+    "Executes several enemies with his R.",
+    "Very mobile with his W and his E.",
+    "Heals when he disappears from view."
+  ],
+  "faiblesses": [
+    "Gains no health from items: fragile.",
+    "Relies on his harpoon to engage.",
+    "Weak if he falls behind."
+  ],
+  "sorts": {
+    "P": "Heals when unseen; his bonus health becomes damage.",
+    "Q": "Harpoon that pulls an enemy or skewers them.",
+    "W": "Becomes camouflaged and gains a lot of speed.",
+    "E": "Dashes; a phantom comes back and stuns those it passes through.",
+    "R": "Executes low-health enemies; can recast if he kills."
+  },
+  "momentFort": "Dangerous from level 2, and fearsome in fights from level 6."
+}

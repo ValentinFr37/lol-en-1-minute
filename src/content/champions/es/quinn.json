@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora acompañada de un águila que ciega a su objetivo y empuja a quienes la atacan.",
+  "aSurveiller": "Su E (Acoso y derribo). Te empuja y te ralentiza en cuanto te acercas: prepara varias formas de alcanzarla.",
+  "contrer": [
+    "Prepara dos formas de alcanzarla: su E empuja la primera.",
+    "Su Q te ciega: tus ataques fallan, usa tus habilidades.",
+    "Cuando vuela (R), es frágil de cerca."
+  ],
+  "forces": [
+    "Muy móvil con su R.",
+    "Empuja con su E.",
+    "Mucho daño en duelo."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco alcance.",
+    "Débil si la alcanzan."
+  ],
+  "sorts": {
+    "P": "Valor marca a los enemigos; siguiente ataque potenciado.",
+    "Q": "Valor ciega a un objetivo.",
+    "W": "Velocidad y visión.",
+    "E": "Salto que empuja y ralentiza.",
+    "R": "Alza el vuelo con Valor a gran velocidad."
+  },
+  "momentFort": "Muy fuerte del nivel 1 al 5. También temible al final de la partida: en el nivel 16 su R está al máximo para atrapar objetivos aislados."
+}

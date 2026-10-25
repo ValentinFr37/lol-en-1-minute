@@ -1,0 +1,27 @@
+{
+  "plan": "Un tanque de roca que carga en medio de tu equipo con su definitiva para iniciar la pelea.",
+  "aSurveiller": "Su R (Fuerza imparable). Carga desde lejos y lanza por los aires a todos los que estén agrupados: no os quedéis pegados.",
+  "contrer": [
+    "Manteneos separados en las peleas de equipo para que su R solo alcance a una persona.",
+    "El daño mágico le hace mucho más daño que el físico: sobre todo acumula armadura.",
+    "Toma ventaja antes del nivel 6: sin su R es poco peligroso."
+  ],
+  "forces": [
+    "Su R puede iniciar una pelea sobre varios enemigos a la vez.",
+    "Muy resistente al daño físico.",
+    "Su escudo pasivo le ayuda a aguantar en su línea."
+  ],
+  "faiblesses": [
+    "Poco daño si juega de tanque.",
+    "Vulnerable al daño mágico.",
+    "Casi inofensivo si falla su R."
+  ],
+  "sorts": {
+    "P": "Escudo que se recarga si no lo golpean durante unos segundos.",
+    "Q": "Lanza un fragmento que daña y roba velocidad de movimiento.",
+    "W": "Sus ataques crean ondas de choque delante de él.",
+    "E": "Golpea el suelo: daño según su armadura y menos velocidad de ataque.",
+    "R": "Carga a gran velocidad y lanza a todos por los aires."
+  },
+  "momentFort": "Poco peligroso antes del nivel 6. Después, su R puede decidir cada pelea de equipo."
+}

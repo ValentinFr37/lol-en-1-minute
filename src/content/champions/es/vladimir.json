@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago de sangre que se cura muchísimo y se vuelve intocable en su charco de sangre.",
+  "aSurveiller": "Su W (Estanque sangriento). No se le puede seleccionar durante 2 segundos: guarda tu gran habilidad para después.",
+  "contrer": [
+    "Guarda tu gran habilidad para después de su W: mientras dura lo esquiva todo.",
+    "Compra un objeto de Heridas graves: se cura muchísimo.",
+    "Atácalo pronto: es débil al principio de la partida."
+  ],
+  "forces": [
+    "Se cura muchísimo.",
+    "No seleccionable con su W.",
+    "Mucho daño en área."
+  ],
+  "faiblesses": [
+    "Débil al principio de la partida.",
+    "Pocos controles.",
+    "Vulnerable a las Heridas graves."
+  ],
+  "sorts": {
+    "P": "La vida y el poder se refuerzan mutuamente.",
+    "Q": "Roba vida a un objetivo.",
+    "W": "Charco de sangre: no seleccionable.",
+    "E": "Orbe cargado que daña alrededor.",
+    "R": "Plaga que amplifica el daño."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida."
+}

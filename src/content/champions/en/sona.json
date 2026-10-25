@@ -1,0 +1,27 @@
+{
+  "plan": "A musician support who heals, speeds up and makes a whole team dance with her ultimate.",
+  "aSurveiller": "Her R (Crescendo). It stuns every enemy in a line: spread out.",
+  "contrer": [
+    "Spread out: her R stuns in a line.",
+    "Engage her: she is very fragile.",
+    "Don't stay in her range early: she pokes a lot."
+  ],
+  "forces": [
+    "Her R stuns several enemies.",
+    "Heals and speeds up her allies.",
+    "Pokes well."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Immobile.",
+    "Relies on her allies."
+  ],
+  "sorts": {
+    "P": "Her spells empower her next attack.",
+    "Q": "Note that damages two enemies.",
+    "W": "Heals her and an ally.",
+    "E": "Speed for her allies.",
+    "R": "Chord that stuns in a line."
+  },
+  "momentFort": "Strong in the mid game."
+}

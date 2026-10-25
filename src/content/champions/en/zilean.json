@@ -1,0 +1,27 @@
+{
+  "plan": "A time mage who stuns with his bombs and brings an ally back to life with his ultimate.",
+  "aSurveiller": "His R (Chronoshift). An ally who dies comes back to life: don't overextend to finish them off.",
+  "contrer": [
+    "Wait until his R is used before killing his target.",
+    "Move away from an ally carrying his bomb (Q): two bombs stun.",
+    "Engage him: he is fragile."
+  ],
+  "forces": [
+    "Brings an ally back to life.",
+    "Stuns with two bombs.",
+    "Slows or speeds up."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Low damage without his bombs.",
+    "Relies on his allies."
+  ],
+  "sorts": {
+    "P": "Gives experience to his allies.",
+    "Q": "Bomb that stuns if another joins it.",
+    "W": "Reduces his spells' cooldowns.",
+    "E": "Slows an enemy or speeds up an ally.",
+    "R": "Brings an ally back to life."
+  },
+  "momentFort": "Useful all game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo química que vuelve locos a sus enemigos y puede salvar a un aliado de la muerte.",
+  "aSurveiller": "Su R (Adquisición hostil). Los enemigos alcanzados enloquecen y atacan a sus aliados: apartaos de su nube.",
+  "contrer": [
+    "Apartaos de su nube (R): si no, os atacáis entre vosotros.",
+    "Remata rápido al aliado que protege con su W: sobrevive si elimina a alguien.",
+    "Su Q te lanza: aléjate de tus aliados cuando te atrape."
+  ],
+  "forces": [
+    "Su R le da la vuelta a una pelea.",
+    "Salva a un aliado con su W.",
+    "Inmoviliza y lanza a un objetivo."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco daño.",
+    "Su R es lenta."
+  ],
+  "sorts": {
+    "P": "Sus ataques marcan; sus aliados hacen más daño.",
+    "Q": "Inmoviliza y luego lanza a un enemigo.",
+    "W": "Retrasa la muerte de un aliado.",
+    "E": "Proyectiles: escudo aliado, ralentizan a los enemigos.",
+    "R": "Los enemigos alcanzados atacan a sus aliados."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador fanfarrón que hace un daño enorme con sus hachas mientras consiga atraparlas.",
+  "aSurveiller": "Su Q (Hacha giratoria). Cada hacha que atrapa mantiene su daño al máximo: molesta donde caen sus hachas.",
+  "contrer": [
+    "Ponte donde caen sus hachas (Q) para obligarle a elegir entre atraparlas y estar a salvo.",
+    "Evita intercambiar al principio: hace muchísimo daño pronto.",
+    "Atácalo con varios aliados: tiene pocas formas de escapar."
+  ],
+  "forces": [
+    "Daño enorme al principio de la partida.",
+    "Gana mucho oro cuando elimina.",
+    "Ralentiza y aparta con su E."
+  ],
+  "faiblesses": [
+    "Depende de su capacidad para atrapar sus hachas.",
+    "Poco móvil fuera de su velocidad (W).",
+    "Pierde mucho oro cuando muere."
+  ],
+  "sorts": {
+    "P": "Gana oro adicional al atrapar hachas y eliminar.",
+    "Q": "Hacha potenciada que rebota; tiene que atraparla.",
+    "W": "Gana velocidad de movimiento y de ataque.",
+    "E": "Lanza sus hachas, que apartan y ralentizan.",
+    "R": "Dos hachas que cruzan el mapa y vuelven."
+  },
+  "momentFort": "Muy peligroso desde el principio, sobre todo en el nivel 6, cuando puede ir a por todas. Su mayor ventaja está al principio, en su línea."
+}

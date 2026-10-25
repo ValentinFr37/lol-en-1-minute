@@ -1,0 +1,27 @@
+{
+  "plan": "Un artificiero que bombardea a los enemigos desde lejos y destruye las torres en un momento.",
+  "aSurveiller": "Su R (Megabomba incendiaria). La lanza desde muy lejos: aparece un círculo en el suelo, sal de él enseguida.",
+  "contrer": [
+    "Sal del círculo del suelo: su R llega desde muy lejos.",
+    "Evita sus minas (E): ralentizan.",
+    "Atácalo: es frágil."
+  ],
+  "forces": [
+    "Bombardea desde muy lejos.",
+    "Destruye rápido las torres.",
+    "Su R golpea muy lejos."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Sus habilidades se ven venir.",
+    "Pocas defensas."
+  ],
+  "sorts": {
+    "P": "Ataque potenciado a menudo.",
+    "Q": "Bomba rebotante.",
+    "W": "Carga que empuja y destruye las torres.",
+    "E": "Minas que ralentizan.",
+    "R": "Bomba gigante desde muy lejos."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

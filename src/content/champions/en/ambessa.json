@@ -1,0 +1,27 @@
+{
+  "plan": "A Noxian general who chains small dashes between her spells and pins her target with her ultimate.",
+  "aSurveiller": "Her R (Public Execution). She teleports to the farthest enemy in a line and stuns them: don't stand at the end of a line.",
+  "contrer": [
+    "Don't stand at the end of a line of allies: her R targets the farthest one.",
+    "Avoid long trades: every spell gives her a dash and an empowered attack.",
+    "Use your crowd control after her dashes: she has no escape left."
+  ],
+  "forces": [
+    "Very mobile thanks to her small dashes.",
+    "Her R pins and stuns a target.",
+    "Shield and area damage with her W."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Hard to play.",
+    "Relies on the energy of her spells."
+  ],
+  "sorts": {
+    "P": "After each spell, a short dash and an empowered attack.",
+    "Q": "Half-circle swing; the next one becomes a strike in a line.",
+    "W": "Shield, then slams the ground around her.",
+    "E": "Spins her blades and slows nearby enemies.",
+    "R": "Teleports to the farthest enemy and stuns them."
+  },
+  "momentFort": "Held back by long cooldowns in the first levels, she becomes very dangerous once her Q has a few points, and stays strong for a long time."
+}

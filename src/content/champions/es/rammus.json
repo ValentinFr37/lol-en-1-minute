@@ -1,0 +1,27 @@
+{
+  "plan": "Un armadillo acorazado que rueda sobre sus enemigos y devuelve el daño a quienes lo golpean.",
+  "aSurveiller": "Su W (Posición defensiva). Devuelve el daño de los ataques básicos: no ataques a un Rammus hecho bola.",
+  "contrer": [
+    "No ataques cuando esté hecho bola (W): devuelve el daño.",
+    "El daño mágico es eficaz: su armadura es enorme.",
+    "Ralentízalo mientras rueda (Q)."
+  ],
+  "forces": [
+    "Armadura enorme.",
+    "Devuelve el daño.",
+    "Provoca a un objetivo."
+  ],
+  "faiblesses": [
+    "Vulnerable al daño mágico.",
+    "Poco daño.",
+    "Depende de su velocidad."
+  ],
+  "sorts": {
+    "P": "Su daño aumenta con sus resistencias.",
+    "Q": "Rueda y empuja hacia atrás.",
+    "W": "Gran armadura y devolución de daño.",
+    "E": "Provoca a un objetivo.",
+    "R": "Salta y cae en área."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

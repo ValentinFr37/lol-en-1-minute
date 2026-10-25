@@ -1,0 +1,27 @@
+{
+  "plan": "A support mage who roots for a long time with her sphere and protects her allies from crowd control.",
+  "aSurveiller": "Her Q (Dark Binding). A slow sphere that roots you for several seconds: stay behind your minions and sidestep when she casts it.",
+  "contrer": [
+    "Stay behind your minions: her sphere (Q) stops on the first one hit.",
+    "Her shield (E) blocks magic damage and crowd control: wait until it's used before engaging.",
+    "When she casts her R, move away from her: the chains stun you if you stay too close."
+  ],
+  "forces": [
+    "Very long root with her Q.",
+    "Protects an ally from crowd control with her E.",
+    "Her R stuns several nearby enemies."
+  ],
+  "faiblesses": [
+    "Her sphere is slow and easy to see coming.",
+    "Immobile.",
+    "Fragile if engaged."
+  ],
+  "sorts": {
+    "P": "Heals by damaging enemies.",
+    "Q": "Sphere that roots the first enemy hit for a long time.",
+    "W": "Ground zone that damages, stronger on low-health targets.",
+    "E": "Shield that blocks magic damage and crowd control.",
+    "R": "Chains nearby enemies: stunned if they stay in range."
+  },
+  "momentFort": "Annoying from the start with her Q, and more dangerous in team fights from level 6."
+}

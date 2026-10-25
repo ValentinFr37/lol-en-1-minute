@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago que prende fuego a todo lo que toca y funde a los equipos agrupados.",
+  "aSurveiller": "Su Q (Abrasar). Si estás en llamas, esta bola de fuego te aturde: cuando ardas, quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su Q se detiene en el primer enemigo alcanzado.",
+    "Separaos en las peleas: su R rebota entre los enemigos cercanos.",
+    "Atácalo de cerca: es frágil y no tiene huida."
+  ],
+  "forces": [
+    "Daño en área enorme.",
+    "Aturde si el objetivo está en llamas.",
+    "Su R es terrible contra los equipos agrupados."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad de huida.",
+    "Habilidades lentas de acertar.",
+    "Muy frágil."
+  ],
+  "sorts": {
+    "P": "Sus habilidades prenden fuego al objetivo.",
+    "Q": "Bola de fuego que aturde a un objetivo en llamas.",
+    "W": "Columna de llamas en el suelo tras un breve retraso.",
+    "E": "Explosión que se propaga a los enemigos cercanos.",
+    "R": "Bola de fuego que rebota hasta 5 veces entre los enemigos."
+  },
+  "momentFort": "Peligroso desde el nivel 6 y muy fuerte en las peleas de equipo."
+}

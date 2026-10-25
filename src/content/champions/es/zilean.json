@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago del tiempo que aturde con sus bombas y devuelve a la vida a un aliado con su definitiva.",
+  "aSurveiller": "Su R (Alteración del tiempo). Un aliado que muere vuelve a la vida: no te adentres demasiado para rematarlo.",
+  "contrer": [
+    "Espera a que haya usado su R antes de eliminar a su objetivo.",
+    "Aléjate de un aliado que lleve su bomba (Q): dos bombas aturden.",
+    "Atácalo: es frágil."
+  ],
+  "forces": [
+    "Devuelve a la vida a un aliado.",
+    "Aturde con dos bombas.",
+    "Ralentiza o acelera."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco daño sin sus bombas.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Da experiencia a sus aliados.",
+    "Q": "Bomba que aturde si otra se le une.",
+    "W": "Reduce el enfriamiento de sus habilidades.",
+    "E": "Ralentiza a un enemigo o acelera a un aliado.",
+    "R": "Devuelve a la vida a un aliado."
+  },
+  "momentFort": "Útil toda la partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un lobo de la jungla que rastrea a los enemigos heridos y se cura muchísimo durante los combates.",
+  "aSurveiller": "Su R (Presión infinita). Salta desde lejos y te bloquea en el sitio un instante: guarda una huida o un aliado para ayudarte.",
+  "contrer": [
+    "Por debajo de la mitad de vida, vuelve a la base: te detecta y se vuelve más rápido contra ti (W).",
+    "Compra un objeto de Heridas graves: se cura muchísimo en combate.",
+    "No alargues un duelo cuando tenga poca vida: su pasiva lo cura aún más."
+  ],
+  "forces": [
+    "Se cura muchísimo en combate.",
+    "Detecta y caza a los enemigos heridos.",
+    "Su R bloquea a un objetivo desde lejos."
+  ],
+  "faiblesses": [
+    "Débil ante los objetos de Heridas graves.",
+    "Pocas formas de escapar.",
+    "Su salto (R) se ve venir cuando llega de lejos."
+  ],
+  "sorts": {
+    "P": "Sus ataques lo curan cuando tiene poca vida.",
+    "Q": "Mordisco que daña según tu vida máxima y lo cura.",
+    "W": "Detecta a los enemigos heridos y gana velocidad contra ellos.",
+    "E": "Reduce el daño recibido y luego hace huir a los enemigos cercanos.",
+    "R": "Salta y bloquea al primer campeón alcanzado."
+  },
+  "momentFort": "Muy fuerte al principio en la jungla, y luego desde el nivel 6 con su R."
+}

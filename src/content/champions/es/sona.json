@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo musical que cura, acelera y hace bailar a todo un equipo con su definitiva.",
+  "aSurveiller": "Su R (Crescendo). Aturde a todos los enemigos en línea: separaos.",
+  "contrer": [
+    "Separaos: su R aturde en línea.",
+    "Atácala: es muy frágil.",
+    "No te quedes a su alcance al principio: hostiga mucho."
+  ],
+  "forces": [
+    "Su R aturde a varios enemigos.",
+    "Cura y acelera a sus aliados.",
+    "Hostiga bien."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Poco móvil.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Sus habilidades potencian su siguiente ataque.",
+    "Q": "Nota que daña a dos enemigos.",
+    "W": "Curación para ella y un aliado.",
+    "E": "Velocidad para sus aliados.",
+    "R": "Acorde que aturde en línea."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

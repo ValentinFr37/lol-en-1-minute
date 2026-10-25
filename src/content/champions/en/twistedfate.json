@@ -1,0 +1,27 @@
+{
+  "plan": "A card master who stuns with his gold card and teleports anywhere on the map.",
+  "aSurveiller": "His W (Pick a Card). His gold card stuns: when a yellow card glows above him, keep your distance.",
+  "contrer": [
+    "When a yellow card glows above him (W), back off.",
+    "When he casts his R, warn your team: he is about to land in a lane.",
+    "Engage him: he is fragile and immobile."
+  ],
+  "forces": [
+    "Teleports around the map.",
+    "Stuns with his gold card.",
+    "Helps every lane."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Weak in duels."
+  ],
+  "sorts": {
+    "P": "Earns bonus gold on takedowns.",
+    "Q": "Throws three cards.",
+    "W": "Gold card that stuns, red or blue.",
+    "E": "Bonus damage every 4 attacks.",
+    "R": "Reveals enemies and teleports."
+  },
+  "momentFort": "Strong in the mid game."
+}

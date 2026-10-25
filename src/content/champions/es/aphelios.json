@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador con cinco armas distintas, muy fuerte en las peleas de equipo pero vulnerable sin protección.",
+  "aSurveiller": "Su R (Vigilia lunar). Explota en el primer campeón alcanzado y luego dispara a todos los enemigos cercanos: separaos.",
+  "contrer": [
+    "Atácalo pronto: es frágil y no tiene huida.",
+    "Separaos en las peleas de equipo: su R alcanza a todos los enemigos alrededor del objetivo.",
+    "Vigila su arma: con el rifle verde tiene mucho alcance, con la morada inmoviliza."
+  ],
+  "forces": [
+    "Muchísimo daño en las peleas de equipo.",
+    "Cinco armas para adaptarse.",
+    "Su R alcanza a varios enemigos."
+  ],
+  "faiblesses": [
+    "Ninguna huida.",
+    "Muy difícil de jugar.",
+    "Vulnerable ante las entradas enemigas."
+  ],
+  "sorts": {
+    "P": "Maneja cinco armas, dos a la vez.",
+    "Q": "Habilidad propia de su arma principal.",
+    "W": "Intercambia su arma principal y la secundaria.",
+    "E": "Sin habilidad: indica la siguiente arma.",
+    "R": "Rayo de luna que explota y dispara a los enemigos cercanos."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida con sus objetos."
+}

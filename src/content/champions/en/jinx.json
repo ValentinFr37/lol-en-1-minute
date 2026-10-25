@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who is fragile early but becomes unstoppable after her first takedown in a fight.",
+  "aSurveiller": "Her passive (Get Excited!). After each takedown she runs and shoots much faster: don't give her the first kill of a fight.",
+  "contrer": [
+    "Engage her in melee range: she has no escape.",
+    "Avoid her traps on the ground (E): they root you.",
+    "Focus her first: once she gets going, she is very hard to stop."
+  ],
+  "forces": [
+    "Huge damage in the late game.",
+    "Goes wild after every takedown.",
+    "Her R crosses the map to finish off a wounded target."
+  ],
+  "faiblesses": [
+    "Very immobile.",
+    "Fragile in the early game.",
+    "Vulnerable to assassins and engages."
+  ],
+  "sorts": {
+    "P": "Huge speed after a takedown or a destroyed turret.",
+    "Q": "Swaps weapon: fast minigun or rockets that hit an area.",
+    "W": "Beam that damages, slows and reveals.",
+    "E": "Traps on the ground that root.",
+    "R": "Rocket that crosses the map, stronger on wounded targets."
+  },
+  "momentFort": "Weak early, very strong in the late game with her items."
+}

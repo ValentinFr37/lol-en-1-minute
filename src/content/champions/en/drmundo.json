@@ -1,0 +1,27 @@
+{
+  "plan": "A mad doctor who is almost impossible to kill and heals a huge amount with his ultimate.",
+  "aSurveiller": "His R (Maximum Dosage). He heals all at once and becomes very fast: save your Grievous Wounds and damage for after.",
+  "contrer": [
+    "Buy a Grievous Wounds item: he heals a huge amount.",
+    "Percent health damage melts him: favour it.",
+    "Don't waste crowd control: he resists the first one, leaving a canister he can pick up."
+  ],
+  "forces": [
+    "Very tanky and heals a lot.",
+    "Resists the first crowd control.",
+    "Pokes with his bonesaws."
+  ],
+  "faiblesses": [
+    "Weak to Grievous Wounds items.",
+    "Little crowd control.",
+    "Easy to kite before his R."
+  ],
+  "sorts": {
+    "P": "Resists the first crowd control and leaves a canister.",
+    "Q": "Bonesaw that slows and damages.",
+    "W": "Damage around him; he heals afterwards.",
+    "E": "Heavy hit that knocks back.",
+    "R": "Heals a huge amount and gains speed."
+  },
+  "momentFort": "Solid all game, very tanky in the late game."
+}

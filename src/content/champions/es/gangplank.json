@@ -1,0 +1,27 @@
+{
+  "plan": "Un pirata que hace explotar en cadena sus barriles de pólvora y bombardea todo el mapa.",
+  "aSurveiller": "Sus barriles (E). Los hace explotar en cadena a distancia: aléjate de los barriles, aunque parezcan lejos de él.",
+  "contrer": [
+    "Destruye sus barriles (E) cuando estén débiles: así no podrá usarlos.",
+    "No te quedes nunca cerca de un barril: las explosiones se propagan.",
+    "Atácalo pronto: es frágil al principio de la partida."
+  ],
+  "forces": [
+    "Daño en área enorme con sus barriles.",
+    "Su R alcanza cualquier punto del mapa.",
+    "Elimina los controles con su W."
+  ],
+  "faiblesses": [
+    "Débil al principio de la partida.",
+    "Difícil de jugar.",
+    "Poco móvil."
+  ],
+  "sorts": {
+    "P": "Sus ataques queman a menudo.",
+    "Q": "Disparo que da oro si mata.",
+    "W": "Elimina los controles y se cura.",
+    "E": "Barril que explota cuando lo golpea.",
+    "R": "Bombardea una zona en cualquier parte del mapa."
+  },
+  "momentFort": "Débil al principio, muy fuerte al final de la partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que siembra plumas en el suelo y luego las hace volver para inmovilizar a sus enemigos.",
+  "aSurveiller": "Su E (Dagas a mí). Hace volver sus plumas, que inmovilizan tras 3 impactos: no te quedes entre ella y sus plumas.",
+  "contrer": [
+    "No te quedes entre ella y sus plumas en el suelo: su E las hace volver.",
+    "Su R la vuelve no seleccionable: guarda tus habilidades para después.",
+    "Atácala: tiene pocas huidas."
+  ],
+  "forces": [
+    "Inmoviliza con su E.",
+    "No seleccionable con su R.",
+    "Mucho daño."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Depende de sus plumas.",
+    "Frágil."
+  ],
+  "sorts": {
+    "P": "Tras una habilidad, sus ataques atraviesan y dejan plumas.",
+    "Q": "Dos dagas que dejan plumas.",
+    "W": "Velocidad de ataque adicional.",
+    "E": "Hace volver las plumas e inmoviliza.",
+    "R": "Salta, intocable, y lanza dagas."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida."
+}

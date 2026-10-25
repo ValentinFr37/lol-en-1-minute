@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo hada que convierte a sus enemigos en animales y vuelve gigantes a sus aliados.",
+  "aSurveiller": "Su W (Banal). Te convierte en animal: no puedes atacar ni lanzar habilidades durante un instante.",
+  "contrer": [
+    "Guarda tu gran habilidad para después de su W: transformado no puedes hacer nada.",
+    "Céntrate en ella: hace muy fuertes a sus aliados.",
+    "Tras su R, su aliado tiene mucha más vida: cambia de objetivo."
+  ],
+  "forces": [
+    "Convierte a un enemigo en animal.",
+    "Su R salva a un aliado.",
+    "Escudos excelentes."
+  ],
+  "faiblesses": [
+    "Frágil si la atacan.",
+    "Poco daño.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Pix dispara con ella y con sus aliados.",
+    "Q": "Proyectil que ralentiza mucho.",
+    "W": "Transforma a un enemigo o acelera a un aliado.",
+    "E": "Escudo para un aliado o daño a un enemigo.",
+    "R": "Vuelve gigante a un aliado y lanza por los aires."
+  },
+  "momentFort": "Útil desde el principio, muy fuerte en las peleas de equipo."
+}

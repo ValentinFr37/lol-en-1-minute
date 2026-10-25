@@ -1,0 +1,27 @@
+{
+  "plan": "A tank support who dashes onto her target, stuns it and starts fights whenever she can.",
+  "aSurveiller": "Her E (Zenith Blade). She dashes to the last champion hit and roots them, then follows up with her Q, which stuns.",
+  "contrer": [
+    "Stay behind your minions and sidestep when she casts her E.",
+    "After her E and her Q, she has no crowd control left: time to fight back.",
+    "Spread out in team fights: her R stuns in the centre of the zone."
+  ],
+  "forces": [
+    "Lots of stuns in a row.",
+    "Very tanky with her W.",
+    "Her R can start a fight from range."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Easy to avoid if you stay behind minions.",
+    "Weak if engaged while her spells are on cooldown."
+  ],
+  "sorts": {
+    "P": "Her spells mark enemies; her allies deal more damage to them.",
+    "Q": "Her next attack stuns.",
+    "W": "More resistances, then damages around her.",
+    "E": "Piercing blade; she dashes to the last champion hit.",
+    "R": "Solar beam: stuns in the centre, slows at the edges."
+  },
+  "momentFort": "Dangerous from level 2, and very strong in team fights from level 6."
+}

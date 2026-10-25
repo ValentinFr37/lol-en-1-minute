@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador artista que dispara 4 balas y luego recarga, con una definitiva que cruza medio mapa.",
+  "aSurveiller": "Su R (Abajo el telón). Dispara 4 balas desde muy lejos y la última es un golpe crítico: sal de su cono de disparo.",
+  "contrer": [
+    "Sal de su cono cuando lance su R: la 4.ª bala hace muchísimo daño.",
+    "Atácalo mientras recarga tras su 4.ª bala.",
+    "Su W inmoviliza si él o sus aliados te han golpeado: retrocede tras recibir un golpe."
+  ],
+  "forces": [
+    "La 4.ª bala es un golpe crítico.",
+    "Inmoviliza desde lejos con su W.",
+    "Su R remata desde muy lejos."
+  ],
+  "faiblesses": [
+    "Tiene que recargar tras 4 balas.",
+    "Poco móvil.",
+    "Vulnerable ante las entradas enemigas."
+  ],
+  "sorts": {
+    "P": "4 balas; la 4.ª es un golpe crítico.",
+    "Q": "Granada que rebota entre 4 objetivos.",
+    "W": "Disparo de muy largo alcance que inmoviliza a los objetivos alcanzados.",
+    "E": "Coloca trampas invisibles.",
+    "R": "4 superbalas de muy largo alcance."
+  },
+  "momentFort": "Fuerte desde el principio, muy peligroso a mitad de partida."
+}

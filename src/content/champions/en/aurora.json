@@ -1,0 +1,27 @@
+{
+  "plan": "A bunny mage who jumps between worlds to turn invisible and trap her enemies.",
+  "aSurveiller": "Her R (Between Worlds). She creates a zone that slows, in which she teleports from one edge to the other: get out of it fast.",
+  "contrer": [
+    "Get out of her R zone: inside, you are slowed and she teleports around you.",
+    "After her W she turns invisible: keep an area spell or a ward.",
+    "Engage her once her E and W are used: she has no escape left."
+  ],
+  "forces": [
+    "Very mobile and elusive.",
+    "Heals thanks to spirits.",
+    "Her R traps several enemies."
+  ],
+  "faiblesses": [
+    "Fragile if caught.",
+    "Her spells need to land.",
+    "Weak if she falls behind."
+  ],
+  "sorts": {
+    "P": "Spirits of wounded enemies follow her and heal her.",
+    "Q": "Projectile that curses; she can recall it.",
+    "W": "Leaps and turns invisible for a moment.",
+    "E": "Ball that slows, then she hops backwards.",
+    "R": "Zone that slows, in which she teleports."
+  },
+  "momentFort": "Strong early, and dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "An armoured mutant who flings his enemies over himself and executes those who are too weak.",
+  "aSurveiller": "His R (Fear Beyond Death). Below 25% health, he pulls you in and executes you: heal up or stay away.",
+  "contrer": [
+    "When low on health, stay far from him: his R can execute you.",
+    "Dodge his dash (E): he flings you behind him.",
+    "Don't fight around him: his legs spit fire."
+  ],
+  "forces": [
+    "Executes with his R.",
+    "Tanky.",
+    "Big damage up close."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Easy to kite.",
+    "His E is easy to see coming."
+  ],
+  "sorts": {
+    "P": "His legs spit flames.",
+    "Q": "Torpedo that slows.",
+    "W": "Fires continuously around him.",
+    "E": "Charges and flings over himself.",
+    "R": "Drill that executes below 25% health."
+  },
+  "momentFort": "Strong in the mid game."
+}

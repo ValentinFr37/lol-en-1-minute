@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo acorazado que salta sobre sus enemigos y los atrae a todos a su alrededor.",
+  "aSurveiller": "Su W (Ferromancia - Caída). Salta y lanza por los aires, y luego su R atrae a todo el mundo: separaos.",
+  "contrer": [
+    "Separaos en las peleas: su R atrae a todos a su alrededor.",
+    "Su Q rompe los escudos: no cuentes con ellos contra ella.",
+    "Ralentízala: necesita velocidad para entrar."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Atrae a varios enemigos.",
+    "Roba resistencias."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Poco móvil a pie.",
+    "Depende de su entrada."
+  ],
+  "sorts": {
+    "P": "Roba armadura y resistencia mágica.",
+    "Q": "Golpe en línea que aturde y rompe escudos.",
+    "W": "Salta y lanza por los aires.",
+    "E": "Velocidad para ella y un aliado.",
+    "R": "Atrae a los enemigos a su alrededor."
+  },
+  "momentFort": "Útil desde el nivel 2."
+}

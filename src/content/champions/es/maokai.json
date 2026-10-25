@@ -1,0 +1,27 @@
+{
+  "plan": "Un árbol tanque que se lanza sobre su objetivo e inmoviliza a todo un equipo con su muro de zarzas.",
+  "aSurveiller": "Su W (Avance retorcido). Se lanza hacia ti siendo intocable y te inmoviliza: guarda tu huida para después.",
+  "contrer": [
+    "Sus pimpollos (E) explotan cuando los pisas: evita los arbustos.",
+    "Guarda una habilidad de huida para después de su W.",
+    "Apartaos de su R: inmoviliza a todos los alcanzados."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Muchas inmovilizaciones.",
+    "Su R controla una zona."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Poco móvil solo.",
+    "Débil si lo ignoran."
+  ],
+  "sorts": {
+    "P": "Sus ataques lo curan a menudo.",
+    "Q": "Onda que empuja y ralentiza.",
+    "W": "Se lanza hacia un objetivo y lo inmoviliza.",
+    "E": "Pimpollo que explota.",
+    "R": "Muro de zarzas que avanza e inmoviliza."
+  },
+  "momentFort": "Útil toda la partida."
+}

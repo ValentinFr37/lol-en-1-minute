@@ -1,0 +1,27 @@
+{
+  "plan": "Un asesino que usa sus sombras para aparecer y eliminar a un objetivo en segundos.",
+  "aSurveiller": "Su R (Marca de la muerte). Aparece sobre ti y la marca explota 3 segundos después repitiendo parte del daño: sobrevive a esos 3 segundos.",
+  "contrer": [
+    "Cuando lance su R, usa tu protección (reloj de arena, escudo, huida) justo antes de que explote la marca.",
+    "Quédate cerca de tus aliados y de tus torretas: busca objetivos aislados.",
+    "Cuando haya usado su sombra (W), ya no puede escapar: es el momento de castigarlo."
+  ],
+  "forces": [
+    "Daño enorme a un solo objetivo.",
+    "Muy móvil gracias a sus sombras.",
+    "Intocable al lanzar su R."
+  ],
+  "faiblesses": [
+    "Frágil si lo atrapan.",
+    "Menos eficaz contra tanques y equipos agrupados.",
+    "Sin su W disponible, no tiene huida."
+  ],
+  "sorts": {
+    "P": "Hace más daño a los objetivos con poca vida.",
+    "Q": "Él y sus sombras lanzan shurikens.",
+    "W": "Envía una sombra; puede intercambiar su lugar con ella.",
+    "E": "Tajo giratorio; los enemigos alcanzados por una sombra quedan ralentizados.",
+    "R": "Se lanza hacia ti siendo intocable; la marca explota 3 segundos después."
+  },
+  "momentFort": "Peligroso desde el nivel 6, y sobre todo a mitad de partida con sus objetos."
+}

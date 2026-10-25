@@ -1,0 +1,27 @@
+{
+  "plan": "A very tanky and simple fighter: he charges in, spins and finishes off weakened enemies with his ultimate.",
+  "aSurveiller": "His R (Demacian Justice). It deals more damage the more health you're missing: below half health, don't stay in his range.",
+  "contrer": [
+    "Hit him regularly: his passive only heals him if he hasn't taken damage for a few seconds.",
+    "Back off when he spins (E): it hurts a lot up close but he can't follow you from afar.",
+    "Ranged champions beat him: poke him, he only has a sprint (Q) to reach you."
+  ],
+  "forces": [
+    "Very tanky and heals on his own out of combat.",
+    "His ultimate finishes off weakened enemies.",
+    "Very simple to play, he rarely makes big mistakes."
+  ],
+  "faiblesses": [
+    "No ranged spell.",
+    "Easy to poke from range.",
+    "Easy to slow and escape once his Q is used."
+  ],
+  "sorts": {
+    "P": "Regenerates fast if he hasn't taken damage recently.",
+    "Q": "Speeds up, removes slows, then strikes and silences.",
+    "W": "Shield and crowd control resistance for a moment.",
+    "E": "Spins and damages enemies around him.",
+    "R": "Execute: more damage based on the target's missing health."
+  },
+  "momentFort": "Solid from the start of the game, and fearsome from level 6 thanks to his execute."
+}

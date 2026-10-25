@@ -1,0 +1,27 @@
+{
+  "plan": "A small, annoying marksman who poisons, blinds and hides invisible mushrooms all over the map.",
+  "aSurveiller": "His mushrooms (R). Invisible, they explode when you step on them: use the Oracle Lens or a control ward to see them.",
+  "contrer": [
+    "His dart (Q) blinds you: your basic attacks miss, use your spells instead during that time.",
+    "Engage him decisively: he is very fragile and has no real escape.",
+    "Avoid tall grass without vision: that's where he hides and plants his mushrooms."
+  ],
+  "forces": [
+    "Pokes a lot thanks to the poison on his attacks (E).",
+    "His mushrooms control the map and slow.",
+    "Turns invisible by standing still."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "No escape apart from his speed (W).",
+    "Weak when engaged up close."
+  ],
+  "sorts": {
+    "P": "Turns invisible if he stands still for a moment.",
+    "Q": "Dart that blinds: the target misses its basic attacks.",
+    "W": "Gains movement speed.",
+    "E": "His attacks poison the target.",
+    "R": "Places invisible mushrooms that slow and poison."
+  },
+  "momentFort": "Annoying from the start in his lane, then especially from level 6 with his mushrooms."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A chemist support who drives her enemies mad and can save an ally from death.",
+  "aSurveiller": "Her R (Hostile Takeover). Enemies hit go berserk and attack their allies: spread out from her cloud.",
+  "contrer": [
+    "Spread out from her cloud (R): otherwise you attack each other.",
+    "Finish off the ally she protects with her W quickly: they survive if they get a takedown.",
+    "Her Q throws you: move away from your allies when you're caught."
+  ],
+  "forces": [
+    "Her R turns a fight around.",
+    "Saves an ally with her W.",
+    "Roots and throws a target."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Low damage.",
+    "Her R is slow."
+  ],
+  "sorts": {
+    "P": "Her attacks mark; her allies deal more damage.",
+    "Q": "Roots then throws an enemy.",
+    "W": "Delays an ally's death.",
+    "E": "Projectiles: shield allies, slow enemies.",
+    "R": "Enemies hit attack their allies."
+  },
+  "momentFort": "Dangerous from level 6."
+}

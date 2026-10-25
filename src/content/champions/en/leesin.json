@@ -1,0 +1,27 @@
+{
+  "plan": "A very mobile monk jungler who leaps onto a target and kicks it into the middle of his team.",
+  "aSurveiller": "His R (Dragon's Rage). He can kick you towards his team: don't stand alone in front of your allies.",
+  "contrer": [
+    "Stay behind your minions: his Q stops on the first enemy hit.",
+    "Keep an escape spell for after his R: once kicked, you need to get away fast.",
+    "He is mostly strong early: take advantage of the late game, when his impact drops."
+  ],
+  "forces": [
+    "Very mobile thanks to his Q and his W.",
+    "His R can kick a target into the middle of his team.",
+    "Very strong in the early game."
+  ],
+  "faiblesses": [
+    "Loses power in the late game.",
+    "Relies on his Q to reach his target.",
+    "Low damage if he falls behind."
+  ],
+  "sorts": {
+    "P": "After a spell, his next 2 attacks are faster.",
+    "Q": "Wave that marks the first enemy; he can then dash to it.",
+    "W": "Dashes to an ally with a shield for both.",
+    "E": "Slams the ground and reveals, then slows enemies hit.",
+    "R": "Kick that knocks the target back and knocks up those it hits."
+  },
+  "momentFort": "Very strong from the start of the game, especially between level 3 and level 6."
+}

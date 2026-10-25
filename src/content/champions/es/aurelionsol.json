@@ -1,0 +1,27 @@
+{
+  "plan": "Un dragón mago que gana poder a lo largo de la partida y puede volar por encima de los muros.",
+  "aSurveiller": "Su R (Estrella fugaz). Hace caer una estrella que aturde: no os quedéis agrupados en la zona marcada.",
+  "contrer": [
+    "Hostígalo al principio: necesita tiempo para volverse fuerte.",
+    "Interrumpe su aliento (Q) con un control: tiene que canalizarlo.",
+    "Sal rápido de su agujero negro (E): te atrae hacia el centro."
+  ],
+  "forces": [
+    "Poder que aumenta a lo largo de la partida.",
+    "Vuela por encima de los muros.",
+    "Mucho daño en área."
+  ],
+  "faiblesses": [
+    "Débil al principio.",
+    "Tiene que canalizar su aliento.",
+    "Poco resistente."
+  ],
+  "sorts": {
+    "P": "Gana polvo estelar que mejora sus habilidades.",
+    "Q": "Aliento continuo que daña al primero alcanzado.",
+    "W": "Vuela por encima del terreno.",
+    "E": "Agujero negro que atrae hacia el centro.",
+    "R": "Estrella que cae y aturde."
+  },
+  "momentFort": "Débil al principio, cada vez más fuerte al final de la partida."
+}

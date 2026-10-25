@@ -1,0 +1,27 @@
+{
+  "plan": "A chameleon mage who disguises herself as an ally and leaps into the middle of the enemy team.",
+  "aSurveiller": "Her R (Pop Blossom). She leaps and stuns everyone around her: spread out when she's charging it.",
+  "contrer": [
+    "Spread out when she charges her R: it stuns everyone around her.",
+    "Beware of fake champions: she can take the appearance of an ally.",
+    "Her E roots longer if it passes through several enemies."
+  ],
+  "forces": [
+    "Disguises herself to deceive.",
+    "Her R stuns a team.",
+    "Roots with her E."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Her R is easy to see coming.",
+    "Few escapes."
+  ],
+  "sorts": {
+    "P": "Takes the appearance of an ally.",
+    "Q": "Seed that blooms several times.",
+    "W": "Sends a clone and turns invisible.",
+    "E": "Spiral that roots.",
+    "R": "Leaps and stuns around her."
+  },
+  "momentFort": "Dangerous from level 6."
+}

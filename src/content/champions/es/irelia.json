@@ -1,0 +1,27 @@
+{
+  "plan": "Una luchadora que salta de objetivo en objetivo con sus espadas y se vuelve muy fuerte una vez cargada.",
+  "aSurveiller": "Su E (Dúo impecable). Si quedas entre sus dos espadas, quedas aturdido y marcado: entonces puede encadenar sus desplazamientos sobre ti.",
+  "contrer": [
+    "Sal del camino entre sus dos espadas (E): si no, quedas aturdido.",
+    "No la dejes llegar a 4 acumulaciones de su pasiva: se vuelve mucho más fuerte.",
+    "Empuja tu oleada de súbditos: sin súbditos con poca vida, no puede rebotar con su Q."
+  ],
+  "forces": [
+    "Muy móvil rebotando en los súbditos.",
+    "Aturde con su E.",
+    "Fuerte en duelo con sus acumulaciones."
+  ],
+  "faiblesses": [
+    "Débil sin súbditos alrededor.",
+    "Difícil de jugar.",
+    "Vulnerable a los controles."
+  ],
+  "sorts": {
+    "P": "Gana velocidad de ataque al acertar con sus habilidades.",
+    "Q": "Desplazamiento que se reinicia si el objetivo está marcado o muere.",
+    "W": "Carga un ataque mientras reduce el daño recibido.",
+    "E": "Dos espadas: quienes quedan entre ellas quedan aturdidos.",
+    "R": "Muro de espadas que daña y ralentiza."
+  },
+  "momentFort": "Fuerte al principio de la partida, muy peligrosa desde el nivel 6."
+}

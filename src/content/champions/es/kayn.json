@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla que atraviesa los muros y se esconde dentro del cuerpo de su víctima.",
+  "aSurveiller": "Su R (Invasión sombría). Se esconde dentro de tu cuerpo y luego sale haciendo mucho daño: tus aliados no pueden alcanzarlo mientras tanto.",
+  "contrer": [
+    "Cuidado con los muros: los atraviesa con su E.",
+    "Compra un objeto de Heridas graves: en forma roja se cura.",
+    "No alargues un combate solo: necesita dañarte para usar su R."
+  ],
+  "forces": [
+    "Atraviesa los muros.",
+    "Intocable durante su R.",
+    "Dos formas: asesino o luchador."
+  ],
+  "faiblesses": [
+    "Débil antes de su transformación.",
+    "Depende de su forma.",
+    "Vulnerable a los controles."
+  ],
+  "sorts": {
+    "P": "Se transforma en asesino o en luchador.",
+    "Q": "Se desplaza y golpea.",
+    "W": "Golpe en línea que ralentiza.",
+    "E": "Atraviesa los muros.",
+    "R": "Se esconde dentro del cuerpo de un enemigo."
+  },
+  "momentFort": "Peligroso en cuanto se transforma, a mitad de partida."
+}

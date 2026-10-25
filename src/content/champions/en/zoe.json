@@ -1,0 +1,27 @@
+{
+  "plan": "A mischievous mage who puts her enemies to sleep then hits them from very far with her bubble and her star.",
+  "aSurveiller": "Her E (Sleepy Trouble Bubble). It puts you to sleep, then her Q hits you twice as hard: stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: her bubble (E) stops on them.",
+    "If you're drowsy, use Cleanse or run: you're about to fall asleep.",
+    "Engage her: she is fragile."
+  ],
+  "forces": [
+    "Huge damage from range.",
+    "Puts to sleep with her E.",
+    "Picks up spells from the ground."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Her spells are easy to see coming."
+  ],
+  "sorts": {
+    "P": "After a spell, her attack is empowered.",
+    "Q": "Projectile that hurts more from far away.",
+    "W": "Picks up summoner spells.",
+    "E": "Bubble that puts to sleep.",
+    "R": "Teleports then comes back."
+  },
+  "momentFort": "Dangerous from level 6."
+}

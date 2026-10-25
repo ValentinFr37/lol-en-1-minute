@@ -1,0 +1,27 @@
+{
+  "plan": "A protective support who blocks projectiles with his shield and stuns with his punches.",
+  "aSurveiller": "His passive (Concussive Blows). On the 4th hit from him and his allies, you are stunned: back off as soon as the mark appears.",
+  "contrer": [
+    "When his passive mark appears on you, back off before the 4th hit.",
+    "Don't shoot into his shield (E): it blocks projectiles.",
+    "Attack from the side: his shield only protects in one direction."
+  ],
+  "forces": [
+    "Protects his allies with his shield.",
+    "Stuns with his passive.",
+    "His R knocks up in a line."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "His shield only blocks one direction.",
+    "Immobile on his own."
+  ],
+  "sorts": {
+    "P": "On the 4th hit, the target is stunned.",
+    "Q": "Ice shard that slows.",
+    "W": "Leaps to an ally and protects them.",
+    "E": "Shield that blocks projectiles.",
+    "R": "Fissure that knocks up and slows."
+  },
+  "momentFort": "Dangerous from level 2, useful all game."
+}

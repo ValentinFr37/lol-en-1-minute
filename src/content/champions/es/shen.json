@@ -1,0 +1,27 @@
+{
+  "plan": "Un ninja tanque que se teletransporta junto a sus aliados en cualquier parte del mapa para protegerlos.",
+  "aSurveiller": "Su E (Movimiento de sombra). Se lanza y te provoca: atacas a Shen durante un instante sin poder huir.",
+  "contrer": [
+    "Esquiva su embestida (E): te provoca.",
+    "Vigila su R: puede reunirse con un aliado en cualquier sitio.",
+    "Los ataques quedan bloqueados cerca de su espada (W): aléjate de ella."
+  ],
+  "forces": [
+    "Se reúne con sus aliados en cualquier sitio.",
+    "Provoca con su E.",
+    "Bloquea los ataques con su W."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Depende de la energía.",
+    "Su R tarda en activarse."
+  ],
+  "sorts": {
+    "P": "Escudo tras cada habilidad.",
+    "Q": "Hace volver su espada, que daña según la vida máxima.",
+    "W": "Bloquea los ataques alrededor de su espada.",
+    "E": "Se lanza y provoca.",
+    "R": "Se teletransporta hacia un aliado con un escudo."
+  },
+  "momentFort": "Útil toda la partida."
+}

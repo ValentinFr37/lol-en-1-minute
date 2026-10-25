@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo que atrapa a un enemigo con su cadena y puede rescatar a un aliado en peligro con su linterna.",
+  "aSurveiller": "Su Q (Sentencia de muerte). Su cadena te atrae hacia él y puede lanzarse hacia ti: quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su cadena (Q) se detiene en el primero que toca.",
+    "Tras fallar su Q queda vulnerable varios segundos: es el momento de atacar.",
+    "Cuando coloque su linterna (W), cuidado: un aliado puede aparecer a su lado."
+  ],
+  "forces": [
+    "Inicia peleas con su cadena.",
+    "Salva a un aliado con su linterna.",
+    "Muchos controles: atraer, empujar, ralentizar."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Inútil cuando su cadena está en enfriamiento.",
+    "Los súbditos bloquean su cadena."
+  ],
+  "sorts": {
+    "P": "Recoge las almas de los enemigos muertos para hacerse más fuerte.",
+    "Q": "Cadena que atrae al enemigo; luego puede lanzarse hacia él.",
+    "W": "Linterna que protege y atrae a un aliado hacia él.",
+    "E": "Latigazo de cadena que empuja y ralentiza.",
+    "R": "Jaula cuyos muros ralentizan y dañan."
+  },
+  "momentFort": "Peligroso desde el nivel 2, en cualquier momento de la partida."
+}

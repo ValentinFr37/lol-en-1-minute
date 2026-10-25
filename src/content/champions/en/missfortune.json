@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who pokes early on and whose ultimate can wipe a whole grouped-up team.",
+  "aSurveiller": "Her R (Bullet Time). If you end up in the cone of bullets, get out the side immediately: staying in means dying.",
+  "contrer": [
+    "Don't stay grouped in front of her in fights: spread out to limit her R.",
+    "Interrupt her R with a stun or a knock-up: she has to stand still to cast it.",
+    "Don't stand behind a nearly dead minion: her Q bounces onto the target right behind."
+  ],
+  "forces": [
+    "Huge damage with her R in team fights.",
+    "Pokes well early thanks to her Q.",
+    "Simple to play, you'll see her very often."
+  ],
+  "faiblesses": [
+    "No jump or teleport to escape.",
+    "Has to stand still during her R, which makes her vulnerable.",
+    "Easy to punish if engaged first."
+  ],
+  "sorts": {
+    "P": "Deals more damage when she attacks a new target.",
+    "Q": "Shot that hits the target then bounces to the enemy right behind.",
+    "W": "Gains movement speed, and attack speed on activation.",
+    "E": "Rain of bullets that damages and slows in an area.",
+    "R": "Barrage of bullets in a cone; she stands still while firing."
+  },
+  "momentFort": "Dangerous from level 6 with her R, especially in team fights. She loses effectiveness in the late game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A pot-bellied brewer who charges with his belly and knocks enemies away with his barrel.",
+  "aSurveiller": "His E (Body Slam). He charges and knocks you up, then his R can send you flying towards his team.",
+  "contrer": [
+    "Stay behind your minions: his charge (E) stops on the first one hit.",
+    "Keep an escape spell for his R: it can knock you towards his allies.",
+    "His W reduces the damage he takes: avoid long trades."
+  ],
+  "forces": [
+    "Lots of crowd control.",
+    "His R can isolate a target.",
+    "Heals by using his spells."
+  ],
+  "faiblesses": [
+    "His R is hard to land well.",
+    "Low damage when he plays tank.",
+    "Easy to kite if his charge misses."
+  ],
+  "sorts": {
+    "P": "Heals when he casts a spell.",
+    "Q": "Barrel that explodes and slows.",
+    "W": "Drinks to reduce damage taken.",
+    "E": "Charge that knocks up.",
+    "R": "Explosive cask that knocks back."
+  },
+  "momentFort": "Strong from the start, dangerous from level 6."
+}

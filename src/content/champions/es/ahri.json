@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga zorro muy móvil que hechiza a su objetivo para eliminarlo con un combo.",
+  "aSurveiller": "Su E (Hechizar). Te hace caminar hacia ella sin poder actuar: quédate detrás de tus súbditos, se detiene en el primero que toca.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su hechizo (E) se detiene en el primer enemigo alcanzado.",
+    "Atácala cuando haya usado su R: sus 3 desplazamientos son su única huida real.",
+    "Esquiva la vuelta de su orbe (Q): hace daño verdadero."
+  ],
+  "forces": [
+    "Muy móvil con sus 3 desplazamientos (R).",
+    "Su hechizo inicia combates.",
+    "Hostiga bien con su orbe."
+  ],
+  "faiblesses": [
+    "Frágil si falla su hechizo.",
+    "Depende de su R para huir.",
+    "Sus habilidades se ven y se pueden esquivar."
+  ],
+  "sorts": {
+    "P": "Se cura tras matar súbditos o campeones.",
+    "Q": "Orbe que va y vuelve; la vuelta hace daño verdadero.",
+    "W": "Tres fuegos zorrunos atacan a los enemigos cercanos.",
+    "E": "Beso que hechiza al primer enemigo alcanzado.",
+    "R": "Tres desplazamientos que disparan a los enemigos cercanos."
+  },
+  "momentFort": "Peligrosa desde el nivel 6 con su R. Su mayor pico de objetos es el Sombrero mortal de Rabadon (3.er o 4.º objeto)."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A fighter who soaks up hits then sends them back with a huge punch.",
+  "aSurveiller": "His W (Haymaker). The more damage he has taken, the stronger the punch, and its centre deals true damage: don't stand in the middle.",
+  "contrer": [
+    "Stop hitting him when his gauge is full: he's about to send that damage back with his W.",
+    "Don't surround him: his E stuns enemies if there are some on both sides of him.",
+    "Spread out in fights: his R slams a champion and damages everyone around the impact."
+  ],
+  "forces": [
+    "Very strong early and in duels.",
+    "Soaks up then returns damage with his W.",
+    "His R can start a fight."
+  ],
+  "faiblesses": [
+    "Few ways to close the gap.",
+    "Easy to kite.",
+    "His big punch (W) is easy to see coming."
+  ],
+  "sorts": {
+    "P": "Alternates punches and regenerates based on missing health.",
+    "Q": "His next 2 attacks hurt more and he runs towards enemies.",
+    "W": "Shield and huge punch, stronger if he has taken damage.",
+    "E": "Pulls in enemies on both sides and stuns them.",
+    "R": "Grabs a champion and slams them into the ground."
+  },
+  "momentFort": "Strong from the first levels, and very dangerous from level 6."
+}

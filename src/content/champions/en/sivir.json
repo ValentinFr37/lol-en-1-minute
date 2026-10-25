@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who blocks a spell with her shield and speeds up her whole team.",
+  "aSurveiller": "Her E (Spell Shield). It blocks a spell: cast a small spell first, then your big one.",
+  "contrer": [
+    "Cast a small spell to make her use her shield (E), then your big spell.",
+    "Engage her: she has few escapes.",
+    "Her R speeds up her whole team: back off when she activates it."
+  ],
+  "forces": [
+    "Blocks a spell.",
+    "Her R speeds up the whole team.",
+    "Bouncing area damage."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Fragile.",
+    "Relies on her shield."
+  ],
+  "sorts": {
+    "P": "Faster when attacking.",
+    "Q": "Boomerang blade.",
+    "W": "Attacks that bounce.",
+    "E": "Blocks a spell.",
+    "R": "Speeds up the whole team."
+  },
+  "momentFort": "Strong in the mid game."
+}

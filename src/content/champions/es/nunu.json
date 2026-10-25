@@ -1,0 +1,27 @@
+{
+  "plan": "Un niño y su yeti que hacen rodar una bola de nieve gigante para lanzar por los aires a sus enemigos.",
+  "aSurveiller": "Su W (¡La bola más grande de la historia!). Cuanto más rueda, más daña y te lanza por los aires: apártate de su trayectoria.",
+  "contrer": [
+    "Apártate de su bola de nieve (W): se ve venir.",
+    "Interrumpe su R con un control: tiene que canalizarla.",
+    "Sal rápido de su R: si no, recibes una gran explosión."
+  ],
+  "forces": [
+    "Entra desde lejos con su bola.",
+    "Su R hace mucho daño en área.",
+    "Muy resistente."
+  ],
+  "faiblesses": [
+    "Su R se puede interrumpir.",
+    "Su bola se ve venir.",
+    "Poco daño sin su R."
+  ],
+  "sorts": {
+    "P": "Potencia a Willump y a un aliado cercano.",
+    "Q": "Mordisco que lo cura.",
+    "W": "Bola de nieve que crece y lanza por los aires.",
+    "E": "Bolas de nieve que ralentizan y luego inmovilizan.",
+    "R": "Ventisca que ralentiza y luego explota."
+  },
+  "momentFort": "Fuerte desde el principio en la jungla. Llega rápido al nivel 6, una gran ventaja para las primeras peleas."
+}

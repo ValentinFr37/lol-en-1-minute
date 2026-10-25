@@ -1,0 +1,27 @@
+{
+  "plan": "A thunder bear who charges at his target, stuns it and dives under turrets by disabling them.",
+  "aSurveiller": "His R (Stormbringer). He leaps onto you and disables nearby turrets: your turret won't protect you.",
+  "contrer": [
+    "Don't count on your turret when he has his R: he can disable it.",
+    "His Q stuns you on the first hit: back off when he charges at you.",
+    "Avoid long duels: he heals with his W."
+  ],
+  "forces": [
+    "Very strong in the early game.",
+    "Disables turrets with his R.",
+    "Stuns and heals in fights."
+  ],
+  "faiblesses": [
+    "Few ways to close the gap.",
+    "Easy to kite.",
+    "Weak in the late game if he doesn't get ahead."
+  ],
+  "sorts": {
+    "P": "His attacks get faster and faster and hit around him.",
+    "Q": "Gains speed, and his next attack stuns.",
+    "W": "Bite; the second one on the same target heals him.",
+    "E": "Lightning that slows and gives him a shield.",
+    "R": "Leaps, gains health and disables nearby turrets."
+  },
+  "momentFort": "Very strong from the start, and dangerous from level 6."
+}

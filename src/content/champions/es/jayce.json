@@ -1,0 +1,27 @@
+{
+  "plan": "Un inventor que alterna martillo y cañón para hostigar desde lejos y golpear fuerte de cerca.",
+  "aSurveiller": "Su Q en cañón a través de su portal (E). El proyectil acelerado hace muchísimo daño: esquívalo hacia un lado.",
+  "contrer": [
+    "Esquiva su Q acelerada: es su mayor fuente de daño.",
+    "Atácalo de cerca: tiene pocas huidas.",
+    "Evita los combates en su línea al principio: es muy fuerte pronto."
+  ],
+  "forces": [
+    "Hostiga muy fuerte desde lejos.",
+    "Dos formas para adaptarse.",
+    "Empuja con su martillo."
+  ],
+  "faiblesses": [
+    "Frágil si lo atrapan.",
+    "Menos fuerte al final de la partida.",
+    "Difícil de jugar."
+  ],
+  "sorts": {
+    "P": "Gana velocidad al cambiar de arma.",
+    "Q": "Martillo: salta; cañón: orbe explosivo.",
+    "W": "Martillo: campo eléctrico; cañón: disparos rápidos.",
+    "E": "Martillo: empuja; cañón: portal que acelera.",
+    "R": "Cambia de arma entre martillo y cañón."
+  },
+  "momentFort": "Muy fuerte desde el principio y a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un espantapájaros de la jungla que sale de un arbusto y aterroriza a todo un equipo con sus cuervos.",
+  "aSurveiller": "Su R (Tormenta de cuervos). Se teletransporta en medio de vosotros y daña todo a su alrededor: separaos y golpeadlo.",
+  "contrer": [
+    "Separaos cuando llegue: su R daña a todos a su alrededor.",
+    "Sus espantapájaros se parecen a él: desconfía de un Fiddlesticks inmóvil en un arbusto.",
+    "Interrumpe su W con un control: tiene que canalizarlo."
+  ],
+  "forces": [
+    "Su R inicia peleas desde lejos.",
+    "Miedo y silencio para controlar.",
+    "Se cura con su W."
+  ],
+  "faiblesses": [
+    "Frágil si lo interrumpen.",
+    "Tiene que quedarse quieto para canalizar.",
+    "Poco móvil sin su R."
+  ],
+  "sorts": {
+    "P": "Coloca espantapájaros en lugar de guardianes.",
+    "Q": "Aterroriza a un objetivo.",
+    "W": "Drena la vida de los enemigos cercanos.",
+    "E": "Golpe de guadaña que ralentiza y silencia.",
+    "R": "Se teletransporta y desata cuervos a su alrededor."
+  },
+  "momentFort": "Su pico más importante es el nivel 6, con su R: intenta alcanzarlo lo antes posible."
+}

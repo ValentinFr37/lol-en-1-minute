@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina que usa el entorno (agua, hierba, rocas) para aturdir a todo un equipo.",
+  "aSurveiller": "Su R (Muestra absoluta de talento). Una onda que explota contra muros, agua y hierba y aturde alrededor: aléjate de los muros frente a ella.",
+  "contrer": [
+    "Aléjate de los muros y los ríos: su R explota contra el entorno.",
+    "Quedaos agrupados: busca objetivos aislados.",
+    "Usa tus controles tras su E: ya no tiene huida."
+  ],
+  "forces": [
+    "Su R aturde a varios enemigos.",
+    "Muy móvil.",
+    "Daño enorme."
+  ],
+  "faiblesses": [
+    "Difícil de jugar.",
+    "Frágil ante los controles.",
+    "Depende del entorno."
+  ],
+  "sorts": {
+    "P": "Primer golpe a un enemigo: daño adicional.",
+    "Q": "Golpe con un efecto según el elemento.",
+    "W": "Se desplaza y elige un elemento.",
+    "E": "Se lanza hacia un enemigo.",
+    "R": "Onda que explota contra el entorno y aturde."
+  },
+  "momentFort": "Frágil en los niveles 1 y 2, peligrosa desde el nivel 3. Debe tomar ventaja pronto: al final de la partida le cuesta contra los tanques."
+}

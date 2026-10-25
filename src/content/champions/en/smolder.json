@@ -1,0 +1,27 @@
+{
+  "plan": "A dragonling marksman who gains power with every stack and burns everything in the late game.",
+  "aSurveiller": "His Q (Super Scorcher Breath). He grows stronger as he stacks: at 225 it executes wounded targets.",
+  "contrer": [
+    "Engage him early: he needs stacks to be strong.",
+    "Slow him before his E: it's his only escape.",
+    "Avoid his R: his mum heals him if he stands under it."
+  ],
+  "forces": [
+    "Power that grows without limit.",
+    "Escapes with his E.",
+    "His R crosses the map."
+  ],
+  "faiblesses": [
+    "Weak in the early game.",
+    "Immobile.",
+    "Relies on his stacks."
+  ],
+  "sorts": {
+    "P": "Gains stacks that empower his spells.",
+    "Q": "Fireball that evolves with stacks.",
+    "W": "Sneeze that explodes.",
+    "E": "Flies over walls.",
+    "R": "His mum breathes fire in a line."
+  },
+  "momentFort": "Weak early, very strong in the late game."
+}

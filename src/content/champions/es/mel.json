@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga que devuelve los proyectiles y remata a los enemigos marcados estén donde estén.",
+  "aSurveiller": "Su W (Impugnar). Su barrera devuelve todos los proyectiles: no lances habilidades a distancia mientras esté activa.",
+  "contrer": [
+    "No lances tus proyectiles durante su W: vuelven contra ti.",
+    "No te lleves demasiadas de sus marcas: su R golpea a todos los objetivos marcados.",
+    "Atácala cuando haya usado su W: tarda mucho en recuperarlo."
+  ],
+  "forces": [
+    "Devuelve los proyectiles.",
+    "Su R golpea a todos los enemigos marcados.",
+    "Mucho daño a distancia."
+  ],
+  "faiblesses": [
+    "Enfriamiento largo en su W.",
+    "Frágil.",
+    "Poco móvil."
+  ],
+  "sorts": {
+    "P": "Sus habilidades potencian sus ataques y marcan a los enemigos.",
+    "Q": "Ráfaga que explota en una zona.",
+    "W": "Barrera que devuelve los proyectiles.",
+    "E": "Orbe que inmoviliza en el centro.",
+    "R": "Golpea a todos los enemigos marcados."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

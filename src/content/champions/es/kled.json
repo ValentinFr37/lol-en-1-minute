@@ -1,0 +1,27 @@
+{
+  "plan": "Un yordle cascarrabias sobre su lagarto que carga y arrastra a su enemigo con una trampa para osos.",
+  "aSurveiller": "Su Q (Trampa para osos). Se te engancha y luego te arrastra hacia él: aléjate rápido para romper la cuerda.",
+  "contrer": [
+    "Aléjate rápido cuando su trampa (Q) se te enganche: si no, te arrastra hacia él.",
+    "Cuando pierda su lagarto, atácalo: a pie es muy débil.",
+    "Apartaos de su carga (R): cruza el mapa hacia vosotros."
+  ],
+  "forces": [
+    "Muy fuerte en duelo.",
+    "Dos barras de vida con su lagarto.",
+    "Su R entra desde muy lejos."
+  ],
+  "faiblesses": [
+    "Débil a pie.",
+    "Difícil de jugar.",
+    "Predecible."
+  ],
+  "sorts": {
+    "P": "Monta un lagarto que recibe el daño por él.",
+    "Q": "Trampa que se engancha y luego arrastra al objetivo.",
+    "W": "4 ataques muy rápidos.",
+    "E": "Embiste y puede volver a embestir.",
+    "R": "Carga a lo largo de una gran distancia."
+  },
+  "momentFort": "Fuerte desde el principio de la partida."
+}

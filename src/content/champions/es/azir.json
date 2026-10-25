@@ -1,0 +1,27 @@
+{
+  "plan": "Un emperador mago que ataca a distancia con sus soldados de arena y empuja a todo un equipo con su definitiva.",
+  "aSurveiller": "Su R (Falange imperial). Un muro de soldados te empuja, a menudo hacia su equipo: quédate detrás de tus aliados.",
+  "contrer": [
+    "Aléjate de sus soldados: son ellos los que hacen el daño.",
+    "Atácalo cuando haya usado su E: ya no tiene huida.",
+    "No te pongas delante de él en las peleas: su R empuja hacia su equipo."
+  ],
+  "forces": [
+    "Daño constante a distancia.",
+    "Su R puede darle la vuelta a una pelea.",
+    "Muy móvil con sus soldados."
+  ],
+  "faiblesses": [
+    "Muy difícil de jugar.",
+    "Débil al principio.",
+    "Vulnerable si lo alcanzan."
+  ],
+  "sorts": {
+    "P": "Puede levantar una torreta sobre unas ruinas.",
+    "Q": "Envía a sus soldados a una zona.",
+    "W": "Invoca un soldado que ataca por él.",
+    "E": "Se lanza hacia un soldado con un escudo.",
+    "R": "Muro de soldados que empuja a los enemigos."
+  },
+  "momentFort": "Débil al principio, muy fuerte a mitad y al final de la partida."
+}

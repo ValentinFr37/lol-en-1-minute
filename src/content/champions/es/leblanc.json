@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga manipuladora que aparece, revienta a su objetivo y vuelve a su punto de partida.",
+  "aSurveiller": "Su W (Distorsión). Aparece sobre ti y luego vuelve a su punto de partida: quédate cerca de tus aliados cuando no esté en su línea.",
+  "contrer": [
+    "Quédate cerca de tus aliados: busca objetivos aislados.",
+    "Su cadena (E) te inmoviliza si te quedas cerca de ella: aléjate.",
+    "Cuando está herida, aparece un clon: golpea a la verdadera LeBlanc."
+  ],
+  "forces": [
+    "Muchísimo daño de golpe.",
+    "Vuelve a su punto de partida.",
+    "Crea un clon para engañar."
+  ],
+  "faiblesses": [
+    "Frágil si la atrapan.",
+    "Débil contra los tanques.",
+    "Difícil de jugar."
+  ],
+  "sorts": {
+    "P": "Se vuelve invisible y crea un clon por debajo del 40% de vida.",
+    "Q": "Sello que explota si vuelve a golpear.",
+    "W": "Desplazamiento que puede deshacer.",
+    "E": "Cadena que inmoviliza.",
+    "R": "Copia una de sus habilidades."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

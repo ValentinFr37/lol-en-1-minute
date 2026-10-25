@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga de apoyo que inmoviliza mucho tiempo con su esfera y protege a sus aliados de los controles.",
+  "aSurveiller": "Su Q (Hechizo oscuro). Una esfera lenta que te inmoviliza varios segundos: quédate detrás de tus súbditos y apártate cuando la lance.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su esfera (Q) se detiene en el primero que toca.",
+    "Su escudo (E) bloquea el daño mágico y los controles: espera a que lo use antes de entrar.",
+    "Cuando lance su R, aléjate de ella: las cadenas te aturden si te quedas demasiado cerca."
+  ],
+  "forces": [
+    "Inmovilización muy larga con su Q.",
+    "Protege a un aliado de los controles con su E.",
+    "Su R aturde a varios enemigos cercanos."
+  ],
+  "faiblesses": [
+    "Su esfera es lenta y se ve venir.",
+    "Poco móvil.",
+    "Frágil si la atacan."
+  ],
+  "sorts": {
+    "P": "Se cura al dañar a los enemigos.",
+    "Q": "Esfera que inmoviliza mucho tiempo al primer enemigo alcanzado.",
+    "W": "Zona en el suelo que daña, más fuerte contra objetivos con poca vida.",
+    "E": "Escudo que bloquea el daño mágico y los controles.",
+    "R": "Encadena a los enemigos cercanos: quedan aturdidos si siguen a su alcance."
+  },
+  "momentFort": "Molesta desde el principio con su Q y más peligrosa en las peleas de equipo desde el nivel 6."
+}

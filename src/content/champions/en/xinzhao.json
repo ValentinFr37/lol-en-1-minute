@@ -1,0 +1,27 @@
+{
+  "plan": "An aggressive jungler who charges at his target, knocks it up and wins duels in the early game.",
+  "aSurveiller": "His E (Audacious Charge). This leap is what lets him reach you; then the 3rd attack of his Q knocks you up.",
+  "contrer": [
+    "Keep an escape spell for after his charge (E): he has no other way to catch you.",
+    "Avoid duels early: he is very strong early, call your allies.",
+    "After his R he ignores ranged damage for a while: don't shoot him from afar, back off and wait."
+  ],
+  "forces": [
+    "Very strong early and in duels.",
+    "His charge (E) lets him engage from afar.",
+    "Heals regularly thanks to his passive."
+  ],
+  "faiblesses": [
+    "Only one real gap closer: his E.",
+    "Loses power if the game goes long.",
+    "Easy to slow and kite once his charge is used."
+  ],
+  "sorts": {
+    "P": "Every 3 attacks, he deals bonus damage and heals.",
+    "Q": "His next 3 attacks hurt more; the 3rd knocks up.",
+    "W": "Spear thrust that slows and marks the enemies hit.",
+    "E": "Charges an enemy and slows them; longer range on a marked target.",
+    "R": "Knocks back nearby enemies and blocks damage from afar."
+  },
+  "momentFort": "Very dangerous from the first levels, especially up to the mid game."
+}

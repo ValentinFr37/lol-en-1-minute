@@ -1,0 +1,27 @@
+{
+  "plan": "Un cervecero barrigón que carga con la panza y aparta a los enemigos con su barril.",
+  "aSurveiller": "Su E (Barrigazo). Carga y te lanza por los aires; luego su R puede mandarte hacia su equipo.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su carga (E) se detiene en el primero que toca.",
+    "Guarda una habilidad de huida para su R: puede empujarte hacia sus aliados.",
+    "Su W reduce el daño que recibe: evita los intercambios largos."
+  ],
+  "forces": [
+    "Muchos controles.",
+    "Su R puede aislar a un objetivo.",
+    "Se cura al usar sus habilidades."
+  ],
+  "faiblesses": [
+    "Su R es difícil de colocar.",
+    "Poco daño si juega de tanque.",
+    "Fácil de mantener a distancia si falla su carga."
+  ],
+  "sorts": {
+    "P": "Se cura al usar una habilidad.",
+    "Q": "Barril que explota y ralentiza.",
+    "W": "Bebe para reducir el daño recibido.",
+    "E": "Carga que lanza por los aires.",
+    "R": "Tonel explosivo que empuja."
+  },
+  "momentFort": "Fuerte desde el principio, peligroso desde el nivel 6."
+}

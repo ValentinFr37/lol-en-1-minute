@@ -1,0 +1,27 @@
+{
+  "plan": "A spiritual marksman who chains her attacks and transforms her spells with her ultimate.",
+  "aSurveiller": "Her R (Transcend One's Self). She upgrades all her spells for a while: back off rather than fight at that moment.",
+  "contrer": [
+    "Back off during her R: her spells become stronger.",
+    "Engage her early: she needs items.",
+    "Slow her: her E gives her speed."
+  ],
+  "forces": [
+    "Big sustained damage.",
+    "Her R empowers her spells.",
+    "Mobile with her E."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Relies on her items.",
+    "Little crowd control."
+  ],
+  "sorts": {
+    "P": "Her critical strikes deal magic damage.",
+    "Q": "More attack speed.",
+    "W": "Bead that damages and slows.",
+    "E": "Speed and passes through units.",
+    "R": "Trance that upgrades her spells."
+  },
+  "momentFort": "Strong in the late game."
+}

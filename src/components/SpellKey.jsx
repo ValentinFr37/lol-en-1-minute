@@ -1,13 +1,13 @@
 import { splitSpellKeys } from '../lib/text.js'
+import { useT } from '../lib/lang.js'
 
 // Touche de sort colorée (P, Q, W, E, R) : chaque touche a sa propre couleur
 // partout sur le site, pour qu'on la repère d'un coup d'œil.
 
-const LABELS = { P: 'Passif', Q: 'Sort Q', W: 'Sort W', E: 'Sort E', R: 'Ultime (R)' }
-
 export default function SpellKey({ spellKey, className = '' }) {
+  const text = useT()
   return (
-    <kbd className={`key key-${spellKey.toLowerCase()} ${className}`} title={LABELS[spellKey]}>
+    <kbd className={`key key-${spellKey.toLowerCase()} ${className}`} title={text.keyLabels[spellKey]}>
       {spellKey}
     </kbd>
   )

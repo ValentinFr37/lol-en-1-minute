@@ -1,0 +1,27 @@
+{
+  "plan": "A serpent mage who poisons and bites non-stop, and petrifies those who look at her.",
+  "aSurveiller": "Her R (Petrifying Gaze). If you face her you are stunned, otherwise only slowed: turn your back on her.",
+  "contrer": [
+    "Turn your back when she casts her R: from behind you are only slowed.",
+    "Engage her up close: she has no escape spell.",
+    "Inside her clouds (W), you can't use your movement spells."
+  ],
+  "forces": [
+    "Huge sustained damage.",
+    "Her R stuns several enemies.",
+    "Blocks dashes with her W."
+  ],
+  "faiblesses": [
+    "No escape spell.",
+    "Can't buy boots.",
+    "Fragile if engaged."
+  ],
+  "sorts": {
+    "P": "Faster thanks to her serpent nature.",
+    "Q": "Area poison that speeds her up.",
+    "W": "Clouds that prevent dashes.",
+    "E": "Bite that hits harder on poisoned targets.",
+    "R": "Stuns those who face her."
+  },
+  "momentFort": "Fragile in the early game. She then becomes very hard to kill and very strong in the late game."
+}

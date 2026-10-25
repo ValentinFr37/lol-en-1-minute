@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador muy agresivo que dispara dos veces tras cada habilidad y domina el principio de la partida.",
+  "aSurveiller": "Su E (Persecución implacable). Su desplazamiento vuelve muy rápido: puede alcanzarte o huir varias veces.",
+  "contrer": [
+    "Evita los intercambios al principio: es muy fuerte pronto.",
+    "Su daño cae al final de la partida: alarga la partida.",
+    "No te quedes en la línea de su R: apártate hacia un lado."
+  ],
+  "forces": [
+    "Muy fuerte al principio de la partida.",
+    "Muy móvil con su E.",
+    "Doble disparo tras cada habilidad."
+  ],
+  "faiblesses": [
+    "Poco alcance para un tirador.",
+    "Menos fuerte al final de la partida.",
+    "Depende de sus habilidades."
+  ],
+  "sorts": {
+    "P": "Tras cada habilidad, su siguiente ataque dispara dos veces.",
+    "Q": "Rayo que atraviesa.",
+    "W": "Explosión en estrella que revela.",
+    "E": "Desplazamiento corto que vuelve rápido.",
+    "R": "Ráfaga de balas en línea."
+  },
+  "momentFort": "Muy fuerte al principio de la partida y luego cada vez menos eficaz."
+}

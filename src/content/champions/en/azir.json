@@ -1,0 +1,27 @@
+{
+  "plan": "An emperor mage who attacks from range with his sand soldiers and pushes back a whole team with his ultimate.",
+  "aSurveiller": "His R (Emperor's Divide). A wall of soldiers pushes you back, often towards his team: stay behind your allies.",
+  "contrer": [
+    "Stay away from his soldiers: they deal the damage.",
+    "Engage him once his E is used: he has no escape left.",
+    "Don't stand in front of him in fights: his R pushes towards his team."
+  ],
+  "forces": [
+    "Constant ranged damage.",
+    "His R can turn a fight around.",
+    "Very mobile with his soldiers."
+  ],
+  "faiblesses": [
+    "Very hard to play.",
+    "Weak early.",
+    "Vulnerable if reached."
+  ],
+  "sorts": {
+    "P": "Can raise a turret on a ruin.",
+    "Q": "Sends his soldiers to an area.",
+    "W": "Summons a soldier that attacks for him.",
+    "E": "Dashes to a soldier with a shield.",
+    "R": "Wall of soldiers that pushes enemies back."
+  },
+  "momentFort": "Weak early, very strong in the mid and late game."
+}

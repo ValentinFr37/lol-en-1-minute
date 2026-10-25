@@ -1,0 +1,27 @@
+{
+  "plan": "Un químico que corre dejando un rastro de veneno y lanza a sus enemigos por detrás de él.",
+  "aSurveiller": "Su E (Lanzar). Te lanza detrás de él, a menudo en su pegamento que te inmoviliza: no lo persigas.",
+  "contrer": [
+    "No lo persigas nunca: corre dejando veneno.",
+    "Evita su pegamento (W): con su E, te inmoviliza.",
+    "Ignóralo cuando empuje a los súbditos: es difícil de atrapar."
+  ],
+  "forces": [
+    "Muy difícil de atrapar.",
+    "Veneno continuo.",
+    "Lanza por detrás de él."
+  ],
+  "faiblesses": [
+    "Poco daño a un solo objetivo.",
+    "Tiene que estar cuerpo a cuerpo.",
+    "Fácil de ignorar."
+  ],
+  "sorts": {
+    "P": "Más rápido cerca de los campeones.",
+    "Q": "Rastro de veneno.",
+    "W": "Pegamento que ralentiza e impide los desplazamientos.",
+    "E": "Lanza al objetivo por detrás de él.",
+    "R": "Todas sus estadísticas aumentan."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla vampira incontrolable: se lanza contra el enemigo más cercano y se cura mordiéndolo.",
+  "aSurveiller": "Su W (Frenesí sanguinario). Pierde el control y persigue al objetivo más cercano golpeando muy rápido: retrocede o pon a un aliado más tanque entre vosotros.",
+  "contrer": [
+    "Durante su frenesí (W) ataca al enemigo más cercano: deja que un tanque se ponga delante de ti.",
+    "Compra un objeto de Heridas graves: se cura muchísimo en combate.",
+    "Ralentízala o huye: durante su frenesí no elige su objetivo y se pone en peligro."
+  ],
+  "forces": [
+    "Curación y daño enormes en duelo.",
+    "Su R cruza el mapa para entrar.",
+    "Más fuerte cuando tiene poca vida."
+  ],
+  "faiblesses": [
+    "Poco control sobre su objetivo durante su frenesí.",
+    "Casi no regenera vida fuera de combate.",
+    "Vulnerable a las Heridas graves y a las ralentizaciones."
+  ],
+  "sorts": {
+    "P": "Sus golpes causan sangrado y la curan; más fuerte con poca vida.",
+    "Q": "Salta sobre un objetivo, lo aturde y reduce su armadura.",
+    "W": "Frenesí: ataca muy rápido al enemigo más cercano; relanzarlo la cura.",
+    "E": "Grito cargado que daña y ralentiza; recibe menos daño mientras carga.",
+    "R": "Lanza su estaca a través del mapa y vuela hasta el primer campeón alcanzado."
+  },
+  "momentFort": "Muy fuerte al principio en la jungla y peligrosa desde el nivel 6."
+}

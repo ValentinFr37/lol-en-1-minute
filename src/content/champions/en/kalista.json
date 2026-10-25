@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who hops after every attack and plants spears that she rips out all at once.",
+  "aSurveiller": "Her E (Rend). Each attack plants a spear; she rips them all out at once for big damage: don't let her hit you for long.",
+  "contrer": [
+    "Don't let her hit you for long: every spear planted makes her E stronger.",
+    "Slow her: she hops as she attacks; slowed, she can't escape anymore.",
+    "Her R throws her ally at you: back off when he disappears near her."
+  ],
+  "forces": [
+    "Very mobile while attacking.",
+    "Big damage with her E.",
+    "Her R can save her support."
+  ],
+  "faiblesses": [
+    "Weak in the late game.",
+    "Hard to play.",
+    "Vulnerable to slows."
+  ],
+  "sorts": {
+    "P": "Hops with every attack.",
+    "Q": "Spear that passes through enemies it kills.",
+    "W": "Sends a sentinel; bonus damage with her ally.",
+    "E": "Rips out the planted spears and slows.",
+    "R": "Pulls her ally to her and throws them at enemies."
+  },
+  "momentFort": "Strong at level 6 with her R. If she ends the early game even, her 2 or 3 item spike is one of the strongest in the game."
+}

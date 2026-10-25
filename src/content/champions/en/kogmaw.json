@@ -1,0 +1,27 @@
+{
+  "plan": "A very long-range Void marksman who melts tanks and explodes when he dies.",
+  "aSurveiller": "His W (Bio-Arcane Barrage). He gains a huge amount of range and damage: engage him rather than staying in his range.",
+  "contrer": [
+    "Engage him: he has no escape.",
+    "Move away from his body when he dies: he explodes after 4 seconds.",
+    "Don't stay in range of his W: he melts even tanks."
+  ],
+  "forces": [
+    "Very long range with his W.",
+    "Melts tanks.",
+    "His R pokes from afar."
+  ],
+  "faiblesses": [
+    "No escape.",
+    "Very fragile.",
+    "Weak in the early game."
+  ],
+  "sorts": {
+    "P": "Explodes four seconds after dying.",
+    "Q": "Projectile that reduces resistances.",
+    "W": "More range and damage.",
+    "E": "Ooze that slows.",
+    "R": "Long-range artillery."
+  },
+  "momentFort": "Weak early, very strong in the late game."
+}

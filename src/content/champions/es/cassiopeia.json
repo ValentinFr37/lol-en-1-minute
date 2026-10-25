@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga serpiente que envenena y muerde sin parar, y petrifica a quienes la miran.",
+  "aSurveiller": "Su R (Mirada petrificante). Si la miras de frente quedas aturdido; si no, solo ralentizado: dale la espalda.",
+  "contrer": [
+    "Dale la espalda cuando lance su R: de espaldas solo quedas ralentizado.",
+    "Atácala de cerca: no tiene ninguna habilidad de huida.",
+    "Dentro de sus nubes (W) no puedes usar tus habilidades de desplazamiento."
+  ],
+  "forces": [
+    "Daño continuo enorme.",
+    "Su R aturde a varios enemigos.",
+    "Bloquea los desplazamientos con su W."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad de huida.",
+    "No puede comprar botas.",
+    "Frágil si la atacan."
+  ],
+  "sorts": {
+    "P": "Más rápida gracias a su naturaleza de serpiente.",
+    "Q": "Veneno en área que la acelera.",
+    "W": "Nubes que impiden los desplazamientos.",
+    "E": "Mordisco más fuerte contra objetivos envenenados.",
+    "R": "Aturde a quienes la miran de frente."
+  },
+  "momentFort": "Frágil al principio de la partida. Después se vuelve muy difícil de matar y muy fuerte al final."
+}

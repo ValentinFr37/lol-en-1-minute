@@ -1,0 +1,27 @@
+{
+  "plan": "Una pequeña guardiana que empuja a sus enemigos contra los muros y los manda lejos con su martillo.",
+  "aSurveiller": "Su E (Carga heroica). Te empuja y te aturde si chocas contra un muro: no luches cerca de los muros.",
+  "contrer": [
+    "Aléjate de los muros: su E te aturde contra ellos.",
+    "No te lances sobre ella con un salto: su W bloquea los desplazamientos a su alrededor.",
+    "Interrumpe su R cargada: si no, te manda muy lejos."
+  ],
+  "forces": [
+    "Bloquea los desplazamientos con su W.",
+    "Aturde contra los muros.",
+    "Su R expulsa a un enemigo del combate."
+  ],
+  "faiblesses": [
+    "Depende de los muros.",
+    "Poco daño al final de la partida.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Lanza su escudo; recogerlo le da un escudo.",
+    "Q": "Martillazo que ralentiza y luego explota.",
+    "W": "Bloquea los desplazamientos a su alrededor.",
+    "E": "Carga que empuja y aturde contra un muro.",
+    "R": "Golpe que manda a los enemigos muy lejos."
+  },
+  "momentFort": "Más débil al principio. Se iguala en el nivel 5 y luego se vuelve muy fuerte a mitad de partida, con su Q al máximo (nivel 9)."
+}

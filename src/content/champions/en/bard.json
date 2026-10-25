@@ -1,0 +1,27 @@
+{
+  "plan": "A wandering support who opens portals through walls and freezes everything in time with his ultimate.",
+  "aSurveiller": "His Q (Cosmic Binding). It stuns you if you are near a wall or another enemy: stay away from walls when facing him.",
+  "contrer": [
+    "Don't stand near a wall or an ally: his Q stuns both lined-up targets.",
+    "Watch out for his portals (E): he can appear from behind a wall.",
+    "During his R, targets are untouchable: don't waste your spells on them."
+  ],
+  "forces": [
+    "Very mobile with his portals.",
+    "His R freezes everyone in an area.",
+    "Heals his allies with his shrines."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Hard to play.",
+    "Often away from his lane."
+  ],
+  "sorts": {
+    "P": "Collects chimes; his Meeps empower his attacks.",
+    "Q": "Projectile that stuns against a wall or an enemy.",
+    "W": "Shrine that heals.",
+    "E": "Portal through a wall.",
+    "R": "Freezes all units in an area."
+  },
+  "momentFort": "Useful all game, stronger and stronger with his chimes."
+}

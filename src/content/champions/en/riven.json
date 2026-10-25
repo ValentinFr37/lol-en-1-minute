@@ -1,0 +1,27 @@
+{
+  "plan": "A very mobile fighter who weaves her spells and attacks together to win trades.",
+  "aSurveiller": "Her Q (Broken Wings). She casts it three times and the 3rd hit knocks you up: back off after the second hit.",
+  "contrer": [
+    "Back off after her second Q: the third knocks you up.",
+    "Her W stuns around her: don't stick to her.",
+    "Trade when her spells are on cooldown: without them, she has nothing."
+  ],
+  "forces": [
+    "Very mobile thanks to her Q and her E.",
+    "Huge damage in short trades.",
+    "Her R gives her a ranged strike to finish off."
+  ],
+  "faiblesses": [
+    "Weak when her spells are on cooldown.",
+    "Fragile against crowd control.",
+    "Hard to play, punishable when she makes mistakes."
+  ],
+  "sorts": {
+    "P": "Her spells charge her blade: her next attacks hurt more.",
+    "Q": "Three chained strikes; the 3rd knocks up.",
+    "W": "Stuns enemies around her.",
+    "E": "Dashes forward and gains a shield.",
+    "R": "More damage and range, and a ranged strike to finish off."
+  },
+  "momentFort": "Quiet before level 6. She shines in the mid game: with 1 or 2 items she can take down a target in a single combo."
+}

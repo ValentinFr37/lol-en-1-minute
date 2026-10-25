@@ -1,0 +1,27 @@
+{
+  "plan": "A ruined king who possesses the bodies of dead enemies to use their spells.",
+  "aSurveiller": "His R (Heartbreaker). He swoops onto a champion and executes them: when low on health, stay away from him.",
+  "contrer": [
+    "When low on health, back off: his R hurts more on wounded targets.",
+    "When he takes the body of a fallen ally, expect that ally's spells.",
+    "Keep crowd control: he relies on chaining his moves."
+  ],
+  "forces": [
+    "Resets with takedowns.",
+    "Big damage.",
+    "Uses his victims' spells."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Weak if he doesn't kill anyone.",
+    "Hard to play."
+  ],
+  "sorts": {
+    "P": "Possesses dead enemies.",
+    "Q": "Blade that deals percent health damage.",
+    "W": "Charge that stuns.",
+    "E": "Mist that makes him invisible.",
+    "R": "Swoops onto a champion and executes them."
+  },
+  "momentFort": "Weak in the early game. He becomes strong in the mid game, with 1 or 2 items."
+}

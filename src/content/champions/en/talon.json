@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin who jumps over walls and takes down isolated targets in seconds.",
+  "aSurveiller": "His R (Shadow Assault). He turns invisible and his blades come back to him: regroup as soon as he disappears.",
+  "contrer": [
+    "Stay grouped: he looks for isolated targets.",
+    "Watch the walls: his E lets him jump over them.",
+    "Buy an armour item: he deals physical damage."
+  ],
+  "forces": [
+    "Huge single-target damage.",
+    "Jumps over walls.",
+    "Turns invisible with his R."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Little crowd control.",
+    "Weak if you stay grouped."
+  ],
+  "sorts": {
+    "P": "After 3 stacks, his target bleeds heavily.",
+    "Q": "Stabs a target.",
+    "W": "Blades that come back and slow.",
+    "E": "Jumps over any wall.",
+    "R": "Blades around him and invisibility."
+  },
+  "momentFort": "Dangerous from level 6."
+}

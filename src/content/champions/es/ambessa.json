@@ -1,0 +1,27 @@
+{
+  "plan": "Una generala noxiana que encadena pequeños desplazamientos entre habilidades y clava al suelo a su objetivo con su definitiva.",
+  "aSurveiller": "Su R (Ajusticiar). Se teletransporta al enemigo más lejano de una línea y lo aturde: no te quedes al final de la línea.",
+  "contrer": [
+    "No te quedes al final de una fila de aliados: su R apunta al más lejano.",
+    "Evita los intercambios largos: cada habilidad le da un desplazamiento y un ataque potenciado.",
+    "Usa tus controles tras sus desplazamientos: ya no tiene escapatoria."
+  ],
+  "forces": [
+    "Muy móvil gracias a sus pequeños desplazamientos.",
+    "Su R bloquea y aturde a un objetivo.",
+    "Escudo y daño en área con su W."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Difícil de jugar.",
+    "Depende de la energía de sus habilidades."
+  ],
+  "sorts": {
+    "P": "Tras cada habilidad, un desplazamiento corto y un ataque potenciado.",
+    "Q": "Barrido en semicírculo; el siguiente se vuelve un golpe en línea.",
+    "W": "Escudo y luego golpea el suelo a su alrededor.",
+    "E": "Gira sus hojas y ralentiza a los enemigos cercanos.",
+    "R": "Se teletransporta al enemigo más lejano y lo aturde."
+  },
+  "momentFort": "Frenada por sus largos enfriamientos en los primeros niveles, se vuelve muy peligrosa en cuanto su Q tiene unos puntos y sigue fuerte mucho tiempo."
+}

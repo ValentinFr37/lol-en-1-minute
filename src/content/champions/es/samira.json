@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora audaz que se lanza a los combates y dispara a su alrededor cuando su estilo está al máximo.",
+  "aSurveiller": "Su R (Gatillo infernal). Dispara a su alrededor cuando su estilo está en rango S: usa un control para pararla.",
+  "contrer": [
+    "Guarda un control para su R: la para en seco.",
+    "No lances tus proyectiles durante su W: los destruye.",
+    "Atácala pronto: no tiene una huida real."
+  ],
+  "forces": [
+    "Daño en área enorme con su R.",
+    "Bloquea los proyectiles con su W.",
+    "Muy móvil."
+  ],
+  "faiblesses": [
+    "Vulnerable a los controles.",
+    "Tiene que encadenar golpes para su R.",
+    "Poco alcance."
+  ],
+  "sorts": {
+    "P": "Encadena golpes para subir su estilo.",
+    "Q": "Disparo o tajo de espada.",
+    "W": "Destruye los proyectiles.",
+    "E": "Se lanza a través de un enemigo.",
+    "R": "Dispara a su alrededor."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

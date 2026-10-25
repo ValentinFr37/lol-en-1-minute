@@ -1,0 +1,27 @@
+{
+  "plan": "Un guerrero divino que aturde a su objetivo y cae del cielo con su definitiva.",
+  "aSurveiller": "Su W (Salto con escudo). Salta sobre ti, te aturde y luego encadena: mantén la distancia al principio de la partida.",
+  "contrer": [
+    "No luches contra él al principio: es muy fuerte pronto.",
+    "Su escudo (E) bloquea los ataques de frente: atácalo por detrás.",
+    "Cuando aparezca una zona roja en el suelo, aléjate: va a aterrizar ahí."
+  ],
+  "forces": [
+    "Muy fuerte al principio de la partida.",
+    "Aturde con su W.",
+    "Su R entra desde muy lejos."
+  ],
+  "faiblesses": [
+    "Menos fuerte al final de la partida.",
+    "Su R se ve venir.",
+    "Pocas huidas."
+  ],
+  "sorts": {
+    "P": "Tras unas habilidades o ataques, su siguiente habilidad se potencia.",
+    "Q": "Estocada o lanzamiento de lanza.",
+    "W": "Salta y aturde.",
+    "E": "Escudo que bloquea los ataques de frente.",
+    "R": "Salta y aterriza como un meteorito."
+  },
+  "momentFort": "Muy fuerte al principio de la partida."
+}

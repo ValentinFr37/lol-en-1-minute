@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo sanadora que sacrifica su vida para curar a sus aliados y puede curar a todo el equipo a distancia.",
+  "aSurveiller": "Su E (Equinoccio). Una zona que silencia y luego inmoviliza: sal de ella antes de que desaparezca.",
+  "contrer": [
+    "Atácala primero: sin ella, su equipo deja de curarse.",
+    "Compra un objeto de Heridas graves: sus curaciones son enormes.",
+    "Sal de su E antes de que termine: si no, quedas inmovilizado."
+  ],
+  "forces": [
+    "Curaciones enormes.",
+    "Su R cura a todo el equipo.",
+    "Silencia."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Se daña al curar.",
+    "Poco móvil."
+  ],
+  "sorts": {
+    "P": "Más rápida hacia los aliados heridos.",
+    "Q": "Estrella que ralentiza y la cura.",
+    "W": "Cura a un aliado sacrificando su vida.",
+    "E": "Silencia y luego inmoviliza.",
+    "R": "Cura a todo el equipo."
+  },
+  "momentFort": "Útil toda la partida."
+}

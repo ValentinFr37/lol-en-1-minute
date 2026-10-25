@@ -1,0 +1,27 @@
+{
+  "plan": "A mobile marksman who swings around walls and revives his allies by killing their killer.",
+  "aSurveiller": "His E (Heroic Swing). He swings around a wall while shooting at you: huge damage, and he also uses it to engage or to escape.",
+  "contrer": [
+    "During his R, hide behind an ally, a minion, a jungle monster or a turret: the bullets hit the first target.",
+    "Don't kill an ally and then stay near him: if he kills you, the ally comes back to life.",
+    "Slow him before he grabs a wall (E)."
+  ],
+  "forces": [
+    "Very mobile thanks to his grappling hook (E).",
+    "Revives allies by killing their killer.",
+    "Dominates his lane early on."
+  ],
+  "faiblesses": [
+    "Short range for a marksman.",
+    "Fragile if he gets caught.",
+    "Less strong in the late game."
+  ],
+  "sorts": {
+    "P": "Every 3 hits, bonus damage and a shield.",
+    "Q": "Boomerang that hits on the way out and back.",
+    "W": "Marks his allies' killers; he becomes camouflaged.",
+    "E": "Swings around a wall while shooting.",
+    "R": "Bullet barrage, stronger on a wounded target."
+  },
+  "momentFort": "Very strong in lane from the start: he pokes and dominates his opponent. Dangerous for finishing off from level 6."
+}

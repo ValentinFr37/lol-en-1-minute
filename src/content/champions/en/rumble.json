@@ -1,0 +1,27 @@
+{
+  "plan": "A yordle in a mech who burns everything with his flamethrower and lays down a wall of fire.",
+  "aSurveiller": "His R (The Equalizer). A wall of flames that slows and burns: get out of it immediately.",
+  "contrer": [
+    "Get out of his R: it burns and slows.",
+    "When he overheats he can't cast spells: attack at that moment.",
+    "Stay out of his flamethrower (Q)."
+  ],
+  "forces": [
+    "Big area damage.",
+    "His R controls an area.",
+    "Shield with his W."
+  ],
+  "faiblesses": [
+    "Has to manage his heat.",
+    "Immobile.",
+    "Easy to punish when overheated."
+  ],
+  "sorts": {
+    "P": "Manages his heat; when overheated he can't cast spells.",
+    "Q": "Flamethrower in front of him.",
+    "W": "Shield and speed.",
+    "E": "Harpoons that slow.",
+    "R": "Wall of flames that slows."
+  },
+  "momentFort": "Dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A sulky mage who terrifies her enemies and especially punishes those who dash.",
+  "aSurveiller": "Her R (Shadow Surge). She marks you, then dashes at you: if you die, she can recast it right away.",
+  "contrer": [
+    "Avoid dashing near her: she marks you to fear you.",
+    "Dodge her R: the mark lets her dash at you.",
+    "Engage her once her W is used: it's her shield."
+  ],
+  "forces": [
+    "Fears with her spells.",
+    "Punishes dashes.",
+    "Her R resets after a takedown."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile outside her R.",
+    "Her spells are easy to see coming."
+  ],
+  "sorts": {
+    "P": "Regularly, her next spell fears.",
+    "Q": "Projectile that speeds up.",
+    "W": "Shield and damage around her.",
+    "E": "Zone that slows and marks.",
+    "R": "Marks a champion then dashes to them."
+  },
+  "momentFort": "Dangerous from level 6."
+}

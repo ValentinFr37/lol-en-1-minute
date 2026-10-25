@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora espiritual que encadena sus ataques y transforma sus habilidades con su definitiva.",
+  "aSurveiller": "Su R (Trascender). Mejora todas sus habilidades durante un tiempo: retrocede en lugar de luchar en ese momento.",
+  "contrer": [
+    "Retrocede durante su R: sus habilidades se vuelven más fuertes.",
+    "Atácala pronto: necesita objetos.",
+    "Ralentízala: su E le da velocidad."
+  ],
+  "forces": [
+    "Mucho daño continuo.",
+    "Su R potencia sus habilidades.",
+    "Móvil con su E."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Depende de sus objetos.",
+    "Pocos controles."
+  ],
+  "sorts": {
+    "P": "Sus golpes críticos hacen daño mágico.",
+    "Q": "Más velocidad de ataque.",
+    "W": "Cuenta que daña y ralentiza.",
+    "E": "Velocidad y atraviesa las unidades.",
+    "R": "Trance que mejora sus habilidades."
+  },
+  "momentFort": "Fuerte al final de la partida."
+}

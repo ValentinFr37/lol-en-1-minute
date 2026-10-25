@@ -1,0 +1,27 @@
+{
+  "plan": "Un espadachín que se desdobla: su espíritu sale de su cuerpo para atacar y luego vuelve repitiendo el daño.",
+  "aSurveiller": "Su R (Destino sellado). Se teletransporta detrás del último campeón de una línea y atrae a todos los enemigos alcanzados: no os alineéis.",
+  "contrer": [
+    "No os alineéis delante de él: su R atrae a todos los de la línea.",
+    "Cuando salga su espíritu (E), retrocede: al final vuelve a su cuerpo y repite el daño.",
+    "Usa tus controles tras su Q cargada: ya no puede escapar."
+  ],
+  "forces": [
+    "Muy móvil con su Q cargada y su E.",
+    "Su R inicia una pelea sobre varios enemigos.",
+    "Fuerte en duelo con sus golpes críticos."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Su E lo devuelve a su punto de partida.",
+    "Poco daño si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Uno de cada dos ataques hace daño mágico; más golpes críticos.",
+    "Q": "Golpe en línea; al 3.º, se lanza y lanza por los aires.",
+    "W": "Golpe en cono que le da un escudo.",
+    "E": "Su espíritu sale del cuerpo y luego vuelve repitiendo parte del daño.",
+    "R": "Se teletransporta detrás de una línea de enemigos y los atrae."
+  },
+  "momentFort": "Gana poder con sus objetos de crítico y se vuelve temible al final de la partida."
+}

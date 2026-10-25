@@ -1,0 +1,27 @@
+{
+  "plan": "Un pequeño yordle que se convierte en gigante en combate y lanza a los enemigos contra los muros.",
+  "aSurveiller": "Su R (¡GNAR!). En forma gigante te empuja y te aturde contra un muro: aléjate de los muros cuando esté furioso.",
+  "contrer": [
+    "Vigila su barra de furia: cuando esté llena, va a transformarse.",
+    "No luches cerca de los muros contra Mega Gnar: su R te aturde ahí.",
+    "Hostígalo en su forma pequeña: es frágil."
+  ],
+  "forces": [
+    "Dos formas: hostigamiento y luego tanque.",
+    "Su R controla a varios enemigos.",
+    "Muy móvil en su forma pequeña."
+  ],
+  "faiblesses": [
+    "Difícil de manejar; su transformación se ve venir.",
+    "Frágil en su forma pequeña.",
+    "Depende de los muros para su R."
+  ],
+  "sorts": {
+    "P": "Se convierte en gigante cuando su furia está llena.",
+    "Q": "Bumerán que ralentiza; roca en su forma grande.",
+    "W": "Daño adicional; aturde en su forma grande.",
+    "E": "Salta y rebota sobre las unidades.",
+    "R": "Empuja y aturde contra un muro."
+  },
+  "momentFort": "Fuerte en duelo desde el principio, muy útil en las peleas de equipo."
+}

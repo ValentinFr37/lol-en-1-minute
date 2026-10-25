@@ -1,0 +1,27 @@
+{
+  "plan": "A stoneweaver mage who throws her enemies into her mines and rides a wall across the map.",
+  "aSurveiller": "Her W (Seismic Shove). It knocks you up, often into her mines (E): don't dash at her through her field.",
+  "contrer": [
+    "Don't dash through her mines (E): they explode.",
+    "Dodge her W: it knocks you in one direction.",
+    "Her R creates a wall that can split you up: regroup."
+  ],
+  "forces": [
+    "Powerful rock volley.",
+    "Crowd control with her W.",
+    "Her R crosses the map."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Her spells are easy to see coming.",
+    "Weaker if she gets hit."
+  ],
+  "sorts": {
+    "P": "Faster near walls.",
+    "Q": "Volley of rocks.",
+    "W": "Knocks enemies up and away.",
+    "E": "Minefield that slows.",
+    "R": "Long wall that she rides."
+  },
+  "momentFort": "Strong in the early and mid game."
+}

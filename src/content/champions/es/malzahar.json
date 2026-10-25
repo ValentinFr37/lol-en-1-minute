@@ -1,0 +1,27 @@
+{
+  "plan": "Un profeta del Vacío que bloquea a su objetivo con su definitiva mientras sus criaturas lo devoran.",
+  "aSurveiller": "Su R (Tenaza infernal). Te bloquea en el sitio varios segundos: un aliado puede interrumpirlo con un control.",
+  "contrer": [
+    "Rompe su escudo pasivo antes de entrar: bloquea los controles.",
+    "Interrumpe su R con un control: tiene que canalizarla.",
+    "Compra un objeto que anule los controles: así podrás librarte de su R."
+  ],
+  "forces": [
+    "Bloquea a un objetivo con su R.",
+    "Escudo que bloquea un control.",
+    "Muy bueno aguantando su línea."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Su R se puede interrumpir.",
+    "Débil si le rompen el escudo."
+  ],
+  "sorts": {
+    "P": "Escudo que bloquea daño y controles.",
+    "Q": "Portales que silencian.",
+    "W": "Invoca criaturas del Vacío.",
+    "E": "Maldición que se propaga.",
+    "R": "Bloquea a un objetivo en el sitio."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

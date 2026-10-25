@@ -1,0 +1,27 @@
+{
+  "plan": "A singer mage who protects her allies and charms a whole team with her ultimate.",
+  "aSurveiller": "Her R (Encore). A wave that charms and extends with every champion hit: get out of the line.",
+  "contrer": [
+    "Get out of the line of her R: it extends with every champion hit.",
+    "Engage her: she is fragile.",
+    "Her E roots if you are already slowed: avoid it."
+  ],
+  "forces": [
+    "Her R charms several enemies.",
+    "Protects and heals her allies.",
+    "Regularly casts a spell twice."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Her spells need to land."
+  ],
+  "sorts": {
+    "P": "Every 3 spells, the next one is cast twice.",
+    "Q": "High note that damages in an area.",
+    "W": "Shield and healing for her allies.",
+    "E": "Slows or roots in a line.",
+    "R": "Charm in a line that extends."
+  },
+  "momentFort": "Dangerous from level 6, and stronger and stronger up to the late game."
+}

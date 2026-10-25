@@ -1,0 +1,27 @@
+{
+  "plan": "Una duelista que golpea los puntos débiles de sus enemigos para eliminarlos en duelo.",
+  "aSurveiller": "Su W (Réplica). Bloquea todo tu daño y tus controles un instante: si la aturdes durante ella, el aturdido serás tú.",
+  "contrer": [
+    "No uses tus controles justo después de su W: su réplica los devolvería contra ti.",
+    "No dejes tus puntos débiles expuestos: muévete para que los golpee menos.",
+    "Lucha contra ella con tus aliados: es muy fuerte en duelo, pero menos en equipo."
+  ],
+  "forces": [
+    "Muy fuerte en duelo.",
+    "Se cura al golpear los puntos débiles.",
+    "Bloquea los controles con su W."
+  ],
+  "faiblesses": [
+    "Menos eficaz en las peleas de equipo.",
+    "Depende de su réplica.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Revela un punto débil; golpearlo la cura y la acelera.",
+    "Q": "Embiste en una dirección y golpea.",
+    "W": "Bloquea todo el daño y contraataca; aturde si bloquea un control.",
+    "E": "Dos ataques rápidos: ralentiza y luego golpe crítico.",
+    "R": "Revela 4 puntos débiles; golpearlos crea una zona de curación."
+  },
+  "momentFort": "Fuerte desde el principio y temible al final de la partida en duelo."
+}

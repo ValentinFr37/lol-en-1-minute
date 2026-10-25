@@ -1,0 +1,27 @@
+{
+  "plan": "Un liche que sigue lanzando habilidades tras morir y daña a todo el equipo enemigo con su definitiva.",
+  "aSurveiller": "Su R (Réquiem). Daña a todos los campeones enemigos estén donde estén: cuando tengas poca vida, vuelve a la base.",
+  "contrer": [
+    "Con poca vida, vuelve a la base: su R alcanza cualquier punto del mapa.",
+    "Tras matarlo, aléjate: sigue lanzando sus habilidades unos segundos.",
+    "Interrumpe su R con un control: tiene que canalizarla 3 segundos."
+  ],
+  "forces": [
+    "Su R alcanza a todo el equipo enemigo.",
+    "Sigue jugando tras morir.",
+    "Mucho daño en área."
+  ],
+  "faiblesses": [
+    "Muy lento y poco móvil.",
+    "Frágil si lo alcanzan.",
+    "Su R se puede interrumpir."
+  ],
+  "sorts": {
+    "P": "Tras morir aún puede lanzar habilidades.",
+    "Q": "Explosión retardada, más fuerte contra un solo objetivo.",
+    "W": "Muro que ralentiza y reduce la resistencia mágica.",
+    "E": "Aura que daña a su alrededor.",
+    "R": "Daña a todos los campeones enemigos tras 3 segundos."
+  },
+  "momentFort": "Peligroso desde el nivel 6, muy fuerte a mitad de partida."
+}

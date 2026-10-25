@@ -1,0 +1,27 @@
+{
+  "plan": "A tank colossus who taunts enemies and flies to his allies' rescue anywhere on the map.",
+  "aSurveiller": "His W (Shield of Durand). He taunts you and forces you to walk towards him: don't stay right next to him.",
+  "contrer": [
+    "Move away while he channels his W: the taunt hits around him.",
+    "Physical damage hurts him more: he mostly resists magic.",
+    "Watch his R: he can land next to an ally anywhere."
+  ],
+  "forces": [
+    "Very resistant to magic damage.",
+    "Taunts several enemies.",
+    "His R helps an ally from far away."
+  ],
+  "faiblesses": [
+    "Less resistant to physical damage.",
+    "Slow while channelling.",
+    "Low damage when he plays tank."
+  ],
+  "sorts": {
+    "P": "Regularly, an attack that damages in an area.",
+    "Q": "Tornado that damages over time.",
+    "W": "Reduces magic damage, then taunts.",
+    "E": "Steps back and charges, knocking up.",
+    "R": "Flies to an ally and knocks up on landing."
+  },
+  "momentFort": "Dangerous from level 6 with his R."
+}

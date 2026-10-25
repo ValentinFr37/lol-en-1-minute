@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que hostiga al principio de la partida y cuya definitiva puede destruir a todo un equipo agrupado.",
+  "aSurveiller": "Su R (Lluvia de balas). Si acabas dentro del cono de balas, sal por un lado de inmediato: quedarse ahí es morir.",
+  "contrer": [
+    "No os quedéis agrupados delante de ella en las peleas: separaos para limitar su R.",
+    "Interrumpe su R con un aturdimiento o un lanzamiento: tiene que quedarse quieta para usarla.",
+    "No te pongas detrás de un súbdito casi muerto: su Q rebota en el objetivo justo detrás."
+  ],
+  "forces": [
+    "Daño enorme con su R en las peleas de equipo.",
+    "Hostiga bien al principio gracias a su Q.",
+    "Sencilla de jugar, te la encontrarás muy a menudo."
+  ],
+  "faiblesses": [
+    "Ningún salto ni teletransporte para escapar.",
+    "Tiene que quedarse quieta durante su R, lo que la hace vulnerable.",
+    "Fácil de castigar si la atacan primero."
+  ],
+  "sorts": {
+    "P": "Hace más daño cuando ataca a un objetivo nuevo.",
+    "Q": "Disparo que alcanza al objetivo y rebota en el enemigo justo detrás.",
+    "W": "Gana velocidad de movimiento, y de ataque al activarla.",
+    "E": "Lluvia de balas que daña y ralentiza en una zona.",
+    "R": "Ráfaga de balas en cono; se queda quieta mientras dispara."
+  },
+  "momentFort": "Peligrosa desde el nivel 6 con su R, sobre todo en las peleas de equipo. Pierde eficacia al final de la partida."
+}

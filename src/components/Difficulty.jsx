@@ -1,9 +1,9 @@
-const LEVELS = { Facile: 1, Moyen: 2, Difficile: 3 }
+import { useT } from '../lib/lang.js'
 
 // Difficulté sous forme de jauge à 3 crans, avec le mot pour les lecteurs d'écran.
-export default function Difficulty({ label }) {
-  if (!label) return null
-  const level = LEVELS[label]
+export default function Difficulty({ level }) {
+  const text = useT()
+  if (!level) return null
   return (
     <span className="difficulty" data-level={level}>
       <span className="difficulty-bars" aria-hidden="true">
@@ -11,7 +11,7 @@ export default function Difficulty({ label }) {
           <span key={n} className="difficulty-bar" data-on={n <= level} />
         ))}
       </span>
-      {label}
+      {text.difficulty[level]}
     </span>
   )
 }

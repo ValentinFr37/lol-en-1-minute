@@ -1,0 +1,27 @@
+{
+  "plan": "A very aggressive marksman who shoots twice after every spell and dominates the early game.",
+  "aSurveiller": "His E (Relentless Pursuit). His dash comes back very quickly: he can reach you or escape several times.",
+  "contrer": [
+    "Avoid trading early: he is very strong early.",
+    "His damage drops in the late game: drag the game out.",
+    "Don't stay in the line of his R: step out to the side."
+  ],
+  "forces": [
+    "Very strong in the early game.",
+    "Very mobile with his E.",
+    "Double shot after every spell."
+  ],
+  "faiblesses": [
+    "Short range for a marksman.",
+    "Weaker in the late game.",
+    "Relies on his spells."
+  ],
+  "sorts": {
+    "P": "After each spell, his next attack fires twice.",
+    "Q": "Piercing beam.",
+    "W": "Star-shaped explosion that reveals.",
+    "E": "Short dash that comes back fast.",
+    "R": "Barrage of bullets in a line."
+  },
+  "momentFort": "Very strong in the early game, then less and less effective as the game goes on."
+}

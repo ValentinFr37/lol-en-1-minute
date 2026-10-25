@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga de apoyo que potencia una de sus habilidades con su definitiva para hostigar o proteger.",
+  "aSurveiller": "Su W (Resolución concentrada). Se une a ti y te inmoviliza si no rompes el vínculo: aléjate de ella rápido.",
+  "contrer": [
+    "Aléjate cuando se una a ti (W): si no, quedas inmovilizado.",
+    "Quédate detrás de tus súbditos: su Q explota en el primero que toca.",
+    "Atácala cuando haya usado su R: sus habilidades son menos fuertes."
+  ],
+  "forces": [
+    "Hostiga mucho en su línea.",
+    "Escudos y velocidad para sus aliados.",
+    "Su R potencia una habilidad cada vez."
+  ],
+  "faiblesses": [
+    "Poco daño al final de la partida.",
+    "Frágil si la atacan.",
+    "Depende de su R."
+  ],
+  "sorts": {
+    "P": "Sus habilidades reducen el enfriamiento de su R.",
+    "Q": "Bola de energía que explota.",
+    "W": "Se une a un enemigo y lo inmoviliza si el vínculo aguanta.",
+    "E": "Escudo y velocidad para un aliado.",
+    "R": "Potencia su siguiente habilidad."
+  },
+  "momentFort": "Fuerte al principio de la partida, en su línea."
+}

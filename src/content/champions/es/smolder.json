@@ -1,0 +1,27 @@
+{
+  "plan": "Un dragoncito tirador que gana poder con cada acumulación y lo quema todo al final de la partida.",
+  "aSurveiller": "Su Q (Aliento supermegaabrasador). Se vuelve más poderoso con las acumulaciones: con 225, ejecuta a los objetivos heridos.",
+  "contrer": [
+    "Atácalo pronto: necesita acumulaciones para ser fuerte.",
+    "Ralentízalo antes de su E: es su única huida.",
+    "Evita su R: su madre lo cura si se pone debajo."
+  ],
+  "forces": [
+    "Poder que aumenta sin límite.",
+    "Huye con su E.",
+    "Su R cruza el mapa."
+  ],
+  "faiblesses": [
+    "Débil al principio de la partida.",
+    "Poco móvil.",
+    "Depende de sus acumulaciones."
+  ],
+  "sorts": {
+    "P": "Gana acumulaciones que potencian sus habilidades.",
+    "Q": "Bola de fuego que evoluciona con las acumulaciones.",
+    "W": "Estornudo que explota.",
+    "E": "Vuela por encima de los muros.",
+    "R": "Su madre escupe fuego en línea."
+  },
+  "momentFort": "Débil al principio, muy fuerte al final de la partida."
+}

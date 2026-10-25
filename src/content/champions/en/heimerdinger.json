@@ -1,0 +1,27 @@
+{
+  "plan": "An inventor who sets up turrets and controls his lane from afar.",
+  "aSurveiller": "His E (CH-2 Electron Storm Grenade). It stuns in the centre and slows around it: dodge it before attacking his turrets.",
+  "contrer": [
+    "Destroy his turrets one by one before attacking him.",
+    "Engage him away from his turrets: alone, he is fragile.",
+    "Dodge his grenade (E): in the centre it stuns you."
+  ],
+  "forces": [
+    "Controls an area very well.",
+    "Big damage in lane.",
+    "His R upgrades each spell."
+  ],
+  "faiblesses": [
+    "Fragile away from his turrets.",
+    "Immobile.",
+    "Weak against engages."
+  ],
+  "sorts": {
+    "P": "Faster near his turrets.",
+    "Q": "Places a turret.",
+    "W": "Long-range rockets.",
+    "E": "Grenade that stuns in the centre.",
+    "R": "Upgrades his next spell."
+  },
+  "momentFort": "Strong in lane from the start."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago de artillería que golpea desde muy lejos y bombardea a sus enemigos a través del mapa.",
+  "aSurveiller": "Su E (Orbe impactante). Te aturde y luego encadena con sus otras habilidades: quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su E se detiene en el primero que toca.",
+    "Durante su R está inmóvil: lánzate sobre él.",
+    "Atácalo: es muy frágil."
+  ],
+  "forces": [
+    "Alcance enorme.",
+    "Aturde con su E.",
+    "Su R golpea muy lejos."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Ninguna huida.",
+    "Inmóvil durante su R."
+  ],
+  "sorts": {
+    "P": "Sus ataques le devuelven maná.",
+    "Q": "Rayo cargado de largo alcance.",
+    "W": "Explosión que ralentiza.",
+    "E": "Orbe que aturde.",
+    "R": "Inmóvil, dispara muy lejos varias veces."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

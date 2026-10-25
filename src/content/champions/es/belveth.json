@@ -1,0 +1,27 @@
+{
+  "plan": "Una emperatriz del Vacío que ataca cada vez más rápido y encadena desplazamientos en todas direcciones.",
+  "aSurveiller": "Su E (Vorágine real). Se queda quieta y golpea al objetivo más débil mientras se cura: aléjate o interrúmpela.",
+  "contrer": [
+    "Aléjate cuando lance su E: se queda quieta y apunta al más herido.",
+    "Compra un objeto de Heridas graves: su E la cura mucho.",
+    "No la dejes tomar el Heraldo ni el Barón: su R se vuelve mucho más fuerte."
+  ],
+  "forces": [
+    "Velocidad de ataque enorme.",
+    "Muy móvil con su Q.",
+    "Se cura y reduce el daño con su E."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Vulnerable a los objetos de Heridas graves.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Gana velocidad de ataque permanente al eliminar enemigos.",
+    "Q": "Desplazamiento en cuatro direcciones distintas.",
+    "W": "Coletazo que lanza por los aires.",
+    "E": "Lluvia de golpes en el sitio; se cura.",
+    "R": "Forma verdadera: más vida y alcance."
+  },
+  "momentFort": "Fuerte a mitad de partida, muy peligrosa al final."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo protector que aturde a los enemigos y vuelve invencible a su equipo unos segundos.",
+  "aSurveiller": "Su R (Esplendor cósmico). Tras un breve retraso, sus aliados cercanos se vuelven invulnerables: retrocede y espera a que termine.",
+  "contrer": [
+    "Cuando lance su R, retrocede: sus aliados se vuelven invulnerables.",
+    "Esquiva su E: el rayo aturde tras un retraso.",
+    "Atácalo primero: es lento y depende de sus aliados."
+  ],
+  "forces": [
+    "Vuelve invulnerable a su equipo.",
+    "Aturde con su E.",
+    "Resistente."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Lento.",
+    "Su E se ve venir."
+  ],
+  "sorts": {
+    "P": "Tras una habilidad, sus siguientes ataques se potencian.",
+    "Q": "Cura a los aliados cercanos.",
+    "W": "Vínculo con un aliado que copia sus habilidades.",
+    "E": "Rayo que aturde tras un retraso.",
+    "R": "Vuelve invulnerables a los aliados cercanos."
+  },
+  "momentFort": "Útil toda la partida."
+}

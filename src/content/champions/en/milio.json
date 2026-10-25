@@ -1,0 +1,27 @@
+{
+  "plan": "An enchanter support who heals, shields and cleanses his allies of crowd control.",
+  "aSurveiller": "His R (Breath of Life). He heals his allies and removes all their crowd control: cast your crowd control after his R.",
+  "contrer": [
+    "Cast your crowd control after his R: he removes it.",
+    "Engage him: he is very fragile.",
+    "His fireball (Q) knocks you back: avoid it."
+  ],
+  "forces": [
+    "Removes crowd control.",
+    "Heals and shields.",
+    "Increases his allies' range."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Low damage.",
+    "Relies on his allies."
+  ],
+  "sorts": {
+    "P": "His spells empower his allies' attacks.",
+    "Q": "Fireball that knocks back and slows.",
+    "W": "Zone of healing and range.",
+    "E": "Shield and speed.",
+    "R": "Heals and removes crowd control."
+  },
+  "momentFort": "Useful all game."
+}

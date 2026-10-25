@@ -2,29 +2,35 @@
 // https://developer.riotgames.com/docs/lol#data-dragon
 
 import { firstSentence, stripTags } from './text.js'
+import { DEFAULT_LANG, LANGS, t } from '../i18n.js'
 
 const env = import.meta.env ?? {}
 export const DDRAGON_BASE = env.VITE_DDRAGON_BASE || 'https://ddragon.leagueoflegends.com'
-export const LOCALE = env.VITE_DDRAGON_LOCALE || 'fr_FR'
 
-export const ROLE_LABELS = {
-  Assassin: 'Assassin',
-  Fighter: 'Combattant',
-  Mage: 'Mage',
-  Marksman: 'Tireur',
-  Support: 'Support',
-  Tank: 'Tank',
+const localeOf = (lang) => (LANGS[lang] ?? LANGS[DEFAULT_LANG]).ddragon
+
+// Rôles Riot, dans l'ordre des filtres. Le texte affiché vient de i18n.js.
+export const ROLES = ['Assassin', 'Fighter', 'Mage', 'Marksman', 'Support', 'Tank']
+
+// Clé CSS de chaque rôle (couleurs définies dans styles.css).
+export const ROLE_CSS = {
+  Assassin: 'assassin',
+  Fighter: 'combattant',
+  Mage: 'mage',
+  Marksman: 'tireur',
+  Support: 'support',
+  Tank: 'tank',
 }
-export const ROLES = Object.values(ROLE_LABELS)
 
 export const SPELL_KEYS = ['Q', 'W', 'E', 'R']
 
 // Riot note la difficulté de 1 à 10 ; 0 signifie « non renseignée ».
-export function difficultyLabel(value = 0) {
+// On la ramène à 3 niveaux : 1 facile, 2 moyen, 3 difficile.
+export function difficultyLevel(value = 0) {
   if (!value) return null
-  if (value <= 3) return 'Facile'
-  if (value <= 6) return 'Moyen'
-  return 'Difficile'
+  if (value <= 3) return 1
+  if (value <= 6) return 2
+  return 3
 }
 
 export const imageUrl = {
@@ -37,20 +43,20 @@ export const imageUrl = {
 
 // --- Transformation des données brutes (fonctions pures, testées) ---
 
-export function mapChampionList(raw, version) {
+export function mapChampionList(raw, version, lang = DEFAULT_LANG) {
   return Object.values(raw.data)
     .map((c) => ({
       id: c.id,
       name: c.name,
       title: c.title,
-      roles: c.tags.map((tag) => ROLE_LABELS[tag] ?? tag),
-      difficulty: difficultyLabel(c.info?.difficulty),
+      roles: c.tags,
+      difficulty: difficultyLevel(c.info?.difficulty),
       icon: imageUrl.square(version, c.image.full),
     }))
-    .sort((a, b) => a.name.localeCompare(b.name, 'fr'))
+    .sort((a, b) => a.name.localeCompare(b.name, lang))
 }
 
-export function mapChampionDetail(raw, version) {
+export function mapChampionDetail(raw, version, lang = DEFAULT_LANG) {
   const c = Object.values(raw.data)[0]
   return {
     id: c.id,
@@ -66,7 +72,7 @@ export function mapChampionDetail(raw, version) {
       name: spell.name,
       summary: firstSentence(spell.description),
       description: stripTags(spell.description),
-      cooldown: formatCooldown(spell.cooldownBurn),
+      cooldown: formatCooldown(spell.cooldownBurn, lang),
       icon: imageUrl.spell(version, spell.image.full),
     })),
     enemyTips: (c.enemytips ?? []).map(stripTags).filter(Boolean),
@@ -74,12 +80,12 @@ export function mapChampionDetail(raw, version) {
 }
 
 // "26/23.5/21/18.5/16" -> "26 à 16 s" ; "5" -> "5 s"
-export function formatCooldown(burn) {
+export function formatCooldown(burn, lang = DEFAULT_LANG) {
   if (!burn || burn === '0') return null
   const values = burn.split('/')
   const first = values[0]
   const last = values[values.length - 1]
-  return first === last ? `${first} s` : `${first} à ${last} s`
+  return first === last ? `${first} s` : t(lang).cooldownRange(first, last)
 }
 
 // --- Récupération réseau avec cache de session ---
@@ -123,32 +129,34 @@ export function getLatestVersion() {
 }
 
 // Données déjà intégrées à la page par le pré-rendu : pas besoin de les retélécharger.
-export function primeCache({ version, champions, detail }) {
+export function primeCache({ version, lang = DEFAULT_LANG, champions, detail }) {
   versionPromise = Promise.resolve(version)
-  memory.set(`champions:${version}:${LOCALE}`, champions)
-  if (detail) memory.set(`champion:${detail.id}:${version}:${LOCALE}`, detail)
+  memory.set(`v2:champions:${version}:${localeOf(lang)}`, champions)
+  if (detail) memory.set(`v2:champion:${detail.id}:${version}:${localeOf(lang)}`, detail)
 }
 
-export async function getChampionList() {
+export async function getChampionList(lang = DEFAULT_LANG) {
   const version = await getLatestVersion()
-  const key = `champions:${version}:${LOCALE}`
+  const LOCALE = localeOf(lang)
+  const key = `v2:champions:${version}:${LOCALE}`
   const cached = readCache(key)
   if (cached) return { version, champions: cached }
 
   const raw = await fetchJson(`${DDRAGON_BASE}/cdn/${version}/data/${LOCALE}/champion.json`)
-  const champions = mapChampionList(raw, version)
+  const champions = mapChampionList(raw, version, lang)
   writeCache(key, champions)
   return { version, champions }
 }
 
-export async function getChampionDetail(id) {
+export async function getChampionDetail(id, lang = DEFAULT_LANG) {
   const version = await getLatestVersion()
-  const key = `champion:${id}:${version}:${LOCALE}`
+  const LOCALE = localeOf(lang)
+  const key = `v2:champion:${id}:${version}:${LOCALE}`
   const cached = readCache(key)
   if (cached) return cached
 
   const raw = await fetchJson(`${DDRAGON_BASE}/cdn/${version}/data/${LOCALE}/champion/${id}.json`)
-  const detail = mapChampionDetail(raw, version)
+  const detail = mapChampionDetail(raw, version, lang)
   writeCache(key, detail)
   return detail
 }

@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga vegetal que hace crecer plantas e inmoviliza a sus enemigos con sus raíces.",
+  "aSurveiller": "Su E (Raíces atenazadoras). Te inmovilizan en línea y sus plantas te golpean: esquívalas.",
+  "contrer": [
+    "Esquiva sus raíces (E): inmovilizan.",
+    "Mata sus plantas o aléjate: hacen mucho daño.",
+    "Atácala: es frágil."
+  ],
+  "forces": [
+    "Controla la zona con sus plantas.",
+    "Inmoviliza con su E.",
+    "Su R lanza por los aires."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Depende de sus plantas."
+  ],
+  "sorts": {
+    "P": "Hace aparecer semillas a su alrededor.",
+    "Q": "Espinas que dañan.",
+    "W": "Planta una semilla.",
+    "E": "Raíces que inmovilizan.",
+    "R": "Zarzas que lanzan por los aires."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

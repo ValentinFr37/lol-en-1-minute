@@ -1,0 +1,27 @@
+{
+  "plan": "A mage who places dark spheres and hurls them at her enemies for a huge explosion.",
+  "aSurveiller": "Her R (Unleashed Power). All her spheres strike one champion: the more there are, the more it hurts.",
+  "contrer": [
+    "Stay away from the spheres: her E pushes them and stuns.",
+    "When low on health, stay out of range: her R can kill you in one go.",
+    "Engage her: she is fragile and immobile."
+  ],
+  "forces": [
+    "Huge single-target damage.",
+    "Stuns with her E.",
+    "Pokes from range."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Fragile.",
+    "Has to place her spheres first."
+  ],
+  "sorts": {
+    "P": "Grows stronger by collecting splinters.",
+    "Q": "Places a sphere that damages.",
+    "W": "Grabs and throws a sphere or a minion.",
+    "E": "Pushes and stuns with the spheres.",
+    "R": "Bombards with all her spheres."
+  },
+  "momentFort": "Dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga camaleón que se disfraza de aliado y salta en medio del equipo enemigo.",
+  "aSurveiller": "Su R (Brote sorpresa). Salta y aturde a todos a su alrededor: separaos cuando se esté preparando.",
+  "contrer": [
+    "Separaos cuando prepare su R: aturde a todos a su alrededor.",
+    "Desconfía de los campeones falsos: puede tomar la apariencia de un aliado.",
+    "Su E inmoviliza más tiempo si atraviesa a varios enemigos."
+  ],
+  "forces": [
+    "Se disfraza para engañar.",
+    "Su R aturde a un equipo.",
+    "Inmoviliza con su E."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Su R se ve venir.",
+    "Pocas huidas."
+  ],
+  "sorts": {
+    "P": "Toma la apariencia de un aliado.",
+    "Q": "Semilla que florece varias veces.",
+    "W": "Envía un clon y se vuelve invisible.",
+    "E": "Espiral que inmoviliza.",
+    "R": "Salta y aturde a su alrededor."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

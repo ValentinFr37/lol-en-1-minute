@@ -1,0 +1,27 @@
+{
+  "plan": "Un yordle en un robot que lo quema todo con su lanzallamas y coloca un muro de fuego.",
+  "aSurveiller": "Su R (Equilibrador). Un muro de llamas que ralentiza y quema: sal de él inmediatamente.",
+  "contrer": [
+    "Sal de su R: quema y ralentiza.",
+    "Cuando se sobrecalienta no puede lanzar habilidades: ataca en ese momento.",
+    "Quédate fuera de su lanzallamas (Q)."
+  ],
+  "forces": [
+    "Mucho daño en área.",
+    "Su R controla una zona.",
+    "Escudo con su W."
+  ],
+  "faiblesses": [
+    "Tiene que controlar su calor.",
+    "Poco móvil.",
+    "Fácil de castigar cuando se sobrecalienta."
+  ],
+  "sorts": {
+    "P": "Controla su calor; sobrecalentado, ya no lanza habilidades.",
+    "Q": "Lanzallamas delante de él.",
+    "W": "Escudo y velocidad.",
+    "E": "Arpones que ralentizan.",
+    "R": "Muro de llamas que ralentiza."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

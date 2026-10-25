@@ -1,0 +1,27 @@
+{
+  "plan": "A magic cat who attaches to an ally to heal them while being untargetable.",
+  "aSurveiller": "Her W (You and Me!). Attached to an ally, she can't be targeted: attack the ally carrying her.",
+  "contrer": [
+    "Attack the ally carrying her: she can't be targeted.",
+    "Buy a Grievous Wounds item: she heals a lot.",
+    "When she detaches, hit her: she is very fragile."
+  ],
+  "forces": [
+    "Untargetable on an ally.",
+    "Heals and empowers.",
+    "Her R roots."
+  ],
+  "faiblesses": [
+    "Very fragile alone.",
+    "Low damage.",
+    "Relies on her ally."
+  ],
+  "sorts": {
+    "P": "Restores mana and gives a shield.",
+    "Q": "Guided projectile that slows.",
+    "W": "Attaches to an ally.",
+    "E": "Shield and speed for the ally.",
+    "R": "Waves that root and heal."
+  },
+  "momentFort": "Useful all game."
+}

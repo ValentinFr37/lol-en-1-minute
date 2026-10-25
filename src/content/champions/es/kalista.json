@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que salta tras cada ataque y clava lanzas que arranca todas de golpe.",
+  "aSurveiller": "Su E (Desgarrar). Cada ataque clava una lanza; las arranca todas de golpe para hacer mucho daño: no la dejes golpearte mucho rato.",
+  "contrer": [
+    "No la dejes golpearte mucho rato: cada lanza clavada hace más fuerte su E.",
+    "Ralentízala: salta al atacar y, ralentizada, ya no puede huir.",
+    "Su R lanza a su aliado contra ti: retrocede cuando él desaparezca cerca de ella."
+  ],
+  "forces": [
+    "Muy móvil mientras ataca.",
+    "Mucho daño con su E.",
+    "Su R puede salvar a su apoyo."
+  ],
+  "faiblesses": [
+    "Débil al final de la partida.",
+    "Difícil de jugar.",
+    "Vulnerable a las ralentizaciones."
+  ],
+  "sorts": {
+    "P": "Salta con cada ataque.",
+    "Q": "Lanza que atraviesa a los enemigos que mata.",
+    "W": "Envía un centinela; daño adicional con su aliado.",
+    "E": "Arranca las lanzas clavadas y ralentiza.",
+    "R": "Atrae a su aliado y lo lanza contra los enemigos."
+  },
+  "momentFort": "Fuerte en el nivel 6 con su R. Si termina el principio de la partida igualada, su pico con 2 o 3 objetos es de los más fuertes del juego."
+}

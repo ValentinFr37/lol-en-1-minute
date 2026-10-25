@@ -1,22 +1,25 @@
 import { useEffect, useMemo, useRef } from 'react'
 import Link from '../components/Link.jsx'
 import GameImage from '../components/GameImage.jsx'
-import { ROLES } from '../lib/ddragon.js'
+import { ROLES, ROLE_CSS } from '../lib/ddragon.js'
 import { championPath, navigate } from '../lib/router.js'
-import { normalize, searchChampions } from '../lib/search.js'
+import { searchChampions } from '../lib/search.js'
 import { pageMeta } from '../lib/seo.js'
+import { useLang, useT } from '../lib/lang.js'
 
 export default function HomePage({ champions, featured, query, onQueryChange, role, onRoleChange }) {
   const inputRef = useRef(null)
+  const lang = useLang()
+  const text = useT()
 
   const results = useMemo(() => {
-    const found = searchChampions(champions, query)
+    const found = searchChampions(champions, query, lang)
     return role ? found.filter((c) => c.roles.includes(role)) : found
-  }, [champions, query, role])
+  }, [champions, query, role, lang])
 
   useEffect(() => {
-    document.title = pageMeta({ route: { name: 'home' } }).title
-  }, [])
+    document.title = pageMeta({ route: { name: 'home', lang } }).title
+  }, [lang])
 
   // "/" place le curseur dans la recherche depuis n'importe où sur la page.
   useEffect(() => {
@@ -32,20 +35,17 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
 
   function handleSubmit(event) {
     event.preventDefault()
-    if (results[0]) navigate(championPath(results[0].id))
+    if (results[0]) navigate(championPath(results[0].id, lang))
   }
 
   return (
     <div className="home">
       <section className="hero">
-        <h1 className="hero-title">Contre qui tu joues&nbsp;?</h1>
-        <p className="hero-lead">
-          Les forces, les faiblesses et comment battre chaque champion de League of Legends, le temps de
-          l&apos;écran de chargement.
-        </p>
+        <h1 className="hero-title">{text.heroTitle}</h1>
+        <p className="hero-lead">{text.heroLead}</p>
         {featured && (
           <p className="credit">
-            En fond : <Link to={championPath(featured.id)}>{featured.name}</Link>
+            {text.backdropCredit} <Link to={championPath(featured.id, lang)}>{featured.name}</Link>
           </p>
         )}
       </section>
@@ -57,7 +57,7 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
             <path d="m20 20-4-4" />
           </svg>
           <label htmlFor="search-input" className="visually-hidden">
-            Rechercher un champion
+            {text.searchLabel}
           </label>
           <input
             id="search-input"
@@ -69,7 +69,7 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
             autoCorrect="off"
             spellCheck="false"
             autoFocus
-            placeholder="Darius, MF, Kog…"
+            placeholder={text.searchPlaceholder}
             value={query}
             onChange={(event) => onQueryChange(event.target.value)}
           />
@@ -78,37 +78,35 @@ export default function HomePage({ champions, featured, query, onQueryChange, ro
       <p className="search-hint" aria-live="polite">
         {query && results[0] && (
           <>
-            Entrée pour ouvrir <strong>{results[0].name}</strong>
+            {text.enterToOpen} <strong>{results[0].name}</strong>
           </>
         )}
       </p>
-      <div className="roles" role="group" aria-label="Filtrer par rôle">
+      <div className="roles" role="group" aria-label={text.roleFilter}>
         <button type="button" className="chip" aria-pressed={role === null} onClick={() => onRoleChange(null)}>
-          Tous
+          {text.allRoles}
         </button>
         {ROLES.map((r) => (
           <button
             key={r}
             type="button"
             className="chip"
-            data-role={normalize(r)}
+            data-role={ROLE_CSS[r]}
             aria-pressed={role === r}
             onClick={() => onRoleChange(role === r ? null : r)}
           >
-            {r}
+            {text.roles[r]}
           </button>
         ))}
       </div>
 
       {results.length === 0 ? (
-        <p className="status">
-          Aucun champion ne correspond à « {query} ». Vérifie l&apos;orthographe ou essaie un surnom.
-        </p>
+        <p className="status">{text.noResults(query)}</p>
       ) : (
-        <ul className="grid" aria-label={`${results.length} champions`}>
+        <ul className="grid" aria-label={text.championCount(results.length)}>
           {results.map((champion) => (
             <li key={champion.id}>
-              <Link to={championPath(champion.id)} className="tile">
+              <Link to={championPath(champion.id, lang)} className="tile">
                 <GameImage
                   src={champion.icon}
                   label={champion.name}

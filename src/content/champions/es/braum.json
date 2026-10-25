@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo protector que bloquea los proyectiles con su escudo y aturde a puñetazos.",
+  "aSurveiller": "Su pasiva (Golpes conmocionantes). Al 4.º golpe suyo o de sus aliados quedas aturdido: aléjate en cuanto aparezca la marca.",
+  "contrer": [
+    "Cuando aparezca la marca de su pasiva sobre ti, retrocede antes del 4.º golpe.",
+    "No dispares contra su escudo (E): bloquea los proyectiles.",
+    "Ataca por un lado: su escudo solo protege en una dirección."
+  ],
+  "forces": [
+    "Protege a sus aliados con su escudo.",
+    "Aturde con su pasiva.",
+    "Su R lanza por los aires en línea."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Su escudo solo bloquea una dirección.",
+    "Poco móvil solo."
+  ],
+  "sorts": {
+    "P": "Al 4.º golpe, el objetivo queda aturdido.",
+    "Q": "Fragmento de hielo que ralentiza.",
+    "W": "Salta hacia un aliado y lo protege.",
+    "E": "Escudo que bloquea los proyectiles.",
+    "R": "Fisura que lanza por los aires y ralentiza."
+  },
+  "momentFort": "Peligroso desde el nivel 2, útil toda la partida."
+}

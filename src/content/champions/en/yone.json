@@ -1,0 +1,27 @@
+{
+  "plan": "A swordsman who splits in two: his spirit leaves his body to attack, then returns and repeats the damage.",
+  "aSurveiller": "His R (Fate Sealed). He teleports behind the last champion in a line and pulls in every enemy hit: don't line up.",
+  "contrer": [
+    "Don't line up in front of him: his R pulls in everyone in the line.",
+    "When his spirit (E) comes out, back off: at the end he returns to his body and repeats the damage.",
+    "Use your crowd control after his charged Q: he can no longer escape."
+  ],
+  "forces": [
+    "Very mobile with his charged Q and his E.",
+    "His R starts a fight on several enemies.",
+    "Strong in duels with his critical strikes."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "His E brings him back to his starting point.",
+    "Low damage if he falls behind."
+  ],
+  "sorts": {
+    "P": "Every other attack deals magic damage; more critical strikes.",
+    "Q": "Strike in a line; on the 3rd, he dashes and knocks up.",
+    "W": "Cone strike that gives him a shield.",
+    "E": "His spirit leaves his body, then returns, repeating part of the damage.",
+    "R": "Teleports behind a line of enemies and pulls them in."
+  },
+  "momentFort": "He scales with his critical strike items and becomes fearsome in the late game."
+}

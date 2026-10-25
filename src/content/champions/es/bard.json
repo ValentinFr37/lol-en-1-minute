@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo viajero que abre portales en los muros y congela todo en el tiempo con su definitiva.",
+  "aSurveiller": "Su Q (Cadenas cósmicas). Te aturde si estás cerca de un muro o de otro enemigo: aléjate de los muros frente a él.",
+  "contrer": [
+    "No te quedes cerca de un muro o de un aliado: su Q aturde a los dos objetivos alineados.",
+    "Cuidado con sus portales (E): puede aparecer detrás de un muro.",
+    "Durante su R los objetivos son intocables: no malgastes tus habilidades en ellos."
+  ],
+  "forces": [
+    "Muy móvil con sus portales.",
+    "Su R congela a todos en una zona.",
+    "Cura a sus aliados con sus santuarios."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Difícil de jugar.",
+    "A menudo lejos de su línea."
+  ],
+  "sorts": {
+    "P": "Recoge campanillas; sus Meeps potencian sus ataques.",
+    "Q": "Proyectil que aturde contra un muro o un enemigo.",
+    "W": "Santuario que cura.",
+    "E": "Portal a través de un muro.",
+    "R": "Congela todas las unidades de una zona."
+  },
+  "momentFort": "Útil toda la partida, cada vez más fuerte con sus campanillas."
+}

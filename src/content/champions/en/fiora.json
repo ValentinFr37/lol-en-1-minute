@@ -1,0 +1,27 @@
+{
+  "plan": "A duelist who strikes her enemies' weak points to take them down in a duel.",
+  "aSurveiller": "Her W (Riposte). She parries all your damage and crowd control for a moment: if you stun her during it, you get stunned.",
+  "contrer": [
+    "Don't use your crowd control right after her W: her parry would turn it against you.",
+    "Don't leave your weak points exposed: move so she hits them less.",
+    "Fight her with your allies: she is very strong in duels but less so in teams."
+  ],
+  "forces": [
+    "Very strong in duels.",
+    "Heals by hitting weak points.",
+    "Parries crowd control with her W."
+  ],
+  "faiblesses": [
+    "Less effective in team fights.",
+    "Relies on her parry.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Reveals a weak point; hitting it heals and speeds her up.",
+    "Q": "Lunges in a direction and strikes.",
+    "W": "Parries all damage, then strikes; stuns if she parries crowd control.",
+    "E": "Two quick attacks: a slow then a critical hit.",
+    "R": "Reveals 4 weak points; hitting them creates a healing zone."
+  },
+  "momentFort": "Strong from the start, and fearsome in the late game in duels."
+}

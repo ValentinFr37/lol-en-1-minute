@@ -1,0 +1,27 @@
+{
+  "plan": "Una masa gelatinosa que se catapulta desde muy lejos para lanzar por los aires a todo un equipo.",
+  "aSurveiller": "Su E (Honda elástica). Toma impulso y salta desde muy lejos: cuando se estire, apartaos de la zona de llegada.",
+  "contrer": [
+    "Cuando se estire para saltar (E), apartaos de la zona de llegada.",
+    "Aplasta sus trocitos: lo curan.",
+    "Interrumpe su E con un control mientras la carga."
+  ],
+  "forces": [
+    "Entra desde muy lejos.",
+    "Muy resistente.",
+    "Vuelve a la vida con su pasiva."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Su E se puede interrumpir.",
+    "Depende de sus trocitos."
+  ],
+  "sorts": {
+    "P": "Suelta trozos que lo curan; puede recomponerse.",
+    "Q": "Agarra y lanza a dos enemigos.",
+    "W": "Explosión según la vida máxima.",
+    "E": "Salto cargado desde muy lejos.",
+    "R": "Rebota y lanza por los aires."
+  },
+  "momentFort": "Débil al principio de la partida. Muy fuerte a mitad de partida, sobre todo con su 3.er objeto terminado."
+}

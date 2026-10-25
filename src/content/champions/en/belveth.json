@@ -1,0 +1,27 @@
+{
+  "plan": "A Void empress who attacks faster and faster and chains dashes in every direction.",
+  "aSurveiller": "Her E (Royal Maelstrom). She stays in place and hits the weakest target while healing: back off or interrupt her.",
+  "contrer": [
+    "Back off when she casts her E: she stays still and targets the most wounded.",
+    "Buy a Grievous Wounds item: her E heals her a lot.",
+    "Don't let her take the Rift Herald or Baron: her R becomes much stronger."
+  ],
+  "forces": [
+    "Huge attack speed.",
+    "Very mobile with her Q.",
+    "Heals and reduces damage with her E."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Weak to Grievous Wounds items.",
+    "Weak at the very start of the game."
+  ],
+  "sorts": {
+    "P": "Gains permanent attack speed by taking down enemies.",
+    "Q": "Dashes in four different directions.",
+    "W": "Tail slam that knocks up.",
+    "E": "Flurry of hits in place; she heals.",
+    "R": "True form: more health and range."
+  },
+  "momentFort": "Strong in the mid game, very dangerous in the late game."
+}

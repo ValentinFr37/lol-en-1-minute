@@ -1,0 +1,27 @@
+{
+  "plan": "Una bruja de hielo que inmoviliza a varios enemigos y puede protegerse congelándose.",
+  "aSurveiller": "Su R (Tumba helada). Sobre ti, te aturde; sobre ella, la vuelve intocable: guarda tu daño para después.",
+  "contrer": [
+    "Cuando se congele con su R, espera a que termine: es intocable.",
+    "No te pegues a ella: su W inmoviliza a su alrededor.",
+    "Vigila su garra (E): puede teletransportarse a ella."
+  ],
+  "forces": [
+    "Muchas inmovilizaciones.",
+    "Puede protegerse con su R.",
+    "Entra con su garra."
+  ],
+  "faiblesses": [
+    "Poco alcance.",
+    "Débil al final de la partida.",
+    "Depende de su E para huir."
+  ],
+  "sorts": {
+    "P": "Los campeones que mueren cerca de ella se vuelven esclavos de hielo.",
+    "Q": "Fragmento de hielo que ralentiza.",
+    "W": "Inmoviliza a su alrededor.",
+    "E": "Garra hacia la que se teletransporta.",
+    "R": "Aturde a un objetivo o la vuelve intocable."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un guerrero de los Oscuros que golpea fuerte, se vuelve más duro en combate y puede volver de la muerte.",
+  "aSurveiller": "Su R (Redención funesta). Se eleva y luego cae en picado sobre ti: apártate de la zona de aterrizaje.",
+  "contrer": [
+    "Apártate de la zona de aterrizaje de su R.",
+    "Compra un objeto de Heridas graves: se cura en combate.",
+    "Guarda un control para pararlo."
+  ],
+  "forces": [
+    "Muy fuerte en duelo.",
+    "Se refuerza en combate.",
+    "Entra con su R."
+  ],
+  "faiblesses": [
+    "Tiene que estar cuerpo a cuerpo.",
+    "Vulnerable a los controles.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Se refuerza al golpear campeones.",
+    "Q": "Ataque que golpea dos veces.",
+    "W": "Estocada que vuelve.",
+    "E": "Desplazamiento y tajo a su alrededor.",
+    "R": "Cae en picado sobre una zona."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A crystal scorpion who charges, slams his target into a wall and drags it towards his team.",
+  "aSurveiller": "His R (Impale). He suppresses you and drags you: when low on health, stay behind your allies.",
+  "contrer": [
+    "Stay away from walls: his E slams you into a wall.",
+    "Stay behind your allies: his R drags you towards his team.",
+    "Avoid stacking his effects: they explode based on your max health."
+  ],
+  "forces": [
+    "Lots of crowd control.",
+    "Drags a target.",
+    "Tanky."
+  ],
+  "faiblesses": [
+    "Low single-target damage.",
+    "Relies on his engages.",
+    "Slow outside his charge."
+  ],
+  "sorts": {
+    "P": "Stacks effects that explode.",
+    "Q": "Boulder that empowers his attacks.",
+    "W": "Shield and slowing earthquake.",
+    "E": "Charge that slams into a wall.",
+    "R": "Suppresses and drags enemies."
+  },
+  "momentFort": "Dangerous from level 6."
+}

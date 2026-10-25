@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga que inmoviliza con su esfera de luz y remata desde muy lejos con su rayo láser.",
+  "aSurveiller": "Su Q (Enlace de luz). Te inmoviliza y luego encadena con su R: esquiva la esfera y su combo deja de funcionar.",
+  "contrer": [
+    "Mantén al menos dos súbditos entre ella y tú: su esfera (Q) se detiene tras dos objetivos.",
+    "Atácala de cerca: es frágil y no tiene habilidad de huida.",
+    "Tras fallar su Q queda vulnerable varios segundos: es el momento de atacar."
+  ],
+  "forces": [
+    "Daño a muy larga distancia con su R.",
+    "Su Q inmoviliza hasta a dos objetivos.",
+    "Protege a sus aliados con su W."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad de huida.",
+    "Habilidades lentas y fáciles de esquivar.",
+    "Muy frágil cuerpo a cuerpo."
+  ],
+  "sorts": {
+    "P": "Sus habilidades marcan al objetivo; su siguiente ataque hace más daño.",
+    "Q": "Esfera que inmoviliza hasta a dos enemigos.",
+    "W": "Varita que protege a los aliados con un escudo.",
+    "E": "Zona que ralentiza y luego explota.",
+    "R": "Rayo láser de muy largo alcance."
+  },
+  "momentFort": "Peligrosa desde el nivel 6 con su R, sobre todo a mitad de partida."
+}

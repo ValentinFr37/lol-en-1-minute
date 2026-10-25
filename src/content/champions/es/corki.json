@@ -1,0 +1,27 @@
+{
+  "plan": "Un piloto que hostiga con sus misiles y recoge a menudo un paquete para cruzar el mapa.",
+  "aSurveiller": "Su R (Andanada de proyectiles). Hostiga desde lejos con misiles: quédate detrás de tus súbditos, se detienen en el primero que tocan.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: sus misiles (R) explotan en el primero que tocan.",
+    "Atácalo cuando haya usado su W: es su única huida.",
+    "Cuidado cuando tenga su paquete: puede cruzar el mapa y hacer mucho daño."
+  ],
+  "forces": [
+    "Hostiga desde lejos con sus misiles.",
+    "Su paquete le da un gran desplazamiento.",
+    "Daño mixto difícil de contrarrestar."
+  ],
+  "faiblesses": [
+    "Frágil si lo alcanzan.",
+    "Una sola huida real.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Parte de su daño se convierte en daño verdadero.",
+    "Q": "Bomba que revela una zona.",
+    "W": "Vuela una distancia corta soltando fuego.",
+    "E": "Ráfaga que reduce las resistencias.",
+    "R": "Misiles de largo alcance."
+  },
+  "momentFort": "Fuerte a mitad de partida con sus primeros objetos."
+}

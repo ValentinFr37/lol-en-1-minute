@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga tejedora de piedra que lanza a sus enemigos contra sus minas y cruza el mapa sobre un muro.",
+  "aSurveiller": "Su W (Empujón sísmico). Te lanza por los aires, a menudo hacia sus minas (E): no te lances hacia ella a través de su campo.",
+  "contrer": [
+    "No hagas desplazamientos sobre sus minas (E): explotan.",
+    "Esquiva su W: te lanza en una dirección.",
+    "Su R crea un muro que puede separaros: reagrupaos."
+  ],
+  "forces": [
+    "Ráfaga de rocas potente.",
+    "Control con su W.",
+    "Su R cruza el mapa."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Sus habilidades se ven venir.",
+    "Menos fuerte si la alcanzan."
+  ],
+  "sorts": {
+    "P": "Más rápida cerca de los muros.",
+    "Q": "Ráfaga de rocas.",
+    "W": "Lanza por los aires a los enemigos.",
+    "E": "Campo de minas que ralentiza.",
+    "R": "Muro largo sobre el que surfea."
+  },
+  "momentFort": "Fuerte al principio y a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A jungle fighter who jumps from enemy to enemy: if he reaches a fight with his items, he can wipe a whole team.",
+  "aSurveiller": "His R (Highlander). He runs very fast, ignores slows and every takedown extends it: don't face him alone at that moment.",
+  "contrer": [
+    "Keep your stuns and knock-ups for after his Q: during that jump he is untargetable.",
+    "Stay grouped: alone, he beats you; against several crowd controls, he falls very fast.",
+    "When he meditates (W) he stands still and takes less damage: interrupt him with a stun instead of wasting damage."
+  ],
+  "forces": [
+    "Very strong in the late game with his items.",
+    "His Q makes him untargetable and dodges many spells.",
+    "His R, extended with every takedown, lets him clean up a fight."
+  ],
+  "faiblesses": [
+    "No crowd control: he can't stop you from using your spells.",
+    "Very fragile against stuns and knock-ups.",
+    "Weak at the very start of the game, he needs time to scale."
+  ],
+  "sorts": {
+    "P": "Every few attacks, he strikes twice.",
+    "Q": "Jumps from enemy to enemy, untargetable during the jump.",
+    "W": "Meditates: heals and reduces damage taken, but stays still.",
+    "E": "His attacks deal bonus true damage.",
+    "R": "Gains a lot of speed and ignores slows; extended with every takedown."
+  },
+  "momentFort": "From his first items, and especially in the late game. Level 6 with his R also makes him much more dangerous."
+}

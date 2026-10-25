@@ -1,0 +1,27 @@
+{
+  "plan": "A very mobile swordsman who knocks enemies up with a tornado then leaps onto them with his ultimate.",
+  "aSurveiller": "His charged Q (the tornado). After two successful hits with his Q, the third throws a tornado that knocks you up and opens up his R.",
+  "contrer": [
+    "When his tornado is ready, stay out of its line of fire: no knock-up, no R.",
+    "Wait until he has used his wind wall (W) before throwing your projectiles.",
+    "Attack him once his passive shield is down: it only recharges while he moves."
+  ],
+  "forces": [
+    "Very mobile by dashing through minions with his E.",
+    "Blocks all projectiles with his wind wall (W).",
+    "His R can hit several knocked-up enemies."
+  ],
+  "faiblesses": [
+    "Fragile when hit by crowd control.",
+    "Hard to play without minions or enemies to dash through.",
+    "His R only works on a knocked-up enemy."
+  ],
+  "sorts": {
+    "P": "Increased critical strikes and a shield that charges as he moves.",
+    "Q": "Thrust in a line; the 3rd throws a tornado that knocks up.",
+    "W": "Wall that blocks all enemy projectiles.",
+    "E": "Dashes through an enemy; reusable on different targets.",
+    "R": "Leaps onto a knocked-up enemy and keeps them airborne."
+  },
+  "momentFort": "Strong in duels from the start, fearsome in the mid game with his critical strike items."
+}

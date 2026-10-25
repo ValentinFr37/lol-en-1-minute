@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que ralentiza con cada ataque y puede aturdir desde muy lejos con su flecha de hielo.",
+  "aSurveiller": "Su R (Flecha de cristal encantada). Cruza el mapa y aturde más tiempo si viene de lejos: ten cuidado cuando estés solo.",
+  "contrer": [
+    "Atácala cuerpo a cuerpo: no tiene ninguna huida.",
+    "No camines en línea recta por pasillos estrechos: su flecha (R) va en línea recta.",
+    "No la persigas demasiado lejos: cada ataque suyo te ralentiza."
+  ],
+  "forces": [
+    "Ralentiza con cada ataque básico.",
+    "Su R inicia peleas desde muy lejos.",
+    "Da visión en cualquier sitio con su halcón (E)."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad de huida.",
+    "Poco móvil.",
+    "Vulnerable si un asesino la alcanza."
+  ],
+  "sorts": {
+    "P": "Sus ataques ralentizan al objetivo.",
+    "Q": "Aumenta su velocidad de ataque y dispara varias flechas a la vez.",
+    "W": "Abanico de flechas que ralentiza.",
+    "E": "Envía a su halcón a revelar una zona.",
+    "R": "Flecha que cruza el mapa y aturde."
+  },
+  "momentFort": "Útil desde el principio y peligrosa a mitad de partida con sus objetos de velocidad de ataque."
+}

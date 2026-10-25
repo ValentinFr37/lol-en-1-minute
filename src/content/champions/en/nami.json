@@ -1,0 +1,27 @@
+{
+  "plan": "A mermaid support who stuns with her bubble and knocks up a whole team with her wave.",
+  "aSurveiller": "Her Q (Aqua Prison). A bubble that stuns you: it takes time to land, move as soon as she casts it.",
+  "contrer": [
+    "Move as soon as she casts her bubble (Q): it takes time to land.",
+    "Spread out from her wave (R): it crosses a whole line.",
+    "Engage her: she has no escape."
+  ],
+  "forces": [
+    "Stuns with her bubble.",
+    "Heals with her W.",
+    "Her R knocks up several enemies."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Her bubble is slow.",
+    "No escape."
+  ],
+  "sorts": {
+    "P": "Her spells speed up her allies.",
+    "Q": "Bubble that stuns.",
+    "W": "Bouncing water: heals and damages.",
+    "E": "Empowers an ally whose hits slow.",
+    "R": "Large wave that knocks up."
+  },
+  "momentFort": "Useful from the start, strong in team fights."
+}

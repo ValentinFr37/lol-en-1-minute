@@ -1,0 +1,27 @@
+{
+  "plan": "Un rey arruinado que posee los cuerpos de sus enemigos muertos para usar sus habilidades.",
+  "aSurveiller": "Su R (Rompecorazones). Cae sobre un campeón y lo ejecuta: con poca vida, aléjate de él.",
+  "contrer": [
+    "Con poca vida, aléjate: su R hace más daño a los objetivos heridos.",
+    "Cuando tome el cuerpo de un aliado caído, espera las habilidades de ese aliado.",
+    "Guarda un control: depende de encadenar sus acciones."
+  ],
+  "forces": [
+    "Se reinicia con las eliminaciones.",
+    "Mucho daño.",
+    "Usa las habilidades de sus víctimas."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Débil si no mata a nadie.",
+    "Difícil de jugar."
+  ],
+  "sorts": {
+    "P": "Posee a los enemigos muertos.",
+    "Q": "Hoja que hace daño por porcentaje de vida.",
+    "W": "Carga que aturde.",
+    "E": "Niebla que lo vuelve invisible.",
+    "R": "Cae sobre un campeón y lo ejecuta."
+  },
+  "momentFort": "Débil al principio de la partida. Se vuelve fuerte a mitad de partida, con 1 o 2 objetos."
+}

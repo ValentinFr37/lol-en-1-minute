@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla agresiva que carga contra su objetivo, lo lanza por los aires y gana los duelos al principio.",
+  "aSurveiller": "Su E (Carga audaz). Es el salto con el que te alcanza; después, el 3.er ataque de su Q te lanza por los aires.",
+  "contrer": [
+    "Guarda una huida para después de su carga (E): no tiene otra forma de alcanzarte.",
+    "Evita los duelos al principio: es muy fuerte pronto, llama a tus aliados.",
+    "Tras su R ignora un rato el daño a distancia: no le dispares desde lejos, retrocede y espera."
+  ],
+  "forces": [
+    "Muy fuerte al principio y en duelo.",
+    "Su carga (E) le permite entrar desde lejos.",
+    "Se cura a menudo gracias a su pasiva."
+  ],
+  "faiblesses": [
+    "Una sola habilidad real para acercarse: su E.",
+    "Pierde poder si la partida se alarga.",
+    "Fácil de ralentizar y mantener a distancia tras su carga."
+  ],
+  "sorts": {
+    "P": "Cada 3 ataques hace daño adicional y se cura.",
+    "Q": "Sus 3 siguientes ataques hacen más daño; el 3.º lanza por los aires.",
+    "W": "Golpe de lanza que ralentiza y marca a los enemigos alcanzados.",
+    "E": "Carga contra un enemigo y lo ralentiza; más alcance sobre un objetivo marcado.",
+    "R": "Empuja a los enemigos cercanos y bloquea el daño a distancia."
+  },
+  "momentFort": "Muy peligroso desde los primeros niveles, sobre todo hasta mitad de partida."
+}

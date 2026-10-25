@@ -1,0 +1,27 @@
+{
+  "plan": "A small marksman who jumps onto her enemies and detonates her charge on her target.",
+  "aSurveiller": "Her E (Explosive Charge). The bomb explodes on you after a few attacks: back off when it grows on you.",
+  "contrer": [
+    "Back off when her bomb (E) is on you: it's about to explode.",
+    "Crowd control her after her W: it's her only escape.",
+    "Engage her early: her range grows with her level."
+  ],
+  "forces": [
+    "Very strong in the late game.",
+    "Jumps with her W.",
+    "Pushes towers fast."
+  ],
+  "faiblesses": [
+    "Fragile in the early game.",
+    "Relies on her W to escape.",
+    "Little crowd control."
+  ],
+  "sorts": {
+    "P": "Her range grows with her level.",
+    "Q": "Big attack speed boost.",
+    "W": "Jump that slows on landing.",
+    "E": "Bomb that explodes after a few attacks.",
+    "R": "Cannonball that knocks an enemy back."
+  },
+  "momentFort": "Strong in the late game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un tanque que puede empujar a su objetivo a través de un muro y luego abandonar su defensa para golpearlo muy fuerte.",
+  "aSurveiller": "Su R (Órdago). Te empuja a través de un muro y te persigue abandonando su defensa: se vuelve frágil, aprovéchalo.",
+  "contrer": [
+    "Durante su R es menos resistente: concentra tu daño en él.",
+    "No te quedes cerca de los muros: su R puede aislarte de tu equipo.",
+    "Esquiva su 3.ª Q: te atrae hacia él."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Puede aislar a un objetivo con su R.",
+    "Muchos controles."
+  ],
+  "faiblesses": [
+    "Frágil durante su R.",
+    "Difícil de jugar.",
+    "Menos daño en su forma normal."
+  ],
+  "sorts": {
+    "P": "Sus habilidades marcan; el siguiente ataque es más fuerte.",
+    "Q": "Golpe en línea; el 3.º atrae a los enemigos.",
+    "W": "Carga, luego empuja y aturde.",
+    "E": "Se desplaza con un escudo.",
+    "R": "Empuja a través de un muro y se vuelve ofensivo."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

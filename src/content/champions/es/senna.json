@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo tiradora de muy largo alcance que se vuelve cada vez más fuerte recogiendo almas.",
+  "aSurveiller": "Su W (Último abrazo). Se te engancha y luego te inmoviliza: aléjate de los aliados alcanzados.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su W se engancha al primero que toca.",
+    "Atácala: es muy frágil.",
+    "Su R cruza el mapa: con poca vida, ponte a cubierto."
+  ],
+  "forces": [
+    "Alcance muy largo.",
+    "Se refuerza a lo largo de la partida.",
+    "Su R ayuda desde lejos."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Poco móvil.",
+    "Ataca lento."
+  ],
+  "sorts": {
+    "P": "Recoge almas para volverse más fuerte.",
+    "Q": "Rayo que cura a sus aliados y daña.",
+    "W": "Niebla que inmoviliza.",
+    "E": "Camuflaje para ella y sus aliados.",
+    "R": "Rayo que cruza el mapa."
+  },
+  "momentFort": "Fuerte al final de la partida."
+}

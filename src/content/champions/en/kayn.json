@@ -1,0 +1,27 @@
+{
+  "plan": "A jungler who walks through walls and hides inside his victim's body.",
+  "aSurveiller": "His R (Umbral Trespass). He hides inside your body then bursts out dealing big damage: your allies can't reach him meanwhile.",
+  "contrer": [
+    "Watch the walls: he passes through them with his E.",
+    "Buy a Grievous Wounds item: in red form he heals.",
+    "Don't drag out a fight alone: he needs to damage you to use his R."
+  ],
+  "forces": [
+    "Walks through walls.",
+    "Untouchable during his R.",
+    "Two forms: assassin or fighter."
+  ],
+  "faiblesses": [
+    "Weak before his transformation.",
+    "Relies on his form.",
+    "Vulnerable to crowd control."
+  ],
+  "sorts": {
+    "P": "Transforms into an assassin or a fighter.",
+    "Q": "Dashes then strikes.",
+    "W": "Strike in a line that slows.",
+    "E": "Walks through walls.",
+    "R": "Hides inside an enemy's body."
+  },
+  "momentFort": "Dangerous once he transforms in the mid game."
+}

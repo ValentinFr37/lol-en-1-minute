@@ -1,0 +1,27 @@
+{
+  "plan": "An electric yordle who stuns on the 3rd hit of his spells and dives a whole team with his ultimate.",
+  "aSurveiller": "His R (Slicing Maelstrom). It damages and stuns every enemy around him: spread out when he rushes at you.",
+  "contrer": [
+    "Spread out when he casts his R: it stuns everyone around him.",
+    "Watch his marks: on the 3rd hit, you are stunned.",
+    "Slow him: his E is his only escape."
+  ],
+  "forces": [
+    "Stuns on the 3rd hit.",
+    "His R controls a whole team.",
+    "Pokes well from range."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Only one escape: his E.",
+    "Weak if engaged."
+  ],
+  "sorts": {
+    "P": "The 3rd hit of his spells stuns.",
+    "Q": "Shuriken that marks.",
+    "W": "His attacks mark; on activation, electrocutes.",
+    "E": "Fast ball of electricity.",
+    "R": "Storm that damages and stuns around him."
+  },
+  "momentFort": "Dangerous from level 6."
+}

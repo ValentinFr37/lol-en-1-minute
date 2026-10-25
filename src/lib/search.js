@@ -54,7 +54,7 @@ function scoreKey(query, key) {
   return null
 }
 
-export function searchChampions(champions, rawQuery) {
+export function searchChampions(champions, rawQuery, lang = 'fr') {
   const query = normalize(rawQuery)
   if (!query) return champions
 
@@ -66,6 +66,6 @@ export function searchChampions(champions, rawQuery) {
       return scores.length ? { champion, score: Math.min(...scores) } : null
     })
     .filter(Boolean)
-    .sort((a, b) => a.score - b.score || a.champion.name.localeCompare(b.champion.name, 'fr'))
+    .sort((a, b) => a.score - b.score || a.champion.name.localeCompare(b.champion.name, lang))
     .map((result) => result.champion)
 }

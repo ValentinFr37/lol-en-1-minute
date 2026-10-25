@@ -1,0 +1,27 @@
+{
+  "plan": "A bomb expert who bombards enemies from afar and destroys towers in no time.",
+  "aSurveiller": "His R (Mega Inferno Bomb). He throws it from very far: a circle appears on the ground, get out right away.",
+  "contrer": [
+    "Get out of the circle on the ground: his R arrives from very far.",
+    "Avoid his mines (E): they slow.",
+    "Engage him: he is fragile."
+  ],
+  "forces": [
+    "Bombards from very far.",
+    "Destroys towers fast.",
+    "His R strikes very far."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "His spells are easy to see coming.",
+    "Few defences."
+  ],
+  "sorts": {
+    "P": "Regularly empowered attack.",
+    "Q": "Bouncing bomb.",
+    "W": "Charge that knocks back and destroys towers.",
+    "E": "Mines that slow.",
+    "R": "Giant bomb from very far."
+  },
+  "momentFort": "Strong in the mid game."
+}

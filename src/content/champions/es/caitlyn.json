@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora de alcance muy largo que domina su línea y coloca trampas para atrapar a sus rivales.",
+  "aSurveiller": "Sus trampas (W). Te inmovilizan y le dan un disparo potenciado: no las pises, sobre todo cerca de ella y en los arbustos.",
+  "contrer": [
+    "Evita sus trampas (W): se ven, rodéalas.",
+    "Atácala cuando haya usado su red (E): es su única forma de retroceder.",
+    "No te quedes con media vida al alcance de su R: un aliado puede ponerse delante para bloquear la bala."
+  ],
+  "forces": [
+    "El mayor alcance de ataque de los tiradores.",
+    "Sus trampas controlan la zona y la protegen.",
+    "Remata desde muy lejos con su R."
+  ],
+  "faiblesses": [
+    "Débil si la atacan cuerpo a cuerpo.",
+    "Una sola huida: su red (E).",
+    "Menos eficaz contra campeones muy móviles."
+  ],
+  "sorts": {
+    "P": "Cada pocos ataques, un disparo a la cabeza que duele más.",
+    "Q": "Disparo perforante en línea tras una breve carga.",
+    "W": "Coloca una trampa que inmoviliza y revela.",
+    "E": "Red que ralentiza y la impulsa hacia atrás.",
+    "R": "Disparo de muy largo alcance a un objetivo; un aliado puede interponerse."
+  },
+  "momentFort": "Muy fuerte en su línea desde el principio y luego a mitad de partida con sus objetos de crítico."
+}

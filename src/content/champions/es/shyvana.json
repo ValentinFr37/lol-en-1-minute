@@ -1,0 +1,27 @@
+{
+  "plan": "Una medio dragona que se transforma en dragón para quemar y empujar a sus enemigos.",
+  "aSurveiller": "Su R (Ascendencia de dragón). Se transforma y empuja a los enemigos a su paso: apártate de su trayectoria.",
+  "contrer": [
+    "Apártate de su R: te empuja hacia su equipo.",
+    "Evita su E en forma de dragón: deja una zona que quema.",
+    "Ralentízala: depende de su velocidad."
+  ],
+  "forces": [
+    "Poderosa en forma de dragón.",
+    "Empuja con su R.",
+    "Muy buena para tomar los dragones."
+  ],
+  "faiblesses": [
+    "Pocos controles.",
+    "Fácil de mantener a distancia.",
+    "Depende de su forma."
+  ],
+  "sorts": {
+    "P": "Gana resistencias al eliminar.",
+    "Q": "Ataque potenciado que alcanza alrededor.",
+    "W": "Escudo, velocidad y luego explosión.",
+    "E": "Bola de fuego que ralentiza.",
+    "R": "Se transforma en dragón y empuja."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

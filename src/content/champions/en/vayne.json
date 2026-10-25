@@ -1,0 +1,27 @@
+{
+  "plan": "A tank-hunting marksman whose attacks deal damage based on the target's max health, and who turns invisible.",
+  "aSurveiller": "Her E (Condemn). If she knocks you into a wall, you are stunned: don't fight pressed against walls.",
+  "contrer": [
+    "Engage her early: she is very weak in the early game.",
+    "Stay away from walls when fighting her: her E pins you there and stuns you.",
+    "Don't let her hit you for long: every 3 attacks (W), she takes a percentage of your max health."
+  ],
+  "forces": [
+    "True damage that destroys even tanks.",
+    "Turns invisible during her tumble under R.",
+    "Very strong in the late game."
+  ],
+  "faiblesses": [
+    "Very weak in the early game.",
+    "Short range for a marksman.",
+    "Fragile if caught."
+  ],
+  "sorts": {
+    "P": "Faster when walking towards enemies.",
+    "Q": "Tumble; her next attack hurts more.",
+    "W": "Every 3 attacks, true damage based on the target's max health.",
+    "E": "Knocks the target back; stunned if it hits a wall.",
+    "R": "More damage, and invisible during her tumbles."
+  },
+  "momentFort": "Weak early, fearsome in the late game with her items."
+}

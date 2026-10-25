@@ -13,7 +13,7 @@ Le site est pensé pour les débutants : tu tapes le nom du champion adverse sur
 
 - **Recherche instantanée** : tolère les fautes de frappe et les accents, et reconnaît les surnoms (`mf`, `j4`, `kog`…). Appuie sur `Entrée` pour ouvrir le premier résultat, `/` pour revenir dans la recherche et `Échap` pour quitter une fiche.
 - **Filtre par rôle** : assassin, combattant, mage, tireur, support, tank.
-- **Données officielles toujours à jour** : champions, sorts et images viennent de [Data Dragon](https://developer.riotgames.com/docs/lol#data-dragon) (Riot Games), en français, au dernier patch.
+- **Données officielles toujours à jour** : champions, sorts et images viennent de [Data Dragon](https://developer.riotgames.com/docs/lol#data-dragon) (Riot Games), dans la langue de la page, au dernier patch.
 - **Fiches rédigées à la main** : le contenu « comment le battre » est écrit par un joueur. S'il n'existe pas encore de fiche pour un champion, le site affiche un résumé automatique de ses sorts.
 - **Mobile d'abord**, sans backend ni base de données pour le MVP : le site est un front statique très rapide.
 - **Référencement** : chaque page (accueil + une par champion) est pré-rendue en HTML au build, avec son titre, sa description, ses balises de partage (Open Graph, Twitter) et des données structurées (schema.org). Le build génère aussi `sitemap.xml`, `robots.txt` et une vraie page 404.
@@ -96,6 +96,18 @@ Inspire-toi de `darius.json` :
 | `patch`       | Le patch où la fiche a été vérifiée (ou `null`)            |
 
 Règle d'or : chaque phrase doit pouvoir se lire en quelques secondes.
+
+## Langues
+
+Le site existe en français (à la racine : `/champion/Darius`), en anglais (`/en/champion/Darius`) et en espagnol (`/es/champion/Darius`). Un drapeau dans l'en-tête mène à la même page dans une autre langue. Chaque version a son titre, sa description et des balises `hreflang` qui relient les trois pages pour Google ; le sitemap les liste toutes.
+
+- **Textes de l'interface** : `src/i18n.js` (un bloc par langue).
+- **Données Riot** : noms, titres et sorts viennent de Data Dragon dans la langue de la page (`fr_FR`, `en_US`, `es_ES`).
+- **Fiches traduites** : `src/content/champions/en/<id>.json` et `src/content/champions/es/<id>.json`. Elles ne contiennent que les textes (`plan`, `aSurveiller`, `contrer`, `forces`, `faiblesses`, `sorts`, `momentFort`) ; `genre`, `menace`, `patch` et `auteur` restent dans la fiche française, qui fait référence.
+
+Quand tu corriges une fiche française, pense à reporter la correction dans ses deux traductions. Les tests vérifient que chaque traduction existe, garde des phrases courtes et cite exactement les mêmes touches (Q, W, E, R) que la fiche française.
+
+Pour ajouter une langue : une entrée dans `LANGS` et ses textes dans `src/i18n.js`, son drapeau dans `src/components/LanguageSwitcher.jsx`, puis un dossier de fiches traduites.
 
 ## Mentions légales
 

@@ -1,0 +1,27 @@
+{
+  "plan": "A tree tank who dashes onto his target and roots a whole team with his wall of brambles.",
+  "aSurveiller": "His W (Twisted Advance). He dashes at you while untargetable and roots you: keep your escape for after.",
+  "contrer": [
+    "His saplings (E) explode when you walk on them: avoid bushes.",
+    "Keep an escape spell for after his W.",
+    "Spread out from his R: it roots everyone hit."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Lots of roots.",
+    "His R controls an area."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Immobile on his own.",
+    "Weak if ignored."
+  ],
+  "sorts": {
+    "P": "His attacks regularly heal him.",
+    "Q": "Shockwave that knocks back and slows.",
+    "W": "Dashes to a target and roots it.",
+    "E": "Sapling that explodes.",
+    "R": "Wall of brambles that advances and roots."
+  },
+  "momentFort": "Useful all game."
+}

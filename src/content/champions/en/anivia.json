@@ -1,0 +1,27 @@
+{
+  "plan": "A phoenix mage who blocks paths with her ice walls and is reborn from her egg.",
+  "aSurveiller": "Her Q (Flash Frost). It stuns you when it explodes, then her E deals double damage: dodge the orb.",
+  "contrer": [
+    "Dodge her orb (Q): without the stun, her combo hurts much less.",
+    "Plan an escape route: her wall (W) can block your path.",
+    "When she's in her egg, hit it fast and together so she isn't reborn."
+  ],
+  "forces": [
+    "Reborn from her egg once.",
+    "Her wall blocks paths.",
+    "Huge area damage with her R."
+  ],
+  "faiblesses": [
+    "Very slow and immobile.",
+    "Weak at the very start of the game.",
+    "Her egg is fragile if hit quickly."
+  ],
+  "sorts": {
+    "P": "Turns into an egg instead of dying.",
+    "Q": "Orb that slows then stuns when it explodes.",
+    "W": "Impassable ice wall.",
+    "E": "Double damage on a chilled target.",
+    "R": "Ice storm that slows and grows."
+  },
+  "momentFort": "Weak early, very dangerous in the mid game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A brawler jungler who charges at her target and knocks it up with nothing able to stop her.",
+  "aSurveiller": "Her R (Cease and Desist). She charges at you and knocks you up: nothing stops her, regroup with your team.",
+  "contrer": [
+    "Stay near your allies: her R is made to isolate a target.",
+    "Dodge her charged Q: it knocks you back.",
+    "Keep crowd control for after her R."
+  ],
+  "forces": [
+    "Her R can't be stopped.",
+    "Engages easily.",
+    "Hurts tanks."
+  ],
+  "faiblesses": [
+    "Few escapes.",
+    "Fragile once engaged.",
+    "Her Q is easy to see coming."
+  ],
+  "sorts": {
+    "P": "Shield that charges up.",
+    "Q": "Charged punch that propels her.",
+    "W": "Reduces her target's armour.",
+    "E": "Punch that goes through her target.",
+    "R": "Charges at an enemy and knocks them up."
+  },
+  "momentFort": "Strong in the early and mid game."
+}

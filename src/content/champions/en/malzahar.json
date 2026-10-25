@@ -1,0 +1,27 @@
+{
+  "plan": "A Void prophet who locks his target in place with his ultimate while his creatures devour it.",
+  "aSurveiller": "His R (Nether Grasp). He locks you in place for several seconds: an ally can interrupt him with crowd control.",
+  "contrer": [
+    "Break his passive shield before engaging: it blocks crowd control.",
+    "Interrupt his R with crowd control: he has to channel it.",
+    "Buy an item that removes crowd control: his R can then be escaped."
+  ],
+  "forces": [
+    "Locks a target down with his R.",
+    "Shield that blocks one crowd control.",
+    "Very good at holding his lane."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "His R can be interrupted.",
+    "Weak if his shield is broken."
+  ],
+  "sorts": {
+    "P": "Shield that blocks damage and crowd control.",
+    "Q": "Portals that silence.",
+    "W": "Summons Void creatures.",
+    "E": "Curse that spreads.",
+    "R": "Locks a target in place."
+  },
+  "momentFort": "Dangerous from level 6."
+}

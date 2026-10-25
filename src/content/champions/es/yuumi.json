@@ -1,0 +1,27 @@
+{
+  "plan": "Una gata mágica que se engancha a un aliado para curarlo sin que puedan seleccionarla.",
+  "aSurveiller": "Su W (¡Yupi!). Enganchada a un aliado, no se la puede seleccionar: ataca al aliado que la lleva.",
+  "contrer": [
+    "Ataca al aliado que la lleva: a ella no se la puede seleccionar.",
+    "Compra un objeto de Heridas graves: cura mucho.",
+    "Cuando se suelte, golpéala: es muy frágil."
+  ],
+  "forces": [
+    "No seleccionable sobre un aliado.",
+    "Cura y potencia.",
+    "Su R inmoviliza."
+  ],
+  "faiblesses": [
+    "Muy frágil sola.",
+    "Poco daño.",
+    "Depende de su aliado."
+  ],
+  "sorts": {
+    "P": "Recupera maná y da un escudo.",
+    "Q": "Proyectil guiado que ralentiza.",
+    "W": "Se engancha a un aliado.",
+    "E": "Escudo y velocidad para el aliado.",
+    "R": "Oleadas que inmovilizan y curan."
+  },
+  "momentFort": "Útil toda la partida."
+}

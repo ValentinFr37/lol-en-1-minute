@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who pokes from far with his projectiles and dodges everything with his teleport.",
+  "aSurveiller": "His E (Arcane Shift). He teleports to dodge or finish a target: wait until he has used it before engaging him.",
+  "contrer": [
+    "Stay behind your minions: his Q stops on the first enemy hit.",
+    "Engage him right after his teleport (E): it takes a long time to come back.",
+    "Champions who close the gap quickly bother him: he deals little damage up close."
+  ],
+  "forces": [
+    "Very hard to catch thanks to his teleport.",
+    "Pokes from far without taking risks.",
+    "His R crosses the whole map."
+  ],
+  "faiblesses": [
+    "Low damage if he misses his projectiles.",
+    "Little damage in close combat.",
+    "Vulnerable once his teleport is used."
+  ],
+  "sorts": {
+    "P": "Gains attack speed when hitting with his spells.",
+    "Q": "Projectile that lowers his cooldowns if it hits.",
+    "W": "Orb that explodes when he hits the marked target.",
+    "E": "Teleports and shoots the nearest enemy.",
+    "R": "Huge beam that crosses the whole map."
+  },
+  "momentFort": "Steady all game, more dangerous in the mid game with his first items."
+}

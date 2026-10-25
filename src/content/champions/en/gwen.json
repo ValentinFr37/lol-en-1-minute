@@ -1,0 +1,27 @@
+{
+  "plan": "A seamstress who slices up close and protects herself from ranged attacks in her mist.",
+  "aSurveiller": "Her W (Hallowed Mist). She can only be hit from inside it: step into the mist or wait for it to fade.",
+  "contrer": [
+    "Step into her mist (W) to hit her, or back off and wait.",
+    "Don't stand in the centre of her scissors (Q): it deals true damage.",
+    "Buy a Grievous Wounds item: she heals by attacking."
+  ],
+  "forces": [
+    "Very strong against tanks.",
+    "Untouchable from range inside her mist.",
+    "Heals by attacking."
+  ],
+  "faiblesses": [
+    "Short range.",
+    "Weak at the very start of the game.",
+    "Relies on her mist to protect herself."
+  ],
+  "sorts": {
+    "P": "Damage based on the target's health; heals.",
+    "Q": "Scissor snips; the centre deals true damage.",
+    "W": "Mist: untouchable from outside.",
+    "E": "Short dash; her attacks are empowered.",
+    "R": "Needles thrown up to three times that slow."
+  },
+  "momentFort": "Strong in the mid game, very dangerous in the late game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman with an eagle who blinds her target and knocks back those who attack her.",
+  "aSurveiller": "Her E (Vault). She knocks you back and slows you as soon as you get close: plan several ways to reach her.",
+  "contrer": [
+    "Plan two ways to reach her: her E knocks back the first.",
+    "Her Q blinds you: your attacks miss, use your spells.",
+    "When she flies (R), she is fragile up close."
+  ],
+  "forces": [
+    "Very mobile with her R.",
+    "Knocks back with her E.",
+    "Big damage in duels."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Short range.",
+    "Weak if caught."
+  ],
+  "sorts": {
+    "P": "Valor marks enemies; next attack empowered.",
+    "Q": "Valor blinds a target.",
+    "W": "Speed and vision.",
+    "E": "Vault that knocks back and slows.",
+    "R": "Takes flight with Valor at high speed."
+  },
+  "momentFort": "Very strong from level 1 to 5. Also fearsome in the late game: at level 16 her R is maxed to catch isolated targets."
+}

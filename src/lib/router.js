@@ -1,5 +1,8 @@
 // Mini-routeur basé sur l'History API : deux pages ne justifient pas une dépendance.
+// Les adresses françaises sont à la racine (/champion/Darius), les autres langues
+// ont un préfixe (/en/champion/Darius, /es/champion/Darius).
 import { useSyncExternalStore } from 'react'
+import { DEFAULT_LANG, LANGS, isLang } from '../i18n.js'
 
 const NAVIGATE_EVENT = 'app:navigate'
 
@@ -19,11 +22,18 @@ export function navigate(path) {
   window.scrollTo(0, 0)
 }
 
-export function matchRoute(pathname) {
-  if (pathname === '/' || pathname === '') return { name: 'home' }
-  const champion = pathname.match(/^\/champion\/([A-Za-z0-9]+)\/?$/)
-  if (champion) return { name: 'champion', id: champion[1] }
-  return { name: 'notfound' }
+export function matchRoute(pathname = '/') {
+  let lang = DEFAULT_LANG
+  let rest = pathname
+  const prefix = pathname.match(/^\/([a-z]{2})(?=\/|$)/)
+  if (prefix && isLang(prefix[1]) && prefix[1] !== DEFAULT_LANG) {
+    lang = prefix[1]
+    rest = pathname.slice(3)
+  }
+  if (rest === '/' || rest === '') return { lang, name: 'home' }
+  const champion = rest.match(/^\/champion\/([A-Za-z0-9]+)\/?$/)
+  if (champion) return { lang, name: 'champion', id: champion[1] }
+  return { lang, name: 'notfound' }
 }
 
 // Pendant le pré-rendu (Node), il n'y a pas de window : l'URL est fournie par le script.
@@ -40,4 +50,11 @@ export function useRoute() {
   return matchRoute(pathname)
 }
 
-export const championPath = (id) => `/champion/${id}`
+export const homePath = (lang = DEFAULT_LANG) => LANGS[lang].prefix || '/'
+export const championPath = (id, lang = DEFAULT_LANG) => `${LANGS[lang].prefix}/champion/${id}`
+
+// La même page dans une autre langue (pour le sélecteur de langue et les balises hreflang).
+export function routePath(route, lang) {
+  if (route.name === 'champion') return championPath(route.id, lang)
+  return homePath(lang)
+}

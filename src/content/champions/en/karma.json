@@ -1,0 +1,27 @@
+{
+  "plan": "A support mage who empowers one of her spells with her ultimate to poke or protect.",
+  "aSurveiller": "Her W (Focused Resolve). She tethers to you and roots you if you don't break the tether: move away from her quickly.",
+  "contrer": [
+    "Move away when she tethers to you (W): otherwise you get rooted.",
+    "Stay behind your minions: her Q explodes on the first one hit.",
+    "Engage her once her R is used: her spells are weaker."
+  ],
+  "forces": [
+    "Pokes a lot in lane.",
+    "Shields and speed for her allies.",
+    "Her R empowers a spell every time."
+  ],
+  "faiblesses": [
+    "Low damage in the late game.",
+    "Fragile if engaged.",
+    "Relies on her R."
+  ],
+  "sorts": {
+    "P": "Her spells lower the cooldown of her R.",
+    "Q": "Energy ball that explodes.",
+    "W": "Tethers to an enemy and roots them if the tether holds.",
+    "E": "Shield and speed for an ally.",
+    "R": "Empowers her next spell."
+  },
+  "momentFort": "Strong in the early game, in her lane."
+}

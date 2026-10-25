@@ -1,0 +1,27 @@
+{
+  "plan": "An armoured support who leaps onto her enemies and pulls them all in around her.",
+  "aSurveiller": "Her W (Ferromancy: Crash Down). She leaps and knocks up, then her R pulls everyone in: spread out.",
+  "contrer": [
+    "Spread out in fights: her R pulls in everyone around her.",
+    "Her Q breaks shields: don't rely on them against her.",
+    "Slow her: she needs speed to engage."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Pulls in several enemies.",
+    "Steals resistances."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Immobile on foot.",
+    "Relies on her engage."
+  ],
+  "sorts": {
+    "P": "Steals armour and magic resist.",
+    "Q": "Strike in a line that stuns and breaks shields.",
+    "W": "Leaps and knocks up.",
+    "E": "Speed for her and an ally.",
+    "R": "Pulls in enemies around her."
+  },
+  "momentFort": "Useful from level 2."
+}

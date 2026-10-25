@@ -1,0 +1,27 @@
+{
+  "plan": "A berserker immune to crowd control during his ultimate, stronger and stronger when wounded.",
+  "aSurveiller": "His R (Ragnarok). He becomes immune to all crowd control: don't use your stuns at that moment, back off.",
+  "contrer": [
+    "During his R he ignores crowd control: back off instead of trying to stop him.",
+    "Dodge his axes (Q): they slow and reduce your armour.",
+    "Buy a Grievous Wounds item: he heals with his life steal."
+  ],
+  "forces": [
+    "Immune to crowd control with his R.",
+    "Very strong in the early game.",
+    "True damage with his E."
+  ],
+  "faiblesses": [
+    "Easy to kite.",
+    "Immobile.",
+    "Weaker in the late game."
+  ],
+  "sorts": {
+    "P": "More attack speed and life steal when wounded.",
+    "Q": "Thrown axe that slows.",
+    "W": "Attack speed and shield.",
+    "E": "True damage strike.",
+    "R": "Immune to crowd control."
+  },
+  "momentFort": "Very strong in the early game."
+}

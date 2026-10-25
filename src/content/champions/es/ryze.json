@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago rúnico que encadena sus habilidades muy rápido y puede teletransportar a su equipo.",
+  "aSurveiller": "Su W (Prisión rúnica). Te ralentiza o te inmoviliza si estás marcado: esquiva su E, que marca.",
+  "contrer": [
+    "Atácalo cuando sus habilidades estén en enfriamiento.",
+    "Evita su E: la marca permite a su W inmovilizarte.",
+    "Vigila su R: puede teletransportar a su equipo."
+  ],
+  "forces": [
+    "Mucho daño continuo.",
+    "Teletransporta a su equipo.",
+    "Inmoviliza con su W."
+  ],
+  "faiblesses": [
+    "Difícil de jugar.",
+    "Débil al principio de la partida.",
+    "Poco móvil."
+  ],
+  "sorts": {
+    "P": "Más daño gracias a su maná.",
+    "Q": "Proyectil que se recarga con sus otras habilidades.",
+    "W": "Ralentiza o inmoviliza a un objetivo marcado.",
+    "E": "Orbe que marca.",
+    "R": "Portal que teletransporta a los aliados."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

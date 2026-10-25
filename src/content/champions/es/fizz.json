@@ -1,0 +1,27 @@
+{
+  "plan": "Un asesino pez escurridizo que esquiva tus habilidades saltando sobre su tridente.",
+  "aSurveiller": "Su R (Carnaza para tiburones). Un pez se te engancha y luego surge un tiburón: cuando lo tengas encima, aléjate de tus aliados.",
+  "contrer": [
+    "Espera a que haya usado su E antes de lanzar tus habilidades: las esquiva saltando.",
+    "Cuando el pez de su R se te enganche, aléjate de tus aliados para no arrastrarlos.",
+    "Hostígalo al principio: es débil antes del nivel 6."
+  ],
+  "forces": [
+    "Muy difícil de alcanzar gracias a su E.",
+    "Daño enorme a un solo objetivo con su R.",
+    "Recibe menos daño de cada ataque."
+  ],
+  "faiblesses": [
+    "Débil al principio de la partida.",
+    "Vulnerable cuando ya ha usado su E.",
+    "Frágil ante los controles."
+  ],
+  "sorts": {
+    "P": "Atraviesa las unidades y reduce el daño recibido.",
+    "Q": "Se lanza a través de su objetivo.",
+    "W": "Sus ataques causan sangrado; el siguiente hace más daño.",
+    "E": "Salta sobre su tridente, intocable, y luego cae o vuelve a saltar.",
+    "R": "Pez que se engancha y luego tiburón que lanza por los aires."
+  },
+  "momentFort": "Muy débil en los niveles 1 y 2. Peligroso desde el nivel 6 y aún más con su Reloj de arena de Zhonya."
+}

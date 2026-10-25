@@ -1,0 +1,27 @@
+{
+  "plan": "A fighter who grows stronger and stronger over the game by last-hitting minions with his Q.",
+  "aSurveiller": "His Q (Siphoning Strike). Every minion finished with it gives permanent bonus damage: the longer the game, the harder he hits.",
+  "contrer": [
+    "Poke him early to stop him finishing minions with his Q.",
+    "Try to end the game quickly: he becomes very strong in the late game.",
+    "Watch out for his W: it heavily slows you and stops you from escaping."
+  ],
+  "forces": [
+    "Damage that grows without limit.",
+    "Very tanky during his R.",
+    "His W slows a huge amount."
+  ],
+  "faiblesses": [
+    "Very weak in the early game.",
+    "Immobile.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Heals by hitting.",
+    "Q": "Strike that gains permanent damage if it kills the target.",
+    "W": "Heavily slows an enemy and reduces their attack speed.",
+    "E": "Zone that damages and reduces armour.",
+    "R": "Becomes giant: more health, resistances and damage."
+  },
+  "momentFort": "Weak early. He becomes dangerous around level 9 and with his Q stacks, then dominates the mid game."
+}

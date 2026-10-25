@@ -1,0 +1,27 @@
+{
+  "plan": "A protective support who stuns enemies and makes his team invincible for a few seconds.",
+  "aSurveiller": "His R (Cosmic Radiance). After a short delay, his nearby allies become invulnerable: back off and wait for it to end.",
+  "contrer": [
+    "When he casts his R, back off: his allies become invulnerable.",
+    "Dodge his E: the beam stuns after a delay.",
+    "Attack him first: he is slow and relies on his allies."
+  ],
+  "forces": [
+    "Makes his team invulnerable.",
+    "Stuns with his E.",
+    "Tanky."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Slow.",
+    "His E is easy to see coming."
+  ],
+  "sorts": {
+    "P": "After a spell, his next attacks are empowered.",
+    "Q": "Heals nearby allies.",
+    "W": "Link with an ally who copies his spells.",
+    "E": "Beam that stuns after a delay.",
+    "R": "Makes nearby allies invulnerable."
+  },
+  "momentFort": "Useful all game."
+}

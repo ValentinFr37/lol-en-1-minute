@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador móvil que se balancea alrededor de los muros y revive a sus aliados al matar a su asesino.",
+  "aSurveiller": "Su E (Balanceo heroico). Se balancea alrededor de un muro disparándote: muchísimo daño, y también lo usa para entrar o huir.",
+  "contrer": [
+    "Durante su R, escóndete tras un aliado, un súbdito, un monstruo de la jungla o una torreta: las balas dan al primer objetivo.",
+    "No mates a un aliado y te quedes cerca: si te mata, el aliado revive.",
+    "Ralentízalo antes de que se enganche a un muro (E)."
+  ],
+  "forces": [
+    "Muy móvil gracias a su gancho (E).",
+    "Revive a sus aliados al matar a su asesino.",
+    "Domina su línea al principio de la partida."
+  ],
+  "faiblesses": [
+    "Poco alcance para un tirador.",
+    "Frágil si lo atrapan.",
+    "Menos fuerte al final de la partida."
+  ],
+  "sorts": {
+    "P": "Cada 3 golpes, daño adicional y escudo.",
+    "Q": "Bumerán que daña a la ida y a la vuelta.",
+    "W": "Marca a los asesinos de sus aliados; se camufla.",
+    "E": "Se balancea alrededor de un muro disparando.",
+    "R": "Ráfaga de balas más fuerte contra un objetivo herido."
+  },
+  "momentFort": "Muy fuerte en su línea desde el principio: hostiga y domina a su rival. Peligroso para rematar desde el nivel 6."
+}

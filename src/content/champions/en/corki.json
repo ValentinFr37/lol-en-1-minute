@@ -1,0 +1,27 @@
+{
+  "plan": "A pilot who pokes with his missiles and regularly picks up a package to fly across the map.",
+  "aSurveiller": "His R (Missile Barrage). He pokes from far away with missiles: stay behind your minions, they stop on the first one hit.",
+  "contrer": [
+    "Stay behind your minions: his missiles (R) explode on the first one hit.",
+    "Engage him once his W is used: it's his only escape.",
+    "Watch out when he has his package: he can cross the map and hurt a lot."
+  ],
+  "forces": [
+    "Pokes from far with his missiles.",
+    "His package gives him a huge dash.",
+    "Mixed damage that's hard to itemise against."
+  ],
+  "faiblesses": [
+    "Fragile if reached.",
+    "Only one real escape.",
+    "Weak at the very start of the game."
+  ],
+  "sorts": {
+    "P": "Part of his damage becomes true damage.",
+    "Q": "Bomb that reveals an area.",
+    "W": "Flies a short distance dropping fire.",
+    "E": "Barrage that shreds resistances.",
+    "R": "Long-range missiles."
+  },
+  "momentFort": "Strong in the mid game with his first items."
+}

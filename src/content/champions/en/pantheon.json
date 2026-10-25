@@ -1,0 +1,27 @@
+{
+  "plan": "A divine warrior who stuns his target and falls from the sky with his ultimate.",
+  "aSurveiller": "His W (Shield Vault). He leaps onto you and stuns you, then follows up: keep your distance in the early game.",
+  "contrer": [
+    "Don't fight him early: he is very strong early.",
+    "His shield (E) blocks attacks from the front: attack him from behind.",
+    "When a red zone appears on the ground, move away: he is about to land there."
+  ],
+  "forces": [
+    "Very strong in the early game.",
+    "Stuns with his W.",
+    "His R engages from very far."
+  ],
+  "faiblesses": [
+    "Weaker in the late game.",
+    "His R is easy to see coming.",
+    "Few escapes."
+  ],
+  "sorts": {
+    "P": "After a few spells or attacks, his next spell is empowered.",
+    "Q": "Spear thrust or throw.",
+    "W": "Leaps and stuns.",
+    "E": "Shield that blocks attacks from the front.",
+    "R": "Leaps and lands like a meteor."
+  },
+  "momentFort": "Very strong in the early game."
+}

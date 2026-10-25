@@ -1,0 +1,27 @@
+{
+  "plan": "A mage who upgrades his spells over the game and controls fights with his gravity field.",
+  "aSurveiller": "His W (Gravity Field). Staying inside stuns you: get out of it immediately.",
+  "contrer": [
+    "Get out of his W right away: it stuns you if you stay inside.",
+    "Avoid his E: his beam hits along a long line.",
+    "Engage him: he is fragile and immobile."
+  ],
+  "forces": [
+    "Big area damage.",
+    "Control with his W.",
+    "Grows stronger over the game."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Weak in the early game."
+  ],
+  "sorts": {
+    "P": "Upgrades his spells over the game.",
+    "Q": "Strike that gives him a shield.",
+    "W": "Field that slows then stuns.",
+    "E": "Beam in a line.",
+    "R": "Storm that follows enemies."
+  },
+  "momentFort": "Strong in the mid and late game."
+}

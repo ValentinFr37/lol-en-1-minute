@@ -105,7 +105,50 @@ a {
 }
 
 .site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   padding-block: 16px;
+}
+
+/* ---------- Sélecteur de langue ---------- */
+
+.languages {
+  display: flex;
+  gap: 4px;
+}
+
+.language {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 32px;
+  border-radius: 8px;
+  opacity: 0.55;
+  transition:
+    opacity 0.15s ease-out,
+    background-color 0.15s ease-out;
+}
+
+.language:hover,
+.language:focus-visible {
+  opacity: 1;
+  background: rgb(255 255 255 / 0.06);
+}
+
+.language[aria-current='true'] {
+  opacity: 1;
+  background: rgb(255 255 255 / 0.08);
+}
+
+.flag {
+  display: block;
+  width: 22px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgb(255 255 255 / 0.15);
 }
 
 .brand {

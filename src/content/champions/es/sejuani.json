@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla sobre su jabalí que carga y congela a sus enemigos.",
+  "aSurveiller": "Su R (Prisión glacial). Aturde al primer campeón alcanzado y crea una tormenta que ralentiza alrededor: separaos.",
+  "contrer": [
+    "Quédate detrás de tus aliados: su R congela al primero que alcanza.",
+    "Separaos: la tormenta de su R ralentiza alrededor.",
+    "Evita los intercambios cerca de ella: sus golpes aplican escarcha."
+  ],
+  "forces": [
+    "Muchos controles.",
+    "Muy resistente.",
+    "Entra desde lejos."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Lenta.",
+    "Depende de su entrada."
+  ],
+  "sorts": {
+    "P": "Armadura de hielo fuera de combate.",
+    "Q": "Carga que lanza por los aires.",
+    "W": "Golpes de mangual que ralentizan.",
+    "E": "Congela y aturde a un objetivo cargado de escarcha.",
+    "R": "Boleadoras que congelan y crean una tormenta."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

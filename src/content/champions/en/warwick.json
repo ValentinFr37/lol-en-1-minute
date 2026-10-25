@@ -1,0 +1,27 @@
+{
+  "plan": "A wolf jungler who tracks wounded enemies and heals a huge amount during fights.",
+  "aSurveiller": "His R (Infinite Duress). He leaps from afar and locks you in place for a moment: keep an escape spell or an ally to help you.",
+  "contrer": [
+    "Below half health, go back to base: he detects you and becomes faster against you (W).",
+    "Buy a Grievous Wounds item: he heals a huge amount in fights.",
+    "Don't drag out a duel when he's low on health: his passive heals him even more."
+  ],
+  "forces": [
+    "Heals a huge amount in fights.",
+    "Detects and hunts wounded enemies.",
+    "His R locks a target down from afar."
+  ],
+  "faiblesses": [
+    "Weak against Grievous Wounds items.",
+    "Few ways to escape.",
+    "His leap (R) is easy to see coming from far away."
+  ],
+  "sorts": {
+    "P": "His attacks heal him when he is low on health.",
+    "Q": "Bite that damages based on your max health and heals him.",
+    "W": "Detects wounded enemies and gains speed against them.",
+    "E": "Reduces damage taken, then makes nearby enemies flee.",
+    "R": "Leaps and locks down the first champion hit."
+  },
+  "momentFort": "Very strong early in the jungle, then from level 6 with his R."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A lunar assassin who dashes onto her target and pulls a whole team around her.",
+  "aSurveiller": "Her R (Moonfall). She pulls in all nearby enemies then explodes: spread out when she dashes at you.",
+  "contrer": [
+    "Spread out in fights: her R pulls in all nearby enemies.",
+    "Dodge her Q: if it marks you, she can dash at you twice.",
+    "Use your crowd control after her E: she has no escape left."
+  ],
+  "forces": [
+    "Big area damage.",
+    "Her R pulls in several enemies.",
+    "Shield with her W."
+  ],
+  "faiblesses": [
+    "Few escapes.",
+    "Relies on her Q to dash twice.",
+    "Fragile against crowd control."
+  ],
+  "sorts": {
+    "P": "Every 3 hits, damage around her.",
+    "Q": "Arcing wave that marks enemies.",
+    "W": "Three orbs around her and a shield.",
+    "E": "Dashes to an enemy; no cooldown if marked.",
+    "R": "Pulls in and slows nearby enemies."
+  },
+  "momentFort": "Dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un médico loco casi imposible de matar que se cura muchísimo con su definitiva.",
+  "aSurveiller": "Su R (Dosis máxima). Se cura de golpe y se vuelve muy rápido: guarda tus Heridas graves y tu daño para después.",
+  "contrer": [
+    "Compra un objeto de Heridas graves: se cura muchísimo.",
+    "El daño por porcentaje de vida lo derrite: priorízalo.",
+    "No malgastes un control: resiste el primero y deja un frasco que puede recoger."
+  ],
+  "forces": [
+    "Muy resistente y se cura mucho.",
+    "Resiste el primer control.",
+    "Hostiga con sus serruchos."
+  ],
+  "faiblesses": [
+    "Vulnerable a los objetos de Heridas graves.",
+    "Pocos controles.",
+    "Fácil de mantener a distancia antes de su R."
+  ],
+  "sorts": {
+    "P": "Resiste el primer control y deja un frasco.",
+    "Q": "Serrucho que ralentiza y daña.",
+    "W": "Daño a su alrededor; después se cura.",
+    "E": "Golpe violento que empuja.",
+    "R": "Se cura muchísimo y gana velocidad."
+  },
+  "momentFort": "Sólido toda la partida, muy resistente al final."
+}

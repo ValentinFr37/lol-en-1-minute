@@ -1,0 +1,27 @@
+{
+  "plan": "A Void monster who grows bigger every time he devours an enemy with his ultimate.",
+  "aSurveiller": "His R (Feast). He devours a target with true damage: when you are low on health, stay away from him.",
+  "contrer": [
+    "When low on health, back off: his R finishes you with true damage.",
+    "Dodge his Q: the area shows before it knocks you up.",
+    "His W silences you: don't cast your spells in his range."
+  ],
+  "forces": [
+    "Grows and gains health with every Feast.",
+    "His R executes with true damage.",
+    "Knocks up and silences."
+  ],
+  "faiblesses": [
+    "Slow and immobile.",
+    "His Q takes time to land.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Heals by killing units.",
+    "Q": "The ground ruptures and knocks up.",
+    "W": "Scream that silences.",
+    "E": "His attacks fire spikes that slow.",
+    "R": "Devours with true damage; grows if he kills."
+  },
+  "momentFort": "Dangerous from level 6, tankier and tankier over the game."
+}

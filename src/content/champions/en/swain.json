@@ -1,0 +1,27 @@
+{
+  "plan": "A demonic general who pulls his enemies in and drains their life to become almost unkillable in fights.",
+  "aSurveiller": "His E (Nevermove). The wave comes back to him and roots: step out of its return, then he pulls you to him.",
+  "contrer": [
+    "Dodge his E both on the way out and back: it roots.",
+    "Back off during his R: he heals as long as he's near you.",
+    "Buy a Grievous Wounds item: he drains a lot of health."
+  ],
+  "forces": [
+    "Very tanky in fights.",
+    "Drains health with his R.",
+    "Roots with his E."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Easy to kite.",
+    "His E is easy to see coming."
+  ],
+  "sorts": {
+    "P": "His ravens collect souls that heal him.",
+    "Q": "Burst of projectiles in a cone.",
+    "W": "Remote eye that slows and reveals.",
+    "E": "Wave that comes back and roots.",
+    "R": "Transforms and drains health around him."
+  },
+  "momentFort": "Strong in the mid game."
+}

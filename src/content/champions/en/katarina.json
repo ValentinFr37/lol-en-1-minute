@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin who teleports from dagger to dagger and chains takedowns in fights.",
+  "aSurveiller": "Her R (Death Lotus). She spins and throws knives at nearby enemies: interrupt her with a stun or move away.",
+  "contrer": [
+    "Keep a stun for her R: it interrupts it instantly.",
+    "Don't stand near her daggers on the ground: she teleports to them to strike.",
+    "Focus your crowd control on her as soon as she arrives: without takedowns, her spells take a long time to come back."
+  ],
+  "forces": [
+    "Very mobile thanks to her E.",
+    "Her cooldowns reset when she gets takedowns.",
+    "Huge area damage with her R."
+  ],
+  "faiblesses": [
+    "Very fragile against crowd control.",
+    "Her R can be interrupted.",
+    "Weak if she falls behind."
+  ],
+  "sorts": {
+    "P": "Her cooldowns drop when a champion she damaged dies.",
+    "Q": "Throws a dagger that bounces then lands on the ground.",
+    "W": "Gains speed and tosses a dagger into the air.",
+    "E": "Teleports next to a target or a dagger.",
+    "R": "Spins and throws knives at the three nearest champions."
+  },
+  "momentFort": "Dangerous from level 6, and very strong in the mid game."
+}

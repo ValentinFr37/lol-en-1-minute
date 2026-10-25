@@ -1,0 +1,27 @@
+{
+  "plan": "A little yordle who turns into a giant in fights and throws enemies into walls.",
+  "aSurveiller": "His R (GNAR!). In giant form he knocks you back and stuns you against a wall: stay away from walls when he is angry.",
+  "contrer": [
+    "Watch his rage bar: when it's full, he is about to transform.",
+    "Don't fight near walls against Mega Gnar: his R stuns you there.",
+    "Poke him in his small form: he is fragile."
+  ],
+  "forces": [
+    "Two forms: poke then tank.",
+    "His R controls several enemies.",
+    "Very mobile in his small form."
+  ],
+  "faiblesses": [
+    "Hard to manage; his transformation is easy to see coming.",
+    "Fragile in his small form.",
+    "Relies on walls for his R."
+  ],
+  "sorts": {
+    "P": "Turns into a giant when his rage is full.",
+    "Q": "Boomerang that slows; boulder in his big form.",
+    "W": "Bonus damage; stuns in his big form.",
+    "E": "Hops and bounces off units.",
+    "R": "Knocks back and stuns against a wall."
+  },
+  "momentFort": "Strong in duels from the start, very useful in team fights."
+}

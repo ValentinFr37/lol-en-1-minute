@@ -1,0 +1,27 @@
+{
+  "plan": "A time assassin who rewinds a few seconds to heal and dodge.",
+  "aSurveiller": "His R (Chronobreak). He returns to where he was 4 seconds ago and heals: watch his shadow, he will reappear there.",
+  "contrer": [
+    "Watch his shadow: with his R he returns to that spot and deals damage there.",
+    "Get out of his W zone: it stuns you if it explodes with him inside.",
+    "Engage him once his R is used: he has no escape left."
+  ],
+  "forces": [
+    "Rewinds time with his R.",
+    "Stuns with his W.",
+    "Big single-target damage."
+  ],
+  "faiblesses": [
+    "Fragile if he misses his spells.",
+    "His W takes a long time to arrive.",
+    "Few escapes after his R."
+  ],
+  "sorts": {
+    "P": "On the 3rd hit, bonus damage and speed.",
+    "Q": "Grenade that slows and comes back.",
+    "W": "Zone that stuns after a delay.",
+    "E": "Short dash and ranged attack.",
+    "R": "Goes back 4 seconds in time and heals."
+  },
+  "momentFort": "Dangerous from level 6. He scales with his first item and becomes very strong around 2 items."
+}

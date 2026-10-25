@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador cuerpo a cuerpo que gana los intercambios largos: cuanto más dura el combate, más fuerte golpea, y su definitiva remata a los campeones debilitados.",
+  "aSurveiller": "Su E (Atrapar). Mientras esté disponible, mantén la distancia; en cuanto lo use, es el momento de atacar o de huir.",
+  "contrer": [
+    "No te quedes al alcance de su E: es lo que inicia todos sus combates.",
+    "Cuando lance su Q, pégate a él o aléjate mucho: el borde del hacha es lo que más daña.",
+    "Evita los combates largos: intercambia rápido y vete antes de que acumule sus sangrados."
+  ],
+  "forces": [
+    "Extremadamente fuerte al principio y en combates largos cuerpo a cuerpo.",
+    "Se cura al golpear con el borde de su hacha (Q).",
+    "Su definitiva puede relanzarse si mata, lo que le permite encadenar varias muertes."
+  ],
+  "faiblesses": [
+    "Poca movilidad: depende de su E para alcanzar a su objetivo.",
+    "Fácil de mantener a distancia para los campeones a distancia y los que ralentizan.",
+    "Vulnerable a los ataques en grupo cuando ya ha usado su E."
+  ],
+  "sorts": {
+    "P": "Cada golpe hace sangrar al objetivo; con 5 acumulaciones, Darius se vuelve mucho más fuerte.",
+    "Q": "Gira con su hacha: el borde daña y lo cura, el centro hace poco daño.",
+    "W": "Potencia su siguiente ataque, que ralentiza mucho al objetivo.",
+    "E": "Atrae hacia él a los enemigos que tiene delante. Es su herramienta para entrar.",
+    "R": "Ejecución con daño verdadero, más fuerte según los sangrados del objetivo."
+  },
+  "momentFort": "Muy fuerte desde los primeros niveles y aún más peligroso desde el nivel 6 con su definitiva."
+}

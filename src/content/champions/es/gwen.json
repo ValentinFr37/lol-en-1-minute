@@ -1,0 +1,27 @@
+{
+  "plan": "Una costurera que corta de cerca y se protege de los ataques a distancia en su niebla.",
+  "aSurveiller": "Su W (Niebla consagrada). Solo se la puede golpear desde dentro: entra en la niebla o espera a que desaparezca.",
+  "contrer": [
+    "Entra en su niebla (W) para golpearla, o retrocede y espera.",
+    "No te quedes en el centro de sus tijeras (Q): hace daño verdadero.",
+    "Compra un objeto de Heridas graves: se cura al atacar."
+  ],
+  "forces": [
+    "Muy fuerte contra los tanques.",
+    "Intocable desde lejos dentro de su niebla.",
+    "Se cura al atacar."
+  ],
+  "faiblesses": [
+    "Poco alcance.",
+    "Débil al principio de la partida.",
+    "Depende de su niebla para protegerse."
+  ],
+  "sorts": {
+    "P": "Daño según la vida del objetivo; se cura.",
+    "Q": "Tijeretazos; el centro hace daño verdadero.",
+    "W": "Niebla: intocable desde fuera.",
+    "E": "Desplazamiento corto; sus ataques se potencian.",
+    "R": "Agujas lanzadas hasta tres veces que ralentizan."
+  },
+  "momentFort": "Fuerte a mitad de partida, muy peligrosa al final."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un asesino que salta por encima de los muros y elimina objetivos aislados en segundos.",
+  "aSurveiller": "Su R (Asalto de sombra). Se vuelve invisible y sus hojas vuelven hacia él: reagrúpate en cuanto desaparezca.",
+  "contrer": [
+    "Quedaos agrupados: busca objetivos aislados.",
+    "Vigila los muros: su E le permite saltarlos.",
+    "Compra un objeto de armadura: hace daño físico."
+  ],
+  "forces": [
+    "Daño enorme a un solo objetivo.",
+    "Salta por encima de los muros.",
+    "Se vuelve invisible con su R."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Pocos controles.",
+    "Débil si os quedáis agrupados."
+  ],
+  "sorts": {
+    "P": "Con 3 acumulaciones, su objetivo sangra mucho.",
+    "Q": "Apuñala a un objetivo.",
+    "W": "Hojas que vuelven y ralentizan.",
+    "E": "Salta por encima de cualquier muro.",
+    "R": "Hojas a su alrededor e invisibilidad."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

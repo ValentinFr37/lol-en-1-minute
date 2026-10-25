@@ -1,0 +1,27 @@
+{
+  "plan": "A tank who can knock his target through a wall then drop his defences to hit it very hard.",
+  "aSurveiller": "His R (All Out). He knocks you through a wall and chases you after dropping his defences: he becomes fragile, take advantage.",
+  "contrer": [
+    "During his R he is less tanky: focus your damage on him.",
+    "Don't stand near walls: his R can cut you off from your team.",
+    "Avoid his 3rd Q: it pulls you towards him."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Can isolate a target with his R.",
+    "Lots of crowd control."
+  ],
+  "faiblesses": [
+    "Fragile during his R.",
+    "Hard to play.",
+    "Lower damage in his normal form."
+  ],
+  "sorts": {
+    "P": "His spells mark; next attack hits harder.",
+    "Q": "Strike in a line; the 3rd pulls enemies in.",
+    "W": "Charges, then knocks back and stuns.",
+    "E": "Dashes with a shield.",
+    "R": "Knocks back through a wall and turns offensive."
+  },
+  "momentFort": "Strong in the mid game."
+}

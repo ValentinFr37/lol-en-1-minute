@@ -1,0 +1,27 @@
+{
+  "plan": "Un robot de apoyo que atrapa a un enemigo con su gancho y lo arrastra al centro de su equipo.",
+  "aSurveiller": "Su Q (Agarre misil). Atrapa al primer enemigo alcanzado y lo atrae hacia él: mantén siempre un súbdito entre él y tú.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: el agarre (Q) se detiene en el primero que toca.",
+    "Su agarre tarda mucho en recargarse: tras un fallo, es el momento de atacar.",
+    "Guarda un escudo o una huida: si te atrapa, su E te lanza por los aires justo después."
+  ],
+  "forces": [
+    "Un agarre acertado puede costarle la vida a cualquiera.",
+    "Escudo automático cuando tiene poca vida.",
+    "Su R rompe los escudos y silencia."
+  ],
+  "faiblesses": [
+    "Poco útil cuando su agarre está en enfriamiento.",
+    "Los súbditos bloquean su agarre.",
+    "Poco daño por sí mismo."
+  ],
+  "sorts": {
+    "P": "Escudo cuando tiene poca vida.",
+    "Q": "Gancho que atrapa y atrae al primer enemigo alcanzado.",
+    "W": "Gana mucha velocidad y luego se ralentiza.",
+    "E": "Su siguiente ataque lanza por los aires al objetivo.",
+    "R": "Rompe los escudos y silencia a los enemigos cercanos."
+  },
+  "momentFort": "Peligroso desde el nivel 2 en su línea (agarre y puñetazo), y en cualquier momento de la partida."
+}

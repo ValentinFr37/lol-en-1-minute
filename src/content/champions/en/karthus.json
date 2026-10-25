@@ -1,0 +1,27 @@
+{
+  "plan": "A lich who keeps casting spells after death and damages the whole enemy team with his ultimate.",
+  "aSurveiller": "His R (Requiem). It damages every enemy champion, wherever they are: when you are low on health, go back to base.",
+  "contrer": [
+    "When low on health, recall: his R hits anywhere on the map.",
+    "After killing him, back off: he keeps casting his spells for a few seconds.",
+    "Interrupt his R with crowd control: he has to channel it for 3 seconds."
+  ],
+  "forces": [
+    "His R hits the whole enemy team.",
+    "Keeps playing after death.",
+    "Big area damage."
+  ],
+  "faiblesses": [
+    "Very slow and immobile.",
+    "Fragile if reached.",
+    "His R can be interrupted."
+  ],
+  "sorts": {
+    "P": "After death he can still cast spells.",
+    "Q": "Delayed explosion, stronger on a single target.",
+    "W": "Wall that slows and reduces magic resist.",
+    "E": "Aura that damages around him.",
+    "R": "Damages every enemy champion after 3 seconds."
+  },
+  "momentFort": "Dangerous from level 6, very strong in the mid game."
+}

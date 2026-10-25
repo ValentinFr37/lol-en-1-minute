@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador que se vuelve cada vez más fuerte a lo largo de la partida rematando súbditos con su Q.",
+  "aSurveiller": "Su Q (Golpe absorbente). Cada súbdito rematado con ella le da daño adicional para siempre: cuanto más dura la partida, más fuerte golpea.",
+  "contrer": [
+    "Hostígalo al principio para impedir que remate súbditos con su Q.",
+    "Intentad acabar la partida rápido: se vuelve muy fuerte al final.",
+    "Cuidado con su W: te ralentiza mucho y te impide huir."
+  ],
+  "forces": [
+    "Daño que aumenta sin límite.",
+    "Muy resistente durante su R.",
+    "Su W ralentiza muchísimo."
+  ],
+  "faiblesses": [
+    "Muy débil al principio de la partida.",
+    "Poco móvil.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Se cura al golpear.",
+    "Q": "Golpe que gana daño para siempre si remata al objetivo.",
+    "W": "Ralentiza mucho a un enemigo y reduce su velocidad de ataque.",
+    "E": "Zona que daña y reduce la armadura.",
+    "R": "Se vuelve gigante: más vida, resistencias y daño."
+  },
+  "momentFort": "Débil al principio. Se vuelve peligroso hacia el nivel 9 y con sus acumulaciones de Q, y luego domina a mitad de partida."
+}

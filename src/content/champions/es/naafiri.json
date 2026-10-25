@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina al frente de una manada de perros que saltan sobre su objetivo.",
+  "aSurveiller": "Su R (Persecución sabuesa). Ella y su manada caen sobre un campeón: cuando tengas poca vida, quédate cerca de tus aliados.",
+  "contrer": [
+    "Quédate cerca de tus aliados: sus perros hacen mucho daño a un objetivo aislado.",
+    "Mata a sus perros con habilidades de área: su manada hace su daño.",
+    "Usa tus controles tras su E: ya no tiene huida."
+  ],
+  "forces": [
+    "Gran manada que hace daño.",
+    "Muy móvil.",
+    "Remata a los objetivos aislados."
+  ],
+  "faiblesses": [
+    "Vulnerable a las habilidades de área.",
+    "Frágil si la atrapan.",
+    "Depende de su manada."
+  ],
+  "sorts": {
+    "P": "Su manada ataca a sus objetivos.",
+    "Q": "Dagas que causan sangrado.",
+    "W": "Se vuelve intocable y potencia su manada.",
+    "E": "Desplazamiento que cura a la manada.",
+    "R": "Ella y su manada caen sobre un campeón."
+  },
+  "momentFort": "Primero tiene que farmear. Peligrosa desde el nivel 6 con su R y fuerte a mitad de partida."
+}

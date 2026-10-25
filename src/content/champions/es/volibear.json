@@ -1,0 +1,27 @@
+{
+  "plan": "Un oso del trueno que carga contra su objetivo, lo aturde y entra bajo las torretas desactivándolas.",
+  "aSurveiller": "Su R (Heraldo de la tormenta). Salta sobre ti y desactiva las torretas cercanas: tu torreta no te protegerá.",
+  "contrer": [
+    "No cuentes con tu torreta cuando tenga su R: puede desactivarla.",
+    "Su Q te aturde al primer golpe: retrocede cuando cargue hacia ti.",
+    "Evita los duelos largos: se cura con su W."
+  ],
+  "forces": [
+    "Muy fuerte al principio de la partida.",
+    "Desactiva las torretas con su R.",
+    "Aturde y se cura en combate."
+  ],
+  "faiblesses": [
+    "Pocas formas de acercarse.",
+    "Fácil de mantener a distancia.",
+    "Débil al final de la partida si no toma ventaja."
+  ],
+  "sorts": {
+    "P": "Sus ataques son cada vez más rápidos y dañan a su alrededor.",
+    "Q": "Gana velocidad y su siguiente ataque aturde.",
+    "W": "Mordisco; el segundo sobre el mismo objetivo lo cura.",
+    "E": "Rayo que ralentiza y le da un escudo.",
+    "R": "Salta, gana vida y desactiva las torretas cercanas."
+  },
+  "momentFort": "Muy fuerte desde el principio y peligroso desde el nivel 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who scatters feathers on the ground then recalls them to root her enemies.",
+  "aSurveiller": "Her E (Bladecaller). She recalls her feathers, which root after 3 hits: don't stand between her and her feathers.",
+  "contrer": [
+    "Don't stand between her and her feathers on the ground: her E recalls them.",
+    "Her R makes her untargetable: save your spells for after.",
+    "Engage her: she has few escapes."
+  ],
+  "forces": [
+    "Roots with her E.",
+    "Untargetable with her R.",
+    "Big damage."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Relies on her feathers.",
+    "Fragile."
+  ],
+  "sorts": {
+    "P": "After a spell, her attacks pierce and leave feathers.",
+    "Q": "Two daggers that leave feathers.",
+    "W": "Bonus attack speed.",
+    "E": "Recalls the feathers and roots.",
+    "R": "Leaps, untargetable, and throws daggers."
+  },
+  "momentFort": "Strong in the mid and late game."
+}

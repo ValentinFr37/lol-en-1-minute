@@ -1,0 +1,27 @@
+{
+  "plan": "Un pequeño tirador molesto que envenena, ciega y esconde setas invisibles por todo el mapa.",
+  "aSurveiller": "Sus setas (R). Invisibles, explotan cuando las pisas: usa la Lente del oráculo o un guardián de control para verlas.",
+  "contrer": [
+    "Su dardo (Q) te ciega: tus ataques básicos fallan, usa tus habilidades mientras tanto.",
+    "Atácalo con decisión: es muy frágil y no tiene una huida real.",
+    "Evita la hierba alta sin visión: ahí se esconde y planta sus setas."
+  ],
+  "forces": [
+    "Hostiga mucho gracias al veneno de sus ataques (E).",
+    "Sus setas controlan el mapa y ralentizan.",
+    "Se vuelve invisible si se queda quieto."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Ninguna huida aparte de su velocidad (W).",
+    "Débil cuando lo atacan cuerpo a cuerpo."
+  ],
+  "sorts": {
+    "P": "Se vuelve invisible si se queda quieto un instante.",
+    "Q": "Dardo que ciega: el objetivo falla sus ataques básicos.",
+    "W": "Gana velocidad de movimiento.",
+    "E": "Sus ataques envenenan al objetivo.",
+    "R": "Coloca setas invisibles que ralentizan y envenenan."
+  },
+  "momentFort": "Molesto desde el principio en su línea, y sobre todo desde el nivel 6 con sus setas."
+}

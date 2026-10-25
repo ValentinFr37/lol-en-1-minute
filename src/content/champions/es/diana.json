@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina lunar que se lanza sobre su objetivo y atrae a todo un equipo a su alrededor.",
+  "aSurveiller": "Su R (Lluvia de luna). Atrae a todos los enemigos cercanos y luego explota: separaos cuando se lance sobre vosotros.",
+  "contrer": [
+    "Separaos en las peleas: su R atrae a todos los enemigos cercanos.",
+    "Esquiva su Q: si te marca, puede lanzarse dos veces sobre ti.",
+    "Usa tus controles tras su E: ya no tiene huida."
+  ],
+  "forces": [
+    "Mucho daño en área.",
+    "Su R atrae a varios enemigos.",
+    "Escudo con su W."
+  ],
+  "faiblesses": [
+    "Pocas huidas.",
+    "Depende de su Q para lanzarse dos veces.",
+    "Frágil ante los controles."
+  ],
+  "sorts": {
+    "P": "Cada 3 golpes, daño a su alrededor.",
+    "Q": "Onda en arco que marca a los enemigos.",
+    "W": "Tres esferas a su alrededor y un escudo.",
+    "E": "Se lanza hacia un enemigo; sin enfriamiento si está marcado.",
+    "R": "Atrae y ralentiza a los enemigos cercanos."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

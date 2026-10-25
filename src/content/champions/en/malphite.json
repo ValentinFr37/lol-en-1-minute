@@ -1,0 +1,27 @@
+{
+  "plan": "A rock tank who charges into the middle of your team with his ultimate to start the fight.",
+  "aSurveiller": "His R (Unstoppable Force). He charges from afar and knocks up everyone grouped together: don't stand right next to each other.",
+  "contrer": [
+    "Stay spread out in team fights so his R only hits one person.",
+    "Magic damage hurts him much more than physical: he mostly stacks armour.",
+    "Get ahead before level 6: without his R he isn't very dangerous."
+  ],
+  "forces": [
+    "His R can start a fight on several enemies at once.",
+    "Very resistant to physical damage.",
+    "His passive shield helps him hold his lane."
+  ],
+  "faiblesses": [
+    "Low damage when he plays tank.",
+    "Vulnerable to magic damage.",
+    "Almost harmless if he misses his R."
+  ],
+  "sorts": {
+    "P": "Shield that recharges if he isn't hit for a few seconds.",
+    "Q": "Throws a shard that damages and steals movement speed.",
+    "W": "His attacks create shockwaves in front of him.",
+    "E": "Slams the ground: damage based on armour and reduced attack speed.",
+    "R": "Charges at high speed and knocks everyone up."
+  },
+  "momentFort": "Not very dangerous before level 6. After that, his R can decide every team fight."
+}

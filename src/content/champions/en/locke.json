@@ -1,0 +1,27 @@
+{
+  "plan": "An exorcist who marks his targets with nails and can finish off weakened enemies with his ultimate.",
+  "aSurveiller": "His R (Purgatory). He throws an artefact that can execute the enemies it hits: when you are low on health, move away.",
+  "contrer": [
+    "When low on health, back off: his R can execute you.",
+    "Dodge his nails (Q): they mark you for his attacks.",
+    "During his W he hurts himself: wait until he has lost health before engaging."
+  ],
+  "forces": [
+    "Finishes off wounded targets.",
+    "Very mobile with his E.",
+    "Attack speed with his W."
+  ],
+  "faiblesses": [
+    "Hurts himself with his W.",
+    "Fragile if caught.",
+    "Relies on his marks."
+  ],
+  "sorts": {
+    "P": "His attacks hurt more on wounded targets.",
+    "Q": "Nails that mark enemies.",
+    "W": "Speed in exchange for health, healing afterwards.",
+    "E": "Teleports then dashes to his target.",
+    "R": "Artefact that can execute enemies."
+  },
+  "momentFort": "Dangerous from level 6."
+}

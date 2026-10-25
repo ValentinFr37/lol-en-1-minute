@@ -1,0 +1,27 @@
+{
+  "plan": "Una jungla pegona que se lanza contra su objetivo y lo lanza por los aires sin que nada la pare.",
+  "aSurveiller": "Su R (Cese y desistimiento). Se lanza hacia ti y te lanza por los aires: nada la para, reúnete con tu equipo.",
+  "contrer": [
+    "Quédate cerca de tus aliados: su R está hecha para aislar a un objetivo.",
+    "Esquiva su Q cargada: te empuja.",
+    "Guarda un control para después de su R."
+  ],
+  "forces": [
+    "Su R no se puede parar.",
+    "Entra con facilidad.",
+    "Hace daño a los tanques."
+  ],
+  "faiblesses": [
+    "Pocas huidas.",
+    "Frágil una vez dentro.",
+    "Su Q se ve venir."
+  ],
+  "sorts": {
+    "P": "Escudo que se carga.",
+    "Q": "Puñetazo cargado que la impulsa.",
+    "W": "Reduce la armadura de su objetivo.",
+    "E": "Golpe que atraviesa a su objetivo.",
+    "R": "Se lanza hacia un enemigo y lo lanza por los aires."
+  },
+  "momentFort": "Fuerte al principio y a mitad de partida."
+}

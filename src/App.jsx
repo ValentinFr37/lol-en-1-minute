@@ -6,19 +6,29 @@ import HomePage from './pages/HomePage.jsx'
 import ChampionPage from './pages/ChampionPage.jsx'
 import NotFoundPage from './pages/NotFoundPage.jsx'
 import { useAsync } from './hooks/useAsync.js'
+import LanguageSwitcher from './components/LanguageSwitcher.jsx'
 import { getChampionList } from './lib/ddragon.js'
-import { useRoute } from './lib/router.js'
+import { homePath, useRoute } from './lib/router.js'
+import { LangContext } from './lib/lang.js'
+import { t } from './i18n.js'
 import { KOFI_URL } from './config.js'
 
 // `initialData` : données intégrées à la page par le pré-rendu
-// ({ version, champions, detail }). Absent en développement.
+// ({ version, lang, champions, detail }). Absent en développement.
 export default function App({ initialData = null }) {
   const route = useRoute()
+  const { lang } = route
+  const text = t(lang)
   const list = useAsync(
-    getChampionList,
-    [],
-    initialData ? { version: initialData.version, champions: initialData.champions } : undefined,
+    () => getChampionList(lang),
+    [lang],
+    initialData?.lang === lang ? { version: initialData.version, champions: initialData.champions } : undefined,
   )
+
+  // Langue du document (lecteurs d'écran, traduction automatique du navigateur).
+  useEffect(() => {
+    document.documentElement.lang = lang
+  }, [lang])
   // La recherche est conservée ici pour la retrouver en revenant à l'accueil.
   const [query, setQuery] = useState('')
   const [role, setRole] = useState(null)
@@ -37,15 +47,13 @@ export default function App({ initialData = null }) {
   let page
   if (list.status === 'error') {
     page = (
-      <ErrorState
-        message="Impossible de charger la liste des champions depuis les serveurs de Riot."
-        onRetry={list.retry}
-      />
+      <ErrorState message={text.listError} onRetry={list.retry} />
     )
-  } else if (list.status === 'loading') {
-    page = <p className="status">Chargement…</p>
+  } else if (!list.data) {
+    page = <p className="status">{text.loading}</p>
   } else if (route.name === 'champion' && champion) {
-    const initialDetail = initialData?.detail?.id === champion.id ? initialData.detail : undefined
+    const initialDetail =
+      initialData?.lang === lang && initialData?.detail?.id === champion.id ? initialData.detail : undefined
     page = <ChampionPage key={champion.id} champion={champion} initialDetail={initialDetail} />
   } else if (route.name === 'home') {
     page = (
@@ -65,16 +73,18 @@ export default function App({ initialData = null }) {
   const backdropId = route.name === 'champion' ? champion?.id : route.name === 'home' ? featured?.id : null
 
   return (
+    <LangContext.Provider value={lang}>
     <div className="app" data-page={pageName}>
       <Backdrop championId={backdropId} />
 
       <header className="site-header">
-        <Link to="/" className="brand" aria-label="LoL en 1 minute, accueil">
+        <Link to={homePath(lang)} className="brand" aria-label={text.homeLabel}>
           <span className="brand-mark" aria-hidden="true">
             1
           </span>
           <span>LoL en 1 minute</span>
         </Link>
+        <LanguageSwitcher route={route} />
       </header>
 
       <main className="site-main">{page}</main>
@@ -82,25 +92,21 @@ export default function App({ initialData = null }) {
       <footer className="site-footer">
         {KOFI_URL && (
           <p className="support">
-            Le site t&apos;a aidé ?{' '}
+            {text.supportQuestion}{' '}
             <a href={KOFI_URL} className="support-link" target="_blank" rel="noopener">
               <svg viewBox="0 0 24 24" aria-hidden="true">
                 <path d="M4 8h12v5a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5V8Z" />
                 <path d="M16 9h1.5a2.5 2.5 0 0 1 0 5H16" />
                 <path d="M8 3.5c0 1 1 1 1 2M12 3.5c0 1 1 1 1 2" />
               </svg>
-              Offre-moi un café sur Ko-fi
+              {text.supportLink}
             </a>
           </p>
         )}
-        <p>
-          LoL en 1 minute n&apos;est pas approuvé par Riot Games et ne reflète pas les opinions de Riot Games
-          ni de quiconque officiellement impliqué dans la production ou la gestion de League of Legends.
-          League of Legends et Riot Games sont des marques commerciales ou des marques déposées de Riot
-          Games, Inc.
-        </p>
-        {list.data && <p>Données du jeu : patch {list.data.version}.</p>}
+        <p>{text.legal}</p>
+        {list.data && <p>{text.patch(list.data.version)}</p>}
       </footer>
     </div>
+    </LangContext.Provider>
   )
 }

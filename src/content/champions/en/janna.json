@@ -1,0 +1,27 @@
+{
+  "plan": "A support who protects her allies with her shields and pushes everyone away with her tornadoes.",
+  "aSurveiller": "Her R (Monsoon). She knocks back every enemy around her then heals her allies: don't engage on her at that moment.",
+  "contrer": [
+    "Don't engage while she has her R: it knocks everyone back.",
+    "Her tornado (Q) grows before it flies: step out of its path.",
+    "Attack her first: she is fragile."
+  ],
+  "forces": [
+    "Excellent shields.",
+    "Her R cancels engages.",
+    "Knocks back and knocks up."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Low damage.",
+    "Her R is channelled and can be interrupted."
+  ],
+  "sorts": {
+    "P": "Her allies move faster towards her.",
+    "Q": "Tornado that knocks up.",
+    "W": "Slows and damages a target.",
+    "E": "Shield on an ally or a turret.",
+    "R": "Knocks enemies back then heals her allies."
+  },
+  "momentFort": "Useful from the start, very strong in team fights."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un sepulturero que invoca necrófagos y una Doncella de la Niebla para derribar las torres.",
+  "aSurveiller": "Su W (Cortejo oscuro). Un muro que te encierra: destrúyelo atacándolo o guarda un desplazamiento para salir.",
+  "contrer": [
+    "Ataca su muro (W) para romperlo: te encierra.",
+    "Mata a sus necrófagos: juntos hacen mucho daño.",
+    "No lo dejes empujar solo: destruye rápido las torres."
+  ],
+  "forces": [
+    "Destruye rápido las torres.",
+    "Invoca aliados.",
+    "Encierra con su W."
+  ],
+  "faiblesses": [
+    "Débil si mueren sus necrófagos.",
+    "Poco móvil.",
+    "Menos fuerte en las peleas de equipo."
+  ],
+  "sorts": {
+    "P": "Invoca necrófagos.",
+    "Q": "Ataque potenciado que deja una tumba.",
+    "W": "Muro que encierra.",
+    "E": "Niebla que ralentiza y marca.",
+    "R": "Invoca a la Doncella de la Niebla."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

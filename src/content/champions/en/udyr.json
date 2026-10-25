@@ -1,0 +1,27 @@
+{
+  "plan": "A monk who switches stances to strike, protect himself, run or freeze his enemies.",
+  "aSurveiller": "His E (Blazing Stampede). He becomes fast and stuns his first target: keep your distance before contact.",
+  "contrer": [
+    "Keep your distance: his E gives him speed to reach you.",
+    "Slow him: without contact he does nothing.",
+    "Drag the game out: he is mostly strong early."
+  ],
+  "forces": [
+    "Very strong in duels.",
+    "Fast jungle clear.",
+    "Stuns with his E."
+  ],
+  "faiblesses": [
+    "No ranged spell.",
+    "Easy to kite.",
+    "Weaker in the late game."
+  ],
+  "sorts": {
+    "P": "Switches stance with his spells.",
+    "Q": "Empowered attacks.",
+    "W": "Shield and healing.",
+    "E": "Speed and a stunning strike.",
+    "R": "Storm that slows around him."
+  },
+  "momentFort": "Strong in the early game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "An archer who shoots from very far and roots a whole team with his corrupting chain.",
+  "aSurveiller": "His R (Chain of Corruption). It roots the first champion hit, then spreads to nearby allies: spread out.",
+  "contrer": [
+    "Spread out: his R spreads to nearby allies.",
+    "Dodge his charged Q: it hurts a lot from range.",
+    "Engage him: he has few escapes."
+  ],
+  "forces": [
+    "Very long range.",
+    "Roots several enemies.",
+    "Reduces healing with his E."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Fragile.",
+    "His spells are easy to see coming."
+  ],
+  "sorts": {
+    "P": "More attack speed after a takedown.",
+    "Q": "Long-range charged shot.",
+    "W": "His attacks stack marks.",
+    "E": "Rain of arrows that slows.",
+    "R": "Chain that roots and spreads."
+  },
+  "momentFort": "Strong in the mid game."
+}

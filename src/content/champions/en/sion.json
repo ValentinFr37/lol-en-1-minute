@@ -1,0 +1,27 @@
+{
+  "plan": "An undead colossus who charges across the map and briefly comes back to life after dying.",
+  "aSurveiller": "His Q (Decimating Smash). Charged for long, it knocks up: get out of the zone before he strikes.",
+  "contrer": [
+    "Get out of the zone of his Q before he strikes.",
+    "After he dies, move away: he briefly comes back to life.",
+    "Step out of his charge (R): it crosses the map."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Engages from far with his R.",
+    "Briefly comes back after dying."
+  ],
+  "faiblesses": [
+    "Slow.",
+    "His spells are easy to see coming.",
+    "Low single-target damage."
+  ],
+  "sorts": {
+    "P": "Briefly comes back to life after dying.",
+    "Q": "Charged strike that knocks up.",
+    "W": "Shield that explodes.",
+    "E": "Shockwave that slows and reduces armour.",
+    "R": "Charge that crosses the map."
+  },
+  "momentFort": "Solid from the start of the game. He shines mostly in the mid game: in the late game, many champions outscale him."
+}

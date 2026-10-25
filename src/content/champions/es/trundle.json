@@ -1,0 +1,27 @@
+{
+  "plan": "Un trol que roba la fuerza de sus enemigos y bloquea su huida con un pilar de hielo.",
+  "aSurveiller": "Su R (Subyugar). Te roba vida y resistencias: frente a él después de eso, eres mucho más frágil.",
+  "contrer": [
+    "Rodea su pilar (E): bloquea el paso y ralentiza.",
+    "No luches sobre su zona de hielo (W): ahí se vuelve más fuerte.",
+    "Retrocede tras su R: te ha robado tus resistencias."
+  ],
+  "forces": [
+    "Muy fuerte contra los tanques.",
+    "Bloquea con su pilar.",
+    "Toma rápido las torres."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Fácil de mantener a distancia.",
+    "Poco daño en área."
+  ],
+  "sorts": {
+    "P": "Se cura cuando un enemigo muere cerca de él.",
+    "Q": "Mordisco que ralentiza y roba daño.",
+    "W": "Zona de hielo que lo refuerza.",
+    "E": "Pilar que bloquea y ralentiza.",
+    "R": "Roba vida y resistencias a un enemigo."
+  },
+  "momentFort": "Fuerte al principio y a mitad de partida."
+}

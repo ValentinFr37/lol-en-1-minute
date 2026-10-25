@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora cazadora de tanques cuyos ataques dañan según la vida máxima del objetivo, y que se vuelve invisible.",
+  "aSurveiller": "Su E (Condena). Si te empuja contra un muro, quedas aturdido: no luches pegado a los muros.",
+  "contrer": [
+    "Atácala pronto: es muy débil al principio de la partida.",
+    "Mantente lejos de los muros cuando te enfrentes a ella: su E te clava ahí y te aturde.",
+    "No la dejes golpear mucho rato: cada 3 ataques (W) te quita un porcentaje de tu vida máxima."
+  ],
+  "forces": [
+    "Daño verdadero que destruye incluso a los tanques.",
+    "Se vuelve invisible al hacer la pirueta durante su R.",
+    "Muy fuerte al final de la partida."
+  ],
+  "faiblesses": [
+    "Muy débil al principio de la partida.",
+    "Poco alcance para una tiradora.",
+    "Frágil si la atrapan."
+  ],
+  "sorts": {
+    "P": "Más rápida cuando camina hacia los enemigos.",
+    "Q": "Pirueta; su siguiente ataque hace más daño.",
+    "W": "Cada 3 ataques, daño verdadero según la vida máxima del objetivo.",
+    "E": "Empuja al objetivo; queda aturdido si choca contra un muro.",
+    "R": "Más daño, e invisible durante sus piruetas."
+  },
+  "momentFort": "Débil al principio, temible al final de la partida con sus objetos."
+}

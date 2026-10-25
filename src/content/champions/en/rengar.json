@@ -1,0 +1,27 @@
+{
+  "plan": "A hunter who leaps out of bushes and turns invisible to swoop onto his prey.",
+  "aSurveiller": "His R (Thrill of the Hunt). He turns invisible and leaps onto you: an eye appears above your head when he targets you.",
+  "contrer": [
+    "When an eye appears above you, regroup with your allies.",
+    "Don't stay near bushes: he leaps out of them.",
+    "Buy a control ward: it reveals his R."
+  ],
+  "forces": [
+    "Huge single-target damage.",
+    "Leaps out of bushes.",
+    "Invisible with his R."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Relies on bushes.",
+    "Weak if you wait for him grouped."
+  ],
+  "sorts": {
+    "P": "Leaps out of bushes; builds ferocity.",
+    "Q": "Empowered attack.",
+    "W": "Roar that heals him.",
+    "E": "Bola that slows or roots.",
+    "R": "Turns invisible and hunts a champion."
+  },
+  "momentFort": "Dangerous from level 3, and even more at level 6 with his R. If he doesn't get ahead, he loses effectiveness in the late game."
+}

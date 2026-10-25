@@ -1,0 +1,27 @@
+{
+  "plan": "Un mono guerrero que crea clones y lanza por los aires a los enemigos girando sobre sí mismo.",
+  "aSurveiller": "Su R (Ciclón). Gira y lanza por los aires a todos los que toca, dos veces: separaos.",
+  "contrer": [
+    "Apartaos de él: su R lanza por los aires a todos a su alrededor.",
+    "Cuando se vuelve invisible (W), queda un clon: golpea al verdadero.",
+    "Ralentízalo: depende de su E para entrar."
+  ],
+  "forces": [
+    "Lanza por los aires a varios enemigos.",
+    "Clon para engañar.",
+    "Fuerte al principio de la partida."
+  ],
+  "faiblesses": [
+    "Pocas huidas.",
+    "Vulnerable a los controles.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Más armadura y curación en combate.",
+    "Q": "Ataque potenciado que reduce la armadura.",
+    "W": "Se vuelve invisible y deja un clon.",
+    "E": "Se lanza hacia un objetivo.",
+    "R": "Gira y lanza por los aires, dos veces."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

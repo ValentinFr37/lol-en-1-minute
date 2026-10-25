@@ -1,0 +1,27 @@
+{
+  "plan": "Un bárbaro que golpea cada vez más fuerte y no puede morir durante unos segundos con su definitiva.",
+  "aSurveiller": "Su R (Furia inmortal). Durante 5 segundos no puede morir: retrocede y espera a que termine para matarlo.",
+  "contrer": [
+    "Cuando lance su R, retrocede: no puede morir, pero vuelve a ser mortal justo después.",
+    "Compra un objeto de Heridas graves: se cura con su Q al final de su R.",
+    "Ralentízalo: solo tiene un desplazamiento (E) para alcanzarte."
+  ],
+  "forces": [
+    "No puede morir durante su R.",
+    "Daño enorme con sus golpes críticos.",
+    "Destruye las torretas muy rápido."
+  ],
+  "faiblesses": [
+    "Ningún control.",
+    "Fácil de ralentizar y mantener a distancia.",
+    "Una sola movilidad: su E."
+  ],
+  "sorts": {
+    "P": "Gana furia al atacar: más golpes críticos.",
+    "Q": "Más daño cuando está herido; se cura con su furia.",
+    "W": "Reduce el daño de los enemigos cercanos; ralentiza a los que le dan la espalda.",
+    "E": "Se lanza y daña a su paso.",
+    "R": "No puede morir durante 5 segundos."
+  },
+  "momentFort": "Fuerte desde el nivel 6 y muy peligroso al final de la partida."
+}

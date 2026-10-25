@@ -1,0 +1,27 @@
+{
+  "plan": "A mage who sets fire to everything he touches and melts grouped-up teams.",
+  "aSurveiller": "His Q (Sear). If you are on fire, this fireball stuns you: when you are burning, stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: his Q stops on the first enemy hit.",
+    "Spread out in fights: his R bounces between nearby enemies.",
+    "Engage him up close: he is fragile and has no escape."
+  ],
+  "forces": [
+    "Huge area damage.",
+    "Stuns if the target is on fire.",
+    "His R is brutal against grouped teams."
+  ],
+  "faiblesses": [
+    "No escape spell.",
+    "Spells slow to land.",
+    "Very fragile."
+  ],
+  "sorts": {
+    "P": "His spells set the target ablaze.",
+    "Q": "Fireball that stuns a burning target.",
+    "W": "Pillar of flame on the ground after a short delay.",
+    "E": "Explosion that spreads to nearby enemies.",
+    "R": "Fireball that bounces up to 5 times between enemies."
+  },
+  "momentFort": "Dangerous from level 6, and very strong in team fights."
+}

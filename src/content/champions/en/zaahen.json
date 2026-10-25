@@ -1,0 +1,27 @@
+{
+  "plan": "A Darkin warrior who hits hard, gets tougher in fights and can come back from death.",
+  "aSurveiller": "His R (Grim Deliverance). He rises into the air then dives onto you: step out of the landing zone.",
+  "contrer": [
+    "Step out of the landing zone of his R.",
+    "Buy a Grievous Wounds item: he heals in fights.",
+    "Keep crowd control to stop him."
+  ],
+  "forces": [
+    "Very strong in duels.",
+    "Grows stronger in fights.",
+    "Engages with his R."
+  ],
+  "faiblesses": [
+    "Has to be in melee range.",
+    "Vulnerable to crowd control.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Grows stronger by hitting champions.",
+    "Q": "Attack that strikes twice.",
+    "W": "Thrust that comes back.",
+    "E": "Dash and slash around him.",
+    "R": "Dives onto an area."
+  },
+  "momentFort": "Strong in the mid game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un inventor que coloca torretas y controla su línea desde lejos.",
+  "aSurveiller": "Su E (Granada de tormenta de electrones CH-2). Aturde en el centro y ralentiza alrededor: esquívala antes de atacar sus torretas.",
+  "contrer": [
+    "Destruye sus torretas una a una antes de atacarlo.",
+    "Atácalo lejos de sus torretas: solo es frágil.",
+    "Esquiva su granada (E): en el centro te aturde."
+  ],
+  "forces": [
+    "Controla muy bien una zona.",
+    "Mucho daño en su línea.",
+    "Su R mejora cada habilidad."
+  ],
+  "faiblesses": [
+    "Frágil lejos de sus torretas.",
+    "Poco móvil.",
+    "Débil ante las entradas enemigas."
+  ],
+  "sorts": {
+    "P": "Más rápido cerca de sus torretas.",
+    "Q": "Coloca una torreta.",
+    "W": "Cohetes de largo alcance.",
+    "E": "Granada que aturde en el centro.",
+    "R": "Mejora su siguiente habilidad."
+  },
+  "momentFort": "Fuerte en su línea desde el principio."
+}

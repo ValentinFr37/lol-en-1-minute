@@ -1,0 +1,27 @@
+{
+  "plan": "A small mage who gains power permanently over the game and can execute anyone.",
+  "aSurveiller": "His E (Event Horizon). A cage that stuns if you cross its walls: stay in the middle or get out before it appears.",
+  "contrer": [
+    "Never cross the walls of his cage (E): you would be stunned.",
+    "Poke him early to stop him stacking power.",
+    "Watch out for his R when you're low on health: it deals more damage to wounded targets."
+  ],
+  "forces": [
+    "Power that grows without limit.",
+    "His R executes wounded targets.",
+    "His cage controls a whole area."
+  ],
+  "faiblesses": [
+    "Very slow and immobile.",
+    "Weak in the early game.",
+    "His spells are easy to dodge."
+  ],
+  "sorts": {
+    "P": "Gains permanent power by hitting champions.",
+    "Q": "Bolt that hits two enemies; he gains power if he kills.",
+    "W": "Dark matter that falls after a delay.",
+    "E": "Cage that stuns those who cross its walls.",
+    "R": "Execute: stronger on wounded targets."
+  },
+  "momentFort": "Weak early, stronger and stronger as the game goes on."
+}

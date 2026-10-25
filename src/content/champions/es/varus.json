@@ -1,0 +1,27 @@
+{
+  "plan": "Un arquero que dispara desde muy lejos e inmoviliza a todo un equipo con su cadena de corrupción.",
+  "aSurveiller": "Su R (Cadena de corrupción). Inmoviliza al primer campeón alcanzado y luego se propaga a los aliados cercanos: separaos.",
+  "contrer": [
+    "Separaos: su R se propaga a los aliados cercanos.",
+    "Esquiva su Q cargada: hace mucho daño desde lejos.",
+    "Atácalo: tiene pocas huidas."
+  ],
+  "forces": [
+    "Alcance muy largo.",
+    "Inmoviliza a varios enemigos.",
+    "Reduce la curación con su E."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Frágil.",
+    "Sus habilidades se ven venir."
+  ],
+  "sorts": {
+    "P": "Más velocidad de ataque tras una eliminación.",
+    "Q": "Disparo cargado de largo alcance.",
+    "W": "Sus ataques acumulan marcas.",
+    "E": "Lluvia de flechas que ralentiza.",
+    "R": "Cadena que inmoviliza y se propaga."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

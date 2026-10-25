@@ -1,0 +1,27 @@
+{
+  "plan": "Una pesadilla de la jungla que corta la visión del equipo enemigo y cae sobre su objetivo.",
+  "aSurveiller": "Su R (Paranoia). Reduce vuestra visión y luego vuela hasta un campeón: cuando la pantalla se oscurezca, agrupaos.",
+  "contrer": [
+    "Cuando la pantalla se oscurezca, agrupaos: va a caer sobre un objetivo aislado.",
+    "Aléjate de él para romper su terror (E) antes de que termine.",
+    "Su W bloquea una habilidad: no uses tu gran habilidad primero."
+  ],
+  "forces": [
+    "Su R entra desde muy lejos.",
+    "Aterroriza con su E.",
+    "Bloquea una habilidad con su W."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Depende de su R.",
+    "Débil si el objetivo está rodeado."
+  ],
+  "sorts": {
+    "P": "Cada pocos segundos, un ataque en área que lo cura.",
+    "Q": "Hoja que deja un rastro y lo acelera.",
+    "W": "Bloquea una habilidad y gana velocidad de ataque.",
+    "E": "Vínculo que aterroriza si te quedas cerca.",
+    "R": "Reduce la visión enemiga y vuela hasta un campeón."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

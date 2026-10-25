@@ -1,0 +1,27 @@
+{
+  "plan": "Un coloso no muerto que carga a través del mapa y vuelve brevemente a la vida tras morir.",
+  "aSurveiller": "Su Q (Impacto aniquilador). Cargada mucho tiempo, lanza por los aires: sal de la zona antes de que golpee.",
+  "contrer": [
+    "Sal de la zona de su Q antes de que golpee.",
+    "Tras matarlo, aléjate: vuelve brevemente a la vida.",
+    "Apártate de su carga (R): cruza el mapa."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Entra desde lejos con su R.",
+    "Vuelve brevemente tras morir."
+  ],
+  "faiblesses": [
+    "Lento.",
+    "Sus habilidades se ven venir.",
+    "Poco daño a un solo objetivo."
+  ],
+  "sorts": {
+    "P": "Vuelve brevemente a la vida tras morir.",
+    "Q": "Golpe cargado que lanza por los aires.",
+    "W": "Escudo que explota.",
+    "E": "Onda que ralentiza y reduce la armadura.",
+    "R": "Carga que cruza el mapa."
+  },
+  "momentFort": "Sólido desde el principio. Brilla sobre todo a mitad de partida: al final, muchos campeones lo superan."
+}

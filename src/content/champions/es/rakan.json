@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo seductor que salta en medio de los enemigos y los hechiza bailando.",
+  "aSurveiller": "Su W (Entrada grandiosa). Salta y lanza por los aires a todos a su alrededor: no os quedéis agrupados.",
+  "contrer": [
+    "Separaos cuando salte: su W lanza por los aires a quienes están cerca.",
+    "Su R hechiza a su paso: apártate de su camino.",
+    "Atácalo cuando haya usado su E: es su huida."
+  ],
+  "forces": [
+    "Muy móvil.",
+    "Hechiza a varios enemigos.",
+    "Protege a sus aliados."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco daño.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Escudo periódico.",
+    "Q": "Pluma que luego cura a sus aliados.",
+    "W": "Salta y lanza por los aires.",
+    "E": "Vuela hacia un aliado con un escudo.",
+    "R": "Hechiza a los enemigos que toca."
+  },
+  "momentFort": "Útil desde el nivel 2."
+}

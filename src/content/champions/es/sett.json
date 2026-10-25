@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador que encaja los golpes y luego los devuelve con un puñetazo enorme.",
+  "aSurveiller": "Su W (Trastazo). Cuanto más daño ha recibido, más fuerte es el golpe, y el centro hace daño verdadero: no te quedes en medio.",
+  "contrer": [
+    "Deja de golpearlo cuando su barra esté llena: va a devolverte ese daño con su W.",
+    "No lo rodeéis: su E aturde a los enemigos si hay a ambos lados de él.",
+    "Separaos en las peleas: su R aplasta a un campeón y daña a todos alrededor del impacto."
+  ],
+  "forces": [
+    "Muy fuerte al principio y en duelo.",
+    "Encaja y devuelve el daño con su W.",
+    "Su R puede iniciar una pelea."
+  ],
+  "faiblesses": [
+    "Pocas formas de acercarse.",
+    "Fácil de mantener a distancia.",
+    "Su gran golpe (W) se ve venir."
+  ],
+  "sorts": {
+    "P": "Alterna puñetazos y se regenera según la vida que le falta.",
+    "Q": "Sus 2 siguientes ataques hacen más daño y corre hacia los enemigos.",
+    "W": "Escudo y puñetazo enorme, más fuerte si ha recibido daño.",
+    "E": "Atrae a los enemigos de ambos lados y los aturde.",
+    "R": "Agarra a un campeón y lo aplasta contra el suelo."
+  },
+  "momentFort": "Fuerte desde los primeros niveles y muy peligroso desde el nivel 6."
+}

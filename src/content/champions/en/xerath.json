@@ -1,0 +1,27 @@
+{
+  "plan": "An artillery mage who strikes from very far and bombards his enemies across the map.",
+  "aSurveiller": "His E (Shocking Orb). It stuns you, then he follows up with his other spells: stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: his E stops on the first one hit.",
+    "During his R he is immobile: rush him.",
+    "Engage him: he is very fragile."
+  ],
+  "forces": [
+    "Huge range.",
+    "Stuns with his E.",
+    "His R strikes very far."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "No escape.",
+    "Immobile during his R."
+  ],
+  "sorts": {
+    "P": "His attacks restore mana.",
+    "Q": "Long-range charged beam.",
+    "W": "Explosion that slows.",
+    "E": "Orb that stuns.",
+    "R": "Immobile, fires very far several times."
+  },
+  "momentFort": "Strong in the mid game."
+}

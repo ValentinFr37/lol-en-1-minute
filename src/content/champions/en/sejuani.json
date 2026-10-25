@@ -1,0 +1,27 @@
+{
+  "plan": "A jungler on her boar who charges and freezes her enemies.",
+  "aSurveiller": "Her R (Glacial Prison). She stuns the first champion hit and creates a storm that slows around it: spread out.",
+  "contrer": [
+    "Stay behind your allies: her R freezes the first one hit.",
+    "Spread out: her R storm slows around it.",
+    "Avoid trading near her: her hits apply frost."
+  ],
+  "forces": [
+    "Lots of crowd control.",
+    "Very tanky.",
+    "Engages from far."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Slow.",
+    "Relies on her engage."
+  ],
+  "sorts": {
+    "P": "Ice armour out of combat.",
+    "Q": "Charge that knocks up.",
+    "W": "Flail swings that slow.",
+    "E": "Freezes and stuns a frost-stacked target.",
+    "R": "Bola that freezes and creates a storm."
+  },
+  "momentFort": "Strong in the mid game."
+}

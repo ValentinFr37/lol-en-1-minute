@@ -1,0 +1,27 @@
+{
+  "plan": "A very long-range marksman support who grows stronger and stronger by collecting souls.",
+  "aSurveiller": "Her W (Last Embrace). It latches onto you then roots you: move away from allies who got hit.",
+  "contrer": [
+    "Stay behind your minions: her W latches onto the first one hit.",
+    "Engage her: she is very fragile.",
+    "Her R crosses the map: when low on health, take cover."
+  ],
+  "forces": [
+    "Very long range.",
+    "Grows stronger over the game.",
+    "Her R helps from afar."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Immobile.",
+    "Slow attacks."
+  ],
+  "sorts": {
+    "P": "Collects souls to become stronger.",
+    "Q": "Beam that heals her allies and damages.",
+    "W": "Mist that roots.",
+    "E": "Camouflage for her and her allies.",
+    "R": "Beam that crosses the map."
+  },
+  "momentFort": "Strong in the late game."
+}

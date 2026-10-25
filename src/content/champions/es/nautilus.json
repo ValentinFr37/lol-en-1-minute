@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo tanque que se engancha a su objetivo con su ancla y lo inmoviliza una y otra vez.",
+  "aSurveiller": "Su Q (Línea de dragado). Su ancla te atrae hacia él: quédate detrás de tus súbditos, se detiene en el primero que toca.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su ancla (Q) se detiene en el primero que toca.",
+    "Su R te persigue: intenta poner a un aliado entre vosotros.",
+    "Su primer ataque te inmoviliza: mantén la distancia."
+  ],
+  "forces": [
+    "Muchas inmovilizaciones.",
+    "Muy resistente.",
+    "Su R persigue a un objetivo."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Depende de su ancla.",
+    "Poco móvil."
+  ],
+  "sorts": {
+    "P": "Su primer ataque inmoviliza.",
+    "Q": "Ancla que atrae a ambos el uno hacia el otro.",
+    "W": "Escudo y daño adicional.",
+    "E": "Ondas que ralentizan.",
+    "R": "Onda que persigue y lanza por los aires."
+  },
+  "momentFort": "Peligroso desde el nivel 2."
+}

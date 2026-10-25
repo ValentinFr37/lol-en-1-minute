@@ -1,0 +1,27 @@
+{
+  "plan": "A mage who reflects projectiles and finishes off marked enemies wherever they are.",
+  "aSurveiller": "Her W (Rebuttal). Her barrier reflects every projectile: don't cast ranged spells while it's active.",
+  "contrer": [
+    "Don't throw your projectiles during her W: they come back at you.",
+    "Don't take too many of her marks: her R strikes every marked target.",
+    "Engage her once her W is used: it takes a long time to come back."
+  ],
+  "forces": [
+    "Reflects projectiles.",
+    "Her R strikes every marked enemy.",
+    "Big ranged damage."
+  ],
+  "faiblesses": [
+    "Long cooldown on her W.",
+    "Fragile.",
+    "Immobile."
+  ],
+  "sorts": {
+    "P": "Her spells empower her attacks and mark enemies.",
+    "Q": "Volley that explodes over an area.",
+    "W": "Barrier that reflects projectiles.",
+    "E": "Orb that roots in the centre.",
+    "R": "Strikes every marked enemy."
+  },
+  "momentFort": "Dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A huntress who pokes with her javelins then turns into a cougar to pounce on her prey.",
+  "aSurveiller": "Her Q (Javelin Toss). The farther it travels, the more it hurts: stay behind your minions, it stops on the first one hit.",
+  "contrer": [
+    "Stay behind your minions: her javelin (Q) stops on the first one hit.",
+    "If a javelin hits you, back off: she can pounce farther onto you as a cougar.",
+    "Avoid her traps (W) in bushes: they reveal you."
+  ],
+  "forces": [
+    "Javelins that hurt a lot from range.",
+    "Very mobile as a cougar.",
+    "Heals herself and her allies."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Hard to play.",
+    "Weaker in the late game."
+  ],
+  "sorts": {
+    "P": "Faster in bushes; marks hunted targets.",
+    "Q": "Javelin stronger from far; powerful strike as a cougar.",
+    "W": "Trap that reveals; pounce as a cougar.",
+    "E": "Heals an ally; area swipe as a cougar.",
+    "R": "Turns into a cougar."
+  },
+  "momentFort": "One of the strongest champions in the early game, and still strong in the mid game."
+}

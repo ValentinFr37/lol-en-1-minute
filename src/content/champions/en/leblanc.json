@@ -1,0 +1,27 @@
+{
+  "plan": "A manipulative mage who jumps in, blows up her target and returns to where she started.",
+  "aSurveiller": "Her W (Distortion). She jumps onto you then returns to her starting point: stay near your allies when she's missing from her lane.",
+  "contrer": [
+    "Stay near your allies: she looks for isolated targets.",
+    "Her chain (E) roots you if you stay near her: move away.",
+    "When she's wounded, a clone appears: hit the real LeBlanc."
+  ],
+  "forces": [
+    "Huge burst damage.",
+    "Returns to her starting point.",
+    "Creates a clone to deceive."
+  ],
+  "faiblesses": [
+    "Fragile if caught.",
+    "Weak against tanks.",
+    "Hard to play."
+  ],
+  "sorts": {
+    "P": "Turns invisible and creates a clone below 40% health.",
+    "Q": "Sigil that detonates if she hits again.",
+    "W": "Dash she can return from.",
+    "E": "Chain that roots.",
+    "R": "Copies one of her spells."
+  },
+  "momentFort": "Dangerous from level 6."
+}

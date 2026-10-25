@@ -1,0 +1,27 @@
+{
+  "plan": "An invisible assassin who appears behind isolated players and charms them.",
+  "aSurveiller": "Her W (Allure). It curses you then charms you if she hits you: buy a control ward to see her coming.",
+  "contrer": [
+    "Buy a control ward: it reveals camouflaged Evelynn.",
+    "Play near your allies once she reaches level 6.",
+    "When she casts her R she teleports backwards: don't chase her without vision."
+  ],
+  "forces": [
+    "Invisible from level 6.",
+    "Huge single-target damage.",
+    "Her R finishes off and gets her to safety."
+  ],
+  "faiblesses": [
+    "Weak before level 6.",
+    "Vulnerable to control wards.",
+    "Fragile if caught."
+  ],
+  "sorts": {
+    "P": "Camouflaged out of combat from level 6; heals.",
+    "Q": "Spikes that hit the first target.",
+    "W": "Curses then charms her target.",
+    "E": "Whip strike; she gains speed.",
+    "R": "Ravages an area and backs off; stronger on wounded targets."
+  },
+  "momentFort": "Weak before level 6, very dangerous afterwards."
+}

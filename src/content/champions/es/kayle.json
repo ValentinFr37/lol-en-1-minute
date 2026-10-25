@@ -1,0 +1,27 @@
+{
+  "plan": "Una luchadora muy débil al principio que se convierte en una de las más fuertes del juego al final de la partida.",
+  "aSurveiller": "Su R (Veredicto divino). Vuelve invulnerable a un aliado unos segundos: no malgastes tus habilidades en el objetivo protegido.",
+  "contrer": [
+    "Atácala al principio: es muy débil antes del nivel 6.",
+    "Intentad acabar la partida rápido: al final se vuelve temible.",
+    "Espera a que termine su R antes de golpear al objetivo protegido."
+  ],
+  "forces": [
+    "Poder enorme al final de la partida.",
+    "Su R vuelve invulnerable a un aliado.",
+    "Ataques a distancia que alcanzan en área más adelante."
+  ],
+  "faiblesses": [
+    "Muy débil al principio de la partida.",
+    "Pocas formas de escapar.",
+    "Fácil de castigar antes del nivel 6."
+  ],
+  "sorts": {
+    "P": "Se vuelve más fuerte en cada nivel: alcance, velocidad y daño en área.",
+    "Q": "Espada que atraviesa, ralentiza y reduce las resistencias.",
+    "W": "Se cura y cura a un aliado, con un extra de velocidad.",
+    "E": "Sus ataques hacen más daño mágico.",
+    "R": "Vuelve invulnerable a un aliado y hace llover espadas a su alrededor."
+  },
+  "momentFort": "Débil al principio y cada vez más fuerte: se vuelve temible en el nivel 11 y luego en el 16."
+}

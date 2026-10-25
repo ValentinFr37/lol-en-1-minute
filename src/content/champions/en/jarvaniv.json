@@ -1,0 +1,27 @@
+{
+  "plan": "A prince jungler who charges at his target with his flag and traps it in an arena.",
+  "aSurveiller": "His E then Q combo. He plants his flag then dashes to it, knocking you up: move away when the flag lands near you.",
+  "contrer": [
+    "Move away from the flag (E): he is about to dash to it with his Q.",
+    "Inside his arena (R), use a movement spell to jump over the wall.",
+    "He is mostly strong early: avoid fights early on."
+  ],
+  "forces": [
+    "Very strong early.",
+    "His arena traps a target.",
+    "His combo knocks up."
+  ],
+  "faiblesses": [
+    "Weaker in the late game.",
+    "Relies on his combo to engage.",
+    "His arena can be jumped over."
+  ],
+  "sorts": {
+    "P": "First attack on a target: bonus damage.",
+    "Q": "Spear strike that reduces armour.",
+    "W": "Shield and slows around him.",
+    "E": "Plants his flag; more attack speed.",
+    "R": "Leaps and traps the area in an arena."
+  },
+  "momentFort": "Very strong from the start, dangerous from level 6."
+}

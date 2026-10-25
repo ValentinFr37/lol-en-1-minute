@@ -1,0 +1,27 @@
+{
+  "plan": "A painter mage who picks from 9 spells to damage, protect or control at very long range.",
+  "aSurveiller": "His E (Subject: Torment). He can make you flee, pull you in or root you from range: dodge his projectiles.",
+  "contrer": [
+    "Engage him up close: he is fragile and has few escapes.",
+    "Dodge his crowd control spells (E): they are slow.",
+    "Get out of his R fast: the zone grows then explodes."
+  ],
+  "forces": [
+    "Very long range.",
+    "Nine spells to adapt.",
+    "Big area damage."
+  ],
+  "faiblesses": [
+    "Fragile if reached.",
+    "Hard to play.",
+    "His spells take time to cast."
+  ],
+  "sorts": {
+    "P": "Two spells on the same target trigger an explosion.",
+    "Q": "Damage spells: fire, lightning or lava.",
+    "W": "Utility spells: speed, shield, healing.",
+    "E": "Crowd control spells: fear, pull or root.",
+    "R": "Paint that slows, grows then explodes."
+  },
+  "momentFort": "Strong in the mid game."
+}

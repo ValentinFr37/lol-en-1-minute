@@ -1,0 +1,27 @@
+{
+  "plan": "Un pez gato gigante que se traga a sus enemigos o a sus aliados para llevárselos o protegerlos.",
+  "aSurveiller": "Su R (Devorar). Se traga a un campeón para llevárselo: si ya te ha golpeado 3 veces, puede tragarte.",
+  "contrer": [
+    "Evita recibir 3 golpes suyos: después puede tragarte (R).",
+    "Su E lo protege: espera a que lo haya usado para atacarlo.",
+    "El daño por porcentaje de vida es eficaz contra él."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Puede salvar a un aliado tragándoselo.",
+    "Fuerte en duelo al principio de la partida."
+  ],
+  "faiblesses": [
+    "Lento.",
+    "Poco alcance.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Su vida aumenta su daño; acumula marcas.",
+    "Q": "Lengüetazo que ralentiza.",
+    "W": "Se sumerge y reaparece lanzando por los aires.",
+    "E": "Almacena el daño y lo convierte en escudo.",
+    "R": "Se traga a un campeón enemigo o aliado."
+  },
+  "momentFort": "Fuerte al principio de la partida."
+}

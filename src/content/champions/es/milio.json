@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo encantador que cura, protege y libera a sus aliados de los controles.",
+  "aSurveiller": "Su R (Aliento vital). Cura a sus aliados y les quita todos los controles: lanza tus controles después de su R.",
+  "contrer": [
+    "Lanza tus controles después de su R: los elimina.",
+    "Atácalo: es muy frágil.",
+    "Su bola de fuego (Q) te empuja: evítala."
+  ],
+  "forces": [
+    "Elimina los controles.",
+    "Cura y protege.",
+    "Aumenta el alcance de sus aliados."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Poco daño.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Sus habilidades potencian los ataques de sus aliados.",
+    "Q": "Bola de fuego que empuja y ralentiza.",
+    "W": "Zona de curación y alcance.",
+    "E": "Escudo y velocidad.",
+    "R": "Cura y elimina los controles."
+  },
+  "momentFort": "Útil toda la partida."
+}

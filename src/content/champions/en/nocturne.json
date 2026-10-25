@@ -1,0 +1,27 @@
+{
+  "plan": "A nightmare jungler who cuts the enemy team's vision and swoops onto his target.",
+  "aSurveiller": "His R (Paranoia). He reduces your vision then flies to a champion: when the screen darkens, group up.",
+  "contrer": [
+    "When the screen darkens, group up: he is about to land on an isolated target.",
+    "Move away from him to break his fear tether (E) before it ends.",
+    "His W blocks a spell: don't use your big spell first."
+  ],
+  "forces": [
+    "His R engages from very far.",
+    "Fears with his E.",
+    "Blocks a spell with his W."
+  ],
+  "faiblesses": [
+    "Fragile against crowd control.",
+    "Relies on his R.",
+    "Weak if the target is surrounded."
+  ],
+  "sorts": {
+    "P": "Every few seconds, an area attack that heals him.",
+    "Q": "Blade that leaves a trail and speeds him up.",
+    "W": "Blocks a spell and gains attack speed.",
+    "E": "Tether that fears if you stay close.",
+    "R": "Reduces enemy vision and flies to a champion."
+  },
+  "momentFort": "Dangerous from level 6."
+}

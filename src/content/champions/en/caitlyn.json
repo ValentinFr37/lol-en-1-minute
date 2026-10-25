@@ -1,0 +1,27 @@
+{
+  "plan": "A very long-range marksman who dominates her lane and lays traps to catch her opponents.",
+  "aSurveiller": "Her traps (W). They root you and give her an empowered shot: don't step on them, especially near her and in bushes.",
+  "contrer": [
+    "Avoid her traps (W): they are visible, walk around them.",
+    "Engage her once her net (E) is used: it's her only way to back off.",
+    "Don't stay at half health in range of her R: an ally can step in front to block the bullet."
+  ],
+  "forces": [
+    "The longest attack range of all marksmen.",
+    "Her traps control the area and protect her.",
+    "Finishes off from very far with her R."
+  ],
+  "faiblesses": [
+    "Weak if engaged in melee range.",
+    "Only one escape: her net (E).",
+    "Less effective against very mobile champions."
+  ],
+  "sorts": {
+    "P": "Every few attacks, a headshot that hurts more.",
+    "Q": "Piercing shot in a line after a short wind-up.",
+    "W": "Places a trap that roots and reveals.",
+    "E": "Net that slows and knocks her backwards.",
+    "R": "Very long-range shot on a target; an ally can block it."
+  },
+  "momentFort": "Very strong in lane from the start, then in the mid game with her critical strike items."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A melee marksman who dodges all attacks and pulls enemies in with her ultimate.",
+  "aSurveiller": "Her W (Jubilant Veil). She dodges all basic attacks: use your spells rather than your attacks during it.",
+  "contrer": [
+    "During her W, use your spells: she dodges basic attacks.",
+    "Move away when she casts her R: she pulls in everyone around her.",
+    "Engage her early: she needs items to be strong."
+  ],
+  "forces": [
+    "Dodges attacks with her W.",
+    "Her R pulls in several enemies.",
+    "Shares her allies' healing."
+  ],
+  "faiblesses": [
+    "Short range.",
+    "Vulnerable to spells.",
+    "Weak in the early game."
+  ],
+  "sorts": {
+    "P": "Gains more experience and boosts allied healing.",
+    "Q": "Whip strike in a line.",
+    "W": "Dodges all attacks for a moment.",
+    "E": "Dashes to a target.",
+    "R": "Spins and pulls in enemies around her."
+  },
+  "momentFort": "Strong in the mid and late game."
+}

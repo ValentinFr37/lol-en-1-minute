@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo tanque que se lanza sobre su objetivo, lo aturde e inicia peleas en cuanto puede.",
+  "aSurveiller": "Su E (Hoja del cénit). Se lanza hacia el último campeón alcanzado y lo inmoviliza, y luego encadena con su Q, que aturde.",
+  "contrer": [
+    "Quédate detrás de tus súbditos y apártate cuando lance su E.",
+    "Tras su E y su Q ya no tiene controles: es el momento de responder.",
+    "Separaos en las peleas de equipo: su R aturde en el centro de la zona."
+  ],
+  "forces": [
+    "Muchos aturdimientos seguidos.",
+    "Muy resistente con su W.",
+    "Su R puede iniciar una pelea a distancia."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Fácil de evitar si te quedas detrás de los súbditos.",
+    "Débil si la atacan mientras sus habilidades se recargan."
+  ],
+  "sorts": {
+    "P": "Sus habilidades marcan a los enemigos; sus aliados les hacen más daño.",
+    "Q": "Su siguiente ataque aturde.",
+    "W": "Más resistencias y luego daña a su alrededor.",
+    "E": "Hoja que atraviesa; se lanza hacia el último campeón alcanzado.",
+    "R": "Rayo solar: aturde en el centro, ralentiza en los bordes."
+  },
+  "momentFort": "Peligrosa desde el nivel 2 y muy fuerte en las peleas de equipo desde el nivel 6."
+}

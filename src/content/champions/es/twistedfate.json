@@ -1,0 +1,27 @@
+{
+  "plan": "Un jugador de cartas que aturde con su carta dorada y se teletransporta a cualquier parte del mapa.",
+  "aSurveiller": "Su W (Escoge una carta). Su carta dorada aturde: cuando brille una carta amarilla sobre él, mantén la distancia.",
+  "contrer": [
+    "Cuando brille una carta amarilla sobre él (W), retrocede.",
+    "Cuando lance su R, avisa a tu equipo: va a aparecer en una línea.",
+    "Atácalo: es frágil y poco móvil."
+  ],
+  "forces": [
+    "Se teletransporta por el mapa.",
+    "Aturde con su carta dorada.",
+    "Ayuda a todas las líneas."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Débil en duelo."
+  ],
+  "sorts": {
+    "P": "Gana oro adicional al eliminar.",
+    "Q": "Lanza tres cartas.",
+    "W": "Carta dorada que aturde, roja o azul.",
+    "E": "Daño adicional cada 4 ataques.",
+    "R": "Revela a los enemigos y se teletransporta."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

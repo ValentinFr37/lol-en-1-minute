@@ -1,0 +1,27 @@
+{
+  "plan": "A scarecrow jungler who bursts out of a bush and terrifies a whole team with his crows.",
+  "aSurveiller": "His R (Crowstorm). He teleports into the middle of you and damages everything around him: spread out and hit him.",
+  "contrer": [
+    "Spread out when he arrives: his R damages everyone around him.",
+    "His effigies look like him: be wary of a motionless Fiddlesticks in a bush.",
+    "Interrupt his W with crowd control: he has to channel it."
+  ],
+  "forces": [
+    "His R starts fights from far away.",
+    "Fear and silence for control.",
+    "Heals with his W."
+  ],
+  "faiblesses": [
+    "Fragile if interrupted.",
+    "Must stand still to channel.",
+    "Immobile without his R."
+  ],
+  "sorts": {
+    "P": "Places effigies instead of wards.",
+    "Q": "Terrifies a target.",
+    "W": "Drains the health of nearby enemies.",
+    "E": "Scythe swing that slows and silences.",
+    "R": "Teleports and unleashes crows around him."
+  },
+  "momentFort": "His most important spike is level 6, with his R: he tries to reach it as fast as possible."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora eléctrica muy rápida que corre por los muros y dispara a través de los enemigos.",
+  "aSurveiller": "Su R (Choque de rayos). Se vuelve mucho más rápida y hace más daño: retrocede cuando la active.",
+  "contrer": [
+    "Retrocede durante su R: se vuelve muy rápida y peligrosa.",
+    "Atácala pronto: es débil al principio de la partida.",
+    "Esquiva su W: atraviesa los muros."
+  ],
+  "forces": [
+    "Muy móvil.",
+    "Escudo periódico.",
+    "Su R la vuelve peligrosa."
+  ],
+  "faiblesses": [
+    "Débil al principio de la partida.",
+    "Frágil.",
+    "Pocos controles."
+  ],
+  "sorts": {
+    "P": "Escudo y ataques eléctricos.",
+    "Q": "Ráfaga de balas.",
+    "W": "Láser que ralentiza.",
+    "E": "Desplazamiento que pasa por encima de los muros.",
+    "R": "Nova eléctrica y velocidad."
+  },
+  "momentFort": "Débil al principio de la partida, fuerte al final."
+}

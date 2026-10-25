@@ -1,0 +1,27 @@
+{
+  "plan": "A gravedigger who summons ghouls and a Maiden of the Mist to bring down towers.",
+  "aSurveiller": "His W (Dark Procession). A wall that traps you: destroy it by attacking it or keep a dash to get out.",
+  "contrer": [
+    "Attack his wall (W) to break it: it traps you.",
+    "Kill his ghouls: together they deal a lot of damage.",
+    "Don't let him push alone: he destroys towers fast."
+  ],
+  "forces": [
+    "Destroys towers fast.",
+    "Summons allies.",
+    "Traps with his W."
+  ],
+  "faiblesses": [
+    "Weak if his ghouls die.",
+    "Immobile.",
+    "Weaker in team fights."
+  ],
+  "sorts": {
+    "P": "Summons ghouls.",
+    "Q": "Empowered attack that leaves a grave.",
+    "W": "Wall that traps.",
+    "E": "Mist that slows and marks.",
+    "R": "Summons the Maiden of the Mist."
+  },
+  "momentFort": "Strong in the mid game."
+}

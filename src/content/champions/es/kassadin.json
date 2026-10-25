@@ -1,0 +1,27 @@
+{
+  "plan": "Un asesino del Vacío débil al principio que se teletransporta por todas partes al final de la partida.",
+  "aSurveiller": "Su R (Camino del Vacío). Se teletransporta sobre ti y cada uso hace más daño: al final de la partida puede encadenarla.",
+  "contrer": [
+    "Atácalo al principio: es muy débil antes del nivel 6.",
+    "El daño físico es eficaz: resiste la magia.",
+    "Intentad acabar la partida rápido: se vuelve muy fuerte al final."
+  ],
+  "forces": [
+    "Se teletransporta con su R.",
+    "Resiste el daño mágico.",
+    "Muy fuerte al final de la partida."
+  ],
+  "faiblesses": [
+    "Muy débil al principio de la partida.",
+    "Vulnerable al daño físico.",
+    "Frágil si lo atrapan."
+  ],
+  "sorts": {
+    "P": "Reduce el daño mágico y atraviesa las unidades.",
+    "Q": "Orbe que interrumpe y da un escudo.",
+    "W": "Sus ataques hacen daño mágico adicional.",
+    "E": "Onda que ralentiza en cono.",
+    "R": "Se teletransporta; cada vez más fuerte si la encadena."
+  },
+  "momentFort": "Débil al principio, temible al final de la partida."
+}

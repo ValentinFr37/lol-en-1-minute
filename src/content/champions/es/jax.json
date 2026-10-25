@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador con farola que salta sobre su objetivo y esquiva todos los ataques con su contraataque.",
+  "aSurveiller": "Su E (Contraataque). Esquiva todos los ataques durante un instante y luego aturde a su alrededor: no ataques durante él, retrocede.",
+  "contrer": [
+    "No ataques durante su E: esquiva todos tus ataques básicos y luego te aturde.",
+    "Las habilidades le alcanzan incluso durante su E: úsalas en lugar de tus ataques básicos.",
+    "Intentad acabar la partida rápido: se vuelve muy fuerte al final."
+  ],
+  "forces": [
+    "Esquiva todos los ataques con su E.",
+    "Muy fuerte en duelo y al final de la partida.",
+    "Salta sobre un objetivo o un aliado con su Q."
+  ],
+  "faiblesses": [
+    "Depende de su E para ganar los intercambios.",
+    "Fácil de mantener a distancia con habilidades.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Sus ataques seguidos son cada vez más rápidos.",
+    "Q": "Salta hacia una unidad y la golpea si es un enemigo.",
+    "W": "Su siguiente ataque hace más daño.",
+    "E": "Esquiva los ataques y luego aturde a su alrededor.",
+    "R": "Daño adicional cada 3 ataques; resistencias al activarla."
+  },
+  "momentFort": "Sólido al principio, cada vez más fuerte a mitad y al final de la partida."
+}

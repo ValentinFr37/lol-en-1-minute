@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo sirena que aturde con su burbuja y lanza por los aires a todo un equipo con su ola.",
+  "aSurveiller": "Su Q (Prisión de agua). Una burbuja que te aturde: tarda en caer, muévete en cuanto la lance.",
+  "contrer": [
+    "Muévete en cuanto lance su burbuja (Q): tarda en caer.",
+    "Apartaos de su ola (R): atraviesa toda una línea.",
+    "Atácala: no tiene huida."
+  ],
+  "forces": [
+    "Aturde con su burbuja.",
+    "Cura con su W.",
+    "Su R lanza por los aires a varios enemigos."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Su burbuja es lenta.",
+    "Ninguna huida."
+  ],
+  "sorts": {
+    "P": "Sus habilidades aceleran a sus aliados.",
+    "Q": "Burbuja que aturde.",
+    "W": "Agua que rebota: cura y daña.",
+    "E": "Potencia a un aliado cuyos golpes ralentizan.",
+    "R": "Gran ola que lanza por los aires."
+  },
+  "momentFort": "Útil desde el principio, fuerte en las peleas de equipo."
+}

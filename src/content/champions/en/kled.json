@@ -1,0 +1,27 @@
+{
+  "plan": "A grumpy yordle on his lizard who charges and drags his enemy with a bear trap.",
+  "aSurveiller": "His Q (Bear Trap on a Rope). It hooks onto you then pulls you to him: move away quickly to break the rope.",
+  "contrer": [
+    "Move away quickly when his trap (Q) hooks you: otherwise he pulls you to him.",
+    "When he loses his lizard, attack him: he is very weak on foot.",
+    "Spread out from his charge (R): it crosses the map towards you."
+  ],
+  "forces": [
+    "Very strong in duels.",
+    "Two health bars with his lizard.",
+    "His R engages from very far."
+  ],
+  "faiblesses": [
+    "Weak on foot.",
+    "Hard to play.",
+    "Predictable."
+  ],
+  "sorts": {
+    "P": "Rides a lizard that takes damage for him.",
+    "Q": "Trap that hooks on then pulls the target.",
+    "W": "4 very fast attacks.",
+    "E": "Dashes and can dash again.",
+    "R": "Charges over a long distance."
+  },
+  "momentFort": "Strong from the start of the game."
+}

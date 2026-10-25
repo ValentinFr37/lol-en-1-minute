@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga fénix que bloquea los pasos con sus muros de hielo y renace de su huevo.",
+  "aSurveiller": "Su Q (Destello helado). Te aturde al explotar y luego su E hace el doble de daño: esquiva la esfera.",
+  "contrer": [
+    "Esquiva su esfera (Q): sin aturdimiento, su combo hace mucho menos daño.",
+    "Prepara una huida: su muro (W) puede cerrarte el paso.",
+    "Cuando esté en su huevo, golpéalo rápido y entre varios para que no renazca."
+  ],
+  "forces": [
+    "Renace de su huevo una vez.",
+    "Su muro bloquea los pasos.",
+    "Daño en área enorme con su R."
+  ],
+  "faiblesses": [
+    "Muy lenta y poco móvil.",
+    "Débil al principio de la partida.",
+    "Su huevo es frágil si se golpea rápido."
+  ],
+  "sorts": {
+    "P": "Se convierte en huevo en vez de morir.",
+    "Q": "Esfera que ralentiza y aturde al explotar.",
+    "W": "Muro de hielo infranqueable.",
+    "E": "Doble daño a un objetivo congelado.",
+    "R": "Tormenta de hielo que ralentiza y crece."
+  },
+  "momentFort": "Débil al principio, muy peligrosa a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A barbarian who hits harder and harder and can't die for a few seconds thanks to his ultimate.",
+  "aSurveiller": "His R (Undying Rage). For 5 seconds he can't die: back off and wait for it to end to kill him.",
+  "contrer": [
+    "When he casts his R, back off: he can't die, but he becomes mortal again right after.",
+    "Buy a Grievous Wounds item: he heals with his Q at the end of his R.",
+    "Slow him: he only has one movement spell (E) to reach you."
+  ],
+  "forces": [
+    "Can't die during his R.",
+    "Huge damage with his critical strikes.",
+    "Destroys turrets very fast."
+  ],
+  "faiblesses": [
+    "No crowd control.",
+    "Easy to slow and kite.",
+    "Only one mobility spell: his E."
+  ],
+  "sorts": {
+    "P": "Gains fury by attacking: more critical strikes.",
+    "Q": "More damage when wounded; heals with his fury.",
+    "W": "Reduces nearby enemies' damage; slows those facing away.",
+    "E": "Dashes and damages along the way.",
+    "R": "Can't die for 5 seconds."
+  },
+  "momentFort": "Strong from level 6, and very dangerous in the late game."
+}

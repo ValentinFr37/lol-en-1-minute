@@ -1,0 +1,27 @@
+{
+  "plan": "Una pequeña maga que hace explotar a un objetivo en un segundo y aturde toda una zona con su oso Tibbers.",
+  "aSurveiller": "Su aturdimiento pasivo (Piromanía). Cada 4 habilidades, la siguiente aturde: cuando brille un aura a su alrededor, quédate fuera de su alcance.",
+  "contrer": [
+    "Vigila su contador de aturdimiento: cuando esté listo, mantén la distancia.",
+    "Atácala justo después de que use su aturdimiento: es frágil.",
+    "Separaos cuando tenga su R: Tibbers puede aturdir toda una zona de golpe."
+  ],
+  "forces": [
+    "Muchísimo daño de golpe.",
+    "Aturdimiento en área con Tibbers.",
+    "Sencilla y eficaz."
+  ],
+  "faiblesses": [
+    "Poco alcance para una maga.",
+    "Ninguna habilidad de huida.",
+    "Predecible: se ve cuándo está listo su aturdimiento."
+  ],
+  "sorts": {
+    "P": "Cada 4 habilidades, la siguiente aturde.",
+    "Q": "Bola de fuego a un objetivo.",
+    "W": "Cono de llamas.",
+    "E": "Escudo y velocidad para ella o un aliado.",
+    "R": "Invoca a Tibbers, que daña la zona y quema a los enemigos cercanos."
+  },
+  "momentFort": "Muy peligrosa desde el nivel 6 con Tibbers."
+}

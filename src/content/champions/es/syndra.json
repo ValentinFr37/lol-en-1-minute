@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga que coloca esferas oscuras y las lanza contra sus enemigos para una explosión enorme.",
+  "aSurveiller": "Su R (Poder desatado). Todas sus esferas golpean a un campeón: cuantas más haya, más daño hace.",
+  "contrer": [
+    "Aléjate de las esferas: su E las empuja y aturde.",
+    "Con poca vida, quédate fuera de su alcance: su R puede eliminarte de golpe.",
+    "Atácala: es frágil y poco móvil."
+  ],
+  "forces": [
+    "Daño enorme a un solo objetivo.",
+    "Aturde con su E.",
+    "Hostiga desde lejos."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Frágil.",
+    "Tiene que colocar antes sus esferas."
+  ],
+  "sorts": {
+    "P": "Se refuerza recogiendo fragmentos.",
+    "Q": "Coloca una esfera que daña.",
+    "W": "Agarra y lanza una esfera o un súbdito.",
+    "E": "Empuja y aturde con las esferas.",
+    "R": "Bombardea con todas sus esferas."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

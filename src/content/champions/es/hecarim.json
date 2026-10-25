@@ -1,0 +1,27 @@
+{
+  "plan": "Un jinete espectral que carga a toda velocidad contra su objetivo y lo empuja hacia su equipo.",
+  "aSurveiller": "Su E (Carga devastadora). Gana velocidad y su siguiente ataque te empuja: guarda una habilidad de huida cuando cargue.",
+  "contrer": [
+    "Ralentízalo: cuanto más rápido va, más daño hace.",
+    "Guarda una habilidad para su carga (E): te empuja hacia su equipo.",
+    "Separaos cuando lance su R: asusta a todos los enemigos cercanos."
+  ],
+  "forces": [
+    "Muy rápido.",
+    "Empuja y asusta.",
+    "Se cura con su W."
+  ],
+  "faiblesses": [
+    "Vulnerable a las ralentizaciones.",
+    "Pocas huidas tras su E.",
+    "Menos fuerte contra equipos agrupados."
+  ],
+  "sorts": {
+    "P": "Más daño con su velocidad adicional.",
+    "Q": "Corta a su alrededor.",
+    "W": "Resistencias y curación al hacer daño.",
+    "E": "Gana velocidad; el siguiente ataque empuja.",
+    "R": "Carga con sus jinetes y asusta a los enemigos."
+  },
+  "momentFort": "Peligroso desde el nivel 6, muy fuerte a mitad de partida."
+}

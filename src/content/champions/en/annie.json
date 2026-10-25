@@ -1,0 +1,27 @@
+{
+  "plan": "A little mage who blows up a target in a second and stuns a whole area with her bear Tibbers.",
+  "aSurveiller": "Her passive stun (Pyromania). Every 4 spells, the next one stuns: when an aura glows around her, stay out of her range.",
+  "contrer": [
+    "Watch her stun counter: when it's ready, keep your distance.",
+    "Engage her right after she has used her stun: she is fragile.",
+    "Spread out when she has her R: Tibbers can stun a whole area at once."
+  ],
+  "forces": [
+    "Huge burst damage.",
+    "Area stun with Tibbers.",
+    "Simple and effective."
+  ],
+  "faiblesses": [
+    "Short range for a mage.",
+    "No escape spell.",
+    "Predictable: you can see when her stun is ready."
+  ],
+  "sorts": {
+    "P": "Every 4 spells, the next one stuns.",
+    "Q": "Fireball on a target.",
+    "W": "Cone of flames.",
+    "E": "Shield and speed for her or an ally.",
+    "R": "Summons Tibbers, who damages the area and burns nearby enemies."
+  },
+  "momentFort": "Very dangerous from level 6 with Tibbers."
+}

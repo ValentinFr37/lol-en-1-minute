@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo que protege a sus aliados con sus escudos y aparta a todos con sus tornados.",
+  "aSurveiller": "Su R (Monzón). Empuja a todos los enemigos a su alrededor y luego cura a sus aliados: no entres sobre ella en ese momento.",
+  "contrer": [
+    "No entres cuando tenga su R: empuja a todo el mundo.",
+    "Su tornado (Q) crece antes de salir: apártate de su trayectoria.",
+    "Atácala a ella primero: es frágil."
+  ],
+  "forces": [
+    "Escudos excelentes.",
+    "Su R anula las entradas enemigas.",
+    "Empuja y lanza por los aires."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Poco daño.",
+    "Su R se canaliza y se puede interrumpir."
+  ],
+  "sorts": {
+    "P": "Sus aliados van más rápido hacia ella.",
+    "Q": "Tornado que lanza por los aires.",
+    "W": "Ralentiza y daña a un objetivo.",
+    "E": "Escudo sobre un aliado o una torreta.",
+    "R": "Empuja a los enemigos y luego cura a sus aliados."
+  },
+  "momentFort": "Útil desde el principio, muy fuerte en las peleas de equipo."
+}

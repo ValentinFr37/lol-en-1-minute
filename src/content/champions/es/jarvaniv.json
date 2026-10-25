@@ -1,0 +1,27 @@
+{
+  "plan": "Un príncipe de la jungla que carga contra su objetivo con su estandarte y lo encierra en una arena.",
+  "aSurveiller": "Su combo E y luego Q. Clava su estandarte y luego va hacia él lanzándote por los aires: aléjate cuando el estandarte caiga cerca de ti.",
+  "contrer": [
+    "Aléjate del estandarte (E): va a lanzarse hacia él con su Q.",
+    "Dentro de su arena (R), usa una habilidad de desplazamiento para saltar el muro.",
+    "Es fuerte sobre todo al principio: evita las peleas pronto."
+  ],
+  "forces": [
+    "Muy fuerte al principio de la partida.",
+    "Su arena encierra a un objetivo.",
+    "Su combo lanza por los aires."
+  ],
+  "faiblesses": [
+    "Menos fuerte al final de la partida.",
+    "Depende de su combo para entrar.",
+    "Su arena se puede saltar."
+  ],
+  "sorts": {
+    "P": "Primer ataque a un objetivo: daño adicional.",
+    "Q": "Golpe de lanza que reduce la armadura.",
+    "W": "Escudo y ralentiza a su alrededor.",
+    "E": "Clava su estandarte; más velocidad de ataque.",
+    "R": "Salta y encierra la zona en una arena."
+  },
+  "momentFort": "Muy fuerte desde el principio, peligroso desde el nivel 6."
+}

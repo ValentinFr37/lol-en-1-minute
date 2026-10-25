@@ -1,0 +1,27 @@
+{
+  "plan": "A robot support who grabs an enemy with his hook and pulls them into the middle of his team.",
+  "aSurveiller": "His Q (Rocket Grab). He grabs the first enemy hit and pulls them to him: always keep a minion between him and you.",
+  "contrer": [
+    "Stay behind your minions: the grab (Q) stops on the first one hit.",
+    "His grab has a long cooldown: after a miss, it's time to attack.",
+    "Keep a shield or an escape spell: if he grabs you, his E knocks you up right after."
+  ],
+  "forces": [
+    "One successful grab can cost anyone their life.",
+    "Automatic shield when he's low on health.",
+    "His R breaks shields and silences."
+  ],
+  "faiblesses": [
+    "Not very useful when his grab is on cooldown.",
+    "Minions block his grab.",
+    "Low damage on his own."
+  ],
+  "sorts": {
+    "P": "Shield when he is low on health.",
+    "Q": "Hook that grabs and pulls the first enemy hit.",
+    "W": "Gains a lot of speed, then is slowed.",
+    "E": "His next attack knocks the target up.",
+    "R": "Breaks shields and silences nearby enemies."
+  },
+  "momentFort": "Dangerous from level 2 in lane (grab then punch), and at any point of the game."
+}

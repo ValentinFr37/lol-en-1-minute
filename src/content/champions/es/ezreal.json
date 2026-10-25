@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador que hostiga desde lejos con sus proyectiles y lo esquiva todo gracias a su teletransporte.",
+  "aSurveiller": "Su E (Alteración arcana). Se teletransporta para esquivar o rematar: espera a que la haya usado antes de atacarlo.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su Q se detiene en el primer enemigo alcanzado.",
+    "Atácalo justo después de su teletransporte (E): tarda mucho en volver.",
+    "Le molestan los campeones que se acercan rápido: hace poco daño cuerpo a cuerpo."
+  ],
+  "forces": [
+    "Muy difícil de atrapar gracias a su teletransporte.",
+    "Hostiga desde lejos sin arriesgar.",
+    "Su R cruza todo el mapa."
+  ],
+  "faiblesses": [
+    "Poco daño si falla sus proyectiles.",
+    "Poco daño en combate cercano.",
+    "Vulnerable cuando ya ha usado su teletransporte."
+  ],
+  "sorts": {
+    "P": "Gana velocidad de ataque al acertar con sus habilidades.",
+    "Q": "Proyectil que reduce sus enfriamientos si acierta.",
+    "W": "Orbe que explota cuando golpea al objetivo marcado.",
+    "E": "Se teletransporta y dispara al enemigo más cercano.",
+    "R": "Rayo enorme que cruza todo el mapa."
+  },
+  "momentFort": "Constante toda la partida, más peligroso a mitad de partida con sus primeros objetos."
+}

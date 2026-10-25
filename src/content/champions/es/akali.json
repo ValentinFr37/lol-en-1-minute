@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina que desaparece en su humo y encadena desplazamientos para rematar a sus objetivos.",
+  "aSurveiller": "Su W (Velo del crepúsculo). Dentro de su humo es invisible: usa un guardián de control o una habilidad de área para alcanzarla.",
+  "contrer": [
+    "Guarda un guardián de control para su humo (W): revela a Akali.",
+    "Las torretas la ven dentro de su humo: lucha cerca de ellas.",
+    "Tras su E y su R ya no puede escapar: usa tus controles."
+  ],
+  "forces": [
+    "Invisible en su humo.",
+    "Muy móvil con su E y su R.",
+    "Daño enorme a un solo objetivo."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Depende de la energía: se agota rápido.",
+    "Débil si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Golpear a un campeón crea un círculo; salir de él potencia su ataque.",
+    "Q": "Lanza kunais en abanico que ralentizan en el borde.",
+    "W": "Humo que la vuelve invisible.",
+    "E": "Voltereta hacia atrás y shuriken; puede lanzarse al objetivo alcanzado.",
+    "R": "Dos desplazamientos: el segundo remata según la vida que falta."
+  },
+  "momentFort": "Peligrosa desde el nivel 6, muy fuerte a mitad de partida."
+}

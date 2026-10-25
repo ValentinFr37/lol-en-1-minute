@@ -1,0 +1,27 @@
+{
+  "plan": "A Void mage who fires from very far and disintegrates his enemies with a giant beam.",
+  "aSurveiller": "His R (Life Form Disintegration Ray). A long beam that follows the cursor: get out of it fast or interrupt it.",
+  "contrer": [
+    "Interrupt his R with crowd control: he has to channel it.",
+    "Dodge his Q: it splits when it hits something.",
+    "Engage him: he is very fragile and immobile."
+  ],
+  "forces": [
+    "Very long range.",
+    "True damage with his marks.",
+    "His R hurts a huge amount."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "No escape.",
+    "His R can be interrupted."
+  ],
+  "sorts": {
+    "P": "After 3 spells, true damage.",
+    "Q": "Projectile that splits.",
+    "W": "Rift that explodes twice.",
+    "E": "Explosion that knocks up.",
+    "R": "Channelled beam that follows the cursor."
+  },
+  "momentFort": "Strong in the mid game."
+}

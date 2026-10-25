@@ -1,0 +1,27 @@
+{
+  "plan": "Un mutante acorazado que lanza a sus enemigos por encima de él y ejecuta a los que están demasiado débiles.",
+  "aSurveiller": "Su R (Miedo más allá de la muerte). Por debajo del 25 % de vida te atrae y te ejecuta: cúrate o mantente lejos.",
+  "contrer": [
+    "Con poca vida, mantente lejos de él: su R puede ejecutarte.",
+    "Esquiva su embestida (E): te lanza por detrás de él.",
+    "No luches a su alrededor: sus patas escupen fuego."
+  ],
+  "forces": [
+    "Ejecuta con su R.",
+    "Resistente.",
+    "Mucho daño de cerca."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Fácil de mantener a distancia.",
+    "Su E se ve venir."
+  ],
+  "sorts": {
+    "P": "Sus patas escupen llamas.",
+    "Q": "Torpedo que ralentiza.",
+    "W": "Dispara sin parar a su alrededor.",
+    "E": "Carga y lanza por encima de él.",
+    "R": "Taladro que ejecuta por debajo del 25 % de vida."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

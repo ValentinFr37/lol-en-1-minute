@@ -1,0 +1,27 @@
+{
+  "plan": "A fighter who jumps from target to target with her blades and becomes very strong once stacked.",
+  "aSurveiller": "Her E (Flawless Duet). If you're caught between her two blades you are stunned and marked: she can then chain her dashes onto you.",
+  "contrer": [
+    "Get out of the path between her two blades (E): otherwise you are stunned.",
+    "Don't let her reach 4 passive stacks: she becomes much stronger.",
+    "Push your minion wave: without low-health minions she can't bounce with her Q."
+  ],
+  "forces": [
+    "Very mobile by bouncing off minions.",
+    "Stuns with her E.",
+    "Strong in duels with her stacks."
+  ],
+  "faiblesses": [
+    "Weak without minions around.",
+    "Hard to play.",
+    "Vulnerable to crowd control."
+  ],
+  "sorts": {
+    "P": "Gains attack speed when hitting with her spells.",
+    "Q": "Dash that resets if the target is marked or dies.",
+    "W": "Charges an attack while reducing damage taken.",
+    "E": "Two blades: those caught between them are stunned.",
+    "R": "Wall of blades that damages and slows."
+  },
+  "momentFort": "Strong in the early game, very dangerous from level 6."
+}

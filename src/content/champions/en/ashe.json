@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who slows with every attack and can stun from very far with her ice arrow.",
+  "aSurveiller": "Her R (Enchanted Crystal Arrow). It crosses the map and stuns longer if it comes from far away: be careful when you are alone.",
+  "contrer": [
+    "Engage her in melee range: she has no escape.",
+    "Don't walk in a straight line in narrow corridors: her arrow (R) flies straight.",
+    "Don't chase her too far: each of her attacks slows you."
+  ],
+  "forces": [
+    "Slows with every basic attack.",
+    "Her R starts fights from very far.",
+    "Gives vision anywhere with her hawk (E)."
+  ],
+  "faiblesses": [
+    "No escape spell.",
+    "Immobile.",
+    "Vulnerable if an assassin reaches her."
+  ],
+  "sorts": {
+    "P": "Her attacks slow the target.",
+    "Q": "Increases her attack speed and fires several arrows at once.",
+    "W": "Fan of arrows that slows.",
+    "E": "Sends her hawk to reveal an area.",
+    "R": "Arrow that crosses the map and stuns."
+  },
+  "momentFort": "Useful from the start, and dangerous in the mid game with her attack speed items."
+}

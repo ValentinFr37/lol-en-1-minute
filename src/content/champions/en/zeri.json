@@ -1,0 +1,27 @@
+{
+  "plan": "A very fast electric marksman who runs along walls and shoots through enemies.",
+  "aSurveiller": "Her R (Lightning Crash). She becomes much faster and hits harder: back off when she activates it.",
+  "contrer": [
+    "Back off during her R: she becomes very fast and dangerous.",
+    "Engage her early: she is weak in the early game.",
+    "Dodge her W: it goes through walls."
+  ],
+  "forces": [
+    "Very mobile.",
+    "Regular shield.",
+    "Her R makes her dangerous."
+  ],
+  "faiblesses": [
+    "Weak in the early game.",
+    "Fragile.",
+    "Little crowd control."
+  ],
+  "sorts": {
+    "P": "Shield and electric attacks.",
+    "Q": "Burst of bullets.",
+    "W": "Laser that slows.",
+    "E": "Dash that goes over walls.",
+    "R": "Electric nova and speed."
+  },
+  "momentFort": "Weak in the early game, strong in the late game."
+}

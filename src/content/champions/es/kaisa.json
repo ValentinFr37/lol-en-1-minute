@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que cae sobre su objetivo con su definitiva y hace explotar sus marcas de plasma.",
+  "aSurveiller": "Su R (Instinto asesino). Se lanza hacia un campeón marcado por su plasma: no dejes que marquen a tus aliados.",
+  "contrer": [
+    "Esquiva su W: te marca y le da el alcance de su R.",
+    "Quedaos agrupados: su ráfaga (Q) es más fuerte contra un objetivo aislado.",
+    "Atácala tras su R: es su único desplazamiento."
+  ],
+  "forces": [
+    "Se lanza sobre su objetivo con su R.",
+    "Grandes explosiones de plasma.",
+    "Se vuelve invisible con su E mejorada."
+  ],
+  "faiblesses": [
+    "Frágil ante las entradas enemigas.",
+    "Depende de su R para recolocarse.",
+    "Menos fuerte si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Sus ataques acumulan plasma que explota.",
+    "Q": "Ráfaga de misiles, más fuerte contra un objetivo aislado.",
+    "W": "Rayo de largo alcance que marca.",
+    "E": "Gana velocidad; invisible una vez mejorada.",
+    "R": "Se lanza hacia un campeón marcado con un escudo."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida."
+}

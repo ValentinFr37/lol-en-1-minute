@@ -1,0 +1,27 @@
+{
+  "plan": "Una rata tiradora que se vuelve invisible para sorprender a sus enemigos y dispara a través de todo un equipo.",
+  "aSurveiller": "Su Q (Emboscada). Se vuelve invisible y aparece de golpe: compra un guardián de control para revelarlo.",
+  "contrer": [
+    "Compra un guardián de control: revela su Q.",
+    "Atácalo: es muy frágil.",
+    "No os pongáis en fila: su R atraviesa a todo el equipo."
+  ],
+  "forces": [
+    "Invisible con su Q.",
+    "Su R alcanza a varios enemigos.",
+    "Veneno que debilita."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Poco móvil.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Sus ataques envenenan.",
+    "Q": "Se vuelve invisible y más rápido.",
+    "W": "Tonel que ralentiza.",
+    "E": "Hace explotar el veneno.",
+    "R": "Disparos de largo alcance que atraviesan."
+  },
+  "momentFort": "Pico en el nivel 6 con su R. Muy fuerte al final de la partida."
+}

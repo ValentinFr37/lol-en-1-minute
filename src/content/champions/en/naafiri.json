@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin leading a pack of dogs that leap onto her target.",
+  "aSurveiller": "Her R (Hounds' Pursuit). She and her pack swoop onto a champion: when you are low on health, stay near your allies.",
+  "contrer": [
+    "Stay near your allies: her dogs hurt a lot on an isolated target.",
+    "Kill her dogs with area spells: her pack deals her damage.",
+    "Use your crowd control after her E: she has no escape left."
+  ],
+  "forces": [
+    "Big pack that deals damage.",
+    "Very mobile.",
+    "Finishes off isolated targets."
+  ],
+  "faiblesses": [
+    "Vulnerable to area spells.",
+    "Fragile if caught.",
+    "Relies on her pack."
+  ],
+  "sorts": {
+    "P": "Her pack attacks her targets.",
+    "Q": "Daggers that cause bleeding.",
+    "W": "Becomes untargetable and empowers her pack.",
+    "E": "Dash that heals the pack.",
+    "R": "She and her pack swoop onto a champion."
+  },
+  "momentFort": "She has to farm first. Dangerous from level 6 with her R, and strong in the mid game."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A Void assassin, weak early, who teleports everywhere in the late game.",
+  "aSurveiller": "His R (Riftwalk). He teleports onto you and each use deals more damage: in the late game he can chain it.",
+  "contrer": [
+    "Attack him early: he is very weak before level 6.",
+    "Physical damage is effective: he resists magic.",
+    "Try to end the game quickly: he becomes very strong in the late game."
+  ],
+  "forces": [
+    "Teleports with his R.",
+    "Resists magic damage.",
+    "Very strong in the late game."
+  ],
+  "faiblesses": [
+    "Very weak in the early game.",
+    "Vulnerable to physical damage.",
+    "Fragile if caught."
+  ],
+  "sorts": {
+    "P": "Reduces magic damage and passes through units.",
+    "Q": "Orb that interrupts and grants a shield.",
+    "W": "His attacks deal bonus magic damage.",
+    "E": "Wave that slows in a cone.",
+    "R": "Teleports; stronger and stronger if chained."
+  },
+  "momentFort": "Weak early, fearsome in the late game."
+}

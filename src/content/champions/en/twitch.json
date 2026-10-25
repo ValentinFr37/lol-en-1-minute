@@ -1,0 +1,27 @@
+{
+  "plan": "A rat marksman who turns invisible to surprise his enemies and shoots through a whole team.",
+  "aSurveiller": "His Q (Ambush). He turns invisible and pops out: buy a control ward to reveal him.",
+  "contrer": [
+    "Buy a control ward: it reveals his Q.",
+    "Engage him: he is very fragile.",
+    "Don't line up: his R pierces through the whole team."
+  ],
+  "forces": [
+    "Invisible with his Q.",
+    "His R hits several enemies.",
+    "Poison that weakens."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Immobile.",
+    "Weak in the early game."
+  ],
+  "sorts": {
+    "P": "His attacks poison.",
+    "Q": "Turns invisible and faster.",
+    "W": "Cask that slows.",
+    "E": "Detonates the poison.",
+    "R": "Long-range shots that pierce."
+  },
+  "momentFort": "Spike at level 6 with his R. Very strong in the late game."
+}

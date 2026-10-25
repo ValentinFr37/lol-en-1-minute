@@ -1,0 +1,27 @@
+{
+  "plan": "Un monje de la jungla muy móvil que cae sobre un objetivo y lo manda de una patada al centro de su equipo.",
+  "aSurveiller": "Su R (Ira del dragón). Puede mandarte de una patada hacia su equipo: no te quedes aislado delante de tus aliados.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su Q se detiene en el primer enemigo alcanzado.",
+    "Guarda una habilidad de huida para después de su R: una vez pateado, hay que escapar rápido.",
+    "Es fuerte sobre todo al principio: aprovecha el final de la partida, cuando pierde impacto."
+  ],
+  "forces": [
+    "Muy móvil gracias a su Q y su W.",
+    "Su R puede mandar a un objetivo al centro de su equipo.",
+    "Muy fuerte al principio de la partida."
+  ],
+  "faiblesses": [
+    "Pierde poder al final de la partida.",
+    "Depende de su Q para alcanzar a su objetivo.",
+    "Poco daño si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Tras una habilidad, sus 2 siguientes ataques son más rápidos.",
+    "Q": "Onda que marca al primer enemigo; luego puede lanzarse hacia él.",
+    "W": "Se lanza hacia un aliado con un escudo para ambos.",
+    "E": "Golpea el suelo y revela, luego ralentiza a los enemigos alcanzados.",
+    "R": "Patada que empuja al objetivo y lanza por los aires a quien choque."
+  },
+  "momentFort": "Muy fuerte desde el principio, sobre todo entre los niveles 3 y 6."
+}

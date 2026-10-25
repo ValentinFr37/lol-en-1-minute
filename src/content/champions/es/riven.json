@@ -1,0 +1,27 @@
+{
+  "plan": "Una luchadora muy móvil que encadena habilidades y ataques para ganar los intercambios.",
+  "aSurveiller": "Su Q (Alas rotas). La lanza tres veces y el 3.er golpe te lanza por los aires: retrocede tras el segundo golpe.",
+  "contrer": [
+    "Retrocede tras su segunda Q: la tercera te lanza por los aires.",
+    "Su W aturde a su alrededor: no te pegues a ella.",
+    "Intercambia cuando sus habilidades estén en enfriamiento: sin ellas no tiene nada."
+  ],
+  "forces": [
+    "Muy móvil gracias a su Q y su E.",
+    "Daño enorme en intercambios cortos.",
+    "Su R le da un golpe a distancia para rematar."
+  ],
+  "faiblesses": [
+    "Débil cuando sus habilidades están en enfriamiento.",
+    "Frágil ante los controles.",
+    "Difícil de jugar, castigable si se equivoca."
+  ],
+  "sorts": {
+    "P": "Sus habilidades cargan su espada: sus siguientes ataques hacen más daño.",
+    "Q": "Tres golpes encadenados; el 3.º lanza por los aires.",
+    "W": "Aturde a los enemigos a su alrededor.",
+    "E": "Avanza y gana un escudo.",
+    "R": "Más daño y alcance, y un golpe a distancia para rematar."
+  },
+  "momentFort": "Discreta antes del nivel 6. Brilla a mitad de partida: con 1 o 2 objetos puede eliminar a un objetivo con un solo combo."
+}

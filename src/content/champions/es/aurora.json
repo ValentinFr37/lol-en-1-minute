@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga coneja que salta de un mundo a otro para volverse invisible y atrapar a sus enemigos.",
+  "aSurveiller": "Su R (Entre mundos). Crea una zona que ralentiza y en la que se teletransporta de un borde a otro: sal de ella rápido.",
+  "contrer": [
+    "Sal de la zona de su R: dentro estás ralentizado y ella se teletransporta a tu alrededor.",
+    "Tras su W se vuelve invisible: guarda una habilidad de área o un guardián.",
+    "Atácala cuando haya usado su E y su W: ya no tiene huida."
+  ],
+  "forces": [
+    "Muy móvil y escurridiza.",
+    "Se cura gracias a los espíritus.",
+    "Su R atrapa a varios enemigos."
+  ],
+  "faiblesses": [
+    "Frágil si la atrapan.",
+    "Sus habilidades tienen que acertar.",
+    "Débil si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Los espíritus de los enemigos heridos la siguen y la curan.",
+    "Q": "Proyectil que maldice; puede hacerlo volver.",
+    "W": "Salta y se vuelve invisible un instante.",
+    "E": "Bola que ralentiza y luego salta hacia atrás.",
+    "R": "Zona que ralentiza y en la que se teletransporta."
+  },
+  "momentFort": "Fuerte al principio de la partida y peligrosa desde el nivel 6."
+}

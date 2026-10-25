@@ -1,0 +1,27 @@
+{
+  "plan": "A pirate who chain-detonates his powder kegs and bombards the whole map.",
+  "aSurveiller": "His kegs (E). He detonates them in a chain from a distance: stay away from kegs, even if they seem far from him.",
+  "contrer": [
+    "Destroy his kegs (E) when they are weak: it stops him from using them.",
+    "Never stand near a keg: the explosions chain.",
+    "Engage him early: he is fragile in the early game."
+  ],
+  "forces": [
+    "Huge area damage with his kegs.",
+    "His R hits anywhere on the map.",
+    "Removes crowd control with his W."
+  ],
+  "faiblesses": [
+    "Weak in the early game.",
+    "Hard to play.",
+    "Immobile."
+  ],
+  "sorts": {
+    "P": "His attacks regularly burn.",
+    "Q": "Shot that gives gold if it kills.",
+    "W": "Removes crowd control and heals.",
+    "E": "Keg that explodes when he hits it.",
+    "R": "Bombards an area anywhere on the map."
+  },
+  "momentFort": "Weak early, very strong in the late game."
+}

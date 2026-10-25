@@ -1,0 +1,27 @@
+{
+  "plan": "A spectral rider who charges at full speed at his target and knocks it back towards his team.",
+  "aSurveiller": "His E (Devastating Charge). He gains speed and his next attack knocks you back: keep an escape spell when he charges.",
+  "contrer": [
+    "Slow him: the faster he goes, the more damage he deals.",
+    "Keep a spell for his charge (E): it knocks you towards his team.",
+    "Spread out when he casts his R: it fears all nearby enemies."
+  ],
+  "forces": [
+    "Very fast.",
+    "Knocks back and fears.",
+    "Heals with his W."
+  ],
+  "faiblesses": [
+    "Vulnerable to slows.",
+    "Few escapes after his E.",
+    "Weaker against grouped teams."
+  ],
+  "sorts": {
+    "P": "More damage with his bonus speed.",
+    "Q": "Slashes around him.",
+    "W": "Resistances and healing when dealing damage.",
+    "E": "Gains speed; the next attack knocks back.",
+    "R": "Charges with his riders and fears enemies."
+  },
+  "momentFort": "Dangerous from level 6, very strong in the mid game."
+}

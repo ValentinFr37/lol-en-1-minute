@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora que bloquea una habilidad con su escudo y acelera a todo su equipo.",
+  "aSurveiller": "Su E (Escudo de hechizos). Bloquea una habilidad: lanza primero una habilidad pequeña y luego la grande.",
+  "contrer": [
+    "Lanza una habilidad pequeña para que use su escudo (E), y luego tu gran habilidad.",
+    "Atácala: tiene pocas huidas.",
+    "Su R acelera a todo su equipo: retrocede cuando la active."
+  ],
+  "forces": [
+    "Bloquea una habilidad.",
+    "Su R acelera a todo el equipo.",
+    "Daño en área que rebota."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Frágil.",
+    "Depende de su escudo."
+  ],
+  "sorts": {
+    "P": "Más rápida al atacar.",
+    "Q": "Cuchilla bumerán.",
+    "W": "Ataques que rebotan.",
+    "E": "Bloquea una habilidad.",
+    "R": "Acelera a todo el equipo."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

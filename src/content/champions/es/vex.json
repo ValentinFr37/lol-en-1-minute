@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga enfurruñada que aterroriza a sus enemigos y castiga sobre todo a quienes hacen desplazamientos.",
+  "aSurveiller": "Su R (Estallido sombrío). Te marca y luego se lanza hacia ti: si mueres, puede relanzarla al instante.",
+  "contrer": [
+    "Evita desplazarte cerca de ella: te marca para aterrorizarte.",
+    "Esquiva su R: la marca le permite lanzarse hacia ti.",
+    "Atácala cuando haya usado su W: es su escudo."
+  ],
+  "forces": [
+    "Aterroriza con sus habilidades.",
+    "Castiga los desplazamientos.",
+    "Su R se reinicia tras una eliminación."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil fuera de su R.",
+    "Sus habilidades se ven venir."
+  ],
+  "sorts": {
+    "P": "A menudo, su siguiente habilidad aterroriza.",
+    "Q": "Proyectil que acelera.",
+    "W": "Escudo y daño a su alrededor.",
+    "E": "Zona que ralentiza y marca.",
+    "R": "Marca a un campeón y se lanza hacia él."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador muy resistente y sencillo: se lanza, gira sobre sí mismo y remata a los enemigos debilitados con su definitiva.",
+  "aSurveiller": "Su R (Justicia demaciana). Hace más daño cuanta más vida te falte: por debajo de la mitad, no te quedes a su alcance.",
+  "contrer": [
+    "Golpéalo a menudo: su pasiva solo lo cura si no ha recibido daño en unos segundos.",
+    "Retrocede cuando gire (E): hace mucho daño de cerca, pero no puede seguirte de lejos.",
+    "Los campeones a distancia lo dominan: hostígalo, solo tiene un sprint (Q) para alcanzarte."
+  ],
+  "forces": [
+    "Muy resistente y se cura solo fuera de combate.",
+    "Su definitiva remata a los enemigos debilitados.",
+    "Muy sencillo de jugar, rara vez comete grandes errores."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad a distancia.",
+    "Fácil de hostigar desde lejos.",
+    "Fácil de ralentizar y esquivar cuando ya ha usado su Q."
+  ],
+  "sorts": {
+    "P": "Se regenera rápido si no ha recibido daño hace poco.",
+    "Q": "Acelera, elimina las ralentizaciones y luego golpea y silencia.",
+    "W": "Escudo y resistencia a los controles durante un instante.",
+    "E": "Gira sobre sí mismo y daña a los enemigos a su alrededor.",
+    "R": "Ejecución: más daño según la vida que le falta al objetivo."
+  },
+  "momentFort": "Sólido desde el principio y temible desde el nivel 6 gracias a su ejecución."
+}

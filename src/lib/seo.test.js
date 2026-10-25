@@ -5,7 +5,7 @@ const darius = {
   id: 'Darius',
   name: 'Darius',
   title: 'Main de Noxus',
-  roles: ['Combattant', 'Tank'],
+  roles: ['Fighter', 'Tank'],
 }
 const fiche = {
   contrer: ["Ne reste pas à portée de son E : c'est lui qui déclenche tous ses combats."],
@@ -23,6 +23,24 @@ describe('pageMeta', () => {
     const meta = pageMeta({ route: { name: 'home' } })
     expect(meta.canonical).toBe(`${SITE_URL}/`)
     expect(meta.robots).toBe('index,follow')
+  })
+
+  it('relie les versions traduites de chaque page', () => {
+    const meta = pageMeta({ route: { name: 'champion', id: 'Darius', lang: 'en' }, champion: darius })
+    expect(meta.canonical).toBe(`${SITE_URL}/en/champion/Darius`)
+    expect(meta.title).toBe('How to counter Darius in 1 minute | LoL en 1 minute')
+    expect(meta.alternates.map((alt) => alt.href)).toEqual([
+      `${SITE_URL}/champion/Darius`,
+      `${SITE_URL}/en/champion/Darius`,
+      `${SITE_URL}/es/champion/Darius`,
+    ])
+    const head = renderHead(meta)
+    expect(head).toMatch(/hreflang="x-default" href="[^"]+\/champion\/Darius"/)
+    expect(head).toMatch(/og:locale" content="en_US"/)
+  })
+
+  it("traduit l'accueil", () => {
+    expect(pageMeta({ route: { name: 'home', lang: 'es' } }).canonical).toBe(`${SITE_URL}/es`)
   })
 
   it('donne à chaque champion un titre et une adresse uniques', () => {

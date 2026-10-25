@@ -1,0 +1,27 @@
+{
+  "plan": "An inventor who switches between hammer and cannon to poke from afar then hit hard up close.",
+  "aSurveiller": "His cannon Q through his gate (E). The accelerated projectile deals a huge amount of damage: sidestep it.",
+  "contrer": [
+    "Dodge his accelerated Q: it's his biggest source of damage.",
+    "Engage him up close: he has few escapes.",
+    "Avoid fighting in his lane early on: he is very strong early."
+  ],
+  "forces": [
+    "Very strong poke from afar.",
+    "Two forms to adapt.",
+    "Knocks back with his hammer."
+  ],
+  "faiblesses": [
+    "Fragile if caught.",
+    "Weaker in the late game.",
+    "Hard to play."
+  ],
+  "sorts": {
+    "P": "Gains speed when switching weapons.",
+    "Q": "Hammer: leaps; cannon: explosive orb.",
+    "W": "Hammer: electric field; cannon: rapid shots.",
+    "E": "Hammer: knocks back; cannon: gate that speeds up.",
+    "R": "Switches between hammer and cannon."
+  },
+  "momentFort": "Very strong from the start and in the mid game."
+}

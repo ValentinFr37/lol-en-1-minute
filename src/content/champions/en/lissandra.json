@@ -1,0 +1,27 @@
+{
+  "plan": "An ice witch who roots several enemies and can protect herself by freezing herself.",
+  "aSurveiller": "Her R (Frozen Tomb). On you, it stuns you; on herself, she becomes untouchable: save your damage for after.",
+  "contrer": [
+    "When she freezes herself with her R, wait for it to end: she is untouchable.",
+    "Don't stick to her: her W roots around her.",
+    "Watch her claw (E): she can teleport to it."
+  ],
+  "forces": [
+    "Lots of roots.",
+    "Can protect herself with her R.",
+    "Engages with her claw."
+  ],
+  "faiblesses": [
+    "Short range.",
+    "Weak in the late game.",
+    "Relies on her E to escape."
+  ],
+  "sorts": {
+    "P": "Champions who die near her become ice thralls.",
+    "Q": "Ice shard that slows.",
+    "W": "Roots around her.",
+    "E": "Claw she teleports to.",
+    "R": "Stuns a target or makes her untouchable."
+  },
+  "momentFort": "Strong in the mid game."
+}

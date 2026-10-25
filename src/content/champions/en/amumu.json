@@ -1,0 +1,27 @@
+{
+  "plan": "A tank mummy who flings himself at his target with his bandage and stuns a whole team with his ultimate.",
+  "aSurveiller": "His Q (Bandage Toss). He grabs the first enemy hit, pulls himself to them and stuns them: stay behind your minions so they block the bandage.",
+  "contrer": [
+    "Spread out in team fights: his R stuns everyone around him.",
+    "Stay behind your minions: his bandage (Q) stops on the first enemy hit.",
+    "Favour magic damage: his E mostly reduces physical damage."
+  ],
+  "forces": [
+    "His R can stun a whole team.",
+    "Two bandages to engage or catch up.",
+    "Very tanky and simple to play."
+  ],
+  "faiblesses": [
+    "Low damage without his spells.",
+    "Predictable: everything depends on his bandage.",
+    "Weak if he can't reach melee range."
+  ],
+  "sorts": {
+    "P": "His attacks curse: the target takes true damage on top of magic damage.",
+    "Q": "Bandage that pulls him to the enemy hit and stuns.",
+    "W": "Aura that constantly damages nearby enemies.",
+    "E": "Reduces physical damage taken and hurts around him.",
+    "R": "Stuns and damages all enemies around him."
+  },
+  "momentFort": "From level 6 with his R, especially in team fights."
+}

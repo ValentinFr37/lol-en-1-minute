@@ -1,0 +1,27 @@
+{
+  "plan": "A boy and his yeti who roll a giant snowball to knock up their enemies.",
+  "aSurveiller": "His W (Biggest Snowball Ever!). The longer it rolls, the more it hurts and knocks you up: step out of its path.",
+  "contrer": [
+    "Step out of the way of his snowball (W): you can see it coming.",
+    "Interrupt his R with crowd control: he has to channel it.",
+    "Get out of his R fast: otherwise you take a big explosion."
+  ],
+  "forces": [
+    "Engages from far with his snowball.",
+    "His R deals big area damage.",
+    "Very tanky."
+  ],
+  "faiblesses": [
+    "His R can be interrupted.",
+    "His snowball is easy to see coming.",
+    "Low damage without his R."
+  ],
+  "sorts": {
+    "P": "Empowers Willump and a nearby ally.",
+    "Q": "Bite that heals him.",
+    "W": "Snowball that grows and knocks up.",
+    "E": "Snowballs that slow then root.",
+    "R": "Blizzard that slows then explodes."
+  },
+  "momentFort": "Strong early in the jungle. He reaches level 6 quickly, a big advantage for the first fights."
+}

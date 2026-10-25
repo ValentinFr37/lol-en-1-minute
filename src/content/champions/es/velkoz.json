@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago del Vacío que dispara desde muy lejos y desintegra a sus enemigos con un rayo gigante.",
+  "aSurveiller": "Su R (Rayo desintegrador de seres vivos). Un rayo largo que sigue al cursor: sal rápido de él o interrúmpelo.",
+  "contrer": [
+    "Interrumpe su R con un control: tiene que canalizarla.",
+    "Esquiva su Q: se divide cuando toca algo.",
+    "Atácalo: es muy frágil y poco móvil."
+  ],
+  "forces": [
+    "Alcance muy largo.",
+    "Daño verdadero con sus marcas.",
+    "Su R hace muchísimo daño."
+  ],
+  "faiblesses": [
+    "Muy frágil.",
+    "Ninguna huida.",
+    "Su R se puede interrumpir."
+  ],
+  "sorts": {
+    "P": "Tras 3 habilidades, daño verdadero.",
+    "Q": "Proyectil que se divide.",
+    "W": "Grieta que explota dos veces.",
+    "E": "Explosión que lanza por los aires.",
+    "R": "Rayo canalizado que sigue al cursor."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A fawn jungler who runs faster and faster and puts a whole team to sleep with her ultimate.",
+  "aSurveiller": "Her R (Lilting Lullaby). Everyone she has hit falls asleep: don't stay grouped after getting hit.",
+  "contrer": [
+    "After being hit by her spells, move away: her R puts you to sleep.",
+    "Dodge the centre of her W: it deals a huge amount of damage.",
+    "Slow her: her speed is her defence."
+  ],
+  "forces": [
+    "Very fast.",
+    "Her R puts several enemies to sleep.",
+    "Big area damage."
+  ],
+  "faiblesses": [
+    "Fragile when slowed.",
+    "Few defences.",
+    "Relies on speed."
+  ],
+  "sorts": {
+    "P": "Her spells burn based on the target's max health.",
+    "Q": "Spinning strike; she gains speed.",
+    "W": "Strike in the centre that hurts a lot.",
+    "E": "Seed that slows.",
+    "R": "Puts to sleep enemies hit by her spells."
+  },
+  "momentFort": "Dangerous from level 6."
+}

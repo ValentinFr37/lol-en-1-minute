@@ -1,0 +1,27 @@
+{
+  "plan": "A peaceful tree jungler who protects his allies and roots enemies with his vines.",
+  "aSurveiller": "His Q (Rootcaller). It roots you and his allies can leap onto you: stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: his Q stops on the first one hit.",
+    "Kill Daisy (R) first if she hits your allies: she knocks them up.",
+    "He deals almost no damage: focus on his allies."
+  ],
+  "forces": [
+    "Protects his allies well with his E.",
+    "His Q lets his allies leap in.",
+    "Daisy knocks up."
+  ],
+  "faiblesses": [
+    "Very little damage.",
+    "Fragile when alone.",
+    "Relies on his allies."
+  ],
+  "sorts": {
+    "P": "Clears jungle camps without fighting them.",
+    "Q": "Vine that roots; allies can leap onto the target.",
+    "W": "Grows bushes.",
+    "E": "Shield that explodes and slows.",
+    "R": "Summons Daisy, who knocks up."
+  },
+  "momentFort": "Useful all game, especially in team fights."
+}

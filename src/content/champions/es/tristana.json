@@ -1,0 +1,27 @@
+{
+  "plan": "Una pequeña tiradora que salta sobre sus enemigos y hace explotar su carga sobre su objetivo.",
+  "aSurveiller": "Su E (Carga explosiva). La bomba explota sobre ti tras unos ataques: retrocede cuando crezca sobre ti.",
+  "contrer": [
+    "Retrocede cuando su bomba (E) esté sobre ti: va a explotar pronto.",
+    "Contrólala tras su W: es su única huida.",
+    "Atácala pronto: su alcance aumenta con los niveles."
+  ],
+  "forces": [
+    "Muy fuerte al final de la partida.",
+    "Salta con su W.",
+    "Empuja rápido las torres."
+  ],
+  "faiblesses": [
+    "Frágil al principio de la partida.",
+    "Depende de su W para huir.",
+    "Pocos controles."
+  ],
+  "sorts": {
+    "P": "Su alcance aumenta con los niveles.",
+    "Q": "Gran velocidad de ataque.",
+    "W": "Salto que ralentiza al aterrizar.",
+    "E": "Bomba que explota tras unos ataques.",
+    "R": "Bala de cañón que empuja a un enemigo."
+  },
+  "momentFort": "Fuerte al final de la partida."
+}

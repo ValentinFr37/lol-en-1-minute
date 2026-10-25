@@ -1,0 +1,27 @@
+{
+  "plan": "A priestess who summons tentacles from walls and becomes terrifying when you fight in her zone.",
+  "aSurveiller": "Her E (Test of Spirit). She rips out your spirit: if you stay near it, her tentacles hit you. Dodge it behind your minions.",
+  "contrer": [
+    "Stay behind your minions: her E stops on the first one hit.",
+    "If your spirit is ripped out, move away from it: otherwise you get tethered to her.",
+    "Don't fight near walls during her R: her tentacles spawn everywhere."
+  ],
+  "forces": [
+    "Huge area damage near walls.",
+    "Heals with her tentacles.",
+    "Very strong when fighting several enemies."
+  ],
+  "faiblesses": [
+    "Slow and immobile.",
+    "Relies on her E to win a trade.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Spawns tentacles that heal her.",
+    "Q": "Tentacle that slams in a line.",
+    "W": "Leaps and makes nearby tentacles strike.",
+    "E": "Rips out an enemy's spirit; hitting it hurts the real body.",
+    "R": "Slams the ground and spawns a tentacle for each enemy."
+  },
+  "momentFort": "Strong from the start, very dangerous from level 6."
+}

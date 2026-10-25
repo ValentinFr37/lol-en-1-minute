@@ -1,0 +1,27 @@
+{
+  "plan": "A forge god tank who knocks his target up and upgrades his team's items.",
+  "aSurveiller": "His R (Call of the Forge God). A lava ram comes back towards him and knocks up: step out of its path.",
+  "contrer": [
+    "Stay away from walls: his E stuns you there.",
+    "Step out of the path of his R: he recasts it to knock up.",
+    "Percent health damage is effective against him."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Lots of crowd control.",
+    "Upgrades his team's items."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Slow.",
+    "Relies on walls for some combos."
+  ],
+  "sorts": {
+    "P": "Boosts his resistances and can forge items.",
+    "Q": "Fissure that creates a pillar.",
+    "W": "Fire breath that makes enemies brittle.",
+    "E": "Charge that stuns against a wall.",
+    "R": "Elemental that comes back and knocks up."
+  },
+  "momentFort": "Useful all game, very strong in team fights."
+}

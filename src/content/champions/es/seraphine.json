@@ -1,0 +1,27 @@
+{
+  "plan": "Una cantante maga que protege a sus aliados y hechiza a todo un equipo con su definitiva.",
+  "aSurveiller": "Su R (Bis). Una onda que hechiza y se alarga con cada campeón alcanzado: apartaos de la línea.",
+  "contrer": [
+    "Apartaos de la línea de su R: se alarga con cada campeón alcanzado.",
+    "Atácala: es frágil.",
+    "Su E inmoviliza si ya estás ralentizado: evítala."
+  ],
+  "forces": [
+    "Su R hechiza a varios enemigos.",
+    "Protege y cura a sus aliados.",
+    "Lanza a menudo una habilidad dos veces."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Sus habilidades tienen que acertar."
+  ],
+  "sorts": {
+    "P": "Cada 3 habilidades, la siguiente se lanza dos veces.",
+    "Q": "Nota aguda que daña en área.",
+    "W": "Escudo y curación para sus aliados.",
+    "E": "Ralentiza o inmoviliza en línea.",
+    "R": "Hechizo en línea que se alarga."
+  },
+  "momentFort": "Peligrosa desde el nivel 6 y cada vez más fuerte hasta el final de la partida."
+}

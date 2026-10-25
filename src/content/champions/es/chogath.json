@@ -1,0 +1,27 @@
+{
+  "plan": "Un monstruo del Vacío que crece cada vez que devora a un enemigo con su definitiva.",
+  "aSurveiller": "Su R (Festín). Devora a un objetivo con daño verdadero: cuando tengas poca vida, mantente lejos de él.",
+  "contrer": [
+    "Con poca vida, aléjate: su R te remata con daño verdadero.",
+    "Esquiva su Q: la zona se ve antes de lanzarte por los aires.",
+    "Su W te silencia: no lances tus habilidades a su alcance."
+  ],
+  "forces": [
+    "Crece y gana vida con cada Festín.",
+    "Su R ejecuta con daño verdadero.",
+    "Lanza por los aires y silencia."
+  ],
+  "faiblesses": [
+    "Lento y poco móvil.",
+    "Su Q tarda en caer.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Se cura al eliminar unidades.",
+    "Q": "El suelo se rompe y lanza por los aires.",
+    "W": "Grito que silencia.",
+    "E": "Sus ataques lanzan pinchos que ralentizan.",
+    "R": "Devora con daño verdadero; crece si mata."
+  },
+  "momentFort": "Peligroso desde el nivel 6, cada vez más resistente a lo largo de la partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Un apoyo asesino que atrae con su arpón y ejecuta a los enemigos con poca vida.",
+  "aSurveiller": "Su R (Muerte de las profundidades). Ejecuta a cualquier enemigo por debajo de cierto umbral de vida: con poca vida, mantente lejos de él.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su arpón (Q) atrae al primer enemigo alcanzado.",
+    "Cuando tengas poca vida, retrocede: su R te ejecuta en cuanto tu vida baja de cierto umbral.",
+    "No lo persigas en la niebla: se cura cuando no lo ven."
+  ],
+  "forces": [
+    "Ejecuta a varios enemigos con su R.",
+    "Muy móvil con su W y su E.",
+    "Se cura cuando desaparece de la vista."
+  ],
+  "faiblesses": [
+    "No gana vida con sus objetos: frágil.",
+    "Depende de su arpón para entrar.",
+    "Débil si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Se cura cuando no lo ven; su vida adicional se convierte en daño.",
+    "Q": "Arpón que atrae a un enemigo o lo atraviesa.",
+    "W": "Se camufla y gana mucha velocidad.",
+    "E": "Se lanza; un fantasma vuelve y aturde a quien atraviesa.",
+    "R": "Ejecuta a los enemigos con poca vida; puede relanzarla si mata."
+  },
+  "momentFort": "Peligroso desde el nivel 2 y temible en combate desde el nivel 6."
+}

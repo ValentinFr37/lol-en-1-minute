@@ -1,0 +1,27 @@
+{
+  "plan": "An uncontrollable vampire jungler: she charges the nearest enemy and heals by biting them.",
+  "aSurveiller": "Her W (Blood Frenzy). She loses control and chases the nearest target while hitting very fast: back off or put a tankier ally between you.",
+  "contrer": [
+    "During her frenzy (W) she attacks the nearest enemy: let a tank stand in front of you.",
+    "Buy a Grievous Wounds item: she heals a huge amount in fights.",
+    "Slow her or run: during her frenzy she can't choose her target and puts herself in danger."
+  ],
+  "forces": [
+    "Huge healing and damage in duels.",
+    "Her R crosses the map to engage.",
+    "Stronger when she's low on health."
+  ],
+  "faiblesses": [
+    "Little control over her target during her frenzy.",
+    "Barely regenerates health out of combat.",
+    "Weak to Grievous Wounds items and slows."
+  ],
+  "sorts": {
+    "P": "Her hits cause bleeding and heal her; stronger when she's low on health.",
+    "Q": "Leaps onto a target, stuns it and reduces its armour.",
+    "W": "Frenzy: attacks the nearest enemy very fast; recasting heals her.",
+    "E": "Charged scream that damages and slows; she takes less damage while charging.",
+    "R": "Throws her pin across the map and flies to the first champion hit."
+  },
+  "momentFort": "Very strong early in the jungle, and dangerous from level 6."
+}

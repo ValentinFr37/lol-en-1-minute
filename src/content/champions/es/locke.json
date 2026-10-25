@@ -1,0 +1,27 @@
+{
+  "plan": "Un exorcista que marca a sus objetivos con clavos y puede rematar a los enemigos debilitados con su definitiva.",
+  "aSurveiller": "Su R (Purgatorio). Lanza un artefacto que puede ejecutar a los enemigos alcanzados: cuando tengas poca vida, aléjate.",
+  "contrer": [
+    "Con poca vida, retrocede: su R puede ejecutarte.",
+    "Esquiva sus clavos (Q): te marcan para sus ataques.",
+    "Durante su W se hace daño a sí mismo: espera a que haya perdido vida para atacarlo."
+  ],
+  "forces": [
+    "Remata a los objetivos heridos.",
+    "Muy móvil con su E.",
+    "Velocidad de ataque con su W."
+  ],
+  "faiblesses": [
+    "Se hace daño con su W.",
+    "Frágil si lo atrapan.",
+    "Depende de sus marcas."
+  ],
+  "sorts": {
+    "P": "Sus ataques hacen más daño a los objetivos heridos.",
+    "Q": "Clavos que marcan a los enemigos.",
+    "W": "Velocidad a cambio de vida, luego se cura.",
+    "E": "Se teletransporta y luego se lanza hacia su objetivo.",
+    "R": "Artefacto que puede ejecutar a los enemigos."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

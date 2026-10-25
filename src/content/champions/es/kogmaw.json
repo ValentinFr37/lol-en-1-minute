@@ -1,0 +1,27 @@
+{
+  "plan": "Un tirador del Vacío de muy largo alcance que derrite a los tanques y explota al morir.",
+  "aSurveiller": "Su W (Andanada bioarcana). Gana muchísimo alcance y daño: atácalo en lugar de quedarte a su alcance.",
+  "contrer": [
+    "Atácalo: no tiene ninguna huida.",
+    "Aléjate de su cuerpo cuando muera: explota a los 4 segundos.",
+    "No te quedes al alcance de su W: derrite incluso a los tanques."
+  ],
+  "forces": [
+    "Alcance muy largo con su W.",
+    "Derrite a los tanques.",
+    "Su R hostiga desde lejos."
+  ],
+  "faiblesses": [
+    "Ninguna huida.",
+    "Muy frágil.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Explota cuatro segundos después de morir.",
+    "Q": "Proyectil que reduce las resistencias.",
+    "W": "Más alcance y daño.",
+    "E": "Baba que ralentiza.",
+    "R": "Artillería de largo alcance."
+  },
+  "momentFort": "Débil al principio, muy fuerte al final de la partida."
+}

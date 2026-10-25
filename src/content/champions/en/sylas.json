@@ -1,0 +1,27 @@
+{
+  "plan": "A chained mage who steals his enemies' ultimates and turns them against them.",
+  "aSurveiller": "His R (Hijack). He steals your ultimate: if it's powerful, expect to see it come back against your team.",
+  "contrer": [
+    "Watch which ultimate he steals (R): he can use it against you.",
+    "He heals with his W: buy a Grievous Wounds item.",
+    "Dodge his chain (E): it brings him onto you and knocks you up."
+  ],
+  "forces": [
+    "Steals enemy ultimates.",
+    "Heals a lot.",
+    "Very mobile with his E."
+  ],
+  "faiblesses": [
+    "Fragile when crowd controlled.",
+    "Has to be in melee range.",
+    "Relies on the ultimate he steals."
+  ],
+  "sorts": {
+    "P": "After a spell, his attacks hit in an area.",
+    "Q": "Crossed chains that slow.",
+    "W": "Leaps onto an enemy and heals.",
+    "E": "Dash, then a chain that pulls him in and knocks up.",
+    "R": "Steals an enemy's ultimate."
+  },
+  "momentFort": "Dangerous from level 6."
+}

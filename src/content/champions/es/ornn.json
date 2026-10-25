@@ -1,0 +1,27 @@
+{
+  "plan": "Un dios herrero tanque que lanza por los aires a su objetivo y mejora los objetos de su equipo.",
+  "aSurveiller": "Su R (Llamada del dios de la forja). Un carnero de lava vuelve hacia él y lanza por los aires: apártate de su trayectoria.",
+  "contrer": [
+    "Aléjate de los muros: su E te aturde contra ellos.",
+    "Apártate de la trayectoria de su R: la relanza para lanzar por los aires.",
+    "El daño por porcentaje de vida es eficaz contra él."
+  ],
+  "forces": [
+    "Muy resistente.",
+    "Muchos controles.",
+    "Mejora los objetos de su equipo."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Lento.",
+    "Depende de los muros para algunos combos."
+  ],
+  "sorts": {
+    "P": "Mejora sus resistencias y puede forjar objetos.",
+    "Q": "Fisura que crea un pilar.",
+    "W": "Aliento de fuego que vuelve frágiles a los enemigos.",
+    "E": "Embestida que aturde contra un muro.",
+    "R": "Elemental que vuelve y lanza por los aires."
+  },
+  "momentFort": "Útil toda la partida, muy fuerte en las peleas de equipo."
+}

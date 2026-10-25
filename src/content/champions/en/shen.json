@@ -1,0 +1,27 @@
+{
+  "plan": "A ninja tank who teleports to his allies anywhere on the map to protect them.",
+  "aSurveiller": "His E (Shadow Dash). He dashes and taunts you: you attack Shen for a moment without being able to escape.",
+  "contrer": [
+    "Dodge his dash (E): it taunts you.",
+    "Watch his R: he can join an ally anywhere.",
+    "His attacks are blocked near his blade (W): move away from it."
+  ],
+  "forces": [
+    "Joins his allies anywhere.",
+    "Taunts with his E.",
+    "Blocks attacks with his W."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Relies on energy.",
+    "His R takes time."
+  ],
+  "sorts": {
+    "P": "Shield after every spell.",
+    "Q": "Recalls his blade, which damages based on max health.",
+    "W": "Blocks attacks around his blade.",
+    "E": "Dashes and taunts.",
+    "R": "Teleports to an ally with a shield."
+  },
+  "momentFort": "Useful all game."
+}

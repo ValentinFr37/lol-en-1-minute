@@ -1,0 +1,27 @@
+{
+  "plan": "A gelatinous blob who slingshots himself from very far to knock up a whole team.",
+  "aSurveiller": "His E (Elastic Slingshot). He winds up and jumps from very far: when he stretches, spread out from the landing zone.",
+  "contrer": [
+    "When he stretches to jump (E), spread out from the landing zone.",
+    "Squash his little blobs: they heal him.",
+    "Interrupt his E with crowd control while he's charging it."
+  ],
+  "forces": [
+    "Engages from very far.",
+    "Very tanky.",
+    "Comes back to life with his passive."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "His E can be interrupted.",
+    "Relies on his blobs."
+  ],
+  "sorts": {
+    "P": "Drops blobs that heal him; can reform.",
+    "Q": "Grabs and slams two enemies together.",
+    "W": "Explosion based on max health.",
+    "E": "Charged jump from very far.",
+    "R": "Bounces and knocks up."
+  },
+  "momentFort": "Weak in the early game. Very strong in the mid game, especially once his 3rd item is done."
+}

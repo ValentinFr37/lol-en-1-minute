@@ -1,0 +1,27 @@
+{
+  "plan": "A support who grabs an enemy with his chain and can pull an ally in danger to safety with his lantern.",
+  "aSurveiller": "His Q (Death Sentence). His chain pulls you towards him and he can dash at you: stay behind your minions.",
+  "contrer": [
+    "Stay behind your minions: his chain (Q) stops on the first one hit.",
+    "After a missed Q, he is vulnerable for several seconds: time to attack.",
+    "When he drops his lantern (W), be careful: an ally can appear next to him."
+  ],
+  "forces": [
+    "Starts fights with his chain.",
+    "Saves an ally with his lantern.",
+    "Lots of crowd control: pull, knock back, slow."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Useless when his chain is on cooldown.",
+    "Minions block his chain."
+  ],
+  "sorts": {
+    "P": "Collects souls of dead enemies to grow stronger.",
+    "Q": "Chain that pulls the enemy; he can then dash to them.",
+    "W": "Lantern that shields and pulls an ally to him.",
+    "E": "Chain swipe that knocks back and slows.",
+    "R": "Cage whose walls slow and damage."
+  },
+  "momentFort": "Dangerous from level 2, at any point in the game."
+}

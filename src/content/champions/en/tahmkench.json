@@ -1,0 +1,27 @@
+{
+  "plan": "A giant catfish who swallows his enemies or allies to carry them off or protect them.",
+  "aSurveiller": "His R (Devour). He swallows a champion to carry them off: if he has already hit you 3 times, he can swallow you.",
+  "contrer": [
+    "Avoid taking 3 hits from him: he can then swallow you (R).",
+    "His E protects him: wait until he has used it to attack him.",
+    "Percent health damage is effective against him."
+  ],
+  "forces": [
+    "Very tanky.",
+    "Can save an ally by swallowing them.",
+    "Strong in duels in the early game."
+  ],
+  "faiblesses": [
+    "Slow.",
+    "Short range.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "His health increases his damage; stacks marks.",
+    "Q": "Tongue lash that slows.",
+    "W": "Dives and reappears, knocking up.",
+    "E": "Stores damage and converts it into a shield.",
+    "R": "Swallows an enemy or allied champion."
+  },
+  "momentFort": "Strong in the early game."
+}

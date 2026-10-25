@@ -1,0 +1,27 @@
+{
+  "plan": "Un mago que mejora sus habilidades a lo largo de la partida y controla las peleas con su campo gravitatorio.",
+  "aSurveiller": "Su W (Campo gravitatorio). Quedarte dentro te aturde: sal de él inmediatamente.",
+  "contrer": [
+    "Sal de su W enseguida: te aturde si te quedas dentro.",
+    "Evita su E: su rayo alcanza en una línea larga.",
+    "Atácalo: es frágil y poco móvil."
+  ],
+  "forces": [
+    "Mucho daño en área.",
+    "Control con su W.",
+    "Se refuerza a lo largo de la partida."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Mejora sus habilidades a lo largo de la partida.",
+    "Q": "Golpe que le da un escudo.",
+    "W": "Campo que ralentiza y luego aturde.",
+    "E": "Rayo en línea.",
+    "R": "Tormenta que sigue a los enemigos."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida."
+}

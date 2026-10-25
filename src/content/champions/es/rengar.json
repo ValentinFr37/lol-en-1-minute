@@ -1,0 +1,27 @@
+{
+  "plan": "Un cazador que salta desde los arbustos y se vuelve invisible para caer sobre su presa.",
+  "aSurveiller": "Su R (Emoción por la cacería). Se vuelve invisible y salta sobre ti: aparece un ojo sobre tu cabeza cuando te elige.",
+  "contrer": [
+    "Cuando aparezca un ojo sobre ti, reúnete con tus aliados.",
+    "No te quedes cerca de los arbustos: salta desde ellos.",
+    "Compra un guardián de control: revela su R."
+  ],
+  "forces": [
+    "Daño enorme a un solo objetivo.",
+    "Salta desde los arbustos.",
+    "Invisible con su R."
+  ],
+  "faiblesses": [
+    "Frágil ante los controles.",
+    "Depende de los arbustos.",
+    "Débil si lo esperáis agrupados."
+  ],
+  "sorts": {
+    "P": "Salta desde los arbustos; acumula ferocidad.",
+    "Q": "Ataque potenciado.",
+    "W": "Rugido que lo cura.",
+    "E": "Boleadoras que ralentizan o inmovilizan.",
+    "R": "Se vuelve invisible y rastrea a un campeón."
+  },
+  "momentFort": "Peligroso desde el nivel 3 y aún más en el nivel 6 con su R. Si no toma ventaja, pierde eficacia al final de la partida."
+}

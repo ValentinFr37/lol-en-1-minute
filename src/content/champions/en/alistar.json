@@ -1,0 +1,27 @@
+{
+  "plan": "A minotaur support who knocks enemies up and tanks everything thanks to his ultimate.",
+  "aSurveiller": "His W then Q combo. He pushes you with his headbutt then knocks you up: don't stand alone in front of your allies.",
+  "contrer": [
+    "Stay away from him at level 2: his combo (W then Q) can get you killed.",
+    "During his R he takes almost no damage: focus another target.",
+    "Keep your distance: he has to be in melee range to act."
+  ],
+  "forces": [
+    "Lots of crowd control: knock up, knock back, stun.",
+    "Very tanky with his R.",
+    "Protects his allies well."
+  ],
+  "faiblesses": [
+    "Low damage.",
+    "Must be in melee range to act.",
+    "His spells have long cooldowns early on."
+  ],
+  "sorts": {
+    "P": "Heals himself and allies by disabling enemies.",
+    "Q": "Slams the ground and knocks up.",
+    "W": "Charges a target and knocks it back.",
+    "E": "Tramples; after several hits, his next attack stuns.",
+    "R": "Removes crowd control and massively reduces damage taken."
+  },
+  "momentFort": "Dangerous from level 2, at any point in the game."
+}

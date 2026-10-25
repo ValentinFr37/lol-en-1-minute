@@ -1,0 +1,27 @@
+{
+  "plan": "An armoured armadillo who rolls over his enemies and reflects damage back at those who hit him.",
+  "aSurveiller": "His W (Defensive Ball Curl). He reflects damage from basic attacks: don't attack a curled-up Rammus.",
+  "contrer": [
+    "Don't attack when he is curled up (W): he reflects the damage.",
+    "Magic damage is effective: his armour is huge.",
+    "Slow him while he rolls (Q)."
+  ],
+  "forces": [
+    "Huge armour.",
+    "Reflects damage.",
+    "Taunts a target."
+  ],
+  "faiblesses": [
+    "Vulnerable to magic damage.",
+    "Low damage.",
+    "Relies on his speed."
+  ],
+  "sorts": {
+    "P": "His damage grows with his resistances.",
+    "Q": "Rolls and knocks back.",
+    "W": "Huge armour and damage reflection.",
+    "E": "Taunts a target.",
+    "R": "Leaps and slams down in an area."
+  },
+  "momentFort": "Strong in the mid game."
+}

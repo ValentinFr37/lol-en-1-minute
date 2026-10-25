@@ -1,0 +1,27 @@
+{
+  "plan": "A healer support who sacrifices her health to heal her allies and can heal the whole team from anywhere.",
+  "aSurveiller": "Her E (Equinox). A zone that silences then roots: get out of it before it fades.",
+  "contrer": [
+    "Attack her first: without her, her team stops healing.",
+    "Buy a Grievous Wounds item: her healing is huge.",
+    "Get out of her E before it ends: otherwise you get rooted."
+  ],
+  "forces": [
+    "Huge healing.",
+    "Her R heals the whole team.",
+    "Silences."
+  ],
+  "faiblesses": [
+    "Very fragile.",
+    "Hurts herself to heal.",
+    "Immobile."
+  ],
+  "sorts": {
+    "P": "Faster towards wounded allies.",
+    "Q": "Star that slows and heals her.",
+    "W": "Heals an ally by sacrificing her health.",
+    "E": "Silences then roots.",
+    "R": "Heals the whole team."
+  },
+  "momentFort": "Useful all game."
+}

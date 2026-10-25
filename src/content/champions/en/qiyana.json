@@ -1,0 +1,27 @@
+{
+  "plan": "An assassin who uses the terrain (water, grass, rocks) to stun a whole team.",
+  "aSurveiller": "Her R (Supreme Display of Talent). A shockwave that explodes off walls, water and grass and stuns around it: stay away from walls when facing her.",
+  "contrer": [
+    "Stay away from walls and rivers: her R explodes off the terrain.",
+    "Stay grouped: she looks for isolated targets.",
+    "Use your crowd control after her E: she has no escape left."
+  ],
+  "forces": [
+    "Her R stuns several enemies.",
+    "Very mobile.",
+    "Huge damage."
+  ],
+  "faiblesses": [
+    "Hard to play.",
+    "Fragile against crowd control.",
+    "Relies on the terrain."
+  ],
+  "sorts": {
+    "P": "First hit on an enemy: bonus damage.",
+    "Q": "Strike with an effect based on the element.",
+    "W": "Dashes and picks an element.",
+    "E": "Dashes to an enemy.",
+    "R": "Shockwave that explodes off the terrain and stuns."
+  },
+  "momentFort": "Fragile at levels 1 and 2, dangerous from level 3. She must get ahead early: in the late game she struggles against tanks."
+}

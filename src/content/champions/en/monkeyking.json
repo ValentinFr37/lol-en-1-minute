@@ -1,0 +1,27 @@
+{
+  "plan": "A warrior monkey who creates clones and knocks enemies up by spinning.",
+  "aSurveiller": "His R (Cyclone). He spins and knocks up everyone he hits, twice: spread out.",
+  "contrer": [
+    "Spread out from him: his R knocks up everyone around.",
+    "When he turns invisible (W), a clone stays behind: hit the real one.",
+    "Slow him: he relies on his E to engage."
+  ],
+  "forces": [
+    "Knocks up several enemies.",
+    "Clone to deceive.",
+    "Strong in the early game."
+  ],
+  "faiblesses": [
+    "Few escapes.",
+    "Vulnerable to crowd control.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "More armour and healing in combat.",
+    "Q": "Empowered attack that reduces armour.",
+    "W": "Turns invisible and leaves a clone.",
+    "E": "Dashes to a target.",
+    "R": "Spins and knocks up, twice."
+  },
+  "momentFort": "Dangerous from level 6."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A blood mage who heals a huge amount and becomes untouchable in his pool of blood.",
+  "aSurveiller": "His W (Sanguine Pool). He becomes untargetable for 2 seconds: save your big spell for after.",
+  "contrer": [
+    "Save your big spell for after his W: he dodges everything during it.",
+    "Buy a Grievous Wounds item: he heals a huge amount.",
+    "Engage him early: he is weak in the early game."
+  ],
+  "forces": [
+    "Heals a huge amount.",
+    "Untargetable with his W.",
+    "Big area damage."
+  ],
+  "faiblesses": [
+    "Weak in the early game.",
+    "Little crowd control.",
+    "Vulnerable to Grievous Wounds."
+  ],
+  "sorts": {
+    "P": "Health and power boost each other.",
+    "Q": "Steals health from a target.",
+    "W": "Pool of blood: untargetable.",
+    "E": "Charged orb that damages around him.",
+    "R": "Plague that amplifies damage."
+  },
+  "momentFort": "Strong in the mid and late game."
+}

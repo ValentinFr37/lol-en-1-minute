@@ -1,0 +1,27 @@
+{
+  "plan": "Una luchadora que se engancha a los muros para caer sobre su objetivo y encerrarlo en un duelo.",
+  "aSurveiller": "Su R (Ultimátum hextech). Te encierra en una zona con ella: tus aliados pueden ayudarte, pero no puedes huir.",
+  "contrer": [
+    "Aléjate de los muros: su E se engancha a ellos para saltar sobre ti.",
+    "No te quedes en el borde de su W: el extremo es lo que más daña.",
+    "Durante su R no puedes salir de la zona: guarda tus habilidades defensivas y llama a tus aliados."
+  ],
+  "forces": [
+    "Muy fuerte en duelo.",
+    "Entra desde lejos gracias a los muros.",
+    "Daño verdadero con su Q."
+  ],
+  "faiblesses": [
+    "Depende de los muros para entrar.",
+    "Débil al principio de la partida.",
+    "Frágil si falla su E."
+  ],
+  "sorts": {
+    "P": "Escudo al atacar campeones.",
+    "Q": "Dos ataques potenciados; el segundo hace daño verdadero.",
+    "W": "Barrido; el extremo ralentiza y daña más.",
+    "E": "Se engancha a un muro y luego salta.",
+    "R": "Encierra a su objetivo en una zona."
+  },
+  "momentFort": "Fuerte a mitad de partida, peligrosa desde el nivel 6."
+}

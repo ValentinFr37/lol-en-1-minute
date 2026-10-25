@@ -1,0 +1,27 @@
+{
+  "plan": "Un minotauro de apoyo que lanza por los aires a los enemigos y lo aguanta todo gracias a su definitiva.",
+  "aSurveiller": "Su combo W y luego Q. Te empuja con su testarazo y luego te lanza por los aires: no te quedes solo delante de tus aliados.",
+  "contrer": [
+    "Aléjate de él en el nivel 2: su combo (W y luego Q) puede matarte.",
+    "Durante su R casi no recibe daño: céntrate en otro objetivo.",
+    "Mantén la distancia: necesita estar cuerpo a cuerpo para actuar."
+  ],
+  "forces": [
+    "Muchos controles: lanzar, empujar, aturdir.",
+    "Muy resistente con su R.",
+    "Protege bien a sus aliados."
+  ],
+  "faiblesses": [
+    "Poco daño.",
+    "Necesita estar cuerpo a cuerpo para actuar.",
+    "Sus habilidades tardan mucho en recargarse al principio."
+  ],
+  "sorts": {
+    "P": "Se cura y cura a sus aliados al controlar enemigos.",
+    "Q": "Golpea el suelo y lanza por los aires.",
+    "W": "Carga contra un objetivo y lo empuja.",
+    "E": "Pisotea; tras varios golpes, su siguiente ataque aturde.",
+    "R": "Elimina los controles y reduce muchísimo el daño recibido."
+  },
+  "momentFort": "Peligroso desde el nivel 2, en cualquier momento de la partida."
+}

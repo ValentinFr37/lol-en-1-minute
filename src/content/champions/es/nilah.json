@@ -1,0 +1,27 @@
+{
+  "plan": "Una tiradora cuerpo a cuerpo que esquiva todos los ataques y atrae a los enemigos con su definitiva.",
+  "aSurveiller": "Su W (Velo exultante). Esquiva todos los ataques básicos: usa tus habilidades en lugar de tus ataques mientras dure.",
+  "contrer": [
+    "Durante su W, usa tus habilidades: esquiva los ataques básicos.",
+    "Aléjate cuando lance su R: atrae a todos a su alrededor.",
+    "Atácala pronto: necesita objetos para ser fuerte."
+  ],
+  "forces": [
+    "Esquiva los ataques con su W.",
+    "Su R atrae a varios enemigos.",
+    "Comparte la curación de sus aliados."
+  ],
+  "faiblesses": [
+    "Poco alcance.",
+    "Vulnerable a las habilidades.",
+    "Débil al principio de la partida."
+  ],
+  "sorts": {
+    "P": "Gana más experiencia y potencia la curación aliada.",
+    "Q": "Latigazo en línea.",
+    "W": "Esquiva todos los ataques un instante.",
+    "E": "Se desplaza hacia un objetivo.",
+    "R": "Gira y atrae a los enemigos a su alrededor."
+  },
+  "momentFort": "Fuerte a mitad y al final de la partida."
+}

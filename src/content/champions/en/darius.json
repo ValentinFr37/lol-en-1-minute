@@ -1,0 +1,27 @@
+{
+  "plan": "A melee fighter who wins long trades: the longer the fight, the harder he hits, and his ultimate finishes off weakened champions.",
+  "aSurveiller": "His E (Apprehend). While it's available, keep your distance; once it's used, it's time to attack or run.",
+  "contrer": [
+    "Don't stay in range of his E: it starts all of his fights.",
+    "When he casts his Q, hug him or back far away: the edge of the axe hurts most.",
+    "Avoid long fights: trade quickly, then leave before he stacks his bleeds."
+  ],
+  "forces": [
+    "Extremely strong early and in extended melee fights.",
+    "Heals by hitting with the edge of his axe (Q).",
+    "His ultimate can be recast if he kills, letting him chain several kills."
+  ],
+  "faiblesses": [
+    "Little mobility: he relies on his E to reach his target.",
+    "Easy to kite for ranged champions and those who slow.",
+    "Vulnerable to group focus once his E is used."
+  ],
+  "sorts": {
+    "P": "Each hit makes the target bleed; at 5 stacks, Darius becomes much stronger.",
+    "Q": "Spins his axe: the edge hurts and heals him, the centre deals little damage.",
+    "W": "Empowers his next attack, which heavily slows the target.",
+    "E": "Pulls in enemies in front of him. It's his engage tool.",
+    "R": "True damage execute, stronger with the number of bleeds on the target."
+  },
+  "momentFort": "Very strong from the first levels, then even more dangerous from level 6 with his ultimate."
+}

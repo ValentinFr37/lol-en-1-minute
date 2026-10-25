@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador de la jungla que salta de enemigo en enemigo: si llega a una pelea con sus objetos, puede eliminar a todo un equipo.",
+  "aSurveiller": "Su R (Imparable). Corre muy rápido, ignora las ralentizaciones y cada eliminación prolonga el efecto: no te enfrentes a él solo en ese momento.",
+  "contrer": [
+    "Guarda tus aturdimientos y lanzamientos para después de su Q: durante ese salto es intocable.",
+    "Quedaos agrupados: solo, te gana; contra varios controles, cae muy rápido.",
+    "Cuando medita (W) se queda quieto y recibe menos daño: interrúmpelo con un aturdimiento."
+  ],
+  "forces": [
+    "Muy fuerte al final de la partida con sus objetos.",
+    "Su Q lo vuelve intocable y esquiva muchas habilidades.",
+    "Su R, prolongada con cada eliminación, le permite limpiar una pelea."
+  ],
+  "faiblesses": [
+    "Ningún control: no puede impedirte usar tus habilidades.",
+    "Muy frágil ante los aturdimientos y los lanzamientos.",
+    "Débil al principio de la partida, necesita tiempo para ganar poder."
+  ],
+  "sorts": {
+    "P": "Cada pocos ataques, golpea dos veces.",
+    "Q": "Salta de enemigo en enemigo, intocable durante el salto.",
+    "W": "Medita: se cura y reduce el daño recibido, pero se queda quieto.",
+    "E": "Sus ataques hacen daño verdadero adicional.",
+    "R": "Gana mucha velocidad e ignora las ralentizaciones; se prolonga con cada eliminación."
+  },
+  "momentFort": "Desde sus primeros objetos y sobre todo al final de la partida. El nivel 6 con su R también lo vuelve mucho más peligroso."
+}

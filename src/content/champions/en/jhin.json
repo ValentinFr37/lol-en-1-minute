@@ -1,0 +1,27 @@
+{
+  "plan": "An artist marksman who fires 4 shots then reloads, with an ultimate that crosses half the map.",
+  "aSurveiller": "His R (Curtain Call). He fires 4 shots from very far, the last one is a critical strike: get out of his aiming cone.",
+  "contrer": [
+    "Get out of his cone when he casts his R: the 4th shot hurts a lot.",
+    "Engage him while he reloads after his 4th shot.",
+    "His W roots you if he or his allies hit you: back off after taking a hit."
+  ],
+  "forces": [
+    "The 4th shot is a critical strike.",
+    "Roots from far with his W.",
+    "His R finishes off from very far."
+  ],
+  "faiblesses": [
+    "Has to reload after 4 shots.",
+    "Immobile.",
+    "Vulnerable to engages."
+  ],
+  "sorts": {
+    "P": "4 shots; the 4th is a critical strike.",
+    "Q": "Grenade that bounces between 4 targets.",
+    "W": "Very long-range shot that roots targets hit.",
+    "E": "Places invisible traps.",
+    "R": "4 super shots at very long range."
+  },
+  "momentFort": "Strong from the start, very dangerous in the mid game."
+}

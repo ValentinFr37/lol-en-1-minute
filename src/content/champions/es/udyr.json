@@ -1,0 +1,27 @@
+{
+  "plan": "Un monje que cambia de postura para golpear, protegerse, correr o congelar a sus enemigos.",
+  "aSurveiller": "Su E (Estampida llameante). Se vuelve rápido y aturde a su primer objetivo: mantén la distancia antes del contacto.",
+  "contrer": [
+    "Mantén la distancia: su E le da velocidad para alcanzarte.",
+    "Ralentízalo: sin contacto no hace nada.",
+    "Alarga la partida: es fuerte sobre todo al principio."
+  ],
+  "forces": [
+    "Muy fuerte en duelo.",
+    "Rápido en la jungla.",
+    "Aturde con su E."
+  ],
+  "faiblesses": [
+    "Ninguna habilidad a distancia.",
+    "Fácil de mantener a distancia.",
+    "Menos fuerte al final de la partida."
+  ],
+  "sorts": {
+    "P": "Cambia de postura con sus habilidades.",
+    "Q": "Ataques potenciados.",
+    "W": "Escudo y curación.",
+    "E": "Velocidad y golpe que aturde.",
+    "R": "Tormenta que ralentiza a su alrededor."
+  },
+  "momentFort": "Fuerte al principio de la partida."
+}

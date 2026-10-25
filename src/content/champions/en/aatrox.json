@@ -1,0 +1,27 @@
+{
+  "plan": "A demon fighter who swings his sword in three hits and heals a huge amount in fights.",
+  "aSurveiller": "His Q (The Darkin Blade). He strikes three times in an area and the tip of the sword knocks up: get out of the marked zones.",
+  "contrer": [
+    "Dodge the tip of his blade (Q): that's where it hurts most and knocks you up.",
+    "Buy a Grievous Wounds item: he heals a lot, especially during his R.",
+    "Get out of his chains (W) fast before they pull you back to him."
+  ],
+  "forces": [
+    "Huge healing in fights.",
+    "Big area damage with his Q.",
+    "His R makes him even stronger and almost revives him."
+  ],
+  "faiblesses": [
+    "His hits are slow and easy to see.",
+    "Weak to Grievous Wounds items.",
+    "Little mobility outside his E."
+  ],
+  "sorts": {
+    "P": "Regularly, an empowered attack that heals him.",
+    "Q": "Three sword swings; the tip knocks up.",
+    "W": "Chain that pulls the target back if it doesn't leave the zone.",
+    "E": "Short dash; he heals by damaging champions.",
+    "R": "Demon form: more damage, speed and healing."
+  },
+  "momentFort": "Weak early. He scales with his Q: big spike at level 5 (Q rank 3), then at level 9 (Q maxed)."
+}

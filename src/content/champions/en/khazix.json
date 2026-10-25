@@ -1,0 +1,27 @@
+{
+  "plan": "An insect assassin who hunts isolated targets and turns invisible to finish them off.",
+  "aSurveiller": "His Q (Taste Their Fear). It deals much more damage when you are alone: stay near an ally or a minion.",
+  "contrer": [
+    "Never end up alone: his spells hurt much more on an isolated target.",
+    "Play near your allies in the jungle: he hunts isolated players.",
+    "Once his leap (E) is used, he struggles to escape: punish him."
+  ],
+  "forces": [
+    "Huge damage on isolated targets.",
+    "Turns invisible with his R.",
+    "His spells evolve over the game."
+  ],
+  "faiblesses": [
+    "Weak against a grouped team.",
+    "Fragile if caught.",
+    "Relies on his leap to engage and escape."
+  ],
+  "sorts": {
+    "P": "Spots isolated targets; empowered attack if unseen.",
+    "Q": "Strike that hurts much more on an isolated target.",
+    "W": "Fires spikes that damage and heal him.",
+    "E": "Leaps to an area and damages around him.",
+    "R": "Turns invisible and evolves one of his spells."
+  },
+  "momentFort": "Dangerous from level 6, and very strong in the mid game."
+}

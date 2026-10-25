@@ -1,0 +1,27 @@
+{
+  "plan": "Una maga traviesa que duerme a sus enemigos y luego los golpea desde muy lejos con su burbuja y su estrella.",
+  "aSurveiller": "Su E (Burbuja somnífera). Te duerme y luego su Q te golpea el doble de fuerte: quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su burbuja (E) se detiene en ellos.",
+    "Si estás somnoliento, usa Limpiar o huye: vas a dormirte.",
+    "Atácala: es frágil."
+  ],
+  "forces": [
+    "Daño enorme desde lejos.",
+    "Duerme con su E.",
+    "Recoge habilidades del suelo."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Poco móvil.",
+    "Sus habilidades se ven venir."
+  ],
+  "sorts": {
+    "P": "Tras una habilidad, su ataque se potencia.",
+    "Q": "Proyectil que hace más daño desde lejos.",
+    "W": "Recoge hechizos de invocador.",
+    "E": "Burbuja que duerme.",
+    "R": "Se teletransporta y luego vuelve."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

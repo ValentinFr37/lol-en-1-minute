@@ -1,0 +1,27 @@
+{
+  "plan": "A rune mage who chains his spells very quickly and can teleport his team.",
+  "aSurveiller": "His W (Rune Prison). He slows or roots you if you are marked: dodge his E, which marks.",
+  "contrer": [
+    "Engage him when his spells are on cooldown.",
+    "Avoid his E: the mark lets his W root you.",
+    "Watch his R: he can teleport his team."
+  ],
+  "forces": [
+    "Big sustained damage.",
+    "Teleports his team.",
+    "Roots with his W."
+  ],
+  "faiblesses": [
+    "Hard to play.",
+    "Weak in the early game.",
+    "Immobile."
+  ],
+  "sorts": {
+    "P": "More damage thanks to his mana.",
+    "Q": "Projectile that resets with his other spells.",
+    "W": "Slows or roots a marked target.",
+    "E": "Orb that marks.",
+    "R": "Portal that teleports allies."
+  },
+  "momentFort": "Strong in the mid game."
+}

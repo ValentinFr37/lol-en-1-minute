@@ -1,0 +1,27 @@
+{
+  "plan": "Un general demoníaco que atrae a sus enemigos y drena su vida para volverse casi inmortal en combate.",
+  "aSurveiller": "Su E (Paralizar). La onda vuelve hacia él e inmoviliza: apártate de su vuelta y luego te atrae hacia él.",
+  "contrer": [
+    "Esquiva su E a la ida y a la vuelta: inmoviliza.",
+    "Retrocede durante su R: se cura mientras esté cerca de vosotros.",
+    "Compra un objeto de Heridas graves: drena mucha vida."
+  ],
+  "forces": [
+    "Muy resistente en combate.",
+    "Drena vida con su R.",
+    "Inmoviliza con su E."
+  ],
+  "faiblesses": [
+    "Poco móvil.",
+    "Fácil de mantener a distancia.",
+    "Su E se ve venir."
+  ],
+  "sorts": {
+    "P": "Sus cuervos recogen almas que lo curan.",
+    "Q": "Ráfaga de proyectiles en cono.",
+    "W": "Ojo a distancia que ralentiza y revela.",
+    "E": "Onda que vuelve e inmoviliza.",
+    "R": "Se transforma y drena la vida a su alrededor."
+  },
+  "momentFort": "Fuerte a mitad de partida."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A marksman who swoops onto her target with her ultimate and detonates her plasma marks.",
+  "aSurveiller": "Her R (Killer Instinct). She dashes to a champion marked by her plasma: don't let your allies get marked.",
+  "contrer": [
+    "Dodge her W: it marks you and gives her the range of her R.",
+    "Stay grouped: her volley (Q) is stronger on an isolated target.",
+    "Engage her after her R: it's her only dash."
+  ],
+  "forces": [
+    "Dashes onto her target with her R.",
+    "Big plasma explosions.",
+    "Turns invisible with her evolved E."
+  ],
+  "faiblesses": [
+    "Fragile against engages.",
+    "Relies on her R to reposition.",
+    "Weaker if she falls behind."
+  ],
+  "sorts": {
+    "P": "Her attacks stack plasma that explodes.",
+    "Q": "Volley of missiles, stronger on an isolated target.",
+    "W": "Long-range beam that marks.",
+    "E": "Gains speed; invisible once evolved.",
+    "R": "Dashes to a marked champion with a shield."
+  },
+  "momentFort": "Strong in the mid and late game."
+}

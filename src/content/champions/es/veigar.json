@@ -1,0 +1,27 @@
+{
+  "plan": "Un pequeño mago que gana poder para siempre a lo largo de la partida y puede ejecutar a cualquiera.",
+  "aSurveiller": "Su E (Horizonte de sucesos). Una jaula que aturde si cruzas sus muros: quédate en el centro o sal antes de que aparezca.",
+  "contrer": [
+    "No cruces nunca los muros de su jaula (E): quedarías aturdido.",
+    "Hostígalo al principio para que no acumule poder.",
+    "Cuidado con su R cuando tengas poca vida: hace más daño a los objetivos heridos."
+  ],
+  "forces": [
+    "Poder que aumenta sin límite.",
+    "Su R ejecuta a los objetivos heridos.",
+    "Su jaula controla toda una zona."
+  ],
+  "faiblesses": [
+    "Muy lento y poco móvil.",
+    "Débil al principio de la partida.",
+    "Sus habilidades son fáciles de esquivar."
+  ],
+  "sorts": {
+    "P": "Gana poder para siempre al golpear campeones.",
+    "Q": "Proyectil que alcanza a dos enemigos; gana poder si mata.",
+    "W": "Materia oscura que cae tras un retraso.",
+    "E": "Jaula que aturde a quienes cruzan sus muros.",
+    "R": "Ejecución: más fuerte contra objetivos heridos."
+  },
+  "momentFort": "Débil al principio, cada vez más fuerte a lo largo de la partida."
+}

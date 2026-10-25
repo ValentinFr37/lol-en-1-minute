@@ -1,0 +1,27 @@
+{
+  "plan": "Un yordle eléctrico que aturde al 3.er golpe de sus habilidades y cae sobre un equipo con su definitiva.",
+  "aSurveiller": "Su R (Tempestad cercenante). Daña y aturde a todos los enemigos a su alrededor: separaos cuando se lance sobre vosotros.",
+  "contrer": [
+    "Separaos cuando lance su R: aturde a todos a su alrededor.",
+    "Vigila sus marcas: al 3.er golpe quedas aturdido.",
+    "Ralentízalo: su E es su única huida."
+  ],
+  "forces": [
+    "Aturde al 3.er golpe.",
+    "Su R controla a todo un equipo.",
+    "Hostiga bien desde lejos."
+  ],
+  "faiblesses": [
+    "Frágil.",
+    "Una sola huida: su E.",
+    "Débil si lo atacan."
+  ],
+  "sorts": {
+    "P": "El 3.er golpe de sus habilidades aturde.",
+    "Q": "Shuriken que marca.",
+    "W": "Sus ataques marcan; al activarla, electrocuta.",
+    "E": "Bola de electricidad rápida.",
+    "R": "Tormenta que daña y aturde a su alrededor."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

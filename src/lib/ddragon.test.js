@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { difficultyLabel, formatCooldown, mapChampionDetail, mapChampionList } from './ddragon.js'
+import { difficultyLevel, formatCooldown, mapChampionDetail, mapChampionList } from './ddragon.js'
 import { firstSentence, splitSpellKeys, stripTags } from './text.js'
 import { rawChampionList, rawDariusDetail } from '../test/fixtures.js'
 
@@ -33,9 +33,9 @@ describe('text', () => {
 describe('mapChampionList', () => {
   const list = mapChampionList(rawChampionList, '99.1.1')
 
-  it('trie par nom et traduit les rôles', () => {
+  it('trie par nom et garde les rôles Riot (traduits à l’affichage)', () => {
     expect(list[0].name).toBe('Ahri')
-    expect(list.find((c) => c.id === 'Darius').roles).toEqual(['Combattant', 'Tank'])
+    expect(list.find((c) => c.id === 'Darius').roles).toEqual(['Fighter', 'Tank'])
   })
 
   it("construit l'URL de l'icône", () => {
@@ -61,13 +61,13 @@ describe('mapChampionDetail', () => {
   })
 })
 
-describe('difficultyLabel', () => {
-  it('regroupe les notes de 1 à 10', () => {
-    expect([1, 5, 9].map(difficultyLabel)).toEqual(['Facile', 'Moyen', 'Difficile'])
+describe('difficultyLevel', () => {
+  it('regroupe les notes de 1 à 10 en 3 niveaux', () => {
+    expect([1, 5, 9].map((n) => difficultyLevel(n))).toEqual([1, 2, 3])
   })
 
   it("n'invente pas de difficulté quand Riot ne la renseigne pas", () => {
-    expect(difficultyLabel(0)).toBe(null)
+    expect(difficultyLevel(0)).toBe(null)
   })
 })
 
@@ -76,5 +76,10 @@ describe('formatCooldown', () => {
     expect(formatCooldown('26/23.5/21/18.5/16')).toBe('26 à 16 s')
     expect(formatCooldown('5')).toBe('5 s')
     expect(formatCooldown('0')).toBe(null)
+  })
+
+  it('suit la langue du site', () => {
+    expect(formatCooldown('26/16', 'en')).toBe('26 to 16 s')
+    expect(formatCooldown('26/16', 'es')).toBe('26 a 16 s')
   })
 })

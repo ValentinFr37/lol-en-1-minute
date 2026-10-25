@@ -1,0 +1,27 @@
+{
+  "plan": "An armoured fighter who locks you alone with him in another dimension to duel you.",
+  "aSurveiller": "His R (Realm of Death). He takes you where your allies can't help you and steals part of your stats: keep your health high.",
+  "contrer": [
+    "Dodge his Q: it deals much more damage when it hits only one target.",
+    "Buy a Grievous Wounds item: his W heals him.",
+    "If his R takes you, use all your escape and protection spells, and move away from him."
+  ],
+  "forces": [
+    "Very strong in duels thanks to his R.",
+    "Shield and healing with his W.",
+    "Tanky and hard to kill."
+  ],
+  "faiblesses": [
+    "Immobile.",
+    "Slow spells that are easy to dodge.",
+    "Vulnerable to champions who kite him."
+  ],
+  "sorts": {
+    "P": "After 3 attacks or spells, he gains a damage aura and speed.",
+    "Q": "Mace strike, stronger on an isolated target.",
+    "W": "Shield he can turn into healing.",
+    "E": "Pulls in every enemy in an area.",
+    "R": "Locks you alone with him and steals part of your stats."
+  },
+  "momentFort": "Solid from the start, and very dangerous from level 6 with his R."
+}

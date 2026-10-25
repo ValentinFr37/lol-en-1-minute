@@ -1,0 +1,27 @@
+{
+  "plan": "A fairy support who turns her enemies into animals and makes her allies giant.",
+  "aSurveiller": "Her W (Whimsy). She turns you into an animal: you can't attack or cast spells for a moment.",
+  "contrer": [
+    "Save your big spell for after her W: polymorphed, you can't do anything.",
+    "Focus on her: she makes her allies very strong.",
+    "After her R, her ally has much more health: switch targets."
+  ],
+  "forces": [
+    "Turns an enemy into an animal.",
+    "Her R saves an ally.",
+    "Excellent shields."
+  ],
+  "faiblesses": [
+    "Fragile if engaged.",
+    "Low damage.",
+    "Relies on her allies."
+  ],
+  "sorts": {
+    "P": "Pix shoots along with her and her allies.",
+    "Q": "Projectile that heavily slows.",
+    "W": "Polymorphs an enemy or speeds up an ally.",
+    "E": "Shield for an ally or damage on an enemy.",
+    "R": "Makes an ally giant and knocks up."
+  },
+  "momentFort": "Useful from the start, very strong in team fights."
+}

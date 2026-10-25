@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina que se teletransporta de daga en daga y encadena eliminaciones en las peleas.",
+  "aSurveiller": "Su R (Loto mortal). Gira y lanza cuchillos a los enemigos cercanos: interrúmpela con un aturdimiento o aléjate.",
+  "contrer": [
+    "Guarda un aturdimiento para su R: la interrumpe al instante.",
+    "No te quedes cerca de sus dagas en el suelo: se teletransporta a ellas para golpear.",
+    "Centrad vuestros controles en ella en cuanto llegue: sin eliminaciones, sus habilidades tardan mucho en volver."
+  ],
+  "forces": [
+    "Muy móvil gracias a su E.",
+    "Sus enfriamientos se reinician cuando elimina.",
+    "Daño en área enorme con su R."
+  ],
+  "faiblesses": [
+    "Muy frágil ante los controles.",
+    "Su R se puede interrumpir.",
+    "Débil si se queda atrás."
+  ],
+  "sorts": {
+    "P": "Sus enfriamientos se reducen cuando muere un campeón herido por ella.",
+    "Q": "Lanza una daga que rebota y cae al suelo.",
+    "W": "Gana velocidad y lanza una daga al aire.",
+    "E": "Se teletransporta junto a un objetivo o una daga.",
+    "R": "Gira y lanza cuchillos a los tres campeones más cercanos."
+  },
+  "momentFort": "Peligrosa desde el nivel 6 y muy fuerte a mitad de partida."
+}

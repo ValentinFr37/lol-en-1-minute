@@ -1,0 +1,27 @@
+{
+  "plan": "Un escorpión de cristal que carga, aplasta a su objetivo contra un muro y lo arrastra hacia su equipo.",
+  "aSurveiller": "Su R (Empalar). Te neutraliza y te arrastra: con poca vida, quédate detrás de tus aliados.",
+  "contrer": [
+    "Aléjate de los muros: su E te aplasta contra un muro.",
+    "Quédate detrás de tus aliados: su R te arrastra hacia su equipo.",
+    "Evita acumular sus efectos: explotan según tu vida máxima."
+  ],
+  "forces": [
+    "Muchos controles.",
+    "Arrastra a un objetivo.",
+    "Resistente."
+  ],
+  "faiblesses": [
+    "Poco daño a un solo objetivo.",
+    "Depende de sus entradas.",
+    "Lento fuera de su carga."
+  ],
+  "sorts": {
+    "P": "Acumula efectos que explotan.",
+    "Q": "Roca que potencia sus ataques.",
+    "W": "Escudo y terremoto que ralentiza.",
+    "E": "Carga que aplasta contra un muro.",
+    "R": "Neutraliza y arrastra a los enemigos."
+  },
+  "momentFort": "Peligroso desde el nivel 6."
+}

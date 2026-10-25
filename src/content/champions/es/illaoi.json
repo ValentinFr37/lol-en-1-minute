@@ -1,0 +1,27 @@
+{
+  "plan": "Una sacerdotisa que hace surgir tentáculos de los muros y se vuelve terrible cuando se lucha en su zona.",
+  "aSurveiller": "Su E (Prueba de espíritu). Te arranca el espíritu: si te quedas cerca de él, sus tentáculos te golpean. Esquívalo detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su E se detiene en el primero que toca.",
+    "Si te arranca el espíritu, aléjate de él: si no, quedas atado a ella.",
+    "No luches cerca de los muros durante su R: sus tentáculos aparecen por todas partes."
+  ],
+  "forces": [
+    "Daño en área enorme cerca de los muros.",
+    "Se cura con sus tentáculos.",
+    "Muy fuerte luchando contra varios enemigos."
+  ],
+  "faiblesses": [
+    "Lenta y poco móvil.",
+    "Depende de su E para ganar un intercambio.",
+    "Fácil de mantener a distancia."
+  ],
+  "sorts": {
+    "P": "Hace aparecer tentáculos que la curan.",
+    "Q": "Tentáculo que golpea en línea.",
+    "W": "Salta y hace golpear a los tentáculos cercanos.",
+    "E": "Arranca el espíritu de un enemigo; golpearlo daña al cuerpo real.",
+    "R": "Golpea el suelo y hace aparecer un tentáculo por cada enemigo."
+  },
+  "momentFort": "Fuerte desde el principio, muy peligrosa desde el nivel 6."
+}

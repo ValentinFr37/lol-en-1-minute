@@ -1,0 +1,27 @@
+{
+  "plan": "A crocodile who dominates his lane early and stuns with hits empowered by his fury.",
+  "aSurveiller": "His W (Ruthless Predator). He hits twice and stuns you, three times if he has fury: keep your distance.",
+  "contrer": [
+    "Avoid trading early: he is very strong early.",
+    "Watch his fury: when full, his spells are empowered.",
+    "Drag the game out: he loses power later."
+  ],
+  "forces": [
+    "Very strong in the early game.",
+    "Stuns with his W.",
+    "Very mobile with his E."
+  ],
+  "faiblesses": [
+    "Weaker in the late game.",
+    "Relies on his fury.",
+    "Easy to kite after his E."
+  ],
+  "sorts": {
+    "P": "Generates fury that empowers his spells.",
+    "Q": "Circular slash that heals him.",
+    "W": "Strikes and stuns.",
+    "E": "Two dashes.",
+    "R": "Grows bigger and damages around him."
+  },
+  "momentFort": "Very strong in the early game."
+}

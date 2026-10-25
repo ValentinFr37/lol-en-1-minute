@@ -1,0 +1,27 @@
+{
+  "plan": "Un coloso tanque que provoca a los enemigos y vuela al rescate de sus aliados en cualquier parte del mapa.",
+  "aSurveiller": "Su W (Escudo de Durand). Te provoca y te obliga a caminar hacia él: no te quedes pegado a él.",
+  "contrer": [
+    "Aléjate mientras canaliza su W: la provocación alcanza a su alrededor.",
+    "El daño físico le hace más daño: resiste sobre todo la magia.",
+    "Vigila su R: puede aterrizar junto a un aliado en cualquier sitio."
+  ],
+  "forces": [
+    "Muy resistente al daño mágico.",
+    "Provoca a varios enemigos.",
+    "Su R ayuda a un aliado a distancia."
+  ],
+  "faiblesses": [
+    "Menos resistente al daño físico.",
+    "Lento mientras canaliza.",
+    "Poco daño si juega de tanque."
+  ],
+  "sorts": {
+    "P": "A menudo, un ataque que daña en área.",
+    "Q": "Tornado que daña con el tiempo.",
+    "W": "Reduce el daño mágico y luego provoca.",
+    "E": "Retrocede y carga lanzando por los aires.",
+    "R": "Vuela hasta un aliado y lanza por los aires al aterrizar."
+  },
+  "momentFort": "Peligroso desde el nivel 6 con su R."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "A very mobile fox mage who charms her target to take it down in one combo.",
+  "aSurveiller": "Her E (Charm). It makes you walk towards her without being able to act: stay behind your minions, it stops on the first one hit.",
+  "contrer": [
+    "Stay behind your minions: her charm (E) stops on the first enemy hit.",
+    "Engage her once her R is used: her 3 dashes are her only real escape.",
+    "Dodge the return of her orb (Q): it deals true damage."
+  ],
+  "forces": [
+    "Very mobile with her 3 dashes (R).",
+    "Her charm starts fights.",
+    "Pokes well with her orb."
+  ],
+  "faiblesses": [
+    "Fragile if her charm misses.",
+    "Relies on her R to escape.",
+    "Her spells are visible and dodgeable."
+  ],
+  "sorts": {
+    "P": "Heals after killing minions or champions.",
+    "Q": "Orb that goes out and comes back; the return deals true damage.",
+    "W": "Three fox-fires attack nearby enemies.",
+    "E": "Kiss that charms the first enemy hit.",
+    "R": "Three dashes that shoot nearby enemies."
+  },
+  "momentFort": "Dangerous from level 6 with her R. Her biggest item spike is Rabadon's Deathcap (3rd or 4th item)."
+}

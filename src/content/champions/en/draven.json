@@ -1,0 +1,27 @@
+{
+  "plan": "A flamboyant marksman who deals huge damage with his axes as long as he keeps catching them.",
+  "aSurveiller": "His Q (Spinning Axe). Every axe he catches keeps his damage at its peak: get in his way where his axes land.",
+  "contrer": [
+    "Stand where his axes (Q) land so he must choose between catching them and staying safe.",
+    "Avoid trading early: he deals a huge amount of damage early on.",
+    "Engage him with several allies: he has few ways to escape."
+  ],
+  "forces": [
+    "Huge early damage.",
+    "Earns a lot of gold when he gets kills.",
+    "Slows and knocks aside with his E."
+  ],
+  "faiblesses": [
+    "Relies on catching his axes.",
+    "Immobile apart from his speed boost (W).",
+    "Loses a lot of gold when he dies."
+  ],
+  "sorts": {
+    "P": "Earns bonus gold by catching axes and getting kills.",
+    "Q": "Empowered axe that bounces; he must catch it.",
+    "W": "Gains movement and attack speed.",
+    "E": "Throws his axes, knocking aside and slowing.",
+    "R": "Two axes that cross the map and come back."
+  },
+  "momentFort": "Very dangerous from the start of the game, especially at level 6 when he can go all in. His biggest advantage is early on, in his lane."
+}

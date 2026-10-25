@@ -1,0 +1,27 @@
+{
+  "plan": "A plant mage who grows plants and roots her enemies with her vines.",
+  "aSurveiller": "Her E (Grasping Roots). They root you in a line and her plants hit you: dodge them.",
+  "contrer": [
+    "Dodge her roots (E): they root.",
+    "Kill her plants or move away: they deal a lot of damage.",
+    "Engage her: she is fragile."
+  ],
+  "forces": [
+    "Controls the area with her plants.",
+    "Roots with her E.",
+    "Her R knocks up."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Immobile.",
+    "Relies on her plants."
+  ],
+  "sorts": {
+    "P": "Spawns seeds around her.",
+    "Q": "Thorns that damage.",
+    "W": "Plants a seed.",
+    "E": "Roots that immobilise.",
+    "R": "Brambles that knock up."
+  },
+  "momentFort": "Strong in the mid game."
+}

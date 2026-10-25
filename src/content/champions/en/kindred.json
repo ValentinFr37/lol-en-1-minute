@@ -1,0 +1,27 @@
+{
+  "plan": "A duo of hunters who make an area invincible for a moment and grow stronger by hunting.",
+  "aSurveiller": "Their R (Lamb's Respite). Nobody can die in the zone for a moment: don't use your big spells inside it.",
+  "contrer": [
+    "Wait for their R to end: nobody dies in the zone.",
+    "Engage once their Q is used: it's their only dash.",
+    "Protect your jungle camps: they gain stacks by hunting them."
+  ],
+  "forces": [
+    "Their R prevents deaths.",
+    "Very mobile with their Q.",
+    "Stronger with every hunt."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Only one real dash.",
+    "Weak if they don't hunt."
+  ],
+  "sorts": {
+    "P": "Gains power by hunting their marks.",
+    "Q": "Tumbles and shoots three targets.",
+    "W": "Wolf attacks nearby enemies.",
+    "E": "Slows; the 3rd attack hurts more.",
+    "R": "Nobody can die in the zone."
+  },
+  "momentFort": "Weak in the early game. Very strong with 2 or 3 items and their first marks, and fearsome in the late game."
+}

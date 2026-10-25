@@ -1,0 +1,27 @@
+{
+  "plan": "A daring marksman who dives into fights and shoots all around her when her style is maxed.",
+  "aSurveiller": "Her R (Inferno Trigger). She shoots all around her when her style is at S rank: use crowd control to stop her.",
+  "contrer": [
+    "Keep crowd control for her R: it stops her dead.",
+    "Don't throw your projectiles during her W: she destroys them.",
+    "Engage her early: she has no real escape."
+  ],
+  "forces": [
+    "Huge area damage with her R.",
+    "Blocks projectiles with her W.",
+    "Very mobile."
+  ],
+  "faiblesses": [
+    "Vulnerable to crowd control.",
+    "Has to chain hits for her R.",
+    "Short range."
+  ],
+  "sorts": {
+    "P": "Chains hits to build her style.",
+    "Q": "Shot or sword slash.",
+    "W": "Destroys projectiles.",
+    "E": "Dashes through an enemy.",
+    "R": "Shoots all around her."
+  },
+  "momentFort": "Dangerous from level 6."
+}

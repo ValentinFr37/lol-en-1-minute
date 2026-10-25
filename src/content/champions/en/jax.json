@@ -1,0 +1,27 @@
+{
+  "plan": "A lamppost-wielding fighter who leaps onto his target and dodges every attack with his counter strike.",
+  "aSurveiller": "His E (Counter Strike). He dodges all attacks for a moment then stuns around him: don't attack during it, back off.",
+  "contrer": [
+    "Don't attack during his E: he dodges all your basic attacks, then stuns you.",
+    "Spells still hit him during his E: use them instead of your basic attacks.",
+    "Try to end the game quickly: he becomes very strong in the late game."
+  ],
+  "forces": [
+    "Dodges all attacks with his E.",
+    "Very strong in duels and in the late game.",
+    "Leaps onto a target or an ally with his Q."
+  ],
+  "faiblesses": [
+    "Relies on his E to win trades.",
+    "Easy to kite with spells.",
+    "Weak at the very start of the game."
+  ],
+  "sorts": {
+    "P": "His consecutive attacks get faster and faster.",
+    "Q": "Leaps to a unit and strikes it if it's an enemy.",
+    "W": "His next attack hurts more.",
+    "E": "Dodges attacks, then stuns around him.",
+    "R": "Bonus damage every 3 attacks; resistances on activation."
+  },
+  "momentFort": "Solid early, stronger and stronger in the mid and late game."
+}

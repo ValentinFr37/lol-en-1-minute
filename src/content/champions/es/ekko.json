@@ -1,0 +1,27 @@
+{
+  "plan": "Un asesino del tiempo que retrocede unos segundos para curarse y esquivar.",
+  "aSurveiller": "Su R (Fisura temporal). Vuelve a donde estaba hace 4 segundos y se cura: vigila su sombra, reaparecerá ahí.",
+  "contrer": [
+    "Vigila su sombra: con su R vuelve a ese lugar y hace daño allí.",
+    "Sal de la zona de su W: te aturde si explota con él dentro.",
+    "Atácalo cuando haya usado su R: ya no tiene huida."
+  ],
+  "forces": [
+    "Retrocede en el tiempo con su R.",
+    "Aturde con su W.",
+    "Mucho daño a un solo objetivo."
+  ],
+  "faiblesses": [
+    "Frágil si falla sus habilidades.",
+    "Su W tarda mucho en llegar.",
+    "Pocas huidas tras su R."
+  ],
+  "sorts": {
+    "P": "Al 3.er golpe, daño adicional y velocidad.",
+    "Q": "Granada que ralentiza y vuelve.",
+    "W": "Zona que aturde tras un retraso.",
+    "E": "Desplazamiento corto y ataque a distancia.",
+    "R": "Retrocede 4 segundos en el tiempo y se cura."
+  },
+  "momentFort": "Peligroso desde el nivel 6. Gana poder con su primer objeto y se vuelve muy fuerte hacia los 2 objetos."
+}

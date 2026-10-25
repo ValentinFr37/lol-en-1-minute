@@ -1,0 +1,27 @@
+{
+  "plan": "A little keeper who knocks her enemies into walls and sends them flying with her hammer.",
+  "aSurveiller": "Her E (Heroic Charge). She knocks you back and stuns you if you hit a wall: don't fight near walls.",
+  "contrer": [
+    "Stay away from walls: her E stuns you there.",
+    "Don't dash at her: her W blocks dashes around her.",
+    "Interrupt her charged R: otherwise it sends you very far."
+  ],
+  "forces": [
+    "Blocks dashes with her W.",
+    "Stuns against walls.",
+    "Her R ejects an enemy from the fight."
+  ],
+  "faiblesses": [
+    "Relies on walls.",
+    "Low damage in the late game.",
+    "Easy to kite."
+  ],
+  "sorts": {
+    "P": "Throws her buckler; picking it up grants a shield.",
+    "Q": "Hammer strike that slows then explodes.",
+    "W": "Blocks dashes around her.",
+    "E": "Charge that knocks back and stuns against a wall.",
+    "R": "Strike that sends enemies very far."
+  },
+  "momentFort": "Weaker early. She evens out at level 5, then becomes very strong in the mid game when her Q is maxed (level 9)."
+}

@@ -1,0 +1,27 @@
+{
+  "plan": "Una cervatilla de la jungla que corre cada vez más rápido y duerme a todo un equipo con su definitiva.",
+  "aSurveiller": "Su R (Nana rítmica). Todos a los que ha golpeado se duermen: no te quedes agrupado tras recibir un golpe.",
+  "contrer": [
+    "Tras recibir sus habilidades, aléjate: su R te duerme.",
+    "Esquiva el centro de su W: hace muchísimo daño.",
+    "Ralentízala: su velocidad es su defensa."
+  ],
+  "forces": [
+    "Muy rápida.",
+    "Su R duerme a varios enemigos.",
+    "Mucho daño en área."
+  ],
+  "faiblesses": [
+    "Frágil si la ralentizan.",
+    "Pocas defensas.",
+    "Depende de la velocidad."
+  ],
+  "sorts": {
+    "P": "Sus habilidades queman según la vida máxima del objetivo.",
+    "Q": "Golpe giratorio; gana velocidad.",
+    "W": "Golpe en el centro que hace mucho daño.",
+    "E": "Semilla que ralentiza.",
+    "R": "Duerme a los enemigos alcanzados por sus habilidades."
+  },
+  "momentFort": "Peligrosa desde el nivel 6."
+}

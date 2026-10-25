@@ -1,0 +1,27 @@
+{
+  "plan": "A charming support who leaps into the middle of enemies and charms them while dancing.",
+  "aSurveiller": "His W (Grand Entrance). He leaps and knocks up everyone around: don't stay grouped.",
+  "contrer": [
+    "Spread out when he leaps: his W knocks up those around.",
+    "His R charms as he passes: get out of his path.",
+    "Engage him once his E is used: it's his escape."
+  ],
+  "forces": [
+    "Very mobile.",
+    "Charms several enemies.",
+    "Protects his allies."
+  ],
+  "faiblesses": [
+    "Fragile.",
+    "Low damage.",
+    "Relies on his allies."
+  ],
+  "sorts": {
+    "P": "Regular shield.",
+    "Q": "Feather that then heals his allies.",
+    "W": "Leaps and knocks up.",
+    "E": "Flies to an ally with a shield.",
+    "R": "Charms the enemies he touches."
+  },
+  "momentFort": "Useful from level 2."
+}

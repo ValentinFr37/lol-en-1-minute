@@ -1,0 +1,27 @@
+{
+  "plan": "Un árbol pacífico de la jungla que protege a sus aliados e inmoviliza a los enemigos con sus raíces.",
+  "aSurveiller": "Su Q (Lanzarraíces). Te inmoviliza y sus aliados pueden saltar hacia ti: quédate detrás de tus súbditos.",
+  "contrer": [
+    "Quédate detrás de tus súbditos: su Q se detiene en el primero que toca.",
+    "Mata primero a Margarita (R) si golpea a tus aliados: los lanza por los aires.",
+    "Casi no hace daño: céntrate en sus aliados."
+  ],
+  "forces": [
+    "Protege bien a sus aliados con su E.",
+    "Su Q permite a sus aliados saltar.",
+    "Margarita lanza por los aires."
+  ],
+  "faiblesses": [
+    "Muy poco daño.",
+    "Frágil si está solo.",
+    "Depende de sus aliados."
+  ],
+  "sorts": {
+    "P": "Limpia los campamentos de la jungla sin luchar contra ellos.",
+    "Q": "Raíz que inmoviliza; los aliados pueden saltar al objetivo.",
+    "W": "Hace crecer arbustos.",
+    "E": "Escudo que explota y ralentiza.",
+    "R": "Invoca a Margarita, que lanza por los aires."
+  },
+  "momentFort": "Útil toda la partida, sobre todo en las peleas de equipo."
+}

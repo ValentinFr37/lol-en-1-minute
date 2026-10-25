@@ -1,0 +1,27 @@
+{
+  "plan": "Una asesina invisible que aparece por la espalda de los jugadores aislados y los hechiza.",
+  "aSurveiller": "Su W (Sed de lujuria). Te maldice y luego te hechiza si te golpea: compra un guardián de control para verla venir.",
+  "contrer": [
+    "Compra un guardián de control: revela a Evelynn camuflada.",
+    "Juega cerca de tus aliados en cuanto llegue al nivel 6.",
+    "Cuando lanza su R se teletransporta hacia atrás: no la persigas sin visión."
+  ],
+  "forces": [
+    "Invisible desde el nivel 6.",
+    "Daño enorme a un solo objetivo.",
+    "Su R remata y la pone a salvo."
+  ],
+  "faiblesses": [
+    "Débil antes del nivel 6.",
+    "Vulnerable a los guardianes de control.",
+    "Frágil si la atrapan."
+  ],
+  "sorts": {
+    "P": "Camuflada fuera de combate desde el nivel 6; se cura.",
+    "Q": "Púas que dañan al primer objetivo.",
+    "W": "Maldice y luego hechiza a su objetivo.",
+    "E": "Latigazo; gana velocidad.",
+    "R": "Arrasa una zona y retrocede; más fuerte contra objetivos heridos."
+  },
+  "momentFort": "Débil antes del nivel 6, muy peligrosa después."
+}

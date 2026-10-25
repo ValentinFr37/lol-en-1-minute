@@ -1,0 +1,27 @@
+{
+  "plan": "Un luchador demonio que golpea en tres tiempos con su espada y se cura muchísimo en combate.",
+  "aSurveiller": "Su Q (La Espada de los Oscuros). Golpea tres veces en área y la punta de la espada lanza por los aires: sal de las zonas marcadas en el suelo.",
+  "contrer": [
+    "Esquiva la punta de su espada (Q): es donde más daño hace y te lanza por los aires.",
+    "Compra un objeto de Heridas graves: se cura mucho, sobre todo durante su R.",
+    "Sal rápido de sus cadenas (W) antes de que te devuelvan hacia él."
+  ],
+  "forces": [
+    "Curación enorme en combate.",
+    "Mucho daño en área con su Q.",
+    "Su R lo hace aún más fuerte y casi lo revive."
+  ],
+  "faiblesses": [
+    "Sus golpes son lentos y se ven venir.",
+    "Vulnerable a los objetos de Heridas graves.",
+    "Poca movilidad fuera de su E."
+  ],
+  "sorts": {
+    "P": "A menudo, un ataque potenciado que lo cura.",
+    "Q": "Tres tajos de espada; la punta lanza por los aires.",
+    "W": "Cadena que atrae al objetivo si no sale de la zona.",
+    "E": "Desplazamiento corto; se cura al dañar campeones.",
+    "R": "Forma demoníaca: más daño, velocidad y curación."
+  },
+  "momentFort": "Débil al principio. Gana poder con su Q: gran pico en el nivel 5 (Q nivel 3) y luego en el nivel 9 (Q al máximo)."
+}
