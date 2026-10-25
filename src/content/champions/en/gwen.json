@@ -23,5 +23,8 @@
     "E": "Short dash; her attacks are empowered.",
     "R": "Needles thrown up to three times that slow."
   },
-  "momentFort": "Strong in the mid game, very dangerous in the late game."
+  "momentFort": {
+    "voie": "Strong in the mid game, very dangerous in the late game.",
+    "jungle": "Careful early, she avoids duels and farms. She becomes dangerous with her stacks and her items."
+  }
 }

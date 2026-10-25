@@ -23,5 +23,8 @@
     "E": "Se lanza hacia un enemigo.",
     "R": "Onda que explota contra el entorno y aturde."
   },
-  "momentFort": "Frágil en los niveles 1 y 2, peligrosa desde el nivel 3. Debe tomar ventaja pronto: al final de la partida le cuesta contra los tanques."
+  "momentFort": {
+    "voie": "Frágil en los niveles 1 y 2, peligrosa desde el nivel 3. Debe tomar ventaja pronto: al final de la partida le cuesta contra los tanques.",
+    "jungle": "Gankea en cuanto tiene sus 3 habilidades. Muy fuerte pronto, debe tomar ventaja antes de que la partida se alargue."
+  }
 }

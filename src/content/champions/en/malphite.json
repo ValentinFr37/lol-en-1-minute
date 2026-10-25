@@ -23,5 +23,8 @@
     "E": "Slams the ground: damage based on armour and reduced attack speed.",
     "R": "Charges at high speed and knocks everyone up."
   },
-  "momentFort": "Not very dangerous before level 6. After that, his R can decide every team fight."
+  "momentFort": {
+    "voie": "Not very dangerous before level 6. After that, his R can decide every team fight.",
+    "jungle": "Barely ganks before level 6. He farms to get his R, which then makes his ganks very dangerous."
+  }
 }

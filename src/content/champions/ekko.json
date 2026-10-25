@@ -23,7 +23,10 @@
     "E": "Courte ruée et attaque à distance.",
     "R": "Revient 4 secondes en arrière en se soignant."
   },
-  "momentFort": "Dangereux dès le niveau 6. Il monte en puissance avec son premier objet et devient très fort vers 2 objets.",
+  "momentFort": {
+    "voie": "Dangereux dès le niveau 6. Il monte en puissance avec son premier objet et devient très fort vers 2 objets.",
+    "jungle": "Peut ganker dès qu'il a son E et son W, mais farme beaucoup. Il devient fort avec son premier objet."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

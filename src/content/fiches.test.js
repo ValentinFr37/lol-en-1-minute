@@ -13,6 +13,19 @@ const TRANSLATIONS = ['en', 'es']
 const MAX_LENGTH = 170 // une phrase doit se lire en quelques secondes
 const LISTS = ['contrer', 'forces', 'faiblesses']
 const SPELLS = ['P', 'Q', 'W', 'E', 'R']
+const SPIKE_ROLES = ['voie', 'jungle']
+
+// « Quand il devient fort » : un texte, ou deux pour un champion joué à deux rôles
+// ({ "voie": "…", "jungle": "…" }).
+const momentTexts = (moment) =>
+  typeof moment === 'string' ? [['momentFort', moment]] : SPIKE_ROLES.map((role) => [`momentFort.${role}`, moment?.[role]])
+
+function validMoment(moment) {
+  if (typeof moment === 'string') return moment.length > 0
+  if (!moment || typeof moment !== 'object') return false
+  const keys = Object.keys(moment).sort()
+  return keys.join() === [...SPIKE_ROLES].sort().join() && keys.every((k) => typeof moment[k] === 'string' && moment[k].length > 0)
+}
 
 describe('fiches', () => {
   it('existent', () => {
@@ -28,9 +41,10 @@ describe('fiches', () => {
       })
 
       it('contient tous les textes', () => {
-        for (const field of ['plan', 'aSurveiller', 'momentFort']) {
+        for (const field of ['plan', 'aSurveiller']) {
           expect(typeof fiche[field] === 'string' && fiche[field].length > 0).toBe(true)
         }
+        expect(validMoment(fiche.momentFort)).toBe(true)
       })
 
       it('a exactement 3 points par liste', () => {
@@ -42,7 +56,7 @@ describe('fiches', () => {
       })
 
       it('garde des phrases courtes', () => {
-        const texts = [fiche.plan, fiche.aSurveiller, fiche.momentFort, ...LISTS.flatMap((l) => fiche[l]), ...Object.values(fiche.sorts)]
+        const texts = [fiche.plan, fiche.aSurveiller, ...momentTexts(fiche.momentFort).map(([, t]) => t), ...LISTS.flatMap((l) => fiche[l]), ...Object.values(fiche.sorts)]
         const tooLong = texts.filter((text) => text.length > MAX_LENGTH)
         expect(tooLong).toEqual([])
       })
@@ -63,7 +77,7 @@ describe('fiches', () => {
 const textsOf = (fiche) => [
   ['plan', fiche.plan],
   ['aSurveiller', fiche.aSurveiller],
-  ['momentFort', fiche.momentFort],
+  ...momentTexts(fiche.momentFort),
   ...LISTS.flatMap((list) => (fiche[list] ?? []).map((text, i) => [`${list}[${i}]`, text])),
   ...SPELLS.map((key) => [`sorts.${key}`, fiche.sorts?.[key]]),
 ]
@@ -94,6 +108,8 @@ for (const lang of TRANSLATIONS) {
         })
 
         it('a la même structure que la fiche française', () => {
+          expect(validMoment(fiche.momentFort)).toBe(true)
+          if (original) expect(typeof fiche.momentFort).toBe(typeof original.momentFort)
           for (const list of LISTS) expect(fiche[list]).toHaveLength(3)
           expect(Object.keys(fiche.sorts).sort()).toEqual([...SPELLS].sort())
         })

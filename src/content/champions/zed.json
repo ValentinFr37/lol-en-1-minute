@@ -23,7 +23,10 @@
     "E": "Coup tournant ; les ennemis touchés par une ombre sont ralentis.",
     "R": "Fonce sur toi en étant intouchable ; la marque explose 3 secondes plus tard."
   },
-  "momentFort": "Dangereux dès le niveau 6, et surtout en milieu de partie avec ses objets.",
+  "momentFort": {
+    "voie": "Dangereux dès le niveau 6, et surtout en milieu de partie avec ses objets.",
+    "jungle": "Nettoie vite sa jungle et gank dès le niveau 3. Avec son R au niveau 6, il élimine une cible isolée."
+  },
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

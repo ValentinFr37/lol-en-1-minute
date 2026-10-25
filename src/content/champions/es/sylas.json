@@ -23,5 +23,8 @@
     "E": "Desplazamiento y luego una cadena que lo atrae y lanza por los aires.",
     "R": "Roba la definitiva de un enemigo."
   },
-  "momentFort": "Peligroso desde el nivel 6."
+  "momentFort": {
+    "voie": "Peligroso desde el nivel 6.",
+    "jungle": "Fuerte al principio, gankea a menudo desde el nivel 3. Su R depende de la definitiva que pueda robar al rival."
+  }
 }

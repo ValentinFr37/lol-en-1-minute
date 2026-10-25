@@ -23,5 +23,8 @@
     "E": "Charge that knocks back and stuns against a wall.",
     "R": "Strike that sends enemies very far."
   },
-  "momentFort": "Weaker early. She evens out at level 5, then becomes very strong in the mid game when her Q is maxed (level 9)."
+  "momentFort": {
+    "voie": "Weaker early. She evens out at level 5, then becomes very strong in the mid game when her Q is maxed (level 9).",
+    "jungle": "Ganks from level 3 by pinning against walls. Level 6 isn't a big spike for her."
+  }
 }

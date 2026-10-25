@@ -23,7 +23,7 @@
     "E": "Frappe le sol et révèle, puis ralentit les ennemis touchés.",
     "R": "Coup de pied qui repousse la cible et projette ceux qu'elle percute."
   },
-  "momentFort": "Très fort dès le début de partie, surtout entre le niveau 3 et le niveau 6.",
+  "momentFort": "Fort dès le niveau 3 : il gank et se bat au Carapateur très tôt. S'il n'a pas pris d'avance au bout de 15 minutes, il perd en impact.",
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

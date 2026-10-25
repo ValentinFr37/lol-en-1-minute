@@ -23,7 +23,10 @@
     "E": "Frappe le sol : dégâts selon son armure et vitesse d'attaque réduite.",
     "R": "Charge à grande vitesse et projette tout le monde en l'air."
   },
-  "momentFort": "Peu dangereux avant le niveau 6. Ensuite, son R peut décider chaque combat d'équipe.",
+  "momentFort": {
+    "voie": "Peu dangereux avant le niveau 6. Ensuite, son R peut décider chaque combat d'équipe.",
+    "jungle": "Ne gank presque pas avant le niveau 6. Il farme pour obtenir son R, qui rend ensuite ses ganks très dangereux."
+  },
   "patch": "16.20",
   "auteur": "ValentinFr37"
 }

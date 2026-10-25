@@ -23,5 +23,8 @@
     "E": "Dashes and damages along the way.",
     "R": "Can't die for 5 seconds."
   },
-  "momentFort": "Strong from level 6, and very dangerous in the late game."
+  "momentFort": {
+    "voie": "Strong from level 6, and very dangerous in the late game.",
+    "jungle": "Slow to reach level 3, he farms for his items. Invade him early before he becomes dangerous."
+  }
 }

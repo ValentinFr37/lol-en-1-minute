@@ -23,5 +23,8 @@
     "E": "Carga que lanza por los aires.",
     "R": "Tonel explosivo que empuja."
   },
-  "momentFort": "Fuerte desde el principio, peligroso desde el nivel 6."
+  "momentFort": {
+    "voie": "Fuerte desde el principio, peligroso desde el nivel 6.",
+    "jungle": "Gankea desde el nivel 3 con su carga (E). En el nivel 6, su tonel puede mandar a un objetivo hacia su equipo."
+  }
 }

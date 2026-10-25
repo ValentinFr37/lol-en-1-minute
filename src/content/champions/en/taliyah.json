@@ -23,5 +23,8 @@
     "E": "Minefield that slows.",
     "R": "Long wall that she rides."
   },
-  "momentFort": "Strong in the early and mid game."
+  "momentFort": {
+    "voie": "Strong in the early and mid game.",
+    "jungle": "Ganks very hard once she has her 3 spells. At level 6, her wall lets her reach any lane quickly."
+  }
 }

@@ -23,5 +23,8 @@
     "E": "Jumps over any wall.",
     "R": "Blades around him and invisibility."
   },
-  "momentFort": "Dangerous from level 6."
+  "momentFort": {
+    "voie": "Dangerous from level 6.",
+    "jungle": "Very dangerous from level 3, he jumps over walls to gank. He weakens in the late game."
+  }
 }

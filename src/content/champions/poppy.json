@@ -24,7 +24,10 @@
     "E": "Charge qui repousse et étourdit contre un mur.",
     "R": "Coup qui envoie les ennemis très loin."
   },
-  "momentFort": "Plus faible au début. Elle revient à égalité au niveau 5, puis devient très forte en milieu de partie quand son Q est au maximum (niveau 9).",
+  "momentFort": {
+    "voie": "Plus faible au début. Elle revient à égalité au niveau 5, puis devient très forte en milieu de partie quand son Q est au maximum (niveau 9).",
+    "jungle": "Gank dès le niveau 3 en plaquant contre les murs. Le niveau 6 n'est pas un gros pic pour elle."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

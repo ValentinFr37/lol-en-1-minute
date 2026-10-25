@@ -147,6 +147,8 @@ function threatSpell(fiche, spells) {
   return key && spells ? spells.find((spell) => spell.key === key) : null
 }
 
+const SPIKE_ROLES = ['voie', 'jungle']
+
 function Fiche({ fiche, spells }) {
   const text = useT()
   const threat = threatSpell(fiche, spells)
@@ -206,14 +208,22 @@ function Fiche({ fiche, spells }) {
         </section>
       </div>
 
-      <p className="spike">
-        <span className="spike-label">
-          {text.whenStrong(feminine)}
-        </span>
-        <span>
-          <KeyText>{fiche.momentFort}</KeyText>
-        </span>
-      </p>
+      <div className="spike">
+        <p className="spike-label">{text.whenStrong(feminine)}</p>
+        {typeof fiche.momentFort === 'string' ? (
+          <p>
+            <KeyText>{fiche.momentFort}</KeyText>
+          </p>
+        ) : (
+          // Champion joué à deux rôles : un texte pour la voie, un pour la jungle.
+          SPIKE_ROLES.filter((role) => fiche.momentFort[role]).map((role) => (
+            <p key={role} className="spike-role">
+              <span className="spike-role-name">{text.spikeRoles[role]}</span>{' '}
+              <KeyText>{fiche.momentFort[role]}</KeyText>
+            </p>
+          ))
+        )}
+      </div>
     </>
   )
 }

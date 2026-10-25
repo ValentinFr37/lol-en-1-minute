@@ -1,6 +1,6 @@
 # Brouillon : « Quand il devient fort » pour les junglers
 
-Premier jet à relire avant de l'intégrer aux fiches. **Rien de ce fichier n'est encore sur le site.**
+Premier jet. **Les 58 champions en confiance haute ou moyenne sont intégrés au site** (FR, EN, ES, pull request #8). Les 8 en confiance faible restent à relire avant intégration.
 
 ## Ce qui est donné pour chaque champion
 

@@ -23,5 +23,8 @@
     "E": "Spinning slash; enemies hit by a shadow are slowed.",
     "R": "Dashes at you while untargetable; the mark explodes 3 seconds later."
   },
-  "momentFort": "Dangerous from level 6, and especially in the mid game with his items."
+  "momentFort": {
+    "voie": "Dangerous from level 6, and especially in the mid game with his items.",
+    "jungle": "Clears his jungle fast and ganks from level 3. With his R at level 6, he takes down an isolated target."
+  }
 }

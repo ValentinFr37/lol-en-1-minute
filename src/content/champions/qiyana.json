@@ -24,7 +24,10 @@
     "E": "Se rue sur un ennemi.",
     "R": "Onde qui explose sur le décor et étourdit."
   },
-  "momentFort": "Fragile aux niveaux 1 et 2, dangereuse dès le niveau 3. Elle doit prendre l'avantage tôt : en fin de partie, elle a du mal face aux tanks.",
+  "momentFort": {
+    "voie": "Fragile aux niveaux 1 et 2, dangereuse dès le niveau 3. Elle doit prendre l'avantage tôt : en fin de partie, elle a du mal face aux tanks.",
+    "jungle": "Gank dès qu'elle a ses 3 sorts. Très forte tôt, elle doit prendre l'avantage avant que la partie ne s'allonge."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

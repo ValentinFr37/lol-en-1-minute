@@ -23,5 +23,8 @@
     "E": "Pulls in enemies in front of him. It's his engage tool.",
     "R": "True damage execute, stronger with the number of bleeds on the target."
   },
-  "momentFort": "Very strong from the first levels, then even more dangerous from level 6 with his ultimate."
+  "momentFort": {
+    "voie": "Very strong from the first levels, then even more dangerous from level 6 with his ultimate.",
+    "jungle": "Very strong in duels early, he ganks from level 3 by pulling with his E. Don't fight him in long fights."
+  }
 }

@@ -23,5 +23,8 @@
     "E": "Shockwave that slows and reduces armour.",
     "R": "Charge that crosses the map."
   },
-  "momentFort": "Solid from the start of the game. He shines mostly in the mid game: in the late game, many champions outscale him."
+  "momentFort": {
+    "voie": "Solid from the start of the game. He shines mostly in the mid game: in the late game, many champions outscale him.",
+    "jungle": "Weak early and ganks poorly before level 6. He reaches level 3 fast, then waits for his R to matter."
+  }
 }

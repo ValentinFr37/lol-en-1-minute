@@ -24,7 +24,10 @@
     "E": "Ruée qui soigne la meute.",
     "R": "Elle et sa meute fondent sur un champion."
   },
-  "momentFort": "Elle doit d'abord farmer. Dangereuse dès le niveau 6 avec son R, et forte en milieu de partie.",
+  "momentFort": {
+    "voie": "Elle doit d'abord farmer. Dangereuse dès le niveau 6 avec son R, et forte en milieu de partie.",
+    "jungle": "Gank dès le niveau 3 ou 4, mais son vrai pic est le niveau 6. Elle doit prendre de l'avance pour rester utile."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

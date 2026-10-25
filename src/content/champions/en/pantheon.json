@@ -23,5 +23,8 @@
     "E": "Shield that blocks attacks from the front.",
     "R": "Leaps and lands like a meteor."
   },
-  "momentFort": "Very strong in the early game."
+  "momentFort": {
+    "voie": "Very strong in the early game.",
+    "jungle": "Invades and ganks nonstop from level 3. At level 6, his R lets him land on a lane from very far."
+  }
 }

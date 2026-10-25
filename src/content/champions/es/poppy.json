@@ -23,5 +23,8 @@
     "E": "Carga que empuja y aturde contra un muro.",
     "R": "Golpe que manda a los enemigos muy lejos."
   },
-  "momentFort": "Más débil al principio. Se iguala en el nivel 5 y luego se vuelve muy fuerte a mitad de partida, con su Q al máximo (nivel 9)."
+  "momentFort": {
+    "voie": "Más débil al principio. Se iguala en el nivel 5 y luego se vuelve muy fuerte a mitad de partida, con su Q al máximo (nivel 9).",
+    "jungle": "Gankea desde el nivel 3 aplastando contra los muros. El nivel 6 no es un gran pico para ella."
+  }
 }

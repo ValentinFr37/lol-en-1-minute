@@ -23,5 +23,8 @@
     "E": "Desplazamiento corto y ataque a distancia.",
     "R": "Retrocede 4 segundos en el tiempo y se cura."
   },
-  "momentFort": "Peligroso desde el nivel 6. Gana poder con su primer objeto y se vuelve muy fuerte hacia los 2 objetos."
+  "momentFort": {
+    "voie": "Peligroso desde el nivel 6. Gana poder con su primer objeto y se vuelve muy fuerte hacia los 2 objetos.",
+    "jungle": "Puede gankear en cuanto tiene su E y su W, pero farmea mucho. Se vuelve fuerte con su primer objeto."
+  }
 }

@@ -23,7 +23,7 @@
     "E": "Gagne de la vitesse ; la prochaine attaque repousse.",
     "R": "Charge avec ses cavaliers et effraie les ennemis."
   },
-  "momentFort": "Dangereux dès le niveau 6, très fort en milieu de partie.",
+  "momentFort": "Prend de l'avance en farmant vite ses camps, puis enchaîne les actions. Ralentis-le : sa vitesse est sa force dès le niveau 3.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

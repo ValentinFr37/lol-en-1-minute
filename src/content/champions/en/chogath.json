@@ -23,5 +23,8 @@
     "E": "His attacks fire spikes that slow.",
     "R": "Devours with true damage; grows if he kills."
   },
-  "momentFort": "Dangerous from level 6, tankier and tankier over the game."
+  "momentFort": {
+    "voie": "Dangerous from level 6, tankier and tankier over the game.",
+    "jungle": "Weak early, he farms until level 6. His R then secures him the dragons and the Herald: invade him early."
+  }
 }

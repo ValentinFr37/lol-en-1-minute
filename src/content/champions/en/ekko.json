@@ -23,5 +23,8 @@
     "E": "Short dash and ranged attack.",
     "R": "Goes back 4 seconds in time and heals."
   },
-  "momentFort": "Dangerous from level 6. He scales with his first item and becomes very strong around 2 items."
+  "momentFort": {
+    "voie": "Dangerous from level 6. He scales with his first item and becomes very strong around 2 items.",
+    "jungle": "Can gank once he has his E and his W, but farms a lot. He becomes strong with his first item."
+  }
 }

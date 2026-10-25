@@ -23,5 +23,8 @@
     "E": "Golpe violento que empuja.",
     "R": "Se cura muchísimo y gana velocidad."
   },
-  "momentFort": "Sólido toda la partida, muy resistente al final."
+  "momentFort": {
+    "voie": "Sólido toda la partida, muy resistente al final.",
+    "jungle": "Muy débil al principio, farmea hasta el nivel 6. Las Heridas graves lo castigan: invádelo pronto."
+  }
 }

@@ -23,7 +23,10 @@
     "E": "Onde qui ralentit et réduit l'armure.",
     "R": "Charge qui traverse la carte."
   },
-  "momentFort": "Solide dès le début de partie. Il brille surtout en milieu de partie : en fin de partie, beaucoup de champions le dépassent.",
+  "momentFort": {
+    "voie": "Solide dès le début de partie. Il brille surtout en milieu de partie : en fin de partie, beaucoup de champions le dépassent.",
+    "jungle": "Faible au début et gank mal avant le niveau 6. Il atteint son niveau 3 vite, puis attend son R pour peser."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

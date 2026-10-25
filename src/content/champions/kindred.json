@@ -23,7 +23,7 @@
     "E": "Ralentit ; la 3e attaque fait plus mal.",
     "R": "Personne ne peut mourir dans la zone."
   },
-  "momentFort": "Faible en début de partie. Très forte avec 2 ou 3 objets et ses premières marques, et redoutable en fin de partie.",
+  "momentFort": "Faibles en duel au début : ils farment et chassent leurs marques. Envahis-les et vole les marques : ils deviennent redoutables avec le temps.",
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

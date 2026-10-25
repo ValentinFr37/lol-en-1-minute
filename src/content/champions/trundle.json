@@ -23,7 +23,10 @@
     "E": "Pilier qui bloque et ralentit.",
     "R": "Vole vie et résistances d'un ennemi."
   },
-  "momentFort": "Fort en début et milieu de partie.",
+  "momentFort": {
+    "voie": "Fort en début et milieu de partie.",
+    "jungle": "Rapide à atteindre le niveau 3 et fort en duel. Il enchaîne ganks et objectifs sans attendre le niveau 6."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

@@ -23,7 +23,10 @@
     "E": "Bouclier qui bloque les attaques de face.",
     "R": "Saute et atterrit tel un météore."
   },
-  "momentFort": "Très fort en début de partie.",
+  "momentFort": {
+    "voie": "Très fort en début de partie.",
+    "jungle": "Envahit et gank sans cesse dès le niveau 3. Au niveau 6, son R lui permet de tomber sur une voie de très loin."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

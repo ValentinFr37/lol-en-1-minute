@@ -24,7 +24,10 @@
     "E": "Champ de mines qui ralentit.",
     "R": "Long mur sur lequel elle surfe."
   },
-  "momentFort": "Forte en début et milieu de partie.",
+  "momentFort": {
+    "voie": "Forte en début et milieu de partie.",
+    "jungle": "Gank très fort dès qu'elle a ses 3 sorts. Au niveau 6, son mur lui permet de rejoindre vite n'importe quelle voie."
+  },
   "patch": "16.21",
   "auteur": "ValentinFr37"
 }

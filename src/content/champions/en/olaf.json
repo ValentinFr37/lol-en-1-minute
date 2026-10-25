@@ -23,5 +23,8 @@
     "E": "True damage strike.",
     "R": "Immune to crowd control."
   },
-  "momentFort": "Very strong in the early game."
+  "momentFort": {
+    "voie": "Very strong in the early game.",
+    "jungle": "Very strong in duels and ganks early. Avoid fighting him before 15 minutes; he weakens afterwards."
+  }
 }
